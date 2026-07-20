@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://www.reddit.com/r/ebikes/comments/1ckwn84/what_are_the_best_ebike_brands_and_models/","https://www.youtube.com/watch?v=TPpTpG6WvAQ&t=353","https://www.youtube.com/watch?v=7bZBFwb5yl0&t=464","https://www.youtube.com/watch?v=vWGYGdoMSyQ","https://www.outdoorgearlab.com/topics/biking/best-electric-bike","https://bodywel.co.uk/blogs/news/best-e-bike-brands?srsltid=AfmBOoqnnXcaFPw8FV8EAiOS3inmo_DqQVs9-LxD9MW26Af4mwQx8c_M","https://www.google.com/search?q=product&prds=pvt:hg,productid:16949736626190056970,catalogid:16899994609435128260,gpcid:8152664054809713096,mid:576462518302237694&ibp=oshop","https://www.wired.com/gallery/best-electric-bikes/","https://www.cyclingelectric.com/news/the-best-electric-touring-bike-options-for-2026","https://www.google.com/search?q=product&prds=pvt:hg,productid:11366731908842698872,catalogid:3688669537772299546,gpcid:427886224061409740,mid:576462897656655674&ibp=oshop","https://www.e-bikeshop.co.uk/collections/electric-bikes","https://www.google.com/search?q=product&prds=pvt:hg,productid:13893326499599837249,catalogid:8193697079491766384,gpcid:13308518546538899583,mid:576462895462250878&ibp=oshop","https://www.google.com/search?q=product&prds=pvt:hg,productid:1778441789329119701,catalogid:11238350129019976195,gpcid:11716091183164176038,mid:576462897984991179&ibp=oshop","https://www.cyclingweekly.com/group-tests/best-electric-bikes-need-know-e-bikes-322613","https://uk.teswaybike.com/blogs/buying-guide/best-electric-bike-brands-uk","https://www.cyclingnews.com/features/best-electric-bikes/","https://reallygoodebikes.com/blogs/electric-bike-blog/electric-bike-motors?srsltid=AfmBOor381cfhxjLwpunHT7ncePSvGjbqjh8T8O-H9qAY-L3AfnJjd-A","https://us.hillmiles.com/blogs/news/electric-bicycle-motor-guide-for-beginners","https://engwe.com/blogs/resources/fantic-electric-bike-review-is-fantic-ebike-a-good-brand-pros-cons","https://engwe.com/es/blogs/news/best-bike-brands-ranking-the-top-6-manufacturers","https://engwe.com/blogs/news/ebike-mountain-bike-buyers-guide","https://upway.co/blogs/news/trek-vs-giant-electric-bike-comparison?srsltid=AfmBOop6oVR5hk0G2QuLSV02pAePt77JQ_YLQ-EEP9NzaBFuXezzyDUQ","https://upway.co/blogs/news/giant-electric-bikes-brand-guide-2026?srsltid=AfmBOopgbSIGgFpR-xk6_GIQyXF3hdCi1fVyRpsSt8BkIFAnkt7aGs_C","https://kiwavmotors.com/en/blog/a-complete-list-of-electric-bike-brands?srsltid=AfmBOoq4Fu6cM0GmKHmvFrkuTcP9QUbHYgvWcaGoFVAA_lF4dk6oNpks","https://engwe.com/da/blogs/resources/tern-electric-bike-review-are-they-worth-the-investment","https://valtinsusport.com/blogs/news/best-e-bike-brands-2026?srsltid=AfmBOooK0fC8LPipTGpNQX_IiK5xWVmld-EKKteWKRKGRHTWioBQ1Rfr","https://upway.co/blogs/news/brompton-electric-bikes-brand-guide?srsltid=AfmBOori0Mqqq-rKzpvhbYC_IkkccsftxImfzlqnD5Xk7EXqv1GOKB_l","https://engwe-bikes-eu.com/blogs/news/best-e-bike-brands-in-italy-for-daily-riding-and-lasting-value"]
+
+--- RAW RESPONSE TEXT ---
+The best electric bike brands depend heavily on your budget, riding style, and whether you prioritise premium mid-drive engineering or accessible hub-motor value. Industry-leading legacy bike brands like Specialized, Trek, and Giant dominate the high-end market with advanced engineering and deep dealer support networks. Meanwhile, direct-to-consumer giants like Aventon and Lectric offer the best price-to-performance value for everyday commuters.
+Premium & Performance Brands
+These legacy manufacturers build traditional bicycles first, incorporating highly sophisticated mid-drive motors (such as Bosch or Shimano) for a natural pedalling feel, high-quality components, and long-term durability.
+
+Value & Commuter Brands
+If you want practical, everyday transportation under £1,500 without paying a premium for mid-drive engineering, these direct-to-consumer brands rule the market.
+
+Speciality & Cargo Brands
+
+To help narrow down the perfect match, could you tell me:
