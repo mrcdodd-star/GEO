@@ -1,0 +1,22 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://maeving.com/en-gb/pages/maeving-rm1-electric-motorcycle","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-1","https://www.bennetts.co.uk/bikesocial/news-and-views/features/electric-motorcycles/guide","https://artisanscooters.com/whats-the-best-electric-motorbike-for-me/","https://www.reddit.com/r/Electricmotorcycles/comments/16g2xw1/electric_motorcyles_wremovable_batteries/","https://electricbikesupermarket.co.uk/products/super-soco-tc-electric-motorcycle-twin-battery","https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-0","https://www.motorcyclenews.com/bike-reviews/maeving/rm1s/2024/","https://www.kawasaki.eu/en/Motorcycles/EV_HEV/ninja_e-1.html","https://www.youtube.com/watch?v=afNIHgZkT50","https://www.magnetmotos.co.uk/why-electric?srsltid=AfmBOop1GljBQQs_xBQJQV7FCFuXegLEQb26k3-4xrdD70__hxtlBSyk"]
+
+--- RAW RESPONSE TEXT ---
+The Maeving RM1S, Kawasaki Ninja e-1, and Super Soco TC Max are currently the top-rated electric motorbikes featuring removable batteries. While high-performance, full-size electric motorcycles like those from Zero or LiveWire rely heavily on heavy, non-removable battery packs for maximum highway range, urban and commuter-focused models are leading the market in easy, "pull-out" charging. These batteries slide out quickly so you can plug them into any standard 3-pin household wall outlet.
+Top Rated Electric Motorbikes with Removable Batteries
+
+Performance & Charging Comparison
+
+Alternative Scooter Options
+If your living situation requires transporting a heavier battery block, some electric scooters offer smart alternatives:
+
+Community Insight on Daily Use
+“Maeving make some nice bikes and the removable batteries are elegantly done.”
+“The Yadea and the Super Soco both have removable batteries, meaning you can whip them out at your home or office and stick them on charge at a three-pin power outlet.”
+To help narrow down the ideal bike for you, tell me: what is your daily commute distance, what speed limits do you normally ride in, and what motorcycle licence category do you hold?
