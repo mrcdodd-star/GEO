@@ -1,0 +1,46 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://www.landrys.com/about/trek-bikes-at-landrys-pg365.htm?utm_source=openai","https://bestbikebrands.com/guides/10-best-e-bike-brands/?utm_source=openai","https://premiumbike.pl/rower-miejski-elektryczny-specialized-turbo-vado-5-0-2020?utm_source=openai","https://www.techradar.com/best/electric-bike?utm_source=openai","https://www.atvwholesaleoutlet.com/talaria-sacramento-dealer/komodo/?utm_source=openai","https://www.hiboy.ca/blogs/news/10-best-electric-bike-brands-north-america-2026?utm_source=openai","https://upway.co/?utm_source=openai","https://www.ebikemastery.com/2025/07/e-bike-manufacturers-in-usa-2025.html?utm_source=openai","https://www.eforcebikes.com/e-bikes?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+When selecting an electric bike (e-bike), it's essential to consider brands known for their quality, innovation, and customer support. Here are some top e-bike brands to consider:
+
+
+[Trek Bikes - Massachusetts Bike Shop - Landry's Bicycles](https://www.landrys.com/about/trek-bikes-at-landrys-pg365.htm?utm_source=openai)
+**Trek**  
+A longstanding leader in the cycling industry, Trek offers a diverse range of e-bikes, including commuter, mountain, and road models. They are known for integrating reliable Bosch motor systems and providing a global dealer network for service and support. ([bestbikebrands.com](https://bestbikebrands.com/guides/10-best-e-bike-brands/?utm_source=openai))
+
+
+
+[Rower miejski elektryczny Specialized Turbo Vado 5.0 2020 | Zobacz w PremiumBike.pl](https://premiumbike.pl/rower-miejski-elektryczny-specialized-turbo-vado-5-0-2020?utm_source=openai)
+**Specialized**  
+Specialized combines advanced technology with sleek design in their e-bikes. The Turbo Vado 5.0, for instance, is praised for its comfort, quality, and smooth power delivery, making it a top choice for various riders. ([techradar.com](https://www.techradar.com/best/electric-bike?utm_source=openai))
+
+
+
+[Talaria Komodo - 32kW - (IN STOCK) | #1 Electric Bike Dealer | ATV Wholesale Outlet](https://www.atvwholesaleoutlet.com/talaria-sacramento-dealer/komodo/?utm_source=openai)
+**Aventon**  
+Aventon has rapidly gained popularity for offering stylish and high-performing e-bikes at reasonable prices. Their lineup includes commuter, fat-tire, and cargo bikes equipped with features like torque sensors and app connectivity. ([hiboy.ca](https://www.hiboy.ca/blogs/news/10-best-electric-bike-brands-north-america-2026?utm_source=openai))
+
+
+
+[Electric Bikes for Sale | Up to 60% Off | 1-Year Warranty
+
+
+            | Upway](https://upway.co/?utm_source=openai)
+**Rad Power Bikes**  
+Known for blending affordability with rugged utility, Rad Power Bikes offers a range of models suitable for commuters and cargo enthusiasts. Their e-bikes are designed to cater to various riding needs without compromising on quality. ([ebikemastery.com](https://www.ebikemastery.com/2025/07/e-bike-manufacturers-in-usa-2025.html?utm_source=openai))
+
+
+
+[E-Bikes — EForce](https://www.eforcebikes.com/e-bikes?utm_source=openai)
+**Ride1Up**  
+Ride1Up focuses on delivering value-for-money e-bikes that are lightweight, fast, and come with premium features at mid-range prices. They are ideal for budget-conscious commuters looking for quality and performance. ([ebikemastery.com](https://www.ebikemastery.com/2025/07/e-bike-manufacturers-in-usa-2025.html?utm_source=openai))
+
+
+When choosing an e-bike, consider factors such as the type of riding you'll be doing (commuting, off-road, cargo), your budget, and the availability of service and support in your area. Test riding different models can also help determine which bike best suits your needs. 
