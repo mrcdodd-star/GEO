@@ -1,0 +1,17 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://www.techradar.com/best/electric-bike","https://askmybike.com/blogs/news/what-is-the-best-electric-bicycle-to-buy","https://beecoolbikes.com/blogs/latest-news/the-10-best-electric-bike-brands-in-2025","https://www.aventon.com/blogs/aventon_bikes/ebike-brands","https://www.electricbikejournal.com/top-electric-bikes-of-2025-the-models-that-defined-the-year/","https://electricbikereport.com/best-electric-bikes/","https://www.outdoorgearlab.com/topics/biking/best-electric-bike","https://volatacycles.com/best-electric-bicycle-brands/"]
+
+--- RAW RESPONSE TEXT ---
+Here's a comprehensive guide to the **best electric bike brands** in 2025–2026, covering options for every budget and riding style:
+
+---
+
+## 🏆 Best Electric Bike Brands
+
+### 1. 🚲 **Specialized**
