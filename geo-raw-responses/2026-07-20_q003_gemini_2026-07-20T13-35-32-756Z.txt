@@ -1,0 +1,90 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw56qdejV0uO_8f3dP4UHfCQVFImyH_sxHAi7Bu6IIiYTGd4orOrjDQnP8Irj8BFOYzhMPfBzfCOnxFMu8zYwbvsEbtVS7m9QHQed_n3YacT0rKWAJ9EC9UbOb5dBpHcOYhSQ8mI2KFUK-b6JgpCn7gTd7UemE1nwPxHTT9y76oCX9MWguCLOpxo9_szE16TWnVItEp4IsI7ohkiR4uijBXA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Gk2YxmZIQ8spByd3suuTIodoQ9iINifOvAIv7UkYmmutzEURJtB2paysf_hZbMgmOtVCs0jUDR4t6f66p15LM9HjkUZnhCNQEhdrtnEGfvKjjK8dJPiGtdWDbZFZhldBKDDEwLOFbtax5RVJSNLINPzWiBAIa5rdr3CqJdhq903Wpb7eml4DESbzyOTCqZIIj2w9WNRhBRt8GMUJl35oeLPukG0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1i7zof7Q0YGrdH-dd3JI_ntO87b6MlGg9DPvHdxGxHZBdEXEvuoliT4k8uNUnCZG9VX2tdss6TiNPmCdXJgt3ZgdQE9tlN-nrOnuPe-pKU0C9dw6mwLxJ6unT_Zv2_9UnSdIVCBY8pMP11VTlsqCQxs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXf-_ujNlFaWkFW0SF2dCWHs95VXi19kuM-BDcM-1SfEXdXEFuxBIWs0gvG1iEDK3-zp3fsMjeOqYCcA5nc3GCSCIGPnaeRnZCtzywV5RxCcdi4PKdUuJyPEo2JvJFhNIUtjKi7IUxkhCOcMAzXOvwmDnVlgwWh_bN9sNKKt1tuva4IUSlmmcg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwHvBMrgEqfEQT5sRG7WmP8P70tEEDm2cNnVsnAvLh0061uWRZO9hrjBXNwodThnonYE70zYtUbQSYKMmwbA-TGiy7Nqxkcek81VUrRT6TN-3fmaLVYZVQ0pb69YOAjdI-","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgVJVsauDhVchcn4RU4MK4nSt86LI3UkUvC8l-b6cTNIR8CxXjpubuSvRDtfuOwT42vsz3riK9tBbY8gQoer0xXEolkmj9X11LKaN_v7XHIGLLBc0iCr214dGWzZAm7bJ2uoaM5r51LGaL6rvfHNYqNjbrow==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl7LyMEZD1rzivifCXuvmGztgJrP020UIAEex7RtmHuRSuan5UhGNof6D_aKTVkZMUAZheJcrppcu8HL18lHcYK9JFuAA6Ieo9islBH6ZhHLgQe6hRuWgd4tmX4pjv1Zko9n45T9M9M8LvPUSl-Jiw4nJhN3g8kTvhziN96K4Fvo2gjcwp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPbip1hS4Onjk-ofPjdl7HXvCn3gGvBRdpBsATY3HhE1KuH9vA4TGwosKwq8CAn5J8__BRsF7m9mt1ZokW95wGz12rtROx6Zx5h_5agbY8Uo6Nysw3ZMy05eu87z-5OJdQN3qFpmiAk_1xKLjv2Ad_pA2fsXx-Gcme","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSbK0qbERqcmTPSA9jG0SbIOWzHdvJViy7IUKJZ66kd4jh2U9RXxw0uiysJprIrfyMOewLHIP25pqFz2RgS9ko1Tvyum1wjxERIx5kBdxjbbPTsMdwlLO6uMlj-Ism6SbW","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeE9Wvwr48mvgIsTnUEiHXSzWlc4C1Yx1eadXzwoF5N-XNZX_FqtrwQezSoFzVbULldAmVT7F2yrV2pCTGwuxmY8IYGmIGSOAMuLWDRbRIrBkiqq0Y9WgqknIZvrVhWdXwt_Cb6G3RsqnJsbWkvEPxw_pFWx4A","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXko16LVwrLcHKS4iTE1STwKql1-iTzdbNfB6e8bld0Ac3DF_RU67Q1esVmQ-y1rSQUbOahKupPhCawtCBkF764m7dRv4WBifjcUZNxlh-fUgg1LDTiAvay3kAzqHDsx8s_bozfrF4zJPI3luo24=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ991eja4l0WF4MFHjt1xrpd_IP6HL3apmZFh24hIaoiATQE7jo_r9O0IlkF88V9JIcrtYa9VLnZ88Ag6-OxOD0FQ1-EnmWFCnvte_VdmtXFhOKJxOhd_W2oI9VpNadWgHwWmUK5VWlSiHAjZI9Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocln0m3KdZKuy5JlrqpkphIY36yHAmsBA1pR9X-IDKngeTSr11fHPDkqx3cf1mn1SbaUypSnnCa3_tECZ0i-G7hZwro9yhF4AzScBhrRA0BPSWRhhWTJ3we2zbjJWZMVBSc4so_6pa3pXpw7iJJZTLU_cUUayftziCS6VZpx1VTlmZcD3o1Fq1rewK-HoAisu4lbg5hSNMty6iyg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA2Xzyg1fFptSHBDfMIU3LWkBX25IM3y80Uz9o-mNeqs-sR4SfQZUWDRUvFZhkeHUOhSXOu_3Q0x_2CYNy2mU2--tLmb9ALQ4C2stqBIrm-e3Lj5o5u9i0_HWz_5ReNZ6pYUYDw1pWUVEs6M7rOwVDPRHhwmID5fR5xAaqjFwlj-Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEHZF1KSM1m5yfUoOeU1vYu6ePO89i4K2jTgbkOg5v2o7NjkpaqiDJx3J0-pJtEd8_BYs8gOc6b9A2-wTZt2VcHQG_p0ACywfyyHNugvkYCLxfjF_nEEg7v2gz-xNNMOCMZnKs24jzC_I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0SE09T1K798eHDTvZzGnAFh3gRMOgL4KZ6uXTc0OOBByS8dR-ff2OjheMHhxiOtGfoavxKcfH4D1Z23oXkB6CAuTg4Sn3Pwn7EGkgLP7vBDWZ8Y3KAzXXBH-C-1SSo3TnJ1_KkLHrxDkIzkJVv3qNEx9RJzQFcKTwRtQr5SR_s0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGpHo9yu7B3c2f6_XBctFxK8NhLteHVC0p1oa1bL1QlwWRdiPrfaLhRFy2YEWLA5D8OhMvoDpVVAG_DUg2_E23Mn6H-jFJmDvN7ZycAKjpsUhOdVjYdI8T1Fzw8zr3eXDYw06em4C3girlaECEYMDfrl3wqSQ9yRh8ohfrVMKWiTpVAw5rDLAIHg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSDVM7FDhUeA7FKiOyss7MtH8MuLCPg8HSXTaMwEiJu_PjqzvLRJu6HIG3IVhSrriLJcklpVe8cZ9MV2pCoj2DQ94JWKGdwx-l_XppL7QNsUZiMXcxjbDb7levtZu3f6cV2ZBlfRYibeJw8pCCmNup3SWhEdUAM_xg15LWt7fR4g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7yuSarjmyuvMhyu4DdhiJdYV90zd2FS1MPVnhjVkjYKXLHy0S_9TqYu-MTugIb4jMVhcLCgHwehZ8dy3pLABC4fsJIm3za9wphwEkqq74ax0B-qqY9sl_AsASmlnPym7DvWJJKJPLI-2m5T7xrUd_tHo4UPbp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4JJEUzmtH_koWtUDzzG9ZHIHMuNJKJXX84NwtEkEPxImOFa7C9hF9nXR_TgRSf4UpQjibQfnPRgbF_Zt9SFfurrhi7BqDWVfJ5ImR_74KxqtRnYh9gBTWCV8bWucWBCdjIjKUbZXTXGl_Pl8MitTa3F7FchZGijW3SQTKGsGCD78ls20KGAyO_hTmBScucxA2sNKjylo0QRpKAfsPVrI0NxTcKuGPj4-a","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpTRg2GaDFGiDA-DbglKNtxMYKLzSDETw67Cj8Mxr2NDFBRS0OW26ORXsNbQR0FrR0KSak0Z4Qo453OR0tQ4VL8rW2YOXYqvDDZcVEyAgqXe6ouvGmFG8nf4sLjQetFY_oz72XOZIdJ4yF1huMyn6OGsuepkBw4s6Ru2h1ZNsMw_ySdpr_jRo4-jZ4VzlBlvlP-kR1j2CMf6mLC3pr_5wcvh4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOxVTqYOJzNHENySiWL2FCI7YKHU865dLpRXtUxm64xdOYqBtLOZtOhtbsPFEzSrcJMONrrfMfT7zQS_whTrB2KAHMdrzefG3gHul1HiAKjVcw6vO8vPDto7FC9VfWcDu1NlCoiuvZ1PenlSLEZxyc5qJwL_klsroSvrRVr_s3RDz3bTlNiq8sNulF0iZmeKfl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCeXzV-SClSoJUbaaD0BTb5cXQcbCMtidh6DzvTy3VY3NA9Vz6pPEFSX_gdR9yJvYhkwVOWKdgHcLbeNnz1nT2acV1xEr5CxjYSMg_XBAQvzuJm1peVOwUOSaB0fadg4F0TOrbuaRRmkLrxcNG8qf_RZOCqIzFRk6PqrUE5vbnUmFFQcHKb8Adh9HjvVUQ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV4MWaiuuYut6Se-HIQI8A2EOeeG2uKYSh6NyN3GJWXhA5l34qRcje4X8fSox4myDuW63dDWFXaYmsICUqqU1KhXM4KgE8E2nOT1KdzTRXVG8LBD_OV3BPww6176QfooQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpKMPxIsHNtj46ac_-C3kh8f6L0DkSFeWwpjJ1fKykEqWwmyiTdNYE7EAqAJKNqXFWFz6hrWMWJLzvA1qCyJszbC6aKPE1iJRIIFnywWH_J7zKj_wSLpo27p34VVfelTbRg1j0sBLRzCUJ97_3TrKdjw2tbxvEG_WXTbO6nqdc-F_SkcANp3QwgBB8t6Y=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrclO-qpIPLZvd-a9yaFquVnL2_VSGJHBI-xdMX_cQe52c9_7VhrvCDmqX1mVHpWwa5JdLfCsuWmqXd-oR-fVLFYjPq6uMVWYya82XShYEJNO6jf1bNu2dh7Chg_nB0aC3xKr3Rrpcjf0J4ybMGaix","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJXFPIT1YSqm4_keHBMnjFM9e8xuuwDPSgW4M92cfyRCHkgUY4ecP8GEqCUPPEIr4XrcnAdWS0_VpBp3bG1bNEY40xBWZch_RU-NO_qhbEdep3zGUoXg9S_7CgKpY64rO","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4plo9FNSjgOXi25VjMBhMiwbXgl3TJTIr8K5y_5D7ByDeVJ3oqo1F9jvAPiiqw0Txu4-j7AtetNG_MRf1HuUNDIE7LHqdFanAh_e-l4QI8_WP2boDNB3aEtF8p-_oezIiU4xyEIO9e8U_yiojWZFxeN1fTZyCey8VB5lgO-Z9fLBHAA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfzf6HFXdhly0-6hCTBGAXm44QiOTotRI90veYWNGCcrZpjPwSKo16Eooxyfate0Q1hUtkWmAs4KZfq-z67zPBZaYKKq2J6Y5NzBzxAE3kpTU23l-buTAvxi4QLdhyYkS1APiNvY5vmgNwG2i2h51DiplOTviAdQ-0c_DGKo3Y-jDv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu2umi4hcOlIfP_YUnWxqpeDPFKTItTFab6Fegk2c3wf6UdniHvGizKlmzMA5i7UZ_YvhER3hRRTWLjL5Vog_yqRxKXeIenOxWfcByjYN-yWZUooOyRwDRSdOIrSxEN0famAGFe3gHdCH8BIcrGaXpm2KjfUVC9BmCA6vz4dfPFkYrEIvo0xl6GGCjNYM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKUAMp7vcQtwdJ-QrfP1v6iYwlOIUZon67j3LAFYr2DijnDO9aJJCKURw1WfhY9rpxEAy6nE-QT9bIPAtlBMtrlxYVMMwGuknNXTg4rxLWlVIxCH9pPzQy1aeNNXEPOZPswU-7RgZZIBM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJbePGYQDQ0Pzb52tx1Ds43DmuPChDbB1QB6ZseaYadCoifzElD_H724BFfEphF0rBCzOrpIfCuRD3x_deGklaEStY77jq7BkhuSvupRcYBFGsrpJC-esPvwF0KzG0TORw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMsT6iFvPy8pPevh_37k1x50QN4dAEuVcx2JDG4obnK1lhIzvNW5T2hScoE36olTT-31Cz5GZqOrG_TS_nvnX5xTI0ksjoEoVRSmaV_2kg--Osi6yAneosm7vr2-Phz5YmV1fM9IoHafjKlh_FZQcMzu8wKB0aE-v9qh7rz0Rrow7AdZ-jd88LoqSdEgvdwx-WyU2wrrw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmQAHfD1SUYKoKD0L0vPxvTapQ6rglhMCxuBy3TcbIzeZatKx5zv2CX5KHyq8fvcsbuYihEQEE7z0qMlWfD0OW-wBTkKvhgFs4Dtt7C6D93oXm0clXZmvwDF2ZVkkfBMAplV2VdA0kJ-nXQL7yeo6SAyp_hCS6PNZG8UEQ-z8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdM5dZEbQ2tO4EVvMqP6DQiv6QzOWf2ER5Km6UtmvLOgRAtjomsZFFvM_jA-Pt1L2szkuuWilGvaI8etJtKZjJ5rcTcKTRzkAXTQfPbx3svSZOA-hlAN32DCnE7sv7-yte42RbtfM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbL6wbD1nWE_p1XjEZ6GtEql-k4D51wadOhqR5jAbbcpJhGZqbuPFuA0bKXYxRiv1I5oHU848WIRkP1_4AmIzEgbYt_UIQuMVqOsxnbzHs789xZSRSuGrvl9kLy4a-pC4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ3gEz3_O_I6nB-AJl-iiGUfGkc_yCfhW74GFFiC5BRsPAIMY1x64Q7qM7WkH5OAApujclO63F7hGAmoxdhNtxUQVoeFlBClzojkKtKDgxXGfxb6yy5470ayERuUCzIUj26QmILSlXzos-wKTlX5PskcPvEpUF1KH5Y6nDIhfKUyyPJY4cx0FC93WUjOhwSM3e6xUEZtxettn3_yg5C81qymWRhUw="]
+
+--- RAW RESPONSE TEXT ---
+For riders who live in apartments, rent, or park on the street without access to a dedicated garage outlet, electric motorbikes with **removable batteries** are a game-changer. Instead of searching for public charging infrastructure, you can simply slide the battery out and charge it indoors using a standard household wall outlet. 
+
+These top-rated electric motorbikes feature removable batteries for easy home charging:
+
+---
+
+### 1. Maeving RM1S (Best Retro / Style Cruiser)
+* **Top Speed:** 70 mph (112 km/h)
+* **Range:** Up to 80 miles (128 km)
+* **Battery Setup:** Dual removable batteries (2.7 kWh each, total 5.4 kWh)
+* **Battery Weight:** 36 lbs (16 kg) each
+
+**Why it’s top-rated:** 
+The Maeving RM1S (and its lower-speed sibling, the RM1) are designed specifically around the removable battery lifestyle. It features stunning, British-heritage styling reminiscent of classic boardtrack racers and bobbers. 
+
+**How home charging works:** 
+The two batteries slide smoothly out of the "tank" and side casings. You carry them inside and pop them onto a stylish dual-charging dock, which plugs into any standard household outlet. It takes about **2.5 hours** to go from 20% to 80%, and roughly **6 hours** for a full 0% to 100% charge.
+
+---
+
+### 2. Ryvid Anthem (Best Innovation & Utility)
+* **Top Speed:** 75+ mph (can reach up to 81 mph in Sport mode)
+* **Range:** Up to 75 miles (120 km)
+* **Battery Setup:** Single 4.3 kWh removable pack
+* **Battery Weight:** 87 lbs (39.5 kg)
+
+**Why it’s top-rated:** 
+Designed and built in California, the Ryvid Anthem is highly praised for its lightweight folded-steel frame, height-adjustable seat, and exceptional handling that closely mimics a gas-powered lightweight motorcycle. It is also incredibly waterproof, boasting a highly rated IP67 system.
+
+**How home charging works:** 
+At 87 lbs, the battery pack is heavy. However, Ryvid solved this with brilliant design: **the battery features integrated, suitcase-style wheels and a slide-out handle.** You release the battery, let it lower, and easily wheel it into your apartment or office lobby like carry-on luggage. It plugs directly into a standard 110V wall outlet to charge.
+
+---
+
+### 3. LAND Moto District (Best Street/Scrambler Hybrid)
+* **Top Speed:** 70–75 mph (112–120 km/h)
+* **Range:** Up to 120 miles (193 km) depending on battery and ride mode
+* **Battery Setup:** Removable aluminum-cased "CORE" battery (up to 5.5 kWh)
+* **Battery Weight:** ~60–80 lbs (varies by battery size)
+
+**Why it’s top-rated:** 
+The LAND District (offered in Street, Scrambler, and Dirt models) is hand-built in Cleveland, Ohio. It blurs the line between a heavy e-bike and a light motorcycle, featuring a super-narrow trellis frame and standard motorcycle components. It is widely celebrated for its minimalist design and customizable ride modes (which can restrict power to a "Class 2" e-bike profile up to a full-power motorcycle).
+
+**How home charging works:** 
+The District’s battery is the central, structural piece of the frame. Unlatching the aluminum-cased battery allows you to carry it inside. It plugs into standard 110V wall outlets and supports fast charging, making overnight top-ups simple and efficient.
+
+---
+
+### 4. Kawasaki Z e-1 / Ninja e-1 (Best from a Legacy Brand)
+* **Top Speed:** 52 mph (65 mph with the 15-second temporary "e-boost" function)
+* **Range:** ~44 miles (70 km)
+* **Battery Setup:** Dual removable lithium-ion batteries (1.5 kWh each, total 3.0 kWh)
+* **Battery Weight:** 25.3 lbs (11.5 kg) each
+
+**Why it’s top-rated:** 
+Kawasaki is the first legacy motorcycle manufacturer to offer fully electric street bikes with swappable batteries. The naked Z e-1 and fully-faired Ninja e-1 are perfect 125cc-equivalent beginner bikes backed by Kawasaki’s vast dealer network, excellent fit-and-finish, and standard ABS. 
+
+**How home charging works:** 
+These are **the easiest batteries to carry on this list**. Weighing just 25 lbs each, they are light enough to easily carry up multiple flights of stairs. You can charge them while they are still in the bike, or lift them out of the top compartment and place them into a home charging cradle. A full charge takes about 3.7 hours per battery.
+
+---
+
+### 5. NIU RQi Sport (Best High-Tech Commuter)
+* **Top Speed:** 68–70 mph (110 km/h)
+* **Range:** Up to 75 miles (120 km)
+* **Battery Setup:** Dual removable batteries (2.6 kWh each, total 5.2 kWh)
+* **Battery Weight:** 49.6 lbs (22.5 kg) each
+
+**Why it’s top-rated:** 
+Designed for dense urban commuting, the RQi Sport looks like a muscular, modern streetfighter. It comes loaded with premium tech, including Brembo brakes, dual-channel ABS, Traction Control, keyless ignition, GPS tracking, and even built-in front and rear 1080p dash cams.
+
+**How home charging works:** 
+The RQi features two heavy-duty batteries housed snugly in the center chassis. Because of their weight (50 lbs each) and their vertical placement, pulling them out requires a bit of muscle. However, if you are strong enough to carry them inside, you get a highly capable, fast urban commuter that requires no garage to own.
+
+---
+
+### What to Consider When Buying:
+1. **Battery Weight:** Carrying a 25 lb battery (Kawasaki) is easy; carrying a 50 lb battery (NIU) up three flights of stairs is a workout; wheeling an 87 lb battery (Ryvid) is easy on flat ground but difficult on stairs. Pick a model that matches your physical mobility and home layout.
+2. **Speed & Licensing:** Most of these bikes are built as **urban commuters** (equivalent to 125cc gas bikes). If you need a bike that can comfortably cruise at highway speeds (70+ mph) for sustained periods, removable battery setups are rarely the right choice, as those high-power batteries are simply too large and heavy to be removable.
+3. **Dual vs. Single Batteries:** Dual-battery systems (like Maeving and Kawasaki) allow you the flexibility of taking only one battery with you for a shorter, lighter ride, or charging them one at a time if you have limited plug outlets.
