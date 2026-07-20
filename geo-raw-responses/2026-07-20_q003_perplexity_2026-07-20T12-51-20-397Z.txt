@@ -1,0 +1,110 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://roadtestjournal.org/best-electric-motorcycle-removable-battery/","https://www.youtube.com/watch?v=BUVGhqJvMaE","https://thewearify.com/best-electric-bicycle-with-removable-battery/","https://www.analyticsinsight.net/automotive/top-electric-bikes-with-removable-batteries-in-2025","https://www.youtube.com/watch?v=m1DvoW_rfnw","https://riderguide.com/best-rated/best-electric-motorcycles-tested/","https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-1","https://evindia.online/blog/removable-battery-ev-guide-2025-india","https://www.youtube.com/watch?v=89FJhLZiJAs","https://www.revoltmotors.com/blog/top-electric-bikes-with-removable-batteries","https://www.happyrunsports.com/blogs/off-road-e-bike/which-electric-bikes-offer-removable-batteries-for-long-commutes","https://www.youtube.com/watch?v=R7fGUzpcPgw","https://electrek.co/2022/11/28/ive-ridden-every-electric-motorcycle/","https://maeving.com/en-us/pages/maeving-rm1-electric-motorcycle"]
+
+--- RAW RESPONSE TEXT ---
+For **true motorbikes (not just e‑bikes)** with **removable batteries you can take indoors and charge from a normal socket**, the best‑rated options today include the **Silence/Seat S01+**, **Maeving RM1**, **Revolt RV400**, and **NIU RQi**, plus a few lighter “motorcycle‑like” machines and dirt bikes with hot‑swappable packs.[7][4][12][13][14][6]
+
+Below is a concise, use‑oriented rundown.
+
+---
+
+## 1. Silence / Seat **S01+** (Europe / UK)
+
+- **Type:** 125cc‑equivalent urban scooter/motorbike  
+- **Battery:** ~5.6 kWh **removable** pack; slides out the side and has wheels and handle like a trolley.[7]  
+- **Charging:** Standard household socket; very easy to move despite its size thanks to the trolley design.[7]  
+- **Range:** Up to **60 miles** (about 100 km) in typical mixed use.[7]  
+- **Use case:** Excellent if you live in a flat and need to roll the battery upstairs; one of the most refined removable‑battery systems on the market.
+
+---
+
+## 2. **Maeving RM1** (UK, some EU/US availability)
+
+- **Type:** Retro‑styled electric motorbike (roughly 125cc class)  
+- **Battery:** One or two **removable** modules; designed specifically to be taken indoors.[14]  
+- **Charging:** Any **standard socket**, “just like your smartphone.” You remove the battery and charge inside; dual‑battery setup available.[14][7]  
+- **Range:** Up to **80 miles** with dual batteries.[7]  
+- **Use case:** Ideal for city and suburban commuting; very strong reviews from apartment‑dwellers thanks to its removable pack and classic motorcycle feel.
+
+---
+
+## 3. **Revolt RV400** (India)
+
+- **Type:** Electric motorcycle with 125–150cc‑like performance  
+- **Battery:** **3.24 kWh removable** lithium‑ion pack; designed to be carried like a backpack.[4][10]  
+- **Charging:** Plugs into any **standard 3‑pin 16A home/office socket**.[10]  
+- **Range:** Up to **150 km** claimed on Indian drive cycle (IDC).[4][8][10]  
+- **Use case:** One of the most mature removable‑battery motorcycles in India; great if you park on the street and bring the battery inside to charge.
+
+---
+
+## 4. **NIU RQi** (A1‑class motorbike, Europe/Asia)
+
+- **Type:** Full motorcycle in **A1 license class**  
+- **Battery:** **Removable** battery packs; highlighted specifically as the only A1 motorbike currently with removable batteries.[12]  
+- **Charging:** Designed for urban riders *without a fixed charging spot*; batteries are removed and charged indoors.[12]  
+- **Range / performance:** Urban‑commuter oriented; positioned for tech‑savvy riders—exact figures vary by spec but it’s a legitimate motorcycle, not a scooter.[12]  
+- **Use case:** If you need A1‑class performance plus removable batteries for flat or office charging, this is a standout choice.
+
+---
+
+## 5. **Maeving RM1 (Electrek review perspective)**
+
+Electrek’s reviewer, who has “ridden every electric motorcycle out there,” specifically calls out the removable Maeving‑style pack as a key benefit for apartment dwellers:
+
+- The removable pack is a bit over **4 kWh**, has **wheels** and a **quick‑release**, and weighs ~65 lb—but you *roll* it indoors instead of carrying it.[13]  
+- Emphasis on convenient indoor charging and real motorcycle handling.[13]  
+
+This reinforces the RM1 (and similar trolley‑style packs like the S01+) as top picks if stairs/elevators are part of your daily routine.
+
+---
+
+## 6. **Aptum VM1** and similar light electric dirt bikes (US)
+
+From RiderGuide’s tested list of adult electric motorcycles/dirt bikes:
+
+- **Aptum VM1:**  
+  - Lightweight at **≈102 lb**, very easy to handle.[6]  
+  - **Removable battery for easy charging** is a listed pro.[6]  
+  - Geared more toward light off‑road or mixed urban fun than highway cruising.
+
+These bikes are closer to powerful e‑mopeds/dirt bikes than full road‑legal motorcycles, but they offer true motorbike ergonomics and simple battery removal.
+
+---
+
+## 7. Other notable removable‑battery motorbikes / scooters
+
+These may be market‑ or license‑specific but are worth considering:
+
+- **Seat/ Silence S01 Connected** and **S01+ variants**  
+  - Same clever side‑extraction, wheeled battery system; removable and apartment‑friendly.[7]
+
+- **Maeving RM1 dual‑battery configuration**  
+  - Extends range to **~80 miles** while retaining removable convenience.[7][14]
+
+- Various **Indian removable‑battery scooters & bikes**  
+  - Models like RV1 Plus, BlazeX, V2 Plus/Pro, VX2 Go/Plus all use **fully removable battery packs** with 3.4–3.9 kWh and 100–165 km IDC ranges.[8]  
+  - Best if you are in India and want removable packs plus relatively long range.
+
+---
+
+## How to choose for easy home charging
+
+For home/flat charging, pay attention to:
+
+- **Battery ergonomics:**  
+  - Trolley‑style packs (Silence/Seat S01+, Maeving RM1) are much easier to move than heavy bricks.[7][14][13]  
+- **Weight & size:**  
+  - A 4–6 kWh pack will be heavy; wheeled or split‑pack solutions are markedly more practical.[7][13]  
+- **Range vs. convenience:**  
+  - Dual‑battery setups (Maeving RM1, some Indian models) give more range but you must remove/charge two packs.[7][8][14]  
+- **Regulatory class & top speed:**  
+  - A1‑class (NIU RQi) or 125cc‑equivalent (S01+, Maeving RM1, RV400) will be fine for most commuting; choose based on your local licensing rules.[7][4][12]  
+
+If you tell me your country/region and whether you need highway speeds or just city commuting, I can narrow this list to the most practical options you can actually buy and charge at home.
