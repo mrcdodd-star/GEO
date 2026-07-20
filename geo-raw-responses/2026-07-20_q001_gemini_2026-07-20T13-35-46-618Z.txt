@@ -1,0 +1,76 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZdt3IK2rS18dBIl7jh5euQZVzT8ug5PoAFzohikXhSSpefnS-iUuUJBLBF9RQhgafOXkZNvIMSsTFUN7xgA1Gyo4YQrpg4bvuFyg8rOp7ncfp8LBLX9wNrI2CelNbVQvl4i5Kz-ln1UE6ivxq00h1aBcmZcgQvfn7P2B6WC-4Ae711MLtuFcokcnqpwaGGA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNvIV1XEcGhYn6It8L91g3268EFB3sESCv3XK-8FBXbdqdVi4t46UM1k_BPelCGUq04S2C3vcFwQ_SGkou24r_BKen1w43jk7JlHYBslS0n1ykdmhKwrowbnD5tS8Wixo1wCm2k-40ObdH6uc72GNoSG4pag==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGflrZDoVIyZ6auLOXWeO1R4eM488pn7qVDlVRGFCdjiNvG2CqzrpWgu6FUkj5kIUpdi_KuL6pP9inahtLMY-HUnkZ1aM1GW3u0QwU13fq-c0Bvd0AZ1UbYmXoUHVRkOkPsvq8xebP7PK-QlEC6nt52uDa8qT0_B_9R","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcifYoHpTizn9bJDEkMElA5l42Va_oaTaDh9kkdzxNbH9fhpFLkMOlMMObw4CeWF2Fv1BJo9Dmg6DuFlSdbcoKJ2JpGW2giyk63rZIbCqorYeAoqs0I5mGzU3GpLUAAKcTznr3KMDU7Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOBy1MKIz3i6hzP3RicpwurVww1l61zM26n2kncLybzYF8Um2zDzmU3E7odMH4h9LhhzrremU0vSpaHjvJxFWPeP7xyP8oVyqjegjD4VlQ1hPNVoJySkF27UzAlNN5sLg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5dPhiOWw8noXVBG_mkEmKos7psoO_iWw2YhL4JMWC4mUguUVcrP_n5RCA8vk8KATfwIEvgfJ2-smey4Y5NQX5rMxDpJ3PCCNCJq4vggtRom2mboIRwd6AK3zBC6gLSVqTmN8263cHtiLxiNXRWuGPKOHxhjToD5y1xttrzJ3TEBEUtU_f973i","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ5oryzNMN0Af9VxwVaBwRUdOGqmy7K3EP1IanuDb22qR88IA0EORFkRIb-eBx-UX996BaxKZTHBjQKF46WBsj_wyLGb2ePwLuikZEjwBJXSgl2Wt2qr1rWtBzxzCK4AZVz6CH0UXOuvu31voPEajPJqRN758w9bA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHbuceCUru3jhtU0Fw3Sc4vGOkxko0bWecQHRc1Rr-ZwLER5r65AiBMnkLzT3LUf1fCGtQ08IxeBEX4KU_lQ2pUOebKkdVp43qqN_WrrCxWN1wRaHwkcD","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP-NDhUrZrDCahxkRnzOlUCSzrH0dVdvYmBqJ_vpaGsQpNkplmzA3UqosdXdwXDm2BevK_g5ifzCkazqgT6OhhIKz2B3_soHRMZ4gxUjS1IOcWRvLmxMxOL7SSDED2RUBjKwLh0_wEqFghJzCx9_-IO6FBaGjyPw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCErx1ebxvopT7J7cCV9z476ht6gUhNagz4LfY_Lb1fj3Z_f41pXU4Fw-qLl4fH_LUEZ2w0mEeJdCumMwhT1ArVZMXbAL4Zr5j1s4i1UJovB2ByJ_Wtrk6nQMlMeA__jyEZ5xSnVQqPkjh7mDfxy4I6Of1bR5yDxUVVmizfy-lTmk","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFihEcXE8tDJtyuYGrQ-_fAXRxBR029SwqImko8THL2ZdHBZkSFrcCm4p19MMqetdRtFUXAOHdh9ZmkSVFTRelCnt6i1ygWJIfBaULYjy6NWwkEKi7lMXkXUORMv5QtIzmJO_fy58ORWMZEjKhfruah","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRvK0q6XgvjV4Wqe06p4y5Xa6yW4KP1eKJ_Cl3dJUwojuzb_j4q6ROmG_jdhtz1KGokJs7K-_zr8LKJu7JPeCceFln-z1mnIrYI-bZRWUMsW1Qeo2sFZh5VmdoEZ1tt10=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8fGKzSAlASej1WkyqHTyvp2-WdRo2dmgTAK8hhXXUTY22EsYfNFWY47BChYYwRH5nqTYD_RzhUBCmGM3EKbkOr-6VB-cWVogEMkPE8KabAvbpoi-CIFya1HeM0VzYBo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQWVhObvRhcLWacFAx-WzwHX-nmUGlnr0wrdcIoHdfvkro6_ojCGMhRAs_jKkny7hMrXk_mGRY4R2QnZXmmM2szdnMdFynYnkZJN2MyrJkIPprBsvHem7jOUIrJTG6vJy6utpWeZLM4XCuiDYxkYun","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyZQAJ8f2YVwwH7uX96lYWFZZWlaZcrrWNyjX03JEfskfw36LA3qUIdn-ZMdKhiTykQ48cANtESIGBQckK1QpTb9AqRCwx3hWjOfxzA5IdF_H2nP7JMFvIK1Dshu3iZOyQ1UhRSD4Lvrt56qIMNjYbH8-EWxdt6-5ciNbdDEGzShwRbuw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-0XK-o9E9fIZ_zdbwibZLgVxtzVx3MZBrrS7mFPoFLdcvVgpuKMO5dnEHIIpMjg_WRQR56Mqx4xN1T5czYI72S2NRaCppFcBAqOBS2mV1-uB2YQQegeRDN5bPfUUJhzc="]
+
+--- RAW RESPONSE TEXT ---
+Because the electric bike market is incredibly diverse, the "best" brand for you depends heavily on your budget, where you plan to ride, and how much cargo you need to carry. 
+
+The top e-bike brands are categorized below by their strengths, highlighting what makes them stand out and their most popular models.
+
+---
+
+### 1. Best Overall (Value, Comfort, & Reliability)
+These brands offer the best balance of build quality, modern technology, and reasonable pricing. They have extensive dealer networks, making them easy to service locally.
+
+*   **Aventon**
+    *   **The Vibe:** Exceptionally polished, tech-forward, and smooth. Aventon has morphed from a fixed-gear brand into one of the most respected e-bike makers in the world. They are known for utilizing responsive torque sensors (which make the motor assist feel incredibly natural) and having beautiful, seamless frame integrations.
+    *   **Notable Models:** **Level 4** (the ultimate commuter), **Aventure 3** (heavy-duty fat tire), **Current** (their highly rated, full-suspension e-mountain bike), and **Abound LR** (utility cargo).
+*   **Velotric**
+    *   **The Vibe:** Great styling, smooth power delivery, and highly safety-conscious (all batteries are fully UL-certified). Velotric offers excellent performance for a slightly lower price point than Aventon.
+    *   **Notable Models:** **Summit 1** (a highly versatile trail/commuter crossover), **Discover 2** (comfort commuter), and **Nomad 1** (all-terrain fat tire).
+
+---
+
+### 2. Best Budget & Folding Brands
+If you are looking to spend under $1,500, these direct-to-consumer brands offer unmatched bang-for-your-buck without sacrificing safety or customer support.
+
+*   **Lectric**
+    *   **The Vibe:** The undisputed king of affordable e-bikes. Lectric keeps costs low but packs their bikes with robust features, powerful hub motors, and designs that fold down easily to fit in a car trunk. Their customer service is widely considered the best in the budget space.
+    *   **Notable Models:** **XP 4.0 / XP4 750** (the best-selling folding utility bike in America), **XP Lite 2** (ultra-lightweight, simple, and budget-friendly), and the **Lectric ONE** (which uniquely features a high-end, maintenance-free Pinion gearbox).
+*   **Ride1Up**
+    *   **The Vibe:** Sleek, fast, and stylish. Ride1Up focuses on building bikes that look like premium, class-leading models but sell for a fraction of the price. They cater heavily to urban commuters and those who like a retro or "moped" aesthetic.
+    *   **Notable Models:** **Portola** (a premium-feeling folding bike at a budget price), **LMT'D V2** (torque-sensing commuter), and **Revv1** (a high-speed, moto-inspired cruiser).
+
+---
+
+### 3. Best Premium & High-Performance Brands
+If you have a larger budget and want a bike that feels like an extension of your own body, these traditional cycling giants are the gold standard. They are sold and serviced through local bike shops worldwide.
+
+*   **Specialized**
+    *   **The Vibe:** Masterclass engineering. Specialized’s "Turbo" line features mid-drive motors and software that are tuned to perfection—it feels like you have bionic legs rather than a motor pushing you. Their frames are lightweight, exceptionally balanced, and incredibly durable.
+    *   **Notable Models:** **Turbo Vado 4.0** (premium, ultra-smooth city commuter), **S-Works Turbo Levo 4** (one of the absolute best electric mountain bikes on the market).
+*   **Trek**
+    *   **The Vibe:** Legacy quality and lifetime warranties. Trek is one of the oldest bicycle brands in the U.S. and uses ultra-reliable, quiet motor systems from Bosch and TQ. Purchasing a Trek means you have guaranteed local shop support for life.
+    *   **Notable Models:** **FX+** (lightweight commuter), **Allant+** (heavy-duty trekking), and **Fuel EX-e** (stealthy, lightweight trail e-MTB).
+
+---
+
+### 4. Best Cargo & Heavy-Duty Brands
+For those looking to replace their car, carry multiple children, or haul heavy groceries and gear, these utility-first brands are the industry leaders.
+
+*   **Tern**
+    *   **The Vibe:** Heavy-duty, compact, and industrial. Tern specializes in small-wheel, folding-handlebar cargo bikes that can carry up to 440 lbs. They are engineered to be incredibly stable even when fully loaded with two kids on the back.
+    *   **Notable Models:** **GSD** (the ultimate heavy-duty cargo bike), **HSD** (compact cargo), and **Quick Haul**.
+*   **Rad Power Bikes**
+    *   **The Vibe:** The pioneer of utility e-bikes. Rad Power Bikes makes rugged, accessible, and highly customizable cargo and utility bikes. Their accessory ecosystem is massive, allowing you to add baskets, child seats, and platforms.
+    *   **Notable Models:** **RadWagon 4** (long-tail cargo), **Radster Trail** (all-terrain commuter), and **RadRunner 3 Plus** (step-through utility bike).
+
+---
+
+### 5. Best Sleek & Stealthy Urban Brands
+For riders who live in walk-up apartments or want an e-bike that doesn't *look* or *feel* like a heavy electric machine.
+
+*   **Tenways**
+    *   **The Vibe:** Lightweight, stealthy, and belt-driven. Many of their bikes weigh under 40 lbs (compared to the 65+ lbs of average e-bikes) and utilize carbon gates belt drives instead of greasy chains, making them virtually maintenance-free.
+    *   **Notable Models:** **CGO600 Pro** (extremely lightweight, stealthy commuter) and **CGO800S** (comfort step-through).
+
+---
+
+### Key Tips for Choosing:
+1.  **Direct-to-Consumer (DTC) vs. Local Bike Shop (LBS):** Brands like *Lectric* and *Ride1Up* offer amazing prices because they ship directly to your door, but you will have to do some basic assembly and find a local shop willing to work on them if something breaks. Brands like *Trek, Specialized, Aventon*, and *Tern* have massive dealer networks where you can buy the bike pre-assembled and get immediate mechanical support.
+2.  **Hub Motor vs. Mid-Drive:** Hub motors (located in the rear wheel) are cheaper and often come with a throttle. Mid-drive motors (located where the pedals meet) are more expensive but offer a much more natural, balanced ride and are highly superior for climbing steep hills.
