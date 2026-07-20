@@ -1,0 +1,24 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.reddit.com/r/Electricmotorcycles/comments/1ptucvy/new_to_ev_motorcycle_looking_for_a_reliable_one/","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://maeving.com/en-us/blogs/electric-motorcycle-journal/the-best-electric-motorcycle-in-the-uk-for-everyday-riding","https://www.visordown.com/features/general/best-electric-motorcycles","https://www.reddit.com/r/Electricmotorcycles/comments/1dbd4wo/which_to_buy_for_commuting_and_for_those_with/","https://www.motorcyclistonline.com/news/best-electric-motorcycles/","https://www.reddit.com/r/Electricmotorcycles/comments/16me76j/commuter_emotorcycle/","https://www.facebook.com/groups/zmcowners/posts/8954439011291894/"]
+
+--- RAW RESPONSE TEXT ---
+The best electric motorcycles for daily city commuting excel in low-speed maneuverability, lightweight frames, and practical charging setups. According to leading reviews from platforms like MCN and Motorcyclist Online, the absolute top models for navigating urban gridlock are the LiveWire S2 Del Mar, the Maeving RM1S, and the Zero S.
+Top Commuter Electric Motorcycles
+
+
+
+
+
+
+Quick Comparison
+To help you decide between raw power, retro style, or pure range, here is how the top three commuter bikes compare on paper:
+
+If you want to see how these urban commuters stack up in real-world motion, you can watch this breakdown of the best options currently hitting the streets:
+
+To give you the most accurate recommendation, could you tell me a bit more about your specific route?
