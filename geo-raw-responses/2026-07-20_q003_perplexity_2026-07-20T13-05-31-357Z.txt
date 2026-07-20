@@ -1,0 +1,157 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://roadtestjournal.org/best-electric-motorcycle-removable-battery/","https://www.youtube.com/watch?v=m1DvoW_rfnw","https://www.youtube.com/watch?v=BUVGhqJvMaE","https://riderguide.com/best-rated/best-electric-motorcycles-tested/","https://thewearify.com/best-electric-bicycle-with-removable-battery/","https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-1","https://www.analyticsinsight.net/automotive/top-electric-bikes-with-removable-batteries-in-2025","https://www.revoltmotors.com/blog/top-electric-bikes-with-removable-batteries","https://www.youtube.com/watch?v=89FJhLZiJAs","https://www.happyrunsports.com/blogs/off-road-e-bike/which-electric-bikes-offer-removable-batteries-for-long-commutes","https://www.autoweek.com/news/a60302816/great-electric-motorcycles-and-ebikes/","https://www.youtube.com/watch?v=R7fGUzpcPgw","https://electrek.co/2022/11/28/ive-ridden-every-electric-motorcycle/","https://evmagazine.com/top10/top-10-electric-motorbikes"]
+
+--- RAW RESPONSE TEXT ---
+The most consistently top‑rated electric motorbikes with **true removable batteries for easy home charging** today are the **Silence S01+ / S01**, **Revolt RV400**, **Fuell Fllow/Flluid‑type removable‑pack motorcycles**, and several newer A1‑class and lightweight bikes such as the **NIU RQi** and **Aptum VM1**.[4][6][7][8][12][13][14][11]
+
+Below are the leading options, focusing on **real motorcycles or moto‑style machines** (not just pedal e‑bikes) and emphasizing *easy home charging*.
+
+---
+
+## 1. Silence S01+ / S01 (Europe, urban scooter‑style)
+
+- **Battery**: ~5.6 kWh removable pack on the S01+.[6]  
+- **Range**: Around **60 miles** for the 125cc‑equivalent version.[6]  
+- **Motor / Performance**: ~7.5 kW motor, 125cc class performance for city use.[6]  
+- **Removable-battery usability**:
+  - The pack **slides out the side** of the scooter.  
+  - It has **trolley‑like wheels and a handle**, so you roll it indoors like luggage instead of lifting a heavy block.[6]  
+- **Why it’s top‑rated**:  
+  - Specifically designed for **home and office charging** from a normal socket.  
+  - Frequently highlighted in “top electric motorbikes” lists because the removable battery system is unusually well thought‑out.[6][14]
+
+Best for: Urban riders and commuters in Europe who park on the street or in shared garages and need to bring the battery indoors.
+
+---
+
+## 2. Revolt RV400 (India, commuter motorcycle)
+
+- **Battery**: 3.24 kWh **removable lithium‑ion pack**.[7]  
+- **Range**: Up to **150 km** (about 93 miles) claimed on a full charge.[7]  
+- **Charging**:
+  - Designed to be removed and charged on a **standard household socket**.  
+  - You can plug it into a normal 3‑pin 16A outlet at home, office or a café.[8]  
+- **Removable-battery usability**:
+  - The pack is designed to be **unlocked and carried like a backpack**.[8]  
+- **Why it’s top‑rated**:
+  - Described as **India’s most iconic removable‑battery bike** and “best removable battery in India” due to range and ease of home charging.[7]  
+
+Best for: Riders in India looking for a mainstream electric motorcycle with genuine removable‑battery design and long daily‑commute range.
+
+---
+
+## 3. FUELL / “Anthem‑style” removable‑pack motorcycle (US/Europe, mid‑size)
+
+Autoweek highlights a motorcycle (exemplified by models like the **FUELL Fllow or similar Anthem‑class bikes**) that uses a **single mid‑size removable pack** instead of a permanently fixed battery.[11]
+
+- **Battery**: About **4.3 kWh**, fully removable.[11]  
+- **Range**: Oriented toward daily commuting rather than touring; typical ~50–80‑mile mixed range depending on riding style (inferred from class of battery).  
+- **Charging**:
+  - The battery can be **“popped out and pulled on its own wheels”** to recharge **under a desk at work** or at home.[11]  
+  - It is heavy (~87 lb), which is why it rides on wheels so you don’t have to carry it.  
+- **Why it’s top‑rated**:
+  - Featured as one of a handful of “great electric motorcycles” specifically because the pack is **removable and rollable**, targeting **apartment dwellers** and office commuters.[11]
+
+Best for: Riders who want a more motorcycle‑like experience than a scooter, and are willing to handle a larger but wheeled pack for off‑street charging.
+
+---
+
+## 4. NIU RQi (A1‑class, Europe/Asia; premium urban commuter)
+
+- **Category**: **A1‑class electric motorcycle** (roughly 125cc equivalent).[12]  
+- **Battery**: Dual **removable battery packs**; designed specifically to be taken out and charged at home.[12]  
+- **Charging**:
+  - Uses **standard household sockets**; the review stresses this as a key advantage for users without fixed garage charging.[12]  
+- **Removable-battery usability**:
+  - As of the review, it is described as **“the only A1 motorbike currently available with a removable battery,”** aimed at riders with no permanent charging spot.[12]  
+  - Reviewers emphasize that if you want an A1‑class motorcycle with removable batteries, **this is effectively the only real option right now**.[12]  
+- **Why it’s top‑rated**:
+  - Modern design, connected features, and highly practical removable battery system for urban residents.
+
+Best for: City riders who need A1‑class performance but must charge from an apartment or shared parking using normal sockets.
+
+---
+
+## 5. Aptum VM1 (lightweight electric pit‑bike / mini‑moto)
+
+From RiderGuide’s tested list of electric motorcycles and dirt bikes for adults.[4]
+
+- **Battery**: 48 V pack, **removable**.[4]  
+- **Top speed**: About **35–40 mph**.[4]  
+- **Weight**: ~102–110 lb total, making it very easy to handle.[4]  
+- **Removable-battery usability**:
+  - RiderGuide explicitly calls out **“removable battery for easy charging”** as one of the main pros.[4]  
+- **Why it’s top‑rated**:
+  - Ranked “Most Affordable” with a **9.3/10 RG score**, and praised for light weight and ease of handling plus the convenience of the removable pack.[4]  
+
+Best for: Short‑range urban or fun riding, people who want a very light moto‑style machine with a simple, easily removable battery to carry upstairs or into an office.
+
+---
+
+## 6. Other notable removable‑battery motorbikes & scooters
+
+Several top‑10 motorbike lists mention additional models with removable or swappable batteries that are worth considering depending on your region:[6][14]
+
+- **Maeving RM1**  
+  - Classic‑styled electric motorcycle with **swappable battery technology**.[6]  
+  - Range up to **80 miles with dual batteries**.[6]  
+  - Good for style‑conscious city riders who still want home/office charging via removable modules.
+
+- **Various 125cc‑equivalent scooters with removable packs**  
+  - Some 125cc‑equivalent e‑scooters have **up to 60‑mile range** with removable batteries for easier charging.[6]  
+  - These are ideal for short‑range commuters without dedicated charging infrastructure.
+
+- **Dual‑battery lightweight motorbikes**  
+  - A number of newer bikes feature **two removable 1.5 kWh batteries**, each around **11.5 kg**, with household‑socket charging in under 4 hours.[14]  
+  - The dual‑pack approach lets you carry one or both depending on range needs.
+
+---
+
+## Comparisons: what “top‑rated” usually means here
+
+Most independent “best electric motorbike” and “best removable‑battery” roundups evaluate on:
+
+- **Removable‑battery design quality**  
+  - Ease of removal (tool‑free, side‑slide, quick‑release seat).  
+  - Ability to roll the battery on wheels (Silence, Anthem‑style).[6][11][13]  
+  - Weight and ergonomics (backpack‑style for Revolt RV400).[8]
+
+- **Range for commuting**  
+  - Generally **60–150 km (40–90 miles)** real‑world range per charge.[6][7]
+
+- **Charging convenience**  
+  - Direct use of **standard household sockets**, no special wallbox required.[6][7][8][12][14]
+
+- **Overall ride and build quality**  
+  - Whether the bike feels like a **real motorcycle** versus a toy or basic e‑moped.[4][11][13]
+
+---
+
+## How to choose the right removable‑battery motorbike for home charging
+
+When comparing these options for your own use, prioritize:
+
+1. **Your typical daily range**  
+   - If your commute and errands are under 30–40 miles/day, models like Aptum VM1 or NIU RQi may be sufficient.[4][12]  
+   - For longer commutes (60+ miles/day), look at the Revolt RV400 or dual‑battery systems like Maeving RM1 and Silence S01+.[6][7]
+
+2. **Where you live and local availability**  
+   - **Revolt RV400** is India‑specific.[7][8]  
+   - **Silence S01+**, **Maeving RM1**, and **NIU RQi** are more common in Europe/UK.[6][12]  
+   - FUELL/Anthem‑type bikes and Aptum VM1 are more focused on US and some European markets.[4][11]
+
+3. **Battery handling practicality**  
+   - If you must carry a battery upstairs, look for **lighter or trolley‑style designs** (Silence, Revolt backpack style).[6][8]  
+   - If you can roll it through a lift or office, a heavier wheeled pack may be fine (Anthem‑style 4.3 kWh battery).[11]
+
+4. **Performance vs. cost**  
+   - Lightweight bikes like **Aptum VM1** emphasize low price and easy handling.[4]  
+   - Larger A1‑class or mid‑size bikes (NIU RQi, Silence S01+, FUELL/Anthem) cost more but deliver **higher speed and better motorcycle feel**.[6][11][12]
+
+If you describe your country/region, budget, and typical commute distance, I can narrow this list to the most practical options and give a more tailored short list.
