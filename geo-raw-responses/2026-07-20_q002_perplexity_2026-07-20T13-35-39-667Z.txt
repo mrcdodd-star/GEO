@@ -1,0 +1,142 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.bikeprof.com/best-motorcycles-for-commuting/","https://ridecolibri.com/blog/best-electric-commuter-motorcycles/","https://carinterior.alibaba.com/buyingguides/best-ev-motorcycles-for-city-commuting","https://www.rokform.com/blogs/rokform-blog/best-electric-motorcycle","https://www.youtube.com/watch?v=W5ToWOYJkxM","https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-7-hottest-new-electric-motorcycles-and-scooters-to-boost-your-commute","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.youtube.com/watch?v=2VtcWPKB0jc","https://www.motorcycle.com/city-commuter-motorcycles","https://www.youtube.com/watch?v=7PKQfIa6880"]
+
+--- RAW RESPONSE TEXT ---
+The **best electric motorcycles for daily city commuting** are generally lightweight, have 50–150 miles of *real-world city range*, charge easily (home plug or J1772), and offer comfortable ergonomics and simple controls. Across recent 2025–2026 guides, stand‑out models for urban use include the **Zero FXE, LiveWire One / S2 Del Mar, BMW CE 02/CE 04, Can‑Am Pulse, Ryvid Anthem, CSC City Slicker, Super Soco TC Max**, and premium long‑range options like the **Energica Experia/EsseEsse9+**.[1][4][5][8]
+
+Below is a practical breakdown focused specifically on *daily city commuting*.
+
+---
+
+### 1. Top all‑around city commuter: Zero FXE
+
+Multiple independent guides name the **Zero FXE** as a top or “best value” urban EV motorcycle.[1][4][5][8]
+
+- **Why it’s excellent for commuting**
+  - About **100 miles real‑world city range**, enough for most daily round‑trips with margin.[1][4][8]
+  - **Lightweight** (~386 lb) and narrow, ideal for filtering through traffic and tight parking.[4]
+  - Uses Zero’s proven powertrain; strong torque and smooth throttle for stop‑and‑go riding.[4][5]
+  - Modular battery system and J1772 compatibility simplify charging.[1][4]
+
+If you want one bike that balances range, performance, and practicality in the city, the FXE is consistently recommended as a top choice.[4][5][8]
+
+---
+
+### 2. Fast, highway‑capable commuters: LiveWire One & LiveWire S2 Del Mar
+
+If your “city commute” includes highway segments or you want strong performance:
+
+- **LiveWire One**
+  - Designed for urban and mixed commuting; offers **fast charging (0–80% in ~40 minutes)** via DC fast charge.[4][8]
+  - City range reported around **140–150 miles** in recent buyer guides.[4][8]
+  - Powerful acceleration and multiple ride modes for wet or variable conditions.[4][8]
+
+- **LiveWire S2 Del Mar (and S2 Mohalland successor)**
+  - Newer, more urban‑focused LiveWire platform; reviewers highlight **nimble handling and quick charging**.[1][6]
+  - Around **120 miles urban range** with strong power, considered very practical for daily commuting.[1][6]
+
+Choose one of these if you regularly use expressways, want premium features, and value fast charging over lowest purchase price.
+
+---
+
+### 3. Scooter‑style comfort and ease: BMW CE 02 and CE 04
+
+For riders who prefer scooter ergonomics and twist‑and‑go simplicity:
+
+- **BMW CE 04**
+  - Ranked among top commuting EVs as a **maxi‑scooter** with about **80 miles real city range**.[1]
+  - Upright, relaxed seating and good wind protection; designed specifically for urban mobility.[1]
+- **BMW CE 02**
+  - Highlighted as **ideal for first‑time riders** because of low seat height and intuitive controls.[4]
+  - Compact size and simple operation make it well‑suited to dense downtown environments.[4]
+
+Scooter‑like EVs are excellent if you prioritize ease of use, storage, and comfort over outright performance.
+
+---
+
+### 4. Nimble urban newcomer: Can‑Am Pulse
+
+The **Can‑Am Pulse** is repeatedly called out as an urban‑focused machine:
+
+- Around **99–100 miles city range** and agile handling targeted at dense traffic.[1][6][8]
+- Mid‑price (~$13–14k), with performance and design optimized for city speeds.[1][6]
+
+If you want something modern and city‑specific but not a scooter, the Pulse is a strong candidate.
+
+---
+
+### 5. Affordable short‑range commuters: CSC City Slicker, Ryvid Anthem, Super Soco TC Max
+
+For daily commutes under ~30–40 miles round‑trip, lower‑cost bikes can be ideal.[4]
+
+- **CSC City Slicker**
+  - Often recommended as a **budget city EV** around or under **$5,000**.[4]
+  - Real‑world urban range around **60 miles**, enough for shorter daily trips.[4]
+- **Ryvid Anthem**
+  - Mentioned as a good option for **weekday travel under ~60 miles** thanks to light weight and simple maintenance.[4]
+- **Super Soco TC Max**
+  - Cited as **“best for beginners”** in a multi‑bike comparison; inexpensive and forgiving, aimed at city riding.[5]
+  - Top speed and range are sufficient for urban streets and short suburban links.[5][7]
+
+Pick one of these if budget is key and your commute is relatively short, without long highway sections.
+
+---
+
+### 6. Dual‑sport and lightweight options: Surron Ultra Bee, E Ride Pro SS, Cake Kalk OR
+
+If your city commute includes rough roads, unpaved shortcuts, or you want something more playful:
+
+- **Surron Ultra Bee**
+  - Ranked among commuter EVs as a **dual‑sport** choice with **40–60 miles real city range** and a removable battery.[1]
+- **E Ride Pro SS**
+  - Recommended as a **sub‑$5K budget commuter** with decent speed and low maintenance, good for shorter urban trips.[4]
+- **Cake Kalk OR**
+  - Listed as a very fun lightweight “city bike” (though more on the impractical side), with strong acceleration and off‑road capability.[5]
+
+These are suitable if part of your commute is light off‑road or you value playful handling over long range.
+
+---
+
+### 7. Premium long‑range commuters: Energica Experia and EsseEsse9+
+
+If you want one bike for **city plus long trips** and cost is less of a concern:
+
+- **Energica Experia**
+  - Frequently cited as a **top long‑range electric motorcycle**, with up to **220 miles** of city range and full touring capability.[4][6][8]
+  - Strong torque, comfort, and storage make it viable as a “commute + weekend touring” machine.[4][8]
+- **Energica EsseEsse9+**
+  - A more classic‑styled model; one review lists **up to ~249 miles range** under favorable conditions.[1]
+
+These are more than most city commuters need, but they are ideal if you combine an urban ride with regular longer journeys.
+
+---
+
+### 8. How to choose the best commuter for *your* situation
+
+Recent EV motorcycle commuting guides emphasize matching the bike to your **actual daily pattern**:[1][4][8]
+
+- **Commute distance (round‑trip)**
+  - Under **30 miles**: budget bikes like **CSC City Slicker, Super Soco TC Max, E Ride Pro SS** are sufficient.[4][5]
+  - **30–60 miles**: mid‑range options like **Zero FXE, Ryvid Anthem, BMW CE 02/CE 04, Can‑Am Pulse**.[1][4][8]
+  - Over **60 miles** or frequent highway: **LiveWire One / S2 Del Mar** or **Energica Experia**.[4][6][8]
+
+- **Charging access**
+  - Home only: prioritize **50–100+ mile city range** so you charge once a day or every few days.[1][4][8]
+  - Public J1772/DC: bikes like **Zero FXE, LiveWire One, Energica** benefit from faster/top‑up charging.[4][8]
+
+- **Experience level**
+  - New riders: easier bikes/scooters such as **BMW CE 02, Super Soco TC Max, CSC City Slicker**.[4][5]
+  - Experienced: performance‑oriented options like **LiveWire, Zero SR/F or DSRX, Energica** if your budget and needs justify them.[5][6][8]
+
+- **Budget**
+  - Under **$5k** (new or closeout): **CSC City Slicker, E Ride Pro SS, some Super Soco/HOVSCO commuter models**.[4][5][8]
+  - **$6–12k**: **Zero FXE, BMW CE 04, Ryvid Anthem, Can‑Am Pulse (upper end)**.[1][4][6][8]
+  - Above that: **LiveWire, Energica** and other premium brands.[4][5][6][8]
+
+If you tell me your commute distance, typical speeds, and budget, I can narrow this down to 2–3 specific models that fit you best.
