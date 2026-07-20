@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://www.hovsco.com/blogs/knowledge-base/which-electric-bikes-have-removable-batteries-for-easy-charging","https://www.voylt.com/en/news/e-motorcycle-2025-the-best-models-in-comparison","https://www.revzilla.com/common-tread/2025-maeving-rm1s-first-ride-review","https://maeving.com/en-us/pages/maeving-rm1s-electric-motorcycle","https://www.bikes4sale.com/details/maeving/rm1s/","https://ev.motorwatt.com/ev-database/catalog-electric-motorcycles/ryvid-anthem","https://robbreport.com/motors/motorcycles/ryvid-anthem-electric-motorcycle-1234731849/","https://cleantechnica.com/2024/04/04/the-ryvid-anthem-is-a-sleek-sporty-electric-commuter-motorcycle/","https://ryvid.com/pages/anthem","https://electrek.co/2025/07/03/hondas-new-electric-two-wheeler-doubles-the-power-and-range/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive guide to the **top-rated electric motorbikes with removable batteries** for easy home charging in 2025/2026:
+
+---
+
+## 🔋 Why Choose a Removable Battery Electric Motorbike?
+
