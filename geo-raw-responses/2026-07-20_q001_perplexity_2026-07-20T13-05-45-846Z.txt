@@ -1,0 +1,65 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://www.bikeexchange.com/en-US/featured/bestebikebrands","https://electricbikereport.com/best-electric-bikes/","https://www.bicycling.com/bikes-gear/a22132137/best-electric-bikes/","https://www.dttzh.com/post/top-ebike-brands","https://www.reddit.com/r/ebikes/comments/1ckwn84/what_are_the_best_ebike_brands_and_models/","https://www.youtube.com/watch?v=d8I9VdU5XbQ","https://www.cnet.com/roadshow/news/best-electric-bike/","https://us.engwe.com/blogs/news/electric-bike-company-choosing-the-best-e-bike-brand","https://www.consumerreports.org/health/electric-bikes/buying-guide/","https://www.youtube.com/watch?v=T5-2oqy0vSg"]
+
+--- RAW RESPONSE TEXT ---
+The **best electric bike brands** today combine reliability, strong support, and good value; leading names commonly recommended by experts and testers include **Giant, Specialized, Trek, Bosch-powered brands, Aventon, Lectric, Rad Power Bikes, Ride1Up, Velotric, and Tern**.[1][4][6][8][9]
+
+To make this practical, here’s how they fit into different needs:
+
+### 1. Big, established brands (quality, dealer support)
+
+These are known for **reliability, proven components, and local shop support**:
+
+- **Giant** – Frequently ranked at the top for reliability among major e-bike makers.[6]  
+- **Specialized** – Longstanding bike brand with strong e-bike lines; highlighted by Consumer Reports as a trusted name.[9]  
+- **Trek** – Another major brand that Consumer Reports points to as a safe choice when avoiding lesser-known labels.[9]  
+- **Cannondale** – Noted by Consumer Reports among the longstanding brands with solid reputations.[9]  
+- **Bosch eBike Systems** – Not a bike brand but a motor/battery system supplier used by many premium brands; often rated highly for reliability.[6]
+
+These are best if you want **shop service, long-term parts support, and conservative, proven designs**.
+
+### 2. Direct-to-consumer value brands (performance per dollar)
+
+If you want **good performance and features at lower prices**, several specialist e-bike brands stand out:
+
+- **Aventon** – Widely featured in “best e-bike” lists; multiple models (Level, Soltera, Aventure) are editor picks at Electric Bike Report, Bicycling, and CNET.[2][3][7] Aventon is also cited as a reputable brand in general roundups.[4][8]  
+- **Lectric eBikes** – Known for affordable folding and utility e-bikes; often listed among top brands for value and popularity.[2][4][8]  
+- **Rad Power Bikes** – One of the most popular DTC brands, highlighted by Consumer Reports and other guides as a key newer e-bike maker.[4][8][9]  
+- **Ride1Up** – Frequently recommended for budget-friendly commuter and city bikes.[2][4][8]  
+- **Velotric** – Shows up in “best urban/commuter e-bike” lists for solid spec at accessible prices.[2][4]  
+- **Blix** – Mentioned alongside Rad Power, Lectric, and Ride1Up as a reputable value brand.[8][9]
+
+These are good choices if you’re comfortable **ordering online** and prioritizing **value over premium branding**.
+
+### 3. Popular enthusiast / niche brands
+
+For riders looking for something a bit different or more powerful:
+
+- **Biktrix, Ariel Rider, Euphree** – Named among the top e-bike brands of 2026 for performance, value, and rider support.[4]  
+- **Yamaha, Pon Holding (owns brands like Gazelle, Cannondale etc.), Yadea** – Ranked highly in one reliability-focused comparison of e-bike manufacturers.[6]
+
+These are worth a look if you want **heavier-duty, high-power, or more specialized bikes**.
+
+### 4. Compact / utility specialists
+
+If you care about cargo, folding, or compact designs:
+
+- **Tern** – Often praised by experienced riders for high-quality compact and cargo e-bikes; singled out as “the best brand” in some rider discussions.[5]  
+- **Lectric** – Strong in folding and utility categories, frequently winning “best folding” or budget utility awards.[2][4]
+
+### How to choose among these brands
+
+When deciding what’s “best” for you, focus less on the name and more on:
+
+- **Use case**: commuting, cargo, off-road, fitness, or leisure.  
+- **Support**: local shop network vs. online-only. Established brands (Giant, Specialized, Trek, Cannondale) shine on in-person service.[6][9]  
+- **Budget and value**: Aventon, Lectric, Rad Power, Ride1Up, Velotric, Blix deliver strong specs for the price.[2][4][8]  
+- **Reliability track record**: guides and tests increasingly highlight Giant, Bosch systems, and big legacy brands for long-term reliability, while also recognizing newer DTC brands that perform well in reviews.[1][6][9]
+
+If you tell me your budget and how/where you plan to ride (commuting distance, hills, cargo, etc.), I can narrow this down to 3–5 specific brands and model families that fit you best.
