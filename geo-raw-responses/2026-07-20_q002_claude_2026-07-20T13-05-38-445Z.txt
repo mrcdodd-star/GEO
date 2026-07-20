@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.happyrunsports.com/blogs/electric-motorcycle/what-are-the-best-electric-motorcycle-models-for-2025-urban-commuting","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.riders-share.com/blog/article/best-street-legal-electric-motorcycles","https://motorwatt.com/best-electric-motorcycles-2025","https://www.motorcyclenews.com/advice/best/electric-motorbikes/"]
+
+--- RAW RESPONSE TEXT ---
+Here's a comprehensive guide to the **best electric motorcycles for daily city commuting** in 2025:
+
+---
+
+## 🏍️ Best Electric Motorcycles for City Commuting (2025)
+
+---
+
+### 1. 🥇 Zero FXE
