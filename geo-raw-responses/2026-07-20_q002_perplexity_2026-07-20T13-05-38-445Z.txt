@@ -1,0 +1,122 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://ridecolibri.com/blog/best-electric-commuter-motorcycles/","https://carinterior.alibaba.com/buyingguides/best-ev-motorcycles-for-city-commuting","https://www.bikeprof.com/best-motorcycles-for-commuting/","https://www.youtube.com/watch?v=5JII9RiFpSQ","https://www.youtube.com/watch?v=W5ToWOYJkxM","https://www.youtube.com/watch?v=qRuj5-akeMQ","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.youtube.com/watch?v=7PKQfIa6880&vl=en","https://www.autoweek.com/news/a60302816/great-electric-motorcycles-and-ebikes/"]
+
+--- RAW RESPONSE TEXT ---
+The **best electric motorcycles for daily city commuting** today are generally considered to be the **Zero FXE**, **LiveWire One / S2 Del Mar**, **Can-Am Pulse**, **BMW CE 02 / CE 04**, and budget options like the **Ryvid Anthem** or **CSC City Slicker**, with the right choice depending mainly on your commute distance, need for highway speed, charging options, and budget.[1][3][8][9]
+
+Below is a structured overview to help you pick what’s *best for daily city use*, not just what’s most powerful or expensive.
+
+---
+
+## 1. Top picks specifically for urban commuting
+
+### Zero FXE – **Best overall city commuter for most riders**
+- **Why it’s recommended:** Frequently cited as a top all‑around urban EV thanks to its mix of range, weight, and usable power.[1][3][8]
+- **City range:** Around **100 miles real‑world city** riding.[1][3][8]
+- **Weight:** About **386 lb**, which keeps it agile in traffic.[3]
+- **Charging:** J1772 compatibility for easy Level 2 charging at public stations.[3][8]
+- **Use case:** Ideal if your daily round‑trip is under ~60–70 miles and you want a “real motorcycle” feel that’s nimble in stop‑and‑go traffic.
+
+### LiveWire S2 Del Mar / LiveWire One – **Best premium commuter, including some highway**
+- **LiveWire S2 Del Mar / Moholland:** Designed as an **urban‑focused machine** with about **120 miles of range** and fast charging, noted as practical for daily commuting.[1][6]
+- **LiveWire One:** Often highlighted for **strong performance** and ability to charge **0–80% in about 40 minutes**, making it good for commutes that include highway segments.[3][8]
+- **Use case:** You want premium build, strong acceleration, and you regularly mix city streets with short highway stretches.
+
+### Can‑Am Pulse – **Agile newcomer for dense cities**
+- **Range:** Around **99–100 miles urban range**.[1][6][8]
+- **Character:** Marketed as an **urban‑focused** electric motorcycle with nimble handling for city performance.[1][6][8]
+- **Use case:** Dense, urban environments where agility and modern tech are more important than long highway range.
+
+### BMW CE 02 and CE 04 – **Scooter‑style comfort and practicality**
+- **BMW CE 02:** Promoted as a **first‑time/urban beginner** bike with intuitive controls and low seat height.[3][9]
+- **BMW CE 04:** Described as a **maxi‑scooter** with ~**80 miles real city range** and good comfort for daily use.[1]
+- **Scooter advantages:** Step‑through design, good storage options, easy ergonomics, and very friendly for city traffic and frequent stops.
+- **Use case:** You prefer scooter ergonomics, easy low‑speed handling, and practical storage for work bags or groceries.
+
+---
+
+## 2. Best budget options for short to medium commutes
+
+If your **daily round trip is under ~30–40 miles**, you can save a lot and still get a good commuter.
+
+### Ryvid Anthem – **Affordable urban commuter**
+- Frequently listed as a **budget / first bike** and **most affordable** electric motorcycle, around **$6,000**.[6][9]
+- Designed specifically as an **urban commuter**, with range suited to shorter daily trips.[6][9]
+- Use case: You mainly ride inside the city with modest distances and want low upfront cost.
+
+### CSC City Slicker – **Low‑cost city bike**
+- Highlighted as a **budget model** under $5,000 aimed at short daily commutes.[3][7]
+- Typical real‑world city range around **60 miles**, sufficient for many urban riders.[3]
+- Use case: Light commuting, student or inner‑city rider, no highway requirement.
+
+### Other budget‑oriented commuter picks
+- Guides also mention bikes like the **E Ride Pro SS** and small commuter models for sub‑$5k city use.[3]
+- These favor simple powertrains and moderate speeds suitable for dense urban traffic rather than long‑distance travel.[3]
+
+---
+
+## 3. Long‑range and “overkill” options that still commute very well
+
+If your commute is long or you want a bike that doubles as a weekend tourer:
+
+### Energica Experia / EsseEsse9+ – **Maximum range and performance**
+- **Experia:** Cited as a leader with up to **220 miles of range**, suitable for both city and touring.[3][8]
+- **EsseEsse9+:** Listed with **up to 249 miles**, aimed at long‑distance commuting and highway.[1]
+- Use case: You have a long daily route or want one bike that can commute all week and tour on weekends, but you’re okay with premium prices.
+
+### Zero DSR/X – **Adventure style but very capable city commuter**
+- Urban range quoted up to **179 miles** and about **107 miles highway**, with relatively fast charging.[6][10]
+- Positioned as an **adventure / daily** bike, but its long range and upright ergonomics can make city commuting very comfortable.[6][10]
+- Use case: Mixed commuting plus regular longer trips, and you prefer adventure‑bike ergonomics.
+
+---
+
+## 4. How to decide what’s “best” for *your* daily city commute
+
+Across multiple guides, a few **key factors** consistently define a good city EV motorcycle:[1][3][8]
+
+- **Real city range:**  
+  Aim for **50–100 miles real‑world city range** if you commute daily.[3]  
+  Short commutes (<30 miles round trip) can use smaller packs; longer or unpredictable days benefit from 80–150+ miles.
+
+- **Weight and agility:**  
+  For urban use, bikes **under ~400–450 lb** feel much more manageable in stop‑and‑go riding and tight parking.[3][8]  
+  Zero FXE, Can‑Am Pulse, and many scooters score well here.
+
+- **Charging practicality:**  
+  - **Removable batteries** help if you cannot install home charging or live in an apartment.[1][3]  
+  - **J1772 / Level 2 compatibility** is important if you rely on public charging at work or in parking garages.[3][8]  
+  - Fast charging (0–80% in ~40–60 minutes) is valuable if you do long days or ride beyond your usual commute.[3][6][8]
+
+- **Use case match:**
+  - **Under 30 miles/day, purely urban:** Budget models like **CSC City Slicker** or **Ryvid Anthem** are usually sufficient.[3][7][9]
+  - **Up to ~60 miles/day, some faster roads but mostly city:** **Zero FXE**, **BMW CE 04**, or **Can‑Am Pulse** are strong choices.[1][3][8]
+  - **Includes highway segments and you value time:** **LiveWire One / S2 Del Mar** or similar fast‑charging bikes.[3][6][8]
+  - **Very long commutes or frequent trips beyond the city:** **Energica Experia / EsseEsse9+**, **Zero DSR/X**.[1][3][6][8][10]
+
+---
+
+## 5. Summary by profile
+
+- **Best all‑round city commuter for most people:**  
+  **Zero FXE** – 100‑mile city range, light weight, strong urban performance.[1][3][8]
+
+- **Best premium urban commuter with highway ability:**  
+  **LiveWire S2 Del Mar / LiveWire One** – fast charging, strong acceleration, good for mixed city/highway routes.[1][3][6][8]
+
+- **Best agile newcomer for dense urban cores:**  
+  **Can‑Am Pulse** – ~99–100 miles urban range, nimble handling.[1][6][8]
+
+- **Best scooter‑style urban comfort:**  
+  **BMW CE 02 / CE 04** – easy ergonomics, storage, city‑optimized design.[1][3][9]
+
+- **Best budget city commuter:**  
+  **Ryvid Anthem** or **CSC City Slicker** – low price, adequate range for short commutes.[3][7][9]
+
+If you share your typical **daily distance**, whether you use **highways**, and your **budget range**, I can narrow this down to 2–3 specific models that fit your situation best.
