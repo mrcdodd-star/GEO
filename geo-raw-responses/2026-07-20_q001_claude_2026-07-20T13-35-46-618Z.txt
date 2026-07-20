@@ -1,0 +1,17 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Best electric bike brands
+
+CITED URLS:
+["https://www.dttzh.com/post/top-ebike-brands","https://electricbikereport.com/best-electric-bikes/","https://kiwavmotors.com/en/blog/a-complete-list-of-electric-bike-brands","https://www.outdoorgearlab.com/topics/biking/best-electric-bike","https://www.cyclingelectric.com/buyers-guides/editors-choice-awards-the-best-electric-bikes-to-buy-in-2026"]
+
+--- RAW RESPONSE TEXT ---
+Here is a roundup of the **best electric bike brands of 2026**, covering a range of budgets, styles, and riding needs:
+
+---
+
+## 🏆 Best Electric Bike Brands of 2026
+
+### 1. 🔵 **Aventon**
