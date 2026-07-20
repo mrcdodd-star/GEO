@@ -1,0 +1,93 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJBrUrL5o2Ou6WPLhjro-sDkMFkNt-OpodUk-0jcZvP9aSk9_zvCEsHvAjZHECPtfXE9jqsHjlshvObQsiRADWzavd1_z03J5olgk4Q0UM0z3A3AZImQIklTHaHOzu5Y_","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrCWTo-WlKFENb_ohLcIS4Tw8_j87EOF795YauHmZpidW1XxL1xlRwFuJtjVbV0KdgFeUsGq_ttTs2YPz6qArV13Y7udfV3zgjTi7X7cfuzQsMQRsxkQmp-knAvaESowzzAWvcGIxrtsuzjiKmB_vQ4qEoMQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Ilcns0PwhV3g2RwhxbFtJNNQ6XPkyrwzI4tsGAS3etkDlCXKFcqEkEWZhDSjQCa-hMfmztJ025kc_dap5DWh6nphs9KK32tpdjLiBeGCBmcSGu6kTj6CAG-_hb16rKQQKXIt7uyG2rGbUEmEwXkLrlf4qzf-eyczFpFY9Pw27Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaGntu7jjWZ-bCtg2F_k6upHw1WxdLmUivh5uTfPNg865Gtw1h3ONGsFJ2QwBb1fXIzqCjbphuoLfwkH4cFWGNliYcYNt3wBVR_0JESe89a_szWVjmRMFvu6CQQPsTANR9VEjl9n3LO0nzKnkw5klhAEiruLGZtyi7W36-ZX2r","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFREXqR513N-xntir8xFQR1E5rAjxyAtUxeJ0_hjb7-CM1ntJsKH1Url8VR9VJYViRuiYkPLsdxPe31whflqp4gMe9-B6xDxjAqrojx8tKnSu5d4QkCh_w3VN1moLc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-5xZmqgwkreThRihbDoaSo4EzvCRFW5nBdQyi3WNthsRV56GyVCuMXlWkbn-d_IYaRSKCw-wsBXK--HqKYMwQAAk-THiaCj-4cHgnVf9s5HVvnT46CHfPYub87jziFlu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBRahWf2W9i_oz0cksLyOrVNjQlUJ6TD-WePKCEMHmhEt5P0ilfeOnkNoAjrJAaUrdqtH6PtNmS4kvM9BzLtnFHzdfEPlp6FCvefjjPuzKKOYBiNUFbZntBCeKmzSpCuZ5DyGS-l1TCw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTqajdoP1O5Mgi0-j8r0XQ9KYsQg0oYCTEa_N_bszhaYw-gMXROWN9EZYCXNwLQzdIlByYmDAWBAWm2tNG8HuQXzZipsT1ZSY2i-eMr89xY6XVy60E-SvA3H3RXfEOpchP","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLe1AkqxbMb3wMk1tPbB4MtOeiFrmbH76ZTnkbCaYCdaplfHhJHu6fVUT33GxcIfcMg6S2DmwMYOmpX_1Fe1XLksx4G-N5YysI_s_virnpnw87XVWCPDGps44S6odpneFh","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxYHPa8tRbj3SCW7rG9kVC1jd0Tl14snivhca_vG64NtG8Hl_dnt8mQUeUd1vWmu_l_xJTjnIiPIqQynEABV7dK945-bjuiD_o94tP9mlFm4_9rVfYVqBMzQu1w4D3-wI5Ymkxv5NI0M0z8d_Z4U_GlnIZ-fy-oQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcXIrIOIOnbSfkLw7Kc6ckD5jBj_RbDB538hlXXDAPNBXsi3TxXbeI1mUJlO2oJpFpGqNQNcaPOL81TSOpB3EoXs3S6IQZDh7hZpynQStjf4wbtSZb3ed3X_5L9GAfJqKdasUnM-42ZoerH6SfXImmiBcUen3LIHoq_w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES6687T2leY2aervbDHy-u1d6w8igF-J3mMUUG56KHnEqSo1ucLRIGqvmMoUT25-sFCTyiyr8ipsJGtnvusy-KZ4zKLbcbm_qpNUWvayrUuIj1xrcaR5vlxtUZ5tP8FMBW","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBcYLZONoirCnqIke7UUV0cXvqwsEv6JzaNiH0pkciaOBzscs6Y0ePybXqj9pnpKDA3-GN_u3gp9jPggeYXzKFGy0ZWWcCPtkKvVvP4l-FqynQvOrY432bicNUUcEWILragyjV-5VIRpDbbXbuCJDwhXbwS9DmJUrUih3suEybJvk_bqOT_YFdtL21KAqb9BR_R1nF8Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGgL4WHHQZYYDWCsELsX9Gk4sv2qwrAvUjNtuP2aPgOY2xErNDfBhQIFd9oPL_YuY6ui0GxL3YWnVPgqHBO-_m3OHvR15DvBTKV0X10cl6yqtxw9CSnkegfibPJLyjWeUBgUUmb-5llD75zHDZEgZ19S4q-3Y=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPrvSNVJtmq29sY2cJCo4933DYElOFCiVCubcmZnBxI0UEeKRkjNxmV17QWCRxaX5XTTGW4bekVbLEpHWFFMh-IukyTpKqj9oJmEZGc2WLGc1ZHO6I0N_4fAuC9WmufwUW6m1EZsGVC2BZllZFjHkRuTd2Jo3BdDEtdg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe5z5awFHr_VlX6BStNvMxkmnliXt_ZhDkvNxtqBnjQE1Z--o2mTrkldwOZ75g1K9pPlR_Mi0Nd-Gar7RX-GTBSPgJ4AaZGDTIB9vZFf0TCJ7p5HCEfY9WyIxfARkVPLnWptCY3T7q","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlkTPKpNOo79SSG5O7J5ZT9AgQe1KlHqQ9W7pVtriF-KPS-CtXAf808FCjXTj1IdRqsdhyP7iXmIiQglFkLofe0-bx8ehRPsAXBNc4urucHEU5XbizfjZt3rEk1Ih_PCbYHEYwZwD-bEHrfklGjAlFwqkkznVI2LqkEA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQDfXkHKgrXWfXhMaXQkmlSyWptUETdXD6EqZN4fyMoDgeFVsc_7m_rmbdOI40E1L5VFZ4LyA0Tda6kxfikDmS6Dlg1leL7JOtk87OdSKObSYCCQDVnkKvSAQY52SSFYr44-QMx8kksrZlbhSJTco8oCAs3YlQ9Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ5qbKdOJmtzuAB6iZvtxbZ83hOlvnmK0oCREG2Gg6GiBua8SwXB1Xd6YMi1HauI7cf2cAj_WrvlDK8zvkpmWboJgrBvo-0vZQT5cj98Q9cod7Qm8DLSp8kPsbeHINuFUvrJtyHI2u52irhVy0qPC9vl1ndZcgiw0="]
+
+--- RAW RESPONSE TEXT ---
+When looking for the best electric motorcycle for daily city commuting, the ideal bike needs to prioritize **maneuverability, lightweight handling, ease of charging, and enough range to handle a daily round-trip with peace of mind.** 
+
+The top electric motorcycles for city commuting are categorized below by riding style, charging setup, and experience level:
+
+---
+
+### 1. Best All-Round Commuter: **Can-Am Pulse**
+* **Best for:** Riders looking for a "real" motorcycle feel at a highly competitive price point.
+* **Top Speed:** 80 mph (electronically limited)
+* **City Range:** ~100 miles
+* **Charge Time:** ~50 minutes (20% to 80% on Level 2)
+* **MSRP:** Starting at ~$13,999
+
+**Why it’s great for commuting:** 
+Can-Am’s return to two wheels features a naked street-standard commuter that is perfectly balanced. Instead of a bulky, bolt-on battery box, the Pulse uses its frame as the battery housing, keeping the weight low and narrow between your knees. It produces 47 hp and 53 lb-ft of instant torque, making it incredibly zippy off the line to escape urban traffic. An enclosed chain case drastically reduces maintenance and keeps the ride near-silent. 
+
+---
+
+### 2. Best Beginner-Friendly (with Major Brand Reliability): **Honda WN7**
+* **Best for:** New riders who want approachable power and the peace of mind of a massive dealer network.
+* **Top Speed:** ~68 mph
+* **City Range:** ~80–85 miles (130–140 km)
+* **Charge Time:** ~30 minutes (20% to 80% via CCS2 DC Fast Charging)
+* **MSRP:** Expected around $11,000–$13,000
+
+**Why it’s great for commuting:** 
+The WN7 is Honda's first full-sized production electric motorcycle, sporting a naked streetfighter style. Honda purposely designed this bike to be slim, with a low center of gravity and a highly approachable 31.5-inch (800 mm) seat height. It features a "frameless" aluminum chassis and adjustable deceleration (regenerative braking) modes. If your city commute features DC fast chargers, the WN7's ability to top up 80% of its battery in just 30 minutes is a massive game-changer.
+
+---
+
+### 3. Best for Apartment Dwellers (Removable Batteries): **Maeving RM2**
+* **Best for:** Urban commuters who don't have a garage or driveway to plug in a bike. 
+* **Top Speed:** 70 mph
+* **City Range:** Up to 80 miles
+* **Charge Time:** ~4 hours per battery using a standard household 3-pin wall outlet
+* **MSRP:** ~$10,995 (from £7,995 in the UK)
+
+**Why it’s great for commuting:** 
+Most electric motorcycles require you to park next to a Level 1 or 2 charger, which is nearly impossible if you live in a high-rise apartment. The British-built Maeving RM2 solves this by featuring **dual removable batteries** that you can slip out of the bike and carry inside to charge at your desk or kitchen counter. Sporting a gorgeous, classic retro-hipster design, the RM2 weighs only 320 lbs, is incredibly easy to handle, and has just enough power (15 hp peak) to handle brief highway stretches.
+
+---
+
+### 4. Best High-Tech Urban Streetfighter: **LiveWire S2 Del Mar**
+* **Best for:** Tech-forward riders who want premium performance and a sporty, aggressive ride.
+* **Top Speed:** 103 mph
+* **City Range:** ~113 miles
+* **Charge Time:** ~78 minutes (20% to 80% on Level 2)
+* **MSRP:** ~$15,499
+
+**Why it’s great for commuting:** 
+Born from Harley-Davidson's EV brand, the LiveWire S2 Del Mar is built on a modular "Arrow" architecture. It is incredibly quick—boasting 84 hp and a 0–60 mph time of just 3.0 seconds. It feels light on its feet, features over-the-air software updates, and has multiple riding modes to help you conserve battery during heavy traffic or unlock maximum performance on empty city avenues. 
+
+---
+
+### 5. Best Lightweight Lane-Splitter: **Zero FXE**
+* **Best for:** Commuters in highly congested cities where lane-filtering/splitting is legal.
+* **Top Speed:** 85 mph
+* **City Range:** ~100 miles
+* **Charge Time:** ~1.8 hours (with accessory quick charger)
+* **MSRP:** ~$12,495 
+
+**Why it’s great for commuting:** 
+Weighing in at just under 300 pounds, the Zero FXE has a supermotard (dirt bike style with street tires) design. It is incredibly narrow and nimble, allowing you to flick it through tight gridlock with ease. The upright riding position gives you an excellent line of sight over SUVs and sedans, which is a massive safety plus for daily city riders. 
+
+---
+
+### 6. Best Quirky Runabout (No License Needed in Some Areas): **BMW CE 02**
+* **Best for:** Short, slow-speed city hops and younger/newer commuters.
+* **Top Speed:** 59 mph
+* **City Range:** ~45–50 miles
+* **Charge Time:** ~1.5 hours (20% to 80% with fast charger)
+* **MSRP:** ~$7,599
+
+**Why it’s great for commuting:** 
+The BMW CE 02 sits in a unique "e-parkourer" class—part scooter, part motorcycle. It features a skateboard-inspired aesthetic, a super low seat, and a simple, automatic twist-and-go throttle. It is incredibly easy to ride, highly maneuverable in tight alleyways, and can be easily parked on sidewalks (where permitted). 
+
+---
+
+### **How to Choose the Right Commuter for You:**
+
+1. **How do you charge?** If you have a garage, the **Can-Am Pulse** or **LiveWire S2 Del Mar** offer excellent range and quick charging. If you live in an apartment, the **Maeving RM2** with removable batteries is the most practical choice. 
+2. **Will you ride on the highway?** If your commute includes highway stretches of 65+ mph, opt for the **LiveWire S2 Del Mar** or **Honda WN7**. For strictly inner-city streets, the **Zero FXE** or **BMW CE 02** are superior due to their agility. 
+3. **Budget vs. Brand:** The **Can-Am Pulse** offers the absolute best balance of power-to-price, while the **Honda WN7** represents the safest long-term bet for parts, servicing, and manufacturer reliability.
