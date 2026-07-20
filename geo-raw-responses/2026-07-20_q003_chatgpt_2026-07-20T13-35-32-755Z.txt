@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-20
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Top rated electric motorbikes with removable batteries for easy home charging
+
+CITED URLS:
+["https://www.rideapart.com/news/672801/maeving-rm1-launch-france-2023/?utm_source=openai","https://maeving.com/en-gb/pages/maeving-rm1-electric-motorcycle?utm_source=openai","https://www.revzilla.com/common-tread/zero-xb-and-xe-first-ride-motorcycle-review?utm_source=openai","https://www.rangetruck.com/two-wheel-electric/zero-motorcycles-xb/?utm_source=openai","https://derandmotorsports.com/products/dx?srsltid=AfmBOoq8DNCPEfPt_LXtJQccvbn1BrGjSIwcJy3enLC1VhAHvHIHIR3s&utm_source=openai","https://emmo.ca/products/emmo-dx?utm_source=openai","https://vinfasttruongtin.vn/xe-may-dien-vinfast-evo-grand?utm_source=openai","https://www.vietnam.vn/en/vinfast-evo-grand-5-xe-may-dien-pin-roi-dang-can-nhac?utm_source=openai","https://www.blessthisstuff.com/stuff/vehicles/motorcycles/ryvid-anthem-electric-motorcycle/?utm_source=openai","https://citymagazine.si/en/ryvid-anthem-electric-motorcycle-with-removable-battery/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you're seeking top-rated electric motorcycles with removable batteries for convenient home charging, here are some notable options:
+
+
+[British Electric Motorcycle Manufacturer Maeving Enters French Market](https://www.rideapart.com/news/672801/maeving-rm1-launch-france-2023/?utm_source=openai)
+**Maeving RM1**  
+A lightweight electric motorcycle designed for urban commuting, featuring removable batteries that can be charged from any standard socket. It offers a top speed of 45 mph and a range of up to 80 miles. ([maeving.com](https://maeving.com/en-gb/pages/maeving-rm1-electric-motorcycle?utm_source=openai))
+
+
+
+[Zero XB and XE first ride: Back to the roots (and dirt) - RevZilla](https://www.revzilla.com/common-tread/zero-xb-and-xe-first-ride-motorcycle-review?utm_source=openai)
+**Zero Motorcycles XB**  
+An urban electric dirt bike with a compact, lightweight design and an easily swappable battery system. It provides an estimated range of 40 miles and weighs 139 lbs, making it suitable for off-road adventures. ([rangetruck.com](https://www.rangetruck.com/two-wheel-electric/zero-motorcycles-xb/?utm_source=openai))
+
+
+
+[Emmo DX - Available in Ottawa at Derand — Derand Motorsports](https://derandmotorsports.com/products/dx?srsltid=AfmBOoq8DNCPEfPt_LXtJQccvbn1BrGjSIwcJy3enLC1VhAHvHIHIR3s&utm_source=openai)
+**EMMO DX**  
+A motorcycle-style e-bike equipped with dual removable SafeSeal batteries, offering a range of up to 120 km. It features dual-piston hydraulic brakes and a full suspension system for enhanced control and comfort. ([emmo.ca](https://emmo.ca/products/emmo-dx?utm_source=openai))
+
+
+
+[Xe Máy Điện VinFast Evo Grand Chính Hãng Giá Tốt](https://vinfasttruongtin.vn/xe-may-dien-vinfast-evo-grand?utm_source=openai)
+**VinFast Evo Grand**  
+An electric motorcycle with a dual-battery configuration, including a fixed built-in battery and an optional removable battery. With both batteries, it boasts a claimed range of up to 262 km per charge and a top speed of 70 km/h. ([vietnam.vn](https://www.vietnam.vn/en/vinfast-evo-grand-5-xe-may-dien-pin-roi-dang-can-nhac?utm_source=openai))
+
+
+
+[Ryvid Anthem Electric Motorcycle](https://www.blessthisstuff.com/stuff/vehicles/motorcycles/ryvid-anthem-electric-motorcycle/?utm_source=openai)
+**Ryvid Anthem**  
+An electric motorcycle featuring a removable 4.3 kWh battery, providing a range of up to 120 km and a top speed of 120 km/h. Its lightweight design and adjustable seat height make it versatile for various riders. ([citymagazine.si](https://citymagazine.si/en/ryvid-anthem-electric-motorcycle-with-removable-battery/?utm_source=openai))
+
+
+These models combine performance with the convenience of removable batteries, allowing for easy home charging and extended riding ranges. 
