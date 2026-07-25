@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-25
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.revzilla.com/common-tread/2024-livewire-s2-del-mar-first-ride-electric-motorcycle-review?utm_source=openai","https://www.bikebound.com/2026/02/16/best-electric-motorcycles-2026/?utm_source=openai","https://www.motorpasionmoto.com/motos-electricas/zero-fxe-ultima-moto-electrica-marca-americana-supermotard-45-cv-13-880-euros?utm_source=openai","https://storage.googleapis.com/dbfpteftdkipxe/electric-motorcycle-list.html?utm_source=openai","https://www.bikeprof.com/best-motorcycles-for-commuting/?utm_source=openai","https://cscmotorcycles.com/2020-city-slicker-electric-motorcycle-black-red/?utm_source=openai","https://www.motorsocietyusa.com/electric-motorcycle-buyers-guide-2020/?utm_source=openai","https://www.motofichas.com/marcas/zero-motorcycles/sr-f-2021?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Electric motorcycles have become increasingly popular for city commuting, offering benefits like instant torque, low maintenance, and zero emissions. When selecting an electric motorcycle for daily urban use, consider factors such as range, charging time, maneuverability, and comfort. Here are some top models suited for city commuting:
+
+
+[2024 LiveWire S2 Del Mar first ride review - RevZilla](https://www.revzilla.com/common-tread/2024-livewire-s2-del-mar-first-ride-electric-motorcycle-review?utm_source=openai)
+**LiveWire S2 Del Mar**  
+Combining strong acceleration with agile handling, the S2 Del Mar is ideal for urban environments. It offers a city range of up to 110 miles and a top speed of 103 mph. Charging from 20% to 80% takes approximately 78 minutes on a Level 2 charger. ([bikebound.com](https://www.bikebound.com/2026/02/16/best-electric-motorcycles-2026/?utm_source=openai))
+
+
+
+[La Zero FXE es la última moto eléctrica de la marca americana: una supermotard de 45 CV por 13.880 euros](https://www.motorpasionmoto.com/motos-electricas/zero-fxe-ultima-moto-electrica-marca-americana-supermotard-45-cv-13-880-euros?utm_source=openai)
+**Zero FXE**  
+Designed specifically for city riding, the Zero FXE is lightweight and easy to maneuver. It provides a city range of approximately 105 miles and a top speed suitable for highway commuting. Its quick acceleration and lower price point make it a practical choice for daily urban trips. ([bikebound.com](https://www.bikebound.com/2026/02/16/best-electric-motorcycles-2026/?utm_source=openai))
+
+
+
+[Electric Motorcycle List at Hunter Langham blog](https://storage.googleapis.com/dbfpteftdkipxe/electric-motorcycle-list.html?utm_source=openai)
+**eAhora M1P Electric Motorcycle**  
+The eAhora M1P is tailored for daily commuting, offering a real-world range of 40 miles and a top speed of 37 mph. Its full suspension and wide seat enhance comfort on city streets. Additionally, it's street-legal and DOT approved, ensuring compliance with urban regulations. ([bikeprof.com](https://www.bikeprof.com/best-motorcycles-for-commuting/?utm_source=openai))
+
+
+
+[Shop Demo Special: CSC City Slicker Electric Motorcycle | 10 Miles, Black/Red Accent](https://cscmotorcycles.com/2020-city-slicker-electric-motorcycle-black-red/?utm_source=openai)
+**CSC City Slicker**  
+The CSC City Slicker is an affordable option for short urban commutes. It features a 3.2 kW electric motor, a top speed of 40-42 mph, and a range of up to 62 miles at lower speeds. Its compact design and quick acceleration make it suitable for city riding. ([motorsocietyusa.com](https://www.motorsocietyusa.com/electric-motorcycle-buyers-guide-2020/?utm_source=openai))
+
+
+
+[▷ Zero Motorcycles SR/F 2021 - Precio, ficha técnica, opiniones y ofertas](https://www.motofichas.com/marcas/zero-motorcycles/sr-f-2021?utm_source=openai)
+**Zero SR/F**  
+For those seeking higher performance, the Zero SR/F offers approximately 110 horsepower and a mixed range of around 120 miles. It features advanced rider modes and connectivity, making it versatile for both city and highway commuting. ([bikebound.com](https://www.bikebound.com/2026/02/16/best-electric-motorcycles-2026/?utm_source=openai))
+
+
+When choosing an electric motorcycle for city commuting, assess your daily travel distance, charging options, and budget to find the model that best fits your needs. 
