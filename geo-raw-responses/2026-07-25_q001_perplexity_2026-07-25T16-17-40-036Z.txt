@@ -1,0 +1,93 @@
+RUN DATE: 2026-07-25
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.youtube.com/watch?v=mdVr6biicHg&vl=en","https://www.youtube.com/watch?v=vWh1G51F6sY","https://motorwatt.com/ev-blog/reviews/best-electric-motorcycles-2026","https://luxe.digital/lifestyle/garage/best-electric-motorcycles/","https://gearjunkie.com/motors/best-electric-motorcycles","https://www.rokform.com/blogs/rokform-blog/best-electric-motorcycle"]
+
+--- RAW RESPONSE TEXT ---
+The most established and respected **electric motorbike brands** today are **Zero Motorcycles, LiveWire (Harley-Davidson), Energica, Honda, Can-Am, Stark, Sur-Ron, Cake, Damon, BMW, and Super Soco**.[3][4][5][6]
+
+Below is a concise brand‑focused overview, based on recent expert rankings and tests.
+
+---
+
+### Core specialist electric motorcycle brands
+
+- **Zero Motorcycles (USA)**  
+  - Focus: Street and dual‑sport electric motorcycles only.  
+  - Reputation: Often cited as the **best all‑rounder street brand**, with models like the **Zero SR/F**, **DSR/X**, **FX/FXE** regularly topping “best of” lists.[1][2][3][4][6]  
+  - Why notable: Mature product line, good balance of performance, range, and price; strong aftermarket and community support.[3][5]
+
+- **LiveWire (Harley‑Davidson’s electric brand, USA)**  
+  - Focus: Urban sport / street bikes, e.g. **LiveWire S2 Del Mar**.[2][3][4]  
+  - Reputation: Frequently listed as **best overall / best tech lovers** electric motorcycle for its design and connected features.[2][3][4]  
+  - Caveat: Some reviewers criticize earlier LiveWire models as **overpriced for the performance**.[6]
+
+- **Energica (Italy)**  
+  - Focus: High‑end sport‑touring and performance electric bikes.  
+  - Key model: **Energica Experia**, often ranked as **overall best electric motorcycle** and “best range” (up to ~420 km / 261 miles city range).[3][4][6]  
+  - Why notable: Long‑range capabilities, premium build, strong touring focus.[3][4][6]
+
+- **Cake (Sweden)**  
+  - Focus: Lightweight, minimalist **off‑road and urban** electric bikes (Kalk, Osa series).  
+  - Reputation: Frequently named **best value**, **most fun**, or **best varied‑terrain** options, especially the **Kalk** and **Osa Flex**.[4][6]  
+  - Why notable: Design‑driven, playful, very light bikes suited to mixed on/off‑road use.[4][6]
+
+- **Stark (Spain/Sweden)**  
+  - Focus: High‑performance **electric motocross**.  
+  - Key bike: **Stark VARG**, often cited as **top performance off‑road** and “most fun,” and ranked among the best electric bikes tested.[1][3][6]  
+  - Why notable: Race‑level power, radical MX focus; limited availability.[3][6]
+
+- **Sur‑Ron (China)**  
+  - Focus: Affordable **trail / light off‑road** electric bikes and “e‑moto” hybrids.  
+  - Reputation: Called out as a key **established off‑road brand**.[3]  
+  - Why notable: Very popular with hobby trail riders and modifiers; strong price‑to‑fun ratio.[3]
+
+---
+
+### Major motorcycle/OEM brands with strong electric offerings
+
+- **Honda (Japan)**  
+  - Example: **Honda WN7**, praised as **best for new street riders** thanks to approachable power and Honda’s dealer network.[1][3]  
+  - Why notable: Global service network, brand trust; good entry‑level platform.[3]
+
+- **Can‑Am (BRP, Canada)**  
+  - Example models: **Can‑Am Pulse** and **Origin**, appearing in top‑10 lists of real‑world tested electric bikes.[1]  
+  - Why notable: Re‑entering two‑wheel space with electric street and dual‑sport focus.[1]
+
+- **BMW (Germany)**  
+  - Example: **BMW CE 04** electric scooter, often ranked **best premium** urban electric two‑wheeler.[4]  
+  - Why notable: Strong design, high quality, aimed at urban commuters.[4]
+
+- **Harley‑Davidson**  
+  - Parent company behind **LiveWire**; the original Harley‑branded LiveWire is still referenced but typically considered less competitive on value than newer models.[5][6]
+
+---
+
+### Tech‑forward and niche brands
+
+- **Damon (Canada)**  
+  - Key bike: **Damon HyperSport Premier**, highlighted for **best tech & safety** (adaptive ergonomics, advanced rider aids) and long range.[2][4]  
+  - Why notable: Highly advanced safety and connectivity features.[2][4]
+
+- **Arc (UK)**  
+  - Key bike: **Arc Vector**, often ranked **most stylish** high‑end electric motorcycle.[4]  
+  - Why notable: Extremely premium, design and technology focused.[4]
+
+- **Evoke (China)**  
+  - Key bike: **Evoke 6061**, noted for **fastest charging** among electric motorcycles.[4]  
+  - Why notable: Rapid charging capability for urban riders.[4]
+
+- **Super Soco (China)**  
+  - Focus: Budget‑friendly commuter and learner bikes.  
+  - Example: **Super Soco TC Max**, often rated **best for beginners** due to low cost and forgiving performance.[6]  
+  - Why notable: Accessible way into electric motorcycling, widely available in many markets.[6]
+
+---
+
+### How to choose among these brands
+
+If you tell me what you care about most—commuting vs. long‑distance touring, off‑road vs. city, budget vs. premium—I can narrow this down to 2–3 **best brands and specific models** that match your use case.
