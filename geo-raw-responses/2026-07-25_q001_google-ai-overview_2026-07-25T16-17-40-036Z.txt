@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-25
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-1","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.motorcyclistonline.com/news/best-electric-motorcycles/","https://www.englishelectricmotorco.com/which-electric-motorbike-has-the-longest-range/","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.google.com/search?q=product&prds=pvt:hg,productid:2481786215767261680&ibp=oshop","https://www.google.com/search?q=product&prds=pvt:hg,productid:10147339579043290625,catalogid:4454536184536310916,gpcid:11489371325534401608,mid:576462898765463813&ibp=oshop","https://www.topspeed.com/electric-motorcycle-brands-to-watch/","https://www.reddit.com/r/Electricmotorcycles/comments/1ibhorl/help_me_decide_which_electric_motorcycles_to_buy/","https://letrigo.com/blogs/news/top-ebike-motor-brands?srsltid=AfmBOoqhW-s9r2i6krYe7kjEnfMgHiwcZcIiQgawTAqngQKD8qyhilvB","https://www.magnetmotos.co.uk/electric-motorcycles/zero?srsltid=AfmBOoq5AM4TwnQ7LYUEw_peq0Dt9DHrqUaDyeCOUfMSJpURphYfZSXG","https://pkpowersports.co.uk/new/bikes/zero/","https://www.visordown.com/features/general/best-electric-motorcycles","https://www.motorcyclesdata.com/2025/03/15/the-rise-of-electric-motorcycles-whats-next-for-the-industry/","https://engwe.com/blogs/news/top-5-electric-bike-for-adults-50-mph-models-reviewed","https://www.cyclenews.com/surron-motorcycle-news-reviews/","https://www.facebook.com/surrontechnz/videos/the-surron-light-bee-x-combines-the-power-of-a-dirt-bike-with-the-agility-of-a-m/999481979062165/"]
+
+--- RAW RESPONSE TEXT ---
+The best electric motorbike brands are led by market pioneers like Zero Motorcycles and LiveWire, which dominate the premium full-size street market, alongside specialized urban and off-road innovators like Maeving and Surron.
+Because the "best" brand depends entirely on your riding style, the top manufacturers are grouped below by their specific strengths.
+Premium & Full-Performance Brands
+
+Urban & Retro Commuter Brands
+
+Off-Road & Lightweight Trail Brands
+
+What kind of riding do you plan to do most? If you share your budget range, typical daily mileage, and whether you need highway speeds, I can recommend the exact brand and model that fits your needs.
