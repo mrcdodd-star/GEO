@@ -1,0 +1,96 @@
+RUN DATE: 2026-07-25
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_w2JdwWMTh1ggNJoN9kpHHxMO7917bddTbEC1DcXS44pwVmw5Pxw_hpp8O8gGj1XX1rhfqJvXwWFvJQGTY8mGdHECOjCjtujPhdJQ9HYVn_8V5P0xH-cRbx99n7aym-aghfkE-jQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfcGcRuRGJ_Wr-ZnNaQR3IHXSSgj_V9Oays8CiaTKAR-lL1jvZ69boVEPbkw_9qKQeHAhUryO5NuIw4U6pwwbza3FfVwXaOVEcIGym_MYrOYz2ceSTOm2yCw7WZu4_WWkucpsKwPya_fy813RDN70=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBmO2JznlSQYirO1Wowp-9b9OZ576bfruffdBY7WvY-7oIS_e3bPWlLxVtrVO4gE6JITxQIYQHj4MyF3Cjn4fVb3aBE1doOdewjZ_UnLkm5_w_gXO52YT40FHtwDYMub2jKeLSjfxVHWPf_M9AeVA4BmGh3RPPjg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9PrCxwcgThw0nHoExbUPjU_4fQIxl2_V-jUE89wZb6inrmVe7nUp6Y16Vs1aI8LXxOpqcIdJCHE-_x1uLE2GBFjtthFXW6gCA4W0utZw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw5JF3g35K2BSPVCw5T4aPfC9CW_7v8dnV4YfyJAbLDXSct6HVoFXIXJMT8o0JbcTNxV2IPtFMMNrpX22MnpWHIAYtikc2alhX3bReJxX_-OeU0OXdpEHkonXdTm6QwgTO33Aukag1AyuF95hfSiRZLA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGerQoWPzALhAPi7KewnBMHy6mrzwaOLD6Munn14VLAHbzvhYvOtB3DZ9pKXxXueZjgDrjnnpxnqM5sdIihG1pcugy-mJi4Socc1G4Y2ofwx8v5fYUFRVsRZz5QFIw6kk222LWw1yM5ZWQtYSEVaVYK_CyRla5q7MJb","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOTSTE2MR4ZArpQXXNGSAdfQ-8FO7FzisS5eHAeCDAWVbXrHgNPsooJoirQVraGJcmPyjt3a-oCDcYRsk1HZ_sGoiy-VGR31Bb6yyLpjBE7wzYq1QwY1SUTrE2d1xJ2Kg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrtjKehb5lnLHWiouD5xI2FoZH3I_rxU4GmMgL6TiVH2GK_NlLv8q2Nm3UWUCwueODIZTno3ZGCJ0csTyqG2qoK8O0FPA11WUEFF2ER9rugas5Rs4j7sbQTtndFyRXkSdarTTqVLkWNcIhEinCetrcyFsv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6qhwv7NL8f3Y2glpfIHo-Qr9oj-I91qWFracLA8mcoXh6SSFOYjCQl5FuZQKlP_H3JAVJ_gTEglsxvYmAAjheM8mo1UYX05Nbq9vanJEr10N7wGsQXLu9aSHqwJ2mHu8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVvdNNJbLH3vCivfcJJdU1TBAtV34WLv4tKhI89Df4oLAQ0LBx9URlzQOIorhhj5eaojBSYePNXJ24tSmL1AFbdaP3fE4wfggeDxtA47HrdXmwBbmzQMY7jVrE7t3ZTDU="]
+
+--- RAW RESPONSE TEXT ---
+The electric motorcycle market is more diverse and advanced than ever, with better battery ranges, fast-charging capabilities, and legacy motorcycle manufacturers finally entering the space alongside innovative startups. 
+
+Depending on your riding style—whether you want a daily commuter, a high-performance track weapon, a rugged off-road machine, or an urban runabout—the best electric motorbike brands are categorized below by their strengths:
+
+---
+
+### 1. The Industry Heavyweights (Best All-Rounders)
+
+These brands have robust dealer networks, proven reliability, and a wide range of models.
+
+#### **Zero Motorcycles** (USA)
+Often referred to as the "Tesla of motorcycles," Zero is the longest-running and most established electric motorcycle brand. They offer everything from lightweight urban commuters to high-performance street fighters and heavy adventure bikes.
+*   **Best Known For:** Excellent software, highly customizable riding modes, and a massive dealer network for easy servicing.
+*   **Key Models:** 
+    *   **Zero SR/F:** The gold-standard electric naked streetfighter, putting out 110 hp.
+    *   **Zero DSR/X:** A heavyweight electric adventure (ADV) bike designed for touring and light off-roading.
+    *   **Zero FXE:** A lightweight, nimble supermoto that is arguably the ultimate urban commuter.
+
+#### **LiveWire** (USA)
+Spun off from Harley-Davidson, LiveWire combines Harley's manufacturing muscle and premium build quality with cutting-edge EV technology. LiveWire bikes are praised for having some of the best handling and "soul" in the electric market.
+*   **Best Known For:** Premium fit and finish, excellent fast charging on their flagship model, and aggressive tracker styling.
+*   **Key Models:**
+    *   **LiveWire S2 Del Mar:** A highly agile, flat-tracker-inspired middleweight bike that serves as a perfect everyday urban performer.
+    *   **LiveWire ONE:** The premium flagship cruiser/streetfighter with fast-charging capability. 
+
+---
+
+### 2. High-Performance & Premium Brands
+
+For riders who want blistering speed, massive range, and premium, exotic components.
+
+#### **Energica** (Italy)
+If Zero is Tesla, Energica is the Ferrari of electric motorcycles. Hailing from Italy's motor valley, Energica builds heavy, high-voltage, incredibly powerful sportbikes and tourers that come standard with DC Fast Charging (CCS).
+*   **Best Known For:** Brutal acceleration, race-grade Brembo and Öhlins components, and the ability to charge from 0% to 80% in about 40 minutes.
+*   **Key Models:**
+    *   **Energica Experia:** The market's first purpose-built electric sport-touring/adventure motorcycle, built for long-distance comfort.
+    *   **Energica Ego+:** A fully-faired electric superbike with a top speed of 150 mph.
+
+#### **Verge Motorcycles** (Finland)
+Verge is a boutique brand making waves with incredibly futuristic designs and boundary-pushing engineering. Their bikes feature a hubless rear wheel where the electric motor is actually integrated inside the rim.
+*   **Best Known For:** Jaw-dropping design, massive torque, and leading-edge technology.
+*   **Key Models:** 
+    *   **Verge TS Pro / TS Ultra:** High-end cruisers boasting up to 370 miles of range and extremely rapid charge times.
+
+---
+
+### 3. Legacy Brands & New Entrants
+
+Traditional powersports giants are now producing highly polished, mass-market electric bikes.
+
+#### **Can-Am (BRP)** (Canada)
+After decades away from the two-wheel market, Can-Am returned with a splash by launching a highly-praised electric lineup. They utilize liquid-cooled Rotax E-Power motors and an enclosed, maintenance-free chain case.
+*   **Best Known For:** Beginner-friendliness, high build quality, liquid-cooled battery longevity, and built-in Apple CarPlay.
+*   **Key Models:**
+    *   **Can-Am Pulse:** A smooth, accessible naked street bike for urban commuting.
+    *   **Can-Am Origin:** A dual-sport bike capable of both highway cruising and dirt-trail riding.
+
+#### **BMW Motorrad** (Germany)
+BMW has focused its electric efforts entirely on premium urban mobility. Rather than traditional motorcycles, they have redefined the "scooter" and urban "motobike" segments.
+*   **Best Known For:** Futuristic, sci-fi aesthetics and highly refined German engineering.
+*   **Key Models:**
+    *   **BMW CE 04:** A large, highway-capable electric maxi-scooter with striking architectural styling.
+    *   **BMW CE 02:** A smaller, playful electric "e-parkourer" designed for Gen-Z city riders.
+
+---
+
+### 4. Off-Road, Dirt, & Lightweight Playbikes
+
+If you want to tear up trails or MX tracks without waking the neighbors, these brands dominate the dirt.
+
+#### **Stark Future** (Spain)
+Stark completely disrupted the motocross industry with the **Stark VARG**. It is widely considered by professional riders to be the most powerful and customizable production dirt bike on the planet, gas or electric.
+*   **Best Known For:** Near-silent operation, a phone-based dashboard that lets you tune the engine from 10 hp to 80 hp, and matching or beating 450cc gas dirt bikes in every metric.
+
+#### **Sur-Ron & Talaria** (China)
+These brands occupy the wildly popular "lightweight trail bike" (or "e-moto") category. Sitting somewhere between a heavy mountain bike and a light dirt bike, they are incredibly popular for trail riding, backyard tracks, and urban stunt riding.
+*   **Key Models:** **Sur-Ron Light Bee X** (or the heavier **Ultra Bee**), and the **Talaria Sting R**. 
+
+---
+
+### Summary: Which Brand is Right for You?
+*   Choose **Zero** if you want a reliable, daily-use street bike with great dealer support.
+*   Choose **LiveWire** if you want a premium, highly stylized urban cruiser with incredible handling.
+*   Choose **Energica** if you want to go fast, go far, and require fast highway charging.
+*   Choose **Can-Am** if you are a beginner or commuter looking for a highly polished, low-maintenance daily rider.
+*   Choose **Stark** or **Sur-Ron** if you want to ride off-road, hit the trails, or ride motocross.
