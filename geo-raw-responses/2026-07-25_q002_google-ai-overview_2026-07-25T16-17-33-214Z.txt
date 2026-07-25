@@ -1,0 +1,22 @@
+RUN DATE: 2026-07-25
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.youtube.com/watch?v=7PKQfIa6880&vl=en&t=48","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.youtube.com/watch?v=qRuj5-akeMQ&t=965","https://www.reddit.com/r/Electricmotorcycles/comments/1dbd4wo/which_to_buy_for_commuting_and_for_those_with/","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025?srsltid=AfmBOooxoYfiUKHP5FKJn8TIOP4Hw8H0hItvyPU0g3vzzkqjrBY-uad1","https://www.autotrader.co.uk/bikes/content/zero-s-review-commuter-2020","https://newatlas.com/motorcycles/zero-srs-faired-electric-sportsbike/","https://www.gq-magazine.co.uk/article/zero-sr-electric-motorcycle-review","https://www.revzilla.com/common-tread/hondas-flirtation-with-electric-motorcycles?srsltid=AfmBOoqkJdIMXh2NFtoysZIICXmiSk3Pnk4wiaGZZGyiyJowmddPOhby","https://electrek.co/2025/07/14/this-hilarious-looking-electric-motorcycle-just-launched-after-a-seven-year-tease/","https://leoguarbikes.com/blogs/news/best-e-bikes-for-women-guide?srsltid=AfmBOop4kDB2GypNq1r1YxTLZ9MwReohUVT4EmaoM77bbRQLI0T5f1BU","https://www.voromotors.com/collections/electric-scooters?srsltid=AfmBOooosG1XecHbFLWpdPv8jburApPH168VKib242UiNQYBJZUUcorK","https://riderguide.com/guides/factors-to-consider-when-selecting-a-long-range-electric-scooter/","https://www.t3.com/auto/electric-vehicles/maeving-rm2-electric-motorcycle-review"]
+
+--- RAW RESPONSE TEXT ---
+The Livewire S2 Del Mar, Ryvid Anthem, and Zero S are widely considered the best electric motorcycles for daily city commuting. They blend nimble handling, practical urban range, and immediate electric torque to navigate tight traffic efficiently.
+The top options vary by budget, styling, and specific commuting needs:
+Top Premium & All-Rounder Commuters
+
+Top Budget & Lightweight Commuters
+
+
+
+
+Urban Maxi-Scooters (Commuter Alternatives)
+
+To help narrow down the selection, could you share:
