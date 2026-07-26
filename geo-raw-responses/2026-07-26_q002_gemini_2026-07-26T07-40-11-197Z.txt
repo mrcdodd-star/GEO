@@ -1,0 +1,76 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXQX8bT64tHgkbWsv5nP1piHj5e-Se6hjzQgpwbvFs-q8XzLXqt7zWHma3GWPpZQ8Fw0FZ-Rj7cf9brvu0adMGbJmTJ8PRHjh2UJFbhr4VC9jgzIY1_ttil3of13DgjeX4xNJDSk7CuuGDBPuUL_q7xT1kn4-Z70hVA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuTzqWWAf3P45FM8o2IHiuftZv0_8xxMs_mfF5ocQAJzEEkjgEAjc1tSKOheOSyQgw9uTtiqFWy0sDNUZ71J92pKQCDA_qnmJBRDA1mJ5D5xHI8CX1KzD8VU97UzzbfRfts12-8HvLO-SqzSK_y-Cisl83LQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QNs0zE0zsFC8PoE0mI1sePzfmFdC-sEEPzAWmUMNUPKKz3vqC0m-uPon8xrLOGiYL3AF2eIAoDDyOA61MfvV92dHVNDhk70sxDuycq9hnjq5pORbvhGxv3z0QiOS_2jw00JXLq5BGY9sU4doYvMyF6IGC5bnK7rWEtZYfvIHp8xQXelZj6kIRtawLa4TQY1auTpgTv0zz8dqcDqRn89T7S4MmwEiNQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs-KHQn62NAePr02BwPpeC6d76QhfNjffOXc-lR6aC315YZG72VIeKU7RZBAPNvFfWrYZYObyRDOiZyIrd5o0rbpUVahwJqpoDS9U1VmyamH-UCvrZ-OyvQ5ru6gvKvwODQWOn4yIkvVyL-EQMn7_7fQ9BOZ0KLpxTafVFcZyqpCYc4o0X2N7-6gQi9L_R-BRSqusNQw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoLYmODDdRNUd6ZxglP9rteJyfwlY_x_Of0OMwz3akPQWg356FfBwYlqUzf2oiIUC7FmhgMme1frZHKJHnzUlj7JYthGqp9i-0xtbG5ZfUi7FHxAKYcsu2SiKorsCYyyhmbMpiqN7_elHyq1v_xkLz-Pn1V21OCvL3-KqJvsracHBhlvcPkWj05QZSMdBWjqh-CALERwSLFdXrs09K8g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErX4x4cnKJ5f61F1zqu-D7LsWIP6lmrHd2V3JNvsSD-K19reoF47Jn8-huyyP6EQJMF4i8xnRK0zRVZuPmmPdBoQfZ21B1I4eVIc7J6hYxj975tv-wCShxkMlcc_jHJj9l","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpPdyipRr1BuxlzjYm3u3ScQmn2BNjZlwVULwHpE4sjV3g-zsT6Ua4MElLK12ZIzUgquV_ZTnQZoBAOBw7P-pjMT-a_m4z24TFBQT6l_sP9VWxZ1xqBXBrx6yuXcymvtXk","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWs5_EXk3vzXDJX8p1-BzPHJN51ntLyjm35QEsU6ypiZYeSuHBAJqHQPoUPPUz8-d2ZX0MZ972UfBiUXUL9r4oSlkMwh3HRIcH4OSUrojSIr2KInESyx7EeAjhUTFmKk_JR_1siHn","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYlGc6BI5tol0iXfd3Cae5AqNP9ipZM5qjOcfYEjHbus_Cs-oQV4Pd4E1GFB6d8kS698ZdCSojfor3U77xsndR-hMimCuhTMEkC7TQShJt9ycfE-xBz_xkzFjdk3dwkwM_","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrLQUCdTlZkGHjFmKTKxZRUHs6mKLvH5iU2NtKdztNNJtt8yA3785aSQqvagLaj_X-2c6t4_6mtcfq11K1DEVnw8pg1k5mM4jsTqSpt5a0JXmugGLmQ8A5hN5BNT4HYeu0ypS_sTeI","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFPLPNIGn44bY6IaHZxhs-oFPBzf_gSqQ9iJSoW3ub0bbPWBxmfRY-tGmKi0YT29HhN8bgJGh9s4ZfBe17bJJE8KyG1oJyph76wN0zY19dIhVn5cwpdoBM0IFl9HwF3ObaWbmUNyStRpRC0jaifB8_9DuCEHryy8MPciOwoeZnMEmoOzE5BTMMo6TXsoemJwSUz70=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0naVjTmLs1rrl_vcDfzD8NFyHeSvySSyUrGHZDLbj1ma9YqS9p-fsWUCvw07ahqDNnH2WXCPcFJZaJaI73m715TZFks2jl5CFFOC3e5xdWz4qx_wFjqBT9qrwGnNuHM4He4QFKOwnap8loX58NDi2gYc9NTtcfLybV3qdwVcTbbBwIJ0O0bnXqdDrJrPALjx196x_lIG47pRM8iWkMR4f5TwMmZQ258mcdFiFNl7BIay1kwNXVxWdnt0yxXQA68Nhj4GaPwC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9y_4-ScCo_oUjNy58PpRNHucFN9N9ns8_xznQXJN_DIE6LkN8d0k-T6K0qTaIWDbIlZBmRdKdNiRgdeG3UFeEAYsnm4qw96hlWzljVA4k-b7Ktd1mfLSThpGfx4QS2VZfGsG6lvtwFcpj5oia8W9Bqq_m3mmKdcbdf5XS7vbybGuVeWLUTrybcgRwvoQJORHARpQASdso","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtFPemLWXJxowiDnkKZFE5iyTTT9jLD8qeEymLD0lde5CLj4_tXUxJHuQj8fwEmRp6vwucataAsxmCwBIDZLG9ZFK8HnM9qXcDNsWYEtKk-laLONSjKp9O8sDTqTMK3aLmG8Ooae6vctWKalLJ_sGRhCXyn0Xc0GoBeylAEfQRf2YzcVjFA1oiSf9KiSpTosewOMk6sQS2Uw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJhXeRsIvUW6xdMi1UkPpwRiSjHkXwSBF5kpcldwpowYimLYoVe9jqPrnaIcnxAidhxH2_dJSsNO46b1luoICSi0_P421MBKg5DIaWqIpe5Hy-S4tMA1oHXWWSZO_U_XPJUw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBYuavyau-N3pkR8vwhQa7-dm7dBcQU9oAvZ7B52fbtsM0zjJZ-F5emX4CAHM3-OpqvaLYDn7w9tKiNrITzzxRRnphTfrreISPCCW3dF96RCd2O8YRwcZ5Huf0OyAeXxXeHUVTEiNiimjfvpr3EivdB-pph9vKIec5c9EoUzcdRQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlkGij_dcbjh0yWwv1Qqs6axR7V4UVAgpSYW91STf-RhAYPI11LyIkDdiC4H9H8fCYB18bclcD1GmxmTbCFmgmHejLtxq2871OKS9OS9srF-ITIDov9sA0U4MA42BCf9_Q1BPqafcmuiINmFOYqX87gFgq16IUHgcw8y6wCqKu1DBYaw5mQ9isFHk8aHuoM9wJx8-IN4_vcFGOZg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQOXNra2yqVpfiKfhbXlNRyVDYTss3rqpHnhfzfYkVt_jl7Ybza1QTMe7hCJlx1xl8UIZULbELHFmL-ILchWL0jr8aJMHBStgaaPhRhWEadbkvlmzJ-Ucffd1mQdGIMjUDV7JB7H6u6LjB1_3qAeTnkFkWDtAxdBvKnGU7L1Ufpe4_cpCCINhIlpuEUXyFCk46RiuAe4ybkAyylE8DNNcZAmErTvT","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuEdccIYAb7BymBtci5Tq_QowBATrcaJX2rX8ssl3ZEJs1z4ADTOzy0Lt33CivqLyRhmWzQ3Wrm2WRwI5r65Xaz3MhIKZs8F2V9aJsXlJpH4PxhhbiZd43k6W_rEa-WM1q0-_J0Il9GrkyvTAGtCVskZBSa7cmzuo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHelN1II-Bl8LT8Hj8n1O9tNtSGRYqjv0yB6PZypsB5kEM7N9JefFL3aPQEhzl-9XkXgKwiombpnmYl5WnPlPl3g1fyUjUdnsomRrngM-2Ij4166l-qZFc-FNbZe_2aWYi4N2svaRbRVE5QXiAl5uhkITnSE73Ci-weU_A7IxRxg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx2PAAIqjtfyuKwMD4Zs9ZYPr6TwpMIPQIB8m33VfESPPkbdkj31YkFw_P3ySK1vCBTKfW2Q_hOTTOMNMmDMtfQAyrZzI3MAjt-fYnQo8Ao8n9lak1HJm_kGhXnagxAmDceUCtl5ufNUCVtW3D16cpEsD8lpFqvmw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdbyFDpQWV_NplQXLBcr0NMQwxAouGnwfpJ0V3SA3h7zaKqoDdkUJ798iZK5NDyccMZz3YyPdwfTKOQ4E4eSZmlSCmGRD3dBB9XxI_GWKdxyhHe7iDNafjpcOwRrkK5Z_f5PFNJwwasi8ELrggpYJ_jQrNmaPDm47_AMT1ZQjyjcHVQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXLsVvoR2RTS3HOE8QHbrNK-PN5_06BQCF_JR6Qqd_azu1ZIwkgMgPrZaHO4y36a_IFNgV-o8EN3f9hutagrK4u7zrvuKFLpyDXyVcc_ONJCcyELm6Kli-ACqSeRNm8erCATPbUEbTy4zRopSuzDpwwGV7aSgIwTTvgLq_8OvpGsxCINmuLdsTEqYa4E5tR0_rJzc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVBG91HN-e_ybI9sjdJWEjRd6-K2OidatW5fqENfuVZ7qghOSI0SYHkQeMi4bUUgbRRidmz1VFBERAZ3qgXWlHFi6GMsXWA0uYJfeCQR5b5zgZbpdlfAyGKE4rSkQqN2SX0fCvK4FqHW9UdPzif68ojviTaJjyCnrM-Mwovrra79J3nxip0B_vV8lbA_NgyUed7tcfQmIpxSN-2VDPN_xPrHpFdCX","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9WiPXNp3D39qhxU_PIra5JL-3pRdGmZglkTRsExEIV1gJh-sgzoZlElq3L58sQ0HqgGprhILT4v5lvfxIzyaB27gkKd0anZcDu_XuETbZ1LLifpDBLV22FYPGRPJ8z3_1zBCS0TybRIwK0tyOdeFTwt_u6lnj9REBUhFbQGUjcseJSHwDo6KlUjM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7U0m0DRMJHcjDupo9uM_nSNRoHzASLBe68o34EU98A_4RdmwqRqiMusfB0s3B-cIKkFSnghp41CletNtI8MXmvWeHwmNYsPROo_IixYmej0-3VAnhqgOIWge_c89dXepMYfWewzOrQ1BSrHJaq0d1StSd3Rij3xcucE4bJ3y9RQUzt477IvUCz1ncKyZN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ1Z7lkCCbZ41MIpBhSegQREuaSpJla6sXF5lO39WdjzCQ4TsJWw8vZhkxzjZqfZA2EVSl0G77sKJBxhecCUbFB-wHdiLuEeF3Nmwv-MRZi5-fuuQCymqJc_8-GsXu828p","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEdXwUeJN0jbfw_1FH1NiSM5nVpltevBX_i6SZQB1tcPFigyXIQjS8gY3q0ykIrIrA7EEFB5NkBBFWJYmEHRt4bWiXuxywEDVzHm7pvTgHLU4C5bD7l_jyjsjQ6gfzKGsF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmq38N4KHmT0yiQSD6ykWZcsd8_yGBH8HNXBdNjFHOEkcWN7sRLBBxSTXAUAvYxOhXZNQoS1tRzPlAS6FFtWtieEg-mK9BLlxmHPBil29dM-ZcOL6BWn6g2Uo6BOdBN8Yb4ygKnZQ5giYAtO0jOlT3ZKvY2-9AshxDe-5AFvsOYDhM4vki8O-QzTYSxr9zmt7W2H1bbHM0uh8z","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0JHRs0DZ-AhlvC19wf4QrYbCcuu6EXIue3TRhIXWeZQPVsrdHmFMdhrXrRiLaaer8Jddhao0d0bYD81aTClPPhdhdqFucs1ZeJM1hR1OPDzCO4GyzEHm3UjNa7JEb4KiiT7oThbHpKt1YDxHcTPkZR5BOohTZ6FQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpu4jVDnrxP_Vnnn01XDQKwONRgr1dSImQedskxw8nTebUv3KWgGTg05FrjhQIS4kic5GYSazccSEImkNShoo1xn9DUqyE1HYfm1kMm_iv4X8fKPkvil0kgkoFDsAUxAHQLouRxMkFtDhYdHuZUfGBzr2MjPTF8IG3dtMegbJyoLddt8UxIJZuxPoItC80X9WEdQPPuiYGP3xRXoOVWp1XaHxbrzHmDAS1mgV16qGs5iAbjO0="]
+
+--- RAW RESPONSE TEXT ---
+Electric motorcycles have become the ultimate tool for daily city commuting. Unlike traditional gas-powered bikes, electric commuters eliminate the blistering engine heat, heavy clutch work in gridlock, and high maintenance costs of internal combustion engines. Instead, they deliver silent, zero-emission, "twist-and-go" convenience with instant torque that makes navigating urban environments a breeze.
+
+The best electric motorcycles for daily city commuting are categorized below by what they do best, from budget-friendly options to premium highway-capable machines.
+
+---
+
+### 1. Best Overall / Premium Commuter: LiveWire S2 Del Mar
+If your commute involves a mix of city streets and occasional highway stretches, the **LiveWire S2 Del Mar** (and its siblings on the S2 platform, like the *S2 Mulholland*) represents the gold standard. Built on LiveWire's lightweight "Arrow" platform, it feels nimble while packing a serious performance punch. 
+
+* **MSRP:** ~$15,500
+* **Top Speed:** 103 mph
+* **Real-World City Range:** ~110 miles (around 60–70 miles on the highway)
+* **Charging:** Level 2 AC fast charging (charges from 20% to 90% in under an hour). 
+* **Why it’s great for commuting:** It offers incredible power (84 hp peak) and handling that allows you to easily outpace city traffic and confidently merge onto the freeway. It also supports Level 2 charging, meaning you can easily top it up at public charging stations. 
+
+### 2. Best Value & Portability: Ryvid Anthem
+The **Ryvid Anthem** is one of the most innovative and budget-friendly electric motorcycles on the market. It is specifically designed to solve the common issues faced by urban apartment dwellers.
+
+* **MSRP:** ~$6,000
+* **Top Speed:** 75+ mph
+* **Real-World City Range:** ~70–75 miles
+* **Charging:** Removable 4.3 kWh battery (can be rolled indoors like a suitcase to charge via a standard 110V wall outlet).
+* **Why it’s great for commuting:** Beyond its highly competitive price, the Anthem features an **electronically adjustable seat height** (from 30 to 34 inches), allowing you to raise it for highway visibility or lower it for confident stop-and-go foot placement. At just 313 lbs, it is exceptionally easy to handle.
+
+### 3. Best Style & Urban Sophistication: Maeving RM1S
+For the commuter who wants a head-turning aesthetic without sacrificing practicality, the British-built **Maeving RM1S** is a retro-inspired work of art. Designed by former Triumph engineers, it blends a vintage café racer profile with quiet, modern electric power.
+
+* **MSRP:** ~$9,000 (US) / £7,495 (UK)
+* **Top Speed:** 70 mph
+* **Real-World City Range:** ~80 miles (with dual battery setup)
+* **Charging:** Twin removable batteries that can be charged from any standard home or office outlet.
+* **Why it’s great for commuting:** The RM1S is incredibly lightweight (~310 lbs) and perfectly balanced. Because the motor is housed in the rear hub, the "tank" area is actually a 10-liter storage compartment. It's a low-maintenance, high-style commuter ideal for strictly urban and suburban limits.
+
+### 4. Best American-Built Custom: LAND Moto District (Street or ADV)
+Hand-built in Cleveland, Ohio, the **LAND Moto District** is a highly customizable, lightweight street-legal electric motorcycle that bridges the gap between high-end e-bikes and true motorcycles. 
+
+* **MSRP:** Starts at ~$6,995 (up to $11,200 for the long-range/ADV spec)
+* **Top Speed:** 70+ mph
+* **Real-World City Range:** 40 to 120 miles (depending on the battery capacity chosen)
+* **Charging:** Removable 72V battery packs.
+* **Why it’s great for commuting:** The District weighs an ultra-light 240 lbs and feels like a beefed-up, incredibly agile mountain bike. It features 4 distinct ride modes (Mode 1 behaves like an e-bike, while Mode 4 unlocks full motorcycle power and speed), making it an excellent, approachable "on-ramp" for beginner riders transitioning to motorcycles.
+
+### 5. Best Supermoto Carver: Zero FXE
+The **Zero FXE** is a futuristic, stripped-down supermoto designed specifically for carving up tight city streets. 
+
+* **MSRP:** ~$12,195
+* **Top Speed:** 85 mph
+* **Real-World City Range:** ~100 miles (drops to ~40-50 miles with heavy highway use)
+* **Charging:** Standard J1772 or 110V wall outlet (takes about 9 hours to full, though an optional accessory quick-charger can cut this to ~4 hours).
+* **Why it’s great for commuting:** Weighing only 301 lbs, the FXE features a tall seat height (32.9 inches) and wide bars, giving you an upright, commanding view over traffic. Its quick, punchy acceleration and high-quality Showa suspension make it incredibly fun for urban environments.
+
+### 6. Best Playful Mini-Commuter: BMW CE 02
+BMW calls the **CE 02** an "e-parkourer." Falling somewhere between a scooter and a motorcycle, it is targeted directly at younger urban riders and strictly inner-city commutes.
+
+* **MSRP:** ~$7,599
+* **Top Speed:** 59 mph
+* **Real-World City Range:** ~56 miles
+* **Charging:** 110V wall outlet (approx. 3–4 hours).
+* **Why it’s great for commuting:** It is compact, incredibly easy to park, and has an ultra-low seat height. If your daily commute consists entirely of surface streets (no freeways) and you want a premium, high-quality build with BMW reliability, this is an excellent, low-stress daily runabout.
+
+---
+
+### Key Factors to Keep in Mind Before Buying:
+1. **Your Charging Setup:** If you live in an apartment without a garage, look *only* at bikes with **removable batteries** (Ryvid, Maeving, LAND). Hauling a 300-lb bike into your living room to plug it in is impossible, but carrying a 35-lb battery to your desk or kitchen is highly practical.
+2. **Highway vs. City Streets:** Electric bikes lose battery much faster at sustained highway speeds (70+ mph) due to wind resistance. If your daily route is strictly local streets, your range will stretch significantly; if you have a 20-mile highway stretch, buy a bike with a larger battery and highway capacity (like the LiveWire S2 or Zero FXE).
+3. **Gear and Cargo:** Urban commuting usually requires carrying a backpack, laptop, or lunch. Check what factory or aftermarket luggage options exist for your choice (the Maeving has integrated storage, while the LiveWire and Ryvid have accessory racks).
