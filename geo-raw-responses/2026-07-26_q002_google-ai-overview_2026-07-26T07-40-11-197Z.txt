@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.reddit.com/r/Electricmotorcycles/comments/1ptucvy/new_to_ev_motorcycle_looking_for_a_reliable_one/","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.youtube.com/watch?v=vWh1G51F6sY","https://www.youtube.com/watch?v=7PKQfIa6880&vl=en","https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-7-hottest-new-electric-motorcycles-and-scooters-to-boost-your-commute","https://www.reddit.com/r/Electricmotorcycles/comments/1dbd4wo/which_to_buy_for_commuting_and_for_those_with/","https://www.youtube.com/watch?v=qRuj5-akeMQ&t=965","https://www.motorcyclistonline.com/news/best-electric-motorcycles/","https://www.englishelectricmotorco.com/which-electric-motorcycle-is-best-a-comprehensive-guide-for-2024/","https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.youtube.com/watch?v=D63OuSlOotU","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.hovsco.com/blogs/news/which-electric-motorcycle-is-best-for-mixed-city-and-highway-use?srsltid=AfmBOopH68yUGNoFH2kiwzDWYWslALuMb0pz_cD-Ojg3uwx4fDZgEX5Z","https://www.youtube.com/watch?v=gVg0hlozaYs","https://www.roadracingworld.com/news/first-ride-ryvid-anthem-electric-streetbike/","https://www.motorcyclenews.com/maeving/","https://electrek.co/2022/12/28/these-are-the-low-cost-electric-motorcycles-that-americans-can-buy-now/","https://qz.com/best-electric-motorcycles-bikes-livewire-ryvid-canam-1851780851","https://electrek.co/2021/06/02/new-us-startup-zaiser-promises-300-mile-electric-motorcycle-with-all-wheel-drive/","https://www.cycleworld.com/motorcycle-reviews/livewire-s2-alpinista-review/","https://www.cyclingelectric.com/news/new-niche-and-askoll-e-bike-motors-turn-heads","https://thedriven.io/2021/07/02/the-east-coast-road-trip-to-spread-the-word-on-electric-motorcycles/"]
+
+--- RAW RESPONSE TEXT ---
+The best electric motorcycles for daily city commuting are the LiveWire S2 Del Mar for overall performance, the Ryvid Anthem for budget-conscious riders, and the Maeving RM1S for pure urban style and ease of charging. City commuting requires a nimble, lightweight frame, manageable power delivery, and practical charging solutions over massive highway battery packs.
+Top Commuter Options Compared
+
+What to Look For in an Urban Electric Bike
+
+To recommend the absolute best match for your commute, could you tell me:
