@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.happyrunsports.com/blogs/electric-motorcycle/what-are-the-best-electric-motorcycle-models-for-2025-urban-commuting","https://essencemotocycles.com/best-electric-motorcycles-for-2025-which-model-fits-your-ride-style/","https://www.bike-ev.com/news/motocycles/can-am-pulse-and-can-am-origin-2025-price-specs-and-release-date/","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.roadrunner.travel/motorcycles/can-am-reveals-specs-of-new-electric-motorcycles/","https://can-am.brp.com/on-road/us/en/models/motorcycles/naked/pulse.html","https://www.bmwblog.com/2025/07/07/2025-bmw-ce04-electric-scooter-update/","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-of-2025"]
+
+--- RAW RESPONSE TEXT ---
+Here's a comprehensive guide to the **best electric motorcycles for daily city commuting** in 2025/2026:
+
+---
+
+## 🏍️ Best Electric Motorcycles for City Commuting
+
