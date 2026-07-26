@@ -1,0 +1,77 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpjNEd6ICy7On9nE2SC8OVjU-pL4uuKs7HItrwv-loDWtptMbwL5XwdfKc1EGvpqI5onr-PG8UedECcnswFw25KTJ4_KO9EJtXBiqHR27yY7TErPwQmJiDOBV9JoiWBFu043NDxbFRpvKPes5Lcf8YAwRu3FWRqg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVaLI8mBUwmWjD7JVk-xrnf5_aofxTfM2zbBJWEyoagbB_ORyGFVROawC07AIKOsSnEyxrA8eyAIvKfhWZTY34tZGaxqQBxD62sv2oDbelYKu25jqVbPAiEpezihc95wzZHwjbDJyE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwH8ZbgjcUCCzfPjYnEuFKlh-2ydOvkTvgJF6kX3deUGJa7A8JleLpliJ3IXSwWOpj--StDkIdDZ1gkQ0GgoCUADTVSlJQbPjEUOOhSoVY_kNWBWzfQYOd5tHF0oyBnT5Al5mDqS3tIy8Ptv9hwQ04_vMLO5zV1PQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuFVzIjInr7Y8P4nSe8ZYCoxQzKc8hwoxKKl9c0Ee6RuxC1FPzLpCv2tmgSMvElzh9yjcKItBxUiMzPpA03VQyK1gM5rt8wJ_cniVEZTbzfBUWc7h6WBqmFM_uzA3LLFfKgjwJ8ANN-MO8lfiyvcGn8OsmcBrUqOzjtaxEf5qAfSrfWBwG","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIIkMNT3nws04mC6agyHCGTpKItW6fHOE2CgZyIB_N6MSPGvcbgNnIFRjpIGNVY_0s0jDdcefgapwg1-KH7DLLSZDwiuXXKFI2pA1ut5dR7MIsWUW9VyYv8oZ0uQxZRbug","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF98ql50CFmweDH-ceF7eiOan2YA5VYXcYB5A3T85BQoAbOiy9i3mo288cMB5F4PeqiSSrWHLbawBE9sQJS1JEpyUg1qjzj30w7yFGzd9IT7lNniDsrzkEKZpb3XKtDAixaO3w-nVzOOibPVdwKa8bYG5-F1v1N9pCWH2fTjbTJ-8iyg5f0K9rr_VcKK5v_TEfIhE4pM4NKRcsXJp6Kq7wlhY2zwqA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsPmZ9RdujQTIN2hsIcSoXbIliUGTrIdxM6DCtkdp6OxaDwu69v86ZUGlnN3GkSlikBYflEGKqLQCo5gUv2RpXM8hk-9GjndpDZfg92zoli_HR6SGeKXfmstmpB2eHmfkf","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN0Wzy954GPEWiHlhP7quFBOrzdVUIArIHD5yBjLL5IkMCq9wOR6FLagGCfk3hcTpOwc5YkDhZQau7_hE5QBPoU4f-4GwL1QhkWyCyJ61TrQwydtmpZ918VoAQxnXg2VlnrrtbFxnI","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd7BxfVu2ZQfCYKSPJZAkE2HtBNsJh0S6TFm2lbNeCAbLK1bZZlDjQ4sjEl8ajtaHreGjIWRXj7HArF6pnL0FPYfbeYlZZyhbSfZQNRfVXTtY8mKgUzOIFTY5vm0dL28vH9PXCAPvP0vrGiJE3YluYf_Kr3g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_cUUCmnzSP7QbNdtmOmYZjjauovqavlDUSoTsPa3pM3R6TJ4EXBDiT1oKJaOmiQab_i2y8KLl-VUaQOhc36tH-p-oHdGIFwql4yeMWSVGXxGJAvBoRFvKpp5wjyeiZ96q-PwTvVe5xhHaa9OwUBHtcpqzSTxbz0tvoU_y2zx0xxmGsUFwxWYm00wv74gpSjkvoE3T_2PI","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvBkLuDXWF5sXTsXrydCyvzsA-cwh81HPI_OhQqkvgvBtVpYexm_y36EuuijilYKQAVluqtN63DvdwzA_j79AvQtfhcOjjMRKoIbCIkQg0hselJ7HfgWn0acw7iS7tUXj4NIrXA8MI","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4BjeRXCciX9ehZVXUjDtNq9M2ChFkrv60tvKZNmknNLrm9XW85FlI5PUxxcRpBxcEwiHTc8rTJg8DvnFFc1wUGdraY_tx14YhOYIXAIA2PHzyZeDMWrC0PJkjPvXZLn8ebHzq9jzplr2r6j_0f3d4pSUNCA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlBvL79YSeo7fwltrh1HBdCn4aGZGoQIJZrkBZ_lojY24yN9AbQiMK9gOR3_F2epuAeQ9IjGKMt5uBYjSqK_IXvS8Qnwrq0sZD1K9FUeESaj5sEQxvueTagvsPWo27vMVG2BDbVW8nRGuy","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcE-rlsQR3XC2tNj1dzedQqXn3Afjo8Kn9707KS1efrVKDeCvBIpJYluiCqL2EsF-Mp36ii8yvWZ2HwpOO8o4qROPz6E0NwKZatB0TlleCKs4aFIkt7eFLFyrPP6eT-iCn4qFkOFft0lzT5Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzSJ1KmQXMhK4dU-lEF2jJA7HQOFUWpQUDes8EX1vhCwh8CD7ROLZC5hy57YO-6J93mN1j-8FrG0Z8kxN7k7RPi29PMItMGyiI5XQT05_lzm5rvWoWxz7kmzND50PdN2bH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGh5jIbZM3fC20dq5kzlN48g46-QOo7-1CFRvo-E_2E9lc_h9Fccoz-4fLixe3sfJOKCNbghDSj6Fdm20zmZ3ivViuAu1HQ1ACBV5nHq4h3ax7g7XBseFBne1A7t_3hIuW","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKfXssRV-v1l2-4YLpqug8NcXhq7DidQx_ddDmJjd5q6YNF-C2mNHPrxWiMfWUcleGeaEwg4qFTqWEidX0yyyt0Uq2qM19pSEJJfUh9bTvBDZVX8f7h4MEBi2Ve6EGluPBipZJtuIt5Vn1rL8MqkauWimf5ccgC0OupC8h0udUWa-kBScHuNdyPYwIKDyDB-13","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKk_1mZaqIl-vCsvDeBWDvJf3BCtaxa_XVu13zHa9GNIppTh8oSRNBxV4-rL4_i3r9UQtGmcniS8oKRLEuDcbGS4AzfTwbhiW7TaWXZQxFOeQeJ0EZMDoNTs1WIhcCs112HMS5AYJ0RPL49Go9si2m55sjx6IHNhEQXjKfwZ6W0hsMloT9Z_TkcmhTzx6sNjNj_Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhlL1Ys2I8SQp2l7d7iM91ETem7YyOkfzfIKR-hzxT2OKN6MCkH1wpmWnhBx7YRH-Kk7i4Npz_URizKS3WDm6CBemza39vzp8gp4jWy4yHOFggv9AKiB-vjgo6oURp4Q7W3ib66o9l-ZUl-LrPFRS27RK6q_pjt96UW76SuN1sBfE4dA8GJpjv6c-lu5FQNTnI9QpsytBGw8JH8ml_Ig==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7W_QhfwbhHbPxxsBX8x0smHgM7bcBu7NkJah1rBZGzJ6qusXPaC2XIIedOB74TtdcycnIXP93qrdjacCMukZAevILr2JJJZ0CUY9sN5slyWs5gbX2DpkhOAEmO0aw2IY6GGEZqJ8p0UsPZG9paec8HXCiQv-iohmzq7QAeGtvbLviYyoXPsFUrty1uucwFyLmSy4Z3w8y8I0wyfPP9QPesshgFBsW6YHPLshPdfU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0s-lE1ulvHepuzvcR0krF3d9gCPmoimaSvhxpXDrCq47g6o6Q-CIYUvJDJFo4ZNvgECJFiStKl-0NpwtqBOF3NWE91XdHYUcyx_U8cwlqDPg3HQrMbIWTRbL1E_zZnB6_9ziwxbeFk7IrDXhx7-4VYc7ZRqTfBr32","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0LKCckK768N3EXG3qYFaOV2R3XKwGkqnsfGaLO237zcZYa8C39Zu-1jhVYB7pz8HnTObSqGHjXKW4Wrf81gHkgeeCZvAOHTMMYKLC-WGB9fymOWLVy-kxE-iqe4LRXuOa1N2jcFzjQYzEYMkJrDT2IchpO1_AKsNEwjz-GI3Zy3qMoAb1jWeA6lg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdERqZfh1yJNO-EZ72bM6J7GwqXlIhaGN24T5tqXjjBIerGXd_h3kuOO6WLilbm9MV2oXS8tQ3jvpMm4_fOwa43EF5jiJpHDcQWXKQJYaVRlcaOH5opvF0zPfBizseS4oq"]
+
+--- RAW RESPONSE TEXT ---
+The electric motorcycle market has matured rapidly, shifting from experimental prototypes to highly specialized machines. Whether you are looking for a highway-capable commuter, a high-performance track bike, an adventure tourer, or a lightweight off-road machine, there is a brand tailored to your riding style. 
+
+Here are the best electric motorbike brands on the market, categorized by what they do best:
+
+---
+
+### 1. Best for Overall Variety & Reliability: **Zero Motorcycles**
+Often called the "Tesla of motorcycles," California-based **Zero** is the most established brand in the industry, boasting the widest and most reliable lineup of street, dual-sport, and adventure bikes. 
+* **The Vibe:** Practical, proven, and highly refined.
+* **Key Models:** 
+  * **Zero SR/F & SR/S:** Premium naked streetfighters/sport tourers with excellent handling, high top speeds (124 mph), and advanced traction control.
+  * **Zero DSR/X:** One of the few true electric adventure (ADV) motorcycles on the market, built for both comfortable highway commuting and light off-roading.
+  * **Zero FXE:** A lightweight, nimble supermoto commuter designed for weaving through city traffic.
+* **Best For:** Riders who want a well-established brand with a robust dealer network and a bike for every occasion.
+
+### 2. Best Premium Street & Roadster: **LiveWire**
+Originally Harley-Davidson’s electric project, **LiveWire** was spun off into its own standalone brand. They focus on high-end build quality, heavy-duty electronics, and incredibly sharp handling.
+* **The Vibe:** Bold, modern, muscular, and premium.
+* **Key Models:**
+  * **LiveWire ONE:** The flagship model. A heavy, premium, torque-heavy cruiser/roadster with DC fast charging and stellar street presence.
+  * **S2 Del Mar & S2 Mulholland:** Built on LiveWire's lighter "Arrow" platform, these bikes are more affordable, punchy, and designed for flat-track and urban street riding.
+* **Best For:** Riders who prioritize top-tier build quality, premium suspension, and the security of a Harley-Davidson dealer backing.
+
+### 3. Best for High-Speed & Racing Pedigree: **Energica**
+Hailing from Italy’s "Motor Valley," **Energica** is the brand that brought racing tech to the street. As the former single manufacturer for the FIM MotoE World Cup, Energica is unmatched when it comes to pure sportbike performance and raw speed.
+* **The Vibe:** Heavy, hyper-fast, Italian sport classics.
+* **Key Models:**
+  * **Energica Ego+:** A fully-faired electric superbike with neck-snapping acceleration and a track-ready chassis.
+  * **Experia:** A premium sport-touring bike equipped with a large battery, comfortable ergonomics, and standard DC fast charging.
+* **Best For:** Long-distance highway commuters and track enthusiasts who want high-voltage performance and standard DC Fast Charging (CCS).
+
+### 4. Best for Affordable Commuting & Smart Innovation: **Ryvid**
+A relatively new California-based startup, **Ryvid** has completely disrupted the budget and entry-level electric motorcycle market with unmatched engineering innovation.
+* **The Vibe:** Ultra-modern, lightweight, modular, and highly functional.
+* **Key Models:**
+  * **Ryvid Anthem:** Built with an aerospace-inspired folded-steel frame, it features an *actuated adjustable seat* that can raise or lower on the fly, a lightweight build (~313 lbs), and a swappable battery with a built-in charger.
+  * **Ryvid Outset:** A scrambler-style sibling to the Anthem, sharing the same frame but offering a taller, more off-road-ready stance.
+* **Best For:** Urban commuters, beginners, and shorter riders looking for a highly capable, highway-accessible (~75+ mph) bike that costs under $7,000.
+
+### 5. Best for Retro-Commuter Style: **Maeving**
+For those who want zero emissions but refuse to ride a bike that looks like a spaceship, the British brand **Maeving** offers stunning, hand-assembled vintage designs reminiscent of classic 1920s board track racers.
+* **The Vibe:** Classically British, retro, and sophisticated.
+* **Key Models:**
+  * **Maeving RM1S & RM2:** Beautifully crafted cafe racers that use a rear-hub motor and removable, briefcase-style batteries. You can carry the battery inside to charge at a standard wall outlet, meaning you don't need a garage to own one.
+* **Best For:** City slickers and style-conscious commuters who don't have access to a driveway or garage and need a beautiful, lightweight 125cc-equivalent runner.
+
+### 6. Best for Off-Road, Dual-Sport & Supermoto: **Stark Future**
+Based in Spain, **Stark Future** absolutely shook up the motocross world with its flagship bike, the Stark VARG. It is widely considered the most powerful and technologically advanced dirt bike on the planet.
+* **The Vibe:** Minimalist, featherweight, and devastatingly powerful.
+* **Key Models:**
+  * **Stark VARG (MX):** A pure motocross weapon producing up to 80 horsepower (Alpha mode) in a chassis that weighs just 242 lbs.
+  * **VARG EX & VARG SM:** Street-legal dual-sport and supermoto versions of the VARG. The SM features 17-inch wheels and sticky street tires, turning it into a silent canyon carver.
+* **Best For:** Off-roaders, trail riders, and supermoto enthusiasts who want extreme power-to-weight ratios and highly customizable power maps through an integrated Android dash.
+
+### 7. Honorable Mention (Futuristic Tech): **Verge Motorcycles**
+If money is no object and you want a bike that turns every single head on the street, Finland’s **Verge** is the brand to watch.
+* **The Vibe:** Tron-like, futuristic, and wildly unique.
+* **Key Models:**
+  * **Verge TS Pro / TS Ultra:** Features a hubless "Donut Motor" built directly into the rear wheel rim. This eliminates the need for chains, belts, or gears. The TS Pro puts out an absurd 737 lb-ft of torque, while the Ultra variant pushes past 880 lb-ft.
+* **Best For:** Tech enthusiasts and collectors looking for cutting-edge engineering and massive straight-line acceleration.
+
+---
+
+### What to Consider When Choosing a Brand:
+1. **Charging Infrastructure:** If you plan on long-distance highway travel, look to brands with built-in fast charging (like **Energica** or **Zero**'s higher-end models). If you live in an apartment, look for brands with **removable batteries** that you can charge indoors (like **Ryvid** or **Maeving**).
+2. **Maintenance & Support:** Brands like **Zero** and **LiveWire** have massive dealer networks. Startups like **Stark** or **Ryvid** often operate on a direct-to-consumer delivery and service model.
+3. **Weight vs. Range:** More range requires a heavier battery. Urban runabouts (Ryvid, Maeving) weigh around 300 lbs but have limited highway range. High-performance highway cruisers (LiveWire, Energica) can weigh over 500 lbs but can handle sustained highway speeds.
