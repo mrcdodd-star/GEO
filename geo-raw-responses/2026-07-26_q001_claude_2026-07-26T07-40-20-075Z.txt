@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.bikebound.com/2026/02/16/best-electric-motorcycles-2026/","https://www.ourmotorcycleworld.com/archives/3152","https://www.bike-ev.com/reviews/top-10-electric-motorcycles-2026/","https://motorwatt.com/ev-blog/reviews/best-electric-motorcycles-2026","https://www.motawill.com/top-12-best-electric-motorcycles/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive overview of the **best electric motorbike brands in 2026**:
+
+---
+
+## 🏍️ Best Electric Motorbike Brands in 2026
+
