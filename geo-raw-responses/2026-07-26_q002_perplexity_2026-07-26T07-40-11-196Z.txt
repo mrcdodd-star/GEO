@@ -1,0 +1,163 @@
+RUN DATE: 2026-07-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.motawill.com/top-12-best-electric-motorcycles/","https://www.rokform.com/blogs/rokform-blog/best-electric-motorcycle","https://www.bikeprof.com/best-motorcycles-for-commuting/","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.motorcycle.com/city-commuter-motorcycles","https://www.youtube.com/watch?v=BkUq9gSv3Jk","https://www.motawill.com/best-electric-motorcycles-for-adults/","https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-7-hottest-new-electric-motorcycles-and-scooters-to-boost-your-commute","https://www.youtube.com/watch?v=7PKQfIa6880&vl=en","https://www.autoweek.com/news/a60302816/great-electric-motorcycles-and-ebikes/"]
+
+--- RAW RESPONSE TEXT ---
+The strongest all‑round electric motorcycles for daily city commuting in 2026 are **Zero FXE**, **LiveWire S2 Del Mar / LiveWire One**, **Ryvid Anthem**, **BMW CE 02 / CE 04**, and budget‑friendly options like **Super Soco TC Max** and **EAHORA M1P**, depending on your budget, speed needs, and whether you occasionally use highways[1][3][5][8].
+
+Below is a structured overview to help you pick the *best* for your use case.
+
+---
+
+## Key criteria for a good city commuter
+
+For daily urban commuting, most reviewers and buying guides emphasize[1][5][8]:
+
+- **Real city range:** 40–100+ miles per charge is ideal for typical daily use.
+- **Charging practicality:** Whether you have home/work charging, and if you need fast or removable batteries.
+- **Agility and weight:** Light, narrow bikes are easier in traffic and for parking.
+- **Top speed:** 
+  - ~45–60 mph is enough for *in‑city only*.
+  - 70+ mph if you need short highway stretches or fast suburban roads.
+- **Price and running costs:** From budget (under ~$3–4k) to premium (> $15k).
+- **Comfort & practicality:** Upright ergonomics, decent suspension, and any storage.
+
+---
+
+## Best overall city commuters (full motorcycles)
+
+### 1. **Zero FXE – Best overall value for urban commuting**
+
+- **Range:** ~100–105 miles in city riding[1][3][5].
+- **Role:** Consistently recommended as a top **urban commuter** thanks to range, weight, and fun factor[1][3][5].
+- **Why it’s great for commuting:**
+  - Light and nimble, designed for stop‑and‑go traffic[1][3][5].
+  - Strong acceleration, easy handling, and simple controls.
+  - Frequently cited as **“best value”** and a practical, fun daily bike[3][5].
+
+Best if you want a *proper motorcycle* that’s agile, with solid range, without going into premium pricing.
+
+---
+
+### 2. **LiveWire S2 Del Mar / LiveWire One – Premium urban performance**
+
+- **LiveWire S2 Del Mar**
+  - **City range:** ~113 miles[1][2].
+  - **Role:** Ranked “Best Premium Commuter” and “Best Overall & Urban Performance”[1][2].
+  - Strong acceleration, modern tech, and fast charging (Level 2 to 80% in about 75 minutes)[1].
+
+- **LiveWire One**
+  - **Range:** Up to ~146 miles and DC fast charging around 40 minutes in some configurations[5].
+  - Designed as a premium, high‑performance commuter with adaptive ride modes and connectivity[5].
+
+Suitable if you want **premium performance and features** for city use and have DC or Level 2 charging access.
+
+---
+
+### 3. **Ryvid Anthem – Affordable, purpose‑built urban commuter**
+
+- **Role:** Ranked #1 “Urban Commuting” bike for adults[8].
+- **Range:** ~40–55 miles mixed riding (enough for many daily city trips)[8].
+- **Top speed:** 75+ mph, so it can handle short highway stretches[8].
+- **Weight:** ~313 lbs, relatively light[8].
+- **Key commuting advantages:**
+  - Designed explicitly as a city commuter with low maintenance[8].
+  - Apartment‑friendly: removable battery lets you charge indoors[8].
+  - Upright ergonomics and nimble handling for dense urban traffic[8].
+
+Excellent if you live in a city apartment, need removable batteries, and mostly ride moderate distances.
+
+---
+
+### 4. **BMW CE 02 & CE 04 – Comfort‑oriented urban scooters**
+
+- **BMW CE 02**
+  - **Role:** Labeled “Best Urban Commuter”[2].
+  - **Range:** ~56 miles[2].
+  - **Top speed:** ~59 mph[2].
+  - Designed as a stylish, lightweight “eParkourer” with modern tech and approachable performance[2].
+
+- **BMW CE 04**
+  - **Role:** “Best Electric Maxi‑Scooter” and “Premium City Scooter”[1][8].
+  - **Mixed range:** ~55–80 miles[1][8].
+  - **Top speed:** ~75 mph[8].
+  - Strong comfort, good weather protection, and storage options for daily commuting[1][8].
+
+Ideal if you prefer **scooter practicality** (step‑through frame, storage, comfort) over traditional motorcycle form.
+
+---
+
+### 5. **Zero S – Full‑size entry‑level commuter**
+
+- **Range:** ~70–100 miles in city use[8].
+- **Top speed:** 104 mph[8].
+- **Role:** “Full‑Size Entry-Level” electric motorcycle for adults[8].
+- **Why it fits commuting:**
+  - Enough range for longer daily city/inner‑suburban trips.
+  - Highway‑capable for mixed commuting.
+  - Still relatively simple and approachable compared with higher‑end performance models[8].
+
+Best if you want a *standard motorcycle feel* and need a bit more power and highway capability.
+
+---
+
+## Budget‑friendly city commuters
+
+### 6. **Super Soco TC Max – Beginner‑friendly & cheap**
+
+- Listed among “City Bikes That Don’t Suck” and **“Best for beginners”** due to low cost and forgiving performance[3][5].
+- Typical use case: lower speeds and shorter ranges but very affordable and easy to ride[3][5].
+- Good for short inner‑city commutes on roads up to ~45–50 mph.
+
+---
+
+### 7. **EAHORA M1P – Comfort‑focused budget city bike**
+
+- **Range:** ~40 miles per charge[4].
+- **Top speed:** ~37 mph[4].
+- Designed specifically with the daily city commuter in mind: full suspension, wide seat, and comfort over potholes[4].
+- Best where your commute is **short, slow‑speed urban** (no fast roads needed) and budget is tight.
+
+---
+
+### 8. **CSC RX1E – Value, storage, and highway capability**
+
+- Highlighted as **“best budget highway‑capable”** commuter[1][8].
+- **Range:** ~112 miles claimed city range[1][8].
+- Offers decent power plus integrated storage and commuting practicality[1][8].
+- Works well if you need a **do‑it‑all affordable bike** that can manage both city and some highway rides.
+
+---
+
+## Higher‑end options if you also tour or ride longer distances
+
+For riders whose “city commute” sometimes involves *longer mixed use* or weekend rides:
+
+- **Energica Experia**
+  - Long‑range touring bike, up to ~179 miles in ideal city stop‑and‑go and ~107 miles highway with large battery options[11].
+  - Often cited as **best overall** if cost is not a constraint[3][5][11].
+- These are more than most riders need purely for city commuting, but attractive if you combine commuting with frequent longer trips[3][5][11].
+
+---
+
+## How to choose based on your use case
+
+Use this quick guide to narrow it down:
+
+- **Mostly short urban trips (< 15–20 miles/day, no fast roads):**
+  - Budget: **EAHORA M1P**, **Super Soco TC Max**, BMW **CE 02**[2][3][4].
+- **Medium daily city commutes (20–50 miles/day), occasional 55–65 mph:**
+  - Best balance: **Zero FXE**, **Ryvid Anthem**, BMW **CE 04**, **Zero S**[1][3][5][8].
+- **Premium performance + tech, with fast charging:**
+  - **LiveWire S2 Del Mar** or **LiveWire One**[1][2][5][11].
+- **Need removable batteries / apartment charging:**
+  - **Ryvid Anthem** and similar city‑focused models with removable packs[8][5].
+- **Tight budget but want a motorcycle‑style commuter:**
+  - Super Soco models, entry‑level Ryvid variants, EAhora M1P[3][4][5][8].
+
+If you tell me your typical daily distance, maximum speeds you encounter, and budget range, I can suggest 2–3 models that best fit your specific commute.
