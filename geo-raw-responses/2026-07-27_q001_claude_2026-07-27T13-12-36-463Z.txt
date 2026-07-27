@@ -1,0 +1,81 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Here are some of the **best electric motorbike brands** available today:
+
+---
+
+## 🏍️ Top Electric Motorbike Brands
+
+---
+
+### 1. 🇺🇸 **Zero Motorcycles**
+One of the most established and respected electric motorcycle brands. They offer a wide range of models (SR/F, SR/S, DSR/X) known for excellent range, performance, and build quality. A top choice for both commuters and adventure riders.
+
+---
+
+### 2. 🇺🇸 **Harley-Davidson (LiveWire)**
+Harley-Davidson spun off its electric division into a standalone brand called **LiveWire**. The LiveWire One is a premium electric motorcycle with strong performance, great tech features, and iconic styling.
+
+---
+
+### 3. 🇮🇳 **Revolt Motors**
+A popular and affordable electric motorcycle brand, especially in Asian markets. Known for app-connected bikes with swappable battery options.
+
+---
+
+### 4. 🇬🇧 **Triumph Motorcycles**
+Triumph has entered the electric space with the **TE-1 prototype** and is developing production-ready electric models. Known for premium build quality and British heritage.
+
+---
+
+### 5. 🇮🇹 **Energica**
+Italy's leading electric motorcycle manufacturer. Energica bikes (like the Ego and Eva EsseEsse9) are high-performance machines popular in motorsport and among premium buyers. They were the official supplier for the **MotoE World Cup**.
+
+---
+
+### 6. 🇯🇵 **Honda**
+Honda has been developing electric motorcycles and scooters aggressively, including the **CB Electric** concept and the **EM1 e:** scooter. Expect more production models soon given Honda's massive R&D investment.
+
+---
+
+### 7. 🇺🇸 **Cake (KALK & Ösa)**
+A Swedish brand known for minimalist, off-road electric motorcycles. Popular among adventure and dirt bike enthusiasts for their lightweight and eco-conscious design.
+
+---
+
+### 8. 🇺🇸 **Damon Motorcycles**
+A Canadian brand making waves with their **HyperSport**, which features advanced safety tech including 360° awareness systems and ergonomic adaptability.
+
+---
+
+### 9. 🇨🇳 **Sur-Ron**
+A Chinese brand that has become hugely popular globally for affordable, lightweight electric dirt/trail bikes. Great entry-level option for off-road enthusiasts.
+
+---
+
+### 10. 🇮🇳 **Ola Electric**
+A fast-growing Indian brand that has expanded rapidly in the electric two-wheeler market, offering feature-rich bikes and scooters at competitive prices.
+
+---
+
+## 🔑 Key Factors to Consider When Choosing an Electric Motorbike Brand:
+| Factor | Details |
+|---|---|
+| **Range** | How far it goes on a single charge |
+| **Charging Speed** | Fast charging vs. standard |
+| **Performance** | Torque, top speed, acceleration |
+| **Price** | Entry-level vs. premium |
+| **After-sales Support** | Service network availability |
+| **Build Quality** | Materials and durability |
+
+---
+
+The electric motorbike market is growing rapidly, with more legacy brands joining the space every year. **Zero Motorcycles** and **Energica** remain top choices for performance, while **Sur-Ron** and **Revolt** are great for budget-conscious riders. 🚀
