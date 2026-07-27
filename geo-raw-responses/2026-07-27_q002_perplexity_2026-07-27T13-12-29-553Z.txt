@@ -1,0 +1,148 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.motawill.com/top-12-best-electric-motorcycles/","https://www.rokform.com/blogs/rokform-blog/best-electric-motorcycle","https://ridecolibri.com/blog/best-electric-commuter-motorcycles/","https://www.bikeprof.com/best-motorcycles-for-commuting/","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.youtube.com/watch?v=5JII9RiFpSQ","https://www.youtube.com/watch?v=BkUq9gSv3Jk","https://carinterior.alibaba.com/buyingguides/top-electric-motorcycles-for-city-commuting","https://www.youtube.com/watch?v=7PKQfIa6880","https://www.autoweek.com/news/a60302816/great-electric-motorcycles-and-ebikes/"]
+
+--- RAW RESPONSE TEXT ---
+The **best electric motorcycles for daily city commuting** balance realistic city range (70–120 miles), light weight and agility, and reasonable price; leading picks commonly recommended in recent reviews are **Zero FXE**, **LiveWire S2 Del Mar / LiveWire ONE**, **BMW CE 02 / CE 04**, and budget options like **Ryvid Anthem** and **Super Soco TC Max**.[1][3][6][9]
+
+Below are the most relevant options, with why they work well for everyday urban use.
+
+---
+
+### 1. Zero FXE – Best all‑round city commuter
+
+- **Why it’s good for commuting**
+  - Designed specifically as a lightweight **urban commuter** with agile handling and simple controls.[1][3][6][9]
+  - Frequently rated “best overall for urban commuting” and “best value” among electric city bikes.[1][3][6]
+- **Key specs (2026 reviews)**
+  - Real city range: **~100–105 miles** per charge, enough for a full workweek of typical commuting.[1][3][6]
+  - Charging: about **3.5 hours to ~80% on Level 2**; overnight on Level 1.[1][6][9]
+  - Weight: around **386 lb**, which helps low‑speed maneuvering and parking.[9]
+  - Price: roughly **$11–12k**.[1][9]
+- **Best for:** Riders doing up to ~40–60 miles a day, who want a simple, light, fun bike that still has highway capability.
+
+---
+
+### 2. LiveWire S2 Del Mar / LiveWire ONE – Premium, fast‑charging commuters
+
+**LiveWire S2 Del Mar (2026)**  
+- **Role:** Mid‑weight performance bike aimed at *urban agility and quick acceleration*.[1][2]  
+- City range: **~113 miles** real city riding.[1][2]  
+- Top speed: **~103 mph** (comfortably highway capable).[2]  
+- Charging: 10 hours on Level 1, about **75 minutes to ~80% on Level 2**.[1]  
+- Price: about **$15,499**.[1]
+
+**LiveWire ONE (earlier model, still referenced as commuter benchmark)**  
+- Often cited for **fast DC charging** and strong city range.[6][9][10]  
+- City range estimate: up to **~146 miles**.[6][9][10]  
+- Charging: **~40 minutes to 80% on DC fast charge**.[6][9][10]  
+
+- **Best for:** Longer daily commutes, mixed city/highway use, and riders who value premium build, strong acceleration, and fast public charging.
+
+---
+
+### 3. BMW CE 02 & CE 04 – Maxi‑scooter and urban “e‑Parkourer”
+
+**BMW CE 02 – compact urban commuter**
+
+- Positioned as BMW’s **best urban commuter**, aimed at agile city mobility.[2][9][10]  
+- Specs:
+  - Power: about **15 hp**, approachable for new riders.[2]
+  - Range: **~56 miles** city.[2][9][10]
+  - Top speed: around **59 mph**.[2]
+  - Price: about **$6,100–7,599** in recent guides.[2][9][10]
+- Frequently recommended for:
+  - **Tight parking** and short daily trips under 40–60 miles.[9]
+  - Beginners or riders prioritizing ease of use over high performance.[2][9][10]
+
+**BMW CE 04 – larger, maxi‑scooter style**
+
+- City range: roughly **~80 miles**.[1]  
+- Charging: around **4.5 hours on Level 1**, ~65 minutes to 80% on faster charging.[1]  
+- Price: about **$11k**.[1]  
+- Practical scooter form factor with good storage; useful for commuting with bags or a laptop.
+
+- **Best for:** Riders who prefer scooter ergonomics, lots of built‑in storage, easy step‑through design, and mostly urban speeds.
+
+---
+
+### 4. Ryvid Anthem – Lightweight budget/first commuter
+
+- Highlighted as a **budget / first bike** for commuting.[6][9][10]  
+- Range: **~35–46 miles highway**, typically more in city use.[10]  
+- Weight: around **289 lb**, notably light for a motorcycle.[6]  
+- Price: often cited around **$6,000**.[10]
+- In buying guides, it’s recommended for:
+  - Daily mileage **under ~40–60 miles**.
+  - Riders who value low weight and simple design over long range.[6][9]
+
+- **Best for:** Short city commutes, smaller budgets, and riders prioritizing ease of handling and low weight.
+
+---
+
+### 5. Super Soco TC Max & similar lightweight city bikes
+
+- Appears often in “city bikes that don’t suck” lists as **best for beginners / cheap, forgiving commuter**.[3][6]
+- Intended for **low‑budget, short‑range city commuting**, comparable to a 125cc class petrol bike.[3][8]
+- Typical characteristics:
+  - **Modest top speed** (around 55–60 mph).
+  - **Short to medium range** suited to inner‑city trips.[3][8]
+  - Lower purchase cost than mainstream premium brands.[3][6]
+
+- **Best for:** Very short urban hops, dense cities, or riders moving up from e‑bikes/small scooters but not needing highway range.
+
+---
+
+### 6. Honda WN7 – Everyday “standard” electric (where available)
+
+- Described as **“Best Standard / Everyday Electric”** for daily commuting and beginner‑friendly use.[2]
+- Specs:
+  - Power: **50 kW (~67 hp)**.[2]
+  - Range: about **87 miles (WMTC)**, which aligns well with daily commuting.[2]
+  - Top speed: around **80 mph**.[2]
+  - Price: around **$17,599**.[2]
+
+- **Best for:** Riders who want a traditional motorcycle feel, full highway capability, and one bike for commuting plus weekend rides.
+
+---
+
+### 7. Long‑range performance commuters (if you do more than just city)
+
+If your “city commute” regularly includes longer stretches or weekend touring, some sources still point to **Energica Experia** or **Zero DSR/X** as strong do‑everything electric bikes:
+
+- **Energica Experia**
+  - Range: up to **220 miles** in ideal conditions, about **179 miles city**, **107 miles highway** with bigger battery options.[6][11]
+  - Rapid charging: **0–95% in just over an hour** with a 6‑kW charger.[11]
+  - Considered “best overall” in some lists, if budget permits.[3][6]
+
+- **Zero DSR/X**
+  - Highway range: about **107 miles**.[10]
+  - Designed as an adventure‑style bike that also works well for daily commuting.[10]
+
+- **Best for:** Mixed city/highway use, riders with longer daily mileage, and those who want one electric motorcycle for commuting plus serious weekend trips.
+
+---
+
+### How to choose *your* best city commuter
+
+Across buying guides, three factors are repeatedly emphasized for city commuting:[6][9]
+
+- **Realistic city range:**  
+  - For most urban riders, **70–100 miles of real‑world city range** is adequate.[9]  
+  - Short commutes (<40 miles/day): bikes like **BMW CE 02**, **Ryvid Anthem**, or **Super Soco TC Max** are sufficient.[6][9]  
+  - Medium commutes (40–80 miles/day): **Zero FXE**, **LiveWire S2 Del Mar**, **Honda WN7**.[1][2][6][9]  
+  - Long commutes (>80 miles/day): consider **LiveWire ONE** or **Energica Experia** for range and fast charging.[6][9]
+
+- **Weight and maneuverability:**  
+  - Lighter models like **Zero FXE**, **Ryvid Anthem**, **BMW CE 02** are easier in traffic and for tight parking.[6][9][10]
+
+- **Charging convenience:**  
+  - If you can charge at home overnight, Level 1/2 charging on bikes like Zero FXE or BMW CE 04 is fine.[1][6][9]  
+  - If you rely on public chargers and need quick turnarounds, **LiveWire ONE** and high‑end Energica with DC or rapid charging are better.[6][9][11]
+
+If you tell me your typical daily mileage, access to charging (home vs public), and budget range, I can narrow this list down to two or three models that fit your commuting pattern best.
