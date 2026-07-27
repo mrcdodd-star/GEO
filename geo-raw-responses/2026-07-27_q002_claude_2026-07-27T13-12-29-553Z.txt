@@ -1,0 +1,98 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Here are some of the **best electric motorcycles for daily city commuting**, based on well-established models known for their performance, range, and practicality:
+
+---
+
+## 🏍️ Best Electric Motorcycles for Daily City Commuting
+
+---
+
+### 1. **Zero S**
+- **Best for:** All-around urban commuting
+- **Range:** ~100–140 miles (city)
+- One of the most popular and well-rounded electric motorcycles on the market. It's lightweight, agile, and has a strong charging ecosystem. The torque delivery is instant, making it perfect for stop-and-go city traffic.
+
+---
+
+### 2. **Zero SR/F**
+- **Best for:** Performance commuters
+- **Range:** ~100–150 miles (city)
+- A step up from the Zero S, the SR/F offers more power and a more premium riding experience. It supports fast charging and has a smartphone app for ride customization.
+
+---
+
+### 3. **Energica Eva Ribelle**
+- **Best for:** Premium city riding
+- **Range:** ~90–130 miles
+- An Italian-made motorcycle with sporty styling and impressive DC fast charging capability. It's built for riders who want performance and style on city streets.
+
+---
+
+### 4. **Harley-Davidson LiveWire One**
+- **Best for:** Brand recognition + city performance
+- **Range:** ~146 miles (city)
+- A more affordable spin-off of the original LiveWire, it offers a refined, premium riding experience with solid range and fast charging. Great for riders who want a trusted brand.
+
+---
+
+### 5. **BMW CE 04**
+- **Best for:** Urban-focused design (scooter-style)
+- **Range:** ~80 miles
+- Technically a maxi-scooter, it's ideal for city commuting with its futuristic design, large storage, and practical features like a full-color display and optional fast charger.
+
+---
+
+### 6. **Kawasaki Ninja e-1 / Z e-1**
+- **Best for:** Entry-level commuters
+- A newer entry into the electric space from a trusted brand. Designed specifically for urban use, it's lightweight and easy to maneuver. Range is modest (~40–50 miles) but suits short daily commutes well.
+
+---
+
+### 7. **Super Soco TC Max**
+- **Best for:** Budget-friendly commuting
+- **Range:** ~75–100 miles
+- An affordable, lightweight option that's easy to ride and maintain. Great for newer riders or those looking for a no-frills daily commuter.
+
+---
+
+### 8. **Vmoto Soco CPx**
+- **Best for:** Delivery/courier or practical commuting
+- Designed with practicality in mind, it features removable batteries (great for apartment dwellers) and a solid build for city use.
+
+---
+
+## 🔑 Key Factors to Consider When Choosing
+
+| Factor | What to Look For |
+|---|---|
+| **Range** | At least 60–100 miles for a comfortable daily commute |
+| **Charging Speed** | DC fast charging is a big plus |
+| **Weight** | Lighter bikes are easier to handle in traffic |
+| **Storage** | Under-seat or top box compatibility |
+| **Connectivity** | App integration for ride stats & diagnostics |
+| **Price** | Budget options start ~$3,000; premium models can exceed $20,000 |
+
+---
+
+## 💡 Top Pick Summary
+
+| Motorcycle | Range | Best For |
+|---|---|---|
+| Zero S | ~140 mi | All-round commuter |
+| LiveWire One | ~146 mi | Premium daily rider |
+| BMW CE 04 | ~80 mi | Urban practicality |
+| Kawasaki e-1 | ~45 mi | Short commutes |
+| Super Soco TC Max | ~90 mi | Budget commuter |
+
+---
+
+Electric motorcycles are a fantastic choice for city commuting thanks to **low running costs, zero emissions, and instant torque** in traffic. The right choice depends on your **commute distance, budget, and riding style**. Would you like more detail on any specific model?
