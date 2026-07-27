@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.motawill.com/top-12-best-electric-motorcycles/","https://www.moveelectric.com/e-motorbikes/top-10-electric-motorbikes-and-scooters-motorcycle-live-2022","https://www.englishelectricmotorco.com/which-electric-motorbike-has-the-longest-range/","https://www.visordown.com/features/general/best-electric-motorcycles","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.motorcyclistonline.com/news/best-electric-motorcycles/","https://www.moveelectric.com/gallery/top-10-best-electric-motorbikes-2025-1","https://gearjunkie.com/motors/best-electric-motorcycles","https://www.reddit.com/r/Electricmotorcycles/comments/1ibhorl/help_me_decide_which_electric_motorcycles_to_buy/","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://urbanebikes.com/collections/electric-motorbikes","https://www.google.com/search?q=product&prds=pvt:hg,productid:2481786215767261680,gpcid:1585111666334210648&ibp=oshop","https://www.youtube.com/watch?v=EJ9h0iOh-BM","https://www.google.com/search?q=product&prds=pvt:hg,productid:15726332534220303436,catalogid:6247626454164471034,gpcid:13017568628247132601,mid:576462883738659079&ibp=oshop","https://www.youtube.com/watch?v=3q00kt5Uv7c&vl=en","https://www.google.com/search?q=product&prds=pvt:hg,productid:11267966586698049707,catalogid:9738191869892845180,gpcid:3431697643189023667,mid:576462897712785273&ibp=oshop","https://www.google.com/search?q=product&prds=pvt:hg,productid:1545875471742833608,catalogid:9480518252798469221,gpcid:6441579070594253578,mid:576462868056019074&ibp=oshop","https://ryvid.com/?srsltid=AfmBOorkoVIYXqNx17E8wIOjsguhw_9LTx87ugO_7MLHvpPhsEot1C9j","https://www.google.com/search?q=product&prds=pvt:hg,productid:1545875471742833608,catalogid:9480518252798469221,gpcid:6441579070594253578,mid:576462868056019074,rds:PC_6441579070594253578&ibp=oshop","https://fiido.com/blogs/e-bikes/which-electric-bike-brand-is-best","https://ampedautomagazine.com/electric-dirt-bikes-the-future-of-off-road-adventures/","https://www.tycorun.com/blogs/news/top-10-electric-motorcycle-manufacturers-in-europe?srsltid=AfmBOorCizkc53e9kriGxc6qZHFexybFfEhCfqGnAjnZWqWZkbQuqR5s","https://www.visordown.com/news/energica-saved-investors-found","https://www.tycorun.com/blogs/news/top-10-electric-motorcycles-for-women?srsltid=AfmBOort_oYWw9ixiQRVIFHL_KxZHhqwyomgjb_Y7IWV0FHz_rsNjczX","https://monocle.com/business/bmw-motorrad-ce-04-electric-scooter/","https://www.reddit.com/r/AussieRiders/comments/1feq77v/anyone_ride_an_ev_motorcycle/","https://www.motorcyclenews.com/bike-reviews/super-soco/tc-max/2019/","https://engwe.com/blogs/resources/stark-varg-stark-electric-bike-price-top-speed-and-motocross"]
+
+--- RAW RESPONSE TEXT ---
+The market features several standout brands tailored to different riding styles, ranging from high-speed highway cruisers to agile urban commuters and high-performance dirt bikes. The absolute best brand depends entirely on your intended use.
+🏆 Premium & Highway-Capable Brands
+
+🏙️ Urban & Daily Commuter Brands
+
+🌲 Off-Road & Motocross Brands
+
+📊 Quick Brand Comparison
+
+To help find the perfect match, let me know:
