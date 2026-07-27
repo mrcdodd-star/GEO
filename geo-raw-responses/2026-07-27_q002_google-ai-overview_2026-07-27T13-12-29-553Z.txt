@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.reddit.com/r/Electricmotorcycles/comments/1dbd4wo/which_to_buy_for_commuting_and_for_those_with/","https://www.youtube.com/watch?v=7PKQfIa6880","https://www.youtube.com/watch?v=_ANRcHncUMY","https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-7-hottest-new-electric-motorcycles-and-scooters-to-boost-your-commute","https://ryvid.com/blogs/stories/ryvid-s-anthem-the-commuter-motorcycle-of-the-future?srsltid=AfmBOoqLRwp2-MPH-BOf_Ih50Ht0umppupNPcLR_VSXRUC5kKhwck1zP","https://newatlas.com/motorcycles/ryvid-anthem-commuter/","https://www.rideapart.com/news/726004/ryvid-anthem-outset-ev-motorcycles-power-boost-asi/","https://www.cycleworld.com/bikes/electric-motorcycle-top-picks-to-buy/"]
+
+--- RAW RESPONSE TEXT ---
+The best electric motorcycles for daily city commuting are lightweight, nimble, and offer optimized low-speed torque paired with practical urban ranges. For dense, stop-and-go traffic, the top-tier options balance accessible power with specialized urban designs.
+Top Commuter Electric Motorcycles
+
+Key Urban Specs Comparison
+
+Essential Commuting Features to Consider
+
+To help narrow down the choices, tell me:
+
+With these details, I can recommend the exact match for your route.
