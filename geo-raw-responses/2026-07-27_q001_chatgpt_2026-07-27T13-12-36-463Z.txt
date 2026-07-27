@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-27
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://motordigitalpress.com/motos/zero-motorcycles-motos/?utm_source=openai","https://www.bike-ev.com/reviews/best-electric-motorcycle-brands-zero-energica-sur-ron-ryvid-2025/?utm_source=openai","https://www.e-gazette.it/sezione/tecnologia/moto-elettriche-energica-motor-company-stipula-nuovi-accordi-commerciali-germania?utm_source=openai","https://www.craigsmotorcycles.com/sur-ron/new-bikes/electric?utm_source=openai","https://www.cleanrider.com/actus/livewire-vise-100-000-motos-electriques-pour-2026/?utm_source=openai","https://electricbikes-news.com/electric-motorcycle/2026?utm_source=openai","https://www.dab-scooters.nl/yadea-voltguard.html?utm_source=openai","https://www.milgev.com/info/top-10-best-selling-electric-motorcycle-brands-103460342.html?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+The electric motorcycle market has seen significant growth, with several brands leading the industry through innovation, performance, and design. Here are some of the top electric motorbike brands:
+
+
+[Innovación electrizante: los nuevos modelos de Zero Motorcycles](https://motordigitalpress.com/motos/zero-motorcycles-motos/?utm_source=openai)
+**Zero Motorcycles**  
+Founded in California in 2006, Zero Motorcycles is often referred to as the 'Tesla of electric bikes.' They offer a range of models, including the SR/F sport naked bike and the DSR/X adventure bike, known for their impressive real-world range and refined software. ([bike-ev.com](https://www.bike-ev.com/reviews/best-electric-motorcycle-brands-zero-energica-sur-ron-ryvid-2025/?utm_source=openai))
+
+
+
+[Moto elettriche. Energica Motor Company stipula nuovi accordi commerciali in Germania  | e-gazette](https://www.e-gazette.it/sezione/tecnologia/moto-elettriche-energica-motor-company-stipula-nuovi-accordi-commerciali-germania?utm_source=openai)
+**Energica**  
+An Italian manufacturer renowned for high-performance electric superbikes, Energica's lineup includes the Ego+ RS and Eva Ribelle RS, which boast massive torque and premium build quality. They also offer the Experia, a long-range touring electric motorcycle. ([bike-ev.com](https://www.bike-ev.com/reviews/best-electric-motorcycle-brands-zero-energica-sur-ron-ryvid-2025/?utm_source=openai))
+
+
+
+[New Sur-Ron electric](https://www.craigsmotorcycles.com/sur-ron/new-bikes/electric?utm_source=openai)
+**Sur Ron**  
+Specializing in lightweight off-road electric bikes, Sur Ron's Light Bee X has become a favorite among trail riders for its power-to-weight ratio and affordability. They also offer the Ultra Bee and Storm Bee models for varying off-road experiences. ([bike-ev.com](https://www.bike-ev.com/reviews/best-electric-motorcycle-brands-zero-energica-sur-ron-ryvid-2025/?utm_source=openai))
+
+
+
+[Livewire vise 100 000 motos électriques pour 2026](https://www.cleanrider.com/actus/livewire-vise-100-000-motos-electriques-pour-2026/?utm_source=openai)
+**LiveWire**  
+Originally a project by Harley-Davidson, LiveWire has become its own brand, offering models like the LiveWire One and Del Mar. These bikes combine Harley's heritage with modern electric performance and fast charging capabilities. ([electricbikes-news.com](https://electricbikes-news.com/electric-motorcycle/2026?utm_source=openai))
+
+
+
+[Yadea Voltguard- Elektrische scooter met grote wielen! - DAB scooters & Motoren B.V.](https://www.dab-scooters.nl/yadea-voltguard.html?utm_source=openai)
+**Yadea**  
+A global leader in electric two-wheelers, Yadea has sold over 100 million units worldwide. They focus on affordable and high-volume commuter models, making electric mobility accessible to a broad audience. ([milgev.com](https://www.milgev.com/info/top-10-best-selling-electric-motorcycle-brands-103460342.html?utm_source=openai))
+
+
+These brands represent a diverse range of electric motorcycles, catering to various riding preferences and needs. 
