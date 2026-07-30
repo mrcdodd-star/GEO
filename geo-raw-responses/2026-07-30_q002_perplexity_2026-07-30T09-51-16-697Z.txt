@@ -1,0 +1,32 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motawill.com/10-best-electric-motorcycles-for-commuting/","https://www.motawill.com/top-12-best-electric-motorcycles/","https://www.rokform.com/blogs/rokform-blog/best-electric-motorcycle","https://ridecolibri.com/blog/best-electric-commuter-motorcycles/","https://www.bikeprof.com/best-motorcycles-for-commuting/","https://www.hovsco.com/blogs/news/which-are-the-best-electric-motorcycles-for-urban-commuting-and-touring-in-2025","https://www.youtube.com/watch?v=7PKQfIa6880&vl=en","https://www.autoweek.com/news/a60302816/great-electric-motorcycles-and-ebikes/"]
+
+--- RAW RESPONSE TEXT ---
+For **daily city commuting**, the best electric motorcycles are the ones with **manageable weight, enough real-world range, fast charging, and comfortable urban ergonomics**. Based on the results provided, the strongest picks are **Zero FXE**, **LiveWire S2 Del Mar**, and **BMW CE 02 / CE 04**, with **Ryvid Anthem** and **Maeving RM1S** as good lower-cost city-focused alternatives.[1][2][7]
+
+- **Zero FXE** — best overall urban commuter, with about **105 miles of city range** and **L2 charging in about 1.8 hours**; it is repeatedly highlighted as practical and fun for city use.[1][3]
+- **LiveWire S2 Del Mar** — best premium commuter, with about **113 miles of city range** and **L2 to 80% in about 75 minutes**; it offers strong performance but costs more.[1][2]
+- **BMW CE 02** — best for short urban trips and beginners, with about **56 miles of range** and an emphasis on lightweight city mobility.[2][7]
+- **BMW CE 04** — best scooter-style commuter if you want more range and weather protection, with about **80 miles of range** and relatively quick L2 charging.[1]
+- **Ryvid Anthem** — strong budget-friendly choice, listed as a commuter-focused bike in the lower-price segment.[7]
+- **Maeving RM1S** — another stylish city option aimed at urban riders, with about **45–50 miles highway range** in the cited ranking.[7]
+
+If you want the **best fit by use case**:
+- **Best overall city commuter:** **Zero FXE**[1][3]
+- **Best premium choice:** **LiveWire S2 Del Mar**[1][2]
+- **Best beginner-friendly urban bike:** **BMW CE 02**[2][7]
+- **Best scooter-like commuter:** **BMW CE 04**[1]
+- **Best budget pick:** **Ryvid Anthem**[7]
+
+A few practical notes matter for city commuting:
+- **Range claims vary** by test cycle and riding style, so city stop-and-go use can differ from published combined figures.[2][6]
+- **Charging access** is often more important than maximum range for commuters; bikes with faster L2 charging are easier to live with day to day.[1][6]
+- For tight city traffic, **lighter bikes** are usually easier to park, maneuver, and filter through congestion.[2][3][7]
+
+If you want, I can turn this into a **buyer’s guide by budget** or a **comparison table** of the top 5 models.
