@@ -1,0 +1,55 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://motordigitalpress.com/motos/zero-motorcycles-motos/?utm_source=openai","https://www.autoreviewus.com/2026/02/top-electric-motorcycle-brands-in-usa.html?utm_source=openai","https://otomotif.kompas.com/read/2021/07/09/170100515/livewire-one-meluncur-harga-lebih-murah-dari-harley?utm_source=openai","https://ridereview.com/reviews/energica-experia-2022-on-review-or-mcn?utm_source=openai","https://www.dab-scooters.nl/yadea-voltguard.html?utm_source=openai","https://www.milgev.com/info/top-10-best-selling-electric-motorcycle-brands-103460342.html?utm_source=openai","https://www.1000ps.com/en-us/comparison/110803/niu-n1s-2018-vs-niu-n-serie-2019?utm_source=openai","https://www.rideapart.com/news/672801/maeving-rm1-launch-france-2023/?utm_source=openai","https://maeving.com/en-us/blogs/news/maeving-is-the-uks-best-selling-electric-motorcycle-brand?utm_source=openai","https://www.autotrader.co.uk/bikes/motorcycles/verge/ts-pro?utm_source=openai","https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/verge-announces-world-first-motorcycle-with-solid-state-batteries-for-a-370-mile-range-and-10-minute-charge-times?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+The electric motorcycle market has seen significant growth, with several brands leading the industry through innovation, performance, and design. Here are some of the top electric motorbike brands as of July 2026:
+
+
+[Innovación electrizante: los nuevos modelos de Zero Motorcycles](https://motordigitalpress.com/motos/zero-motorcycles-motos/?utm_source=openai)
+**Zero Motorcycles**  
+An American pioneer in electric motorcycles, Zero offers a range of models known for their balanced performance and reliability. The SR/F sport model and DSR/X adventure variant are particularly popular among riders seeking versatility. ([autoreviewus.com](https://www.autoreviewus.com/2026/02/top-electric-motorcycle-brands-in-usa.html?utm_source=openai))
+
+
+
+[LiveWire One Meluncur, Harga Lebih Murah dari Harley](https://otomotif.kompas.com/read/2021/07/09/170100515/livewire-one-meluncur-harga-lebih-murah-dari-harley?utm_source=openai)
+**LiveWire**  
+Originally a division of Harley-Davidson, LiveWire focuses on premium electric motorcycles. The LiveWire ONE is a flagship model offering a blend of power and urban capability, while the S2 Del Mar caters to urban riders with its lightweight and agile design. ([autoreviewus.com](https://www.autoreviewus.com/2026/02/top-electric-motorcycle-brands-in-usa.html?utm_source=openai))
+
+
+
+[ENERGICA EXPERIA (2022 - on) Review | MCN | Ride Review](https://ridereview.com/reviews/energica-experia-2022-on-review-or-mcn?utm_source=openai)
+**Energica**  
+An Italian brand specializing in high-performance electric motorcycles, Energica's models like the Experia and Eva Ribelle are known for their impressive speed and range, appealing to riders seeking premium experiences. ([autoreviewus.com](https://www.autoreviewus.com/2026/02/top-electric-motorcycle-brands-in-usa.html?utm_source=openai))
+
+
+
+[Yadea Voltguard- Elektrische scooter met grote wielen! - DAB scooters & Motoren B.V.](https://www.dab-scooters.nl/yadea-voltguard.html?utm_source=openai)
+**Yadea**  
+A global leader in electric two-wheelers, Yadea has sold over 100 million units worldwide. The brand is recognized for its affordable and scalable electric scooters and motorcycles, making it a dominant force in the mass-market segment. ([milgev.com](https://www.milgev.com/info/top-10-best-selling-electric-motorcycle-brands-103460342.html?utm_source=openai))
+
+
+
+[NIU N1S 2018 vs NIU N Serie 2019](https://www.1000ps.com/en-us/comparison/110803/niu-n1s-2018-vs-niu-n-serie-2019?utm_source=openai)
+**NIU Technologies**  
+Known for smart, connected electric scooters, NIU has a presence in over 50 countries. The brand emphasizes urban mobility with features like app integration and GPS tracking, catering to tech-savvy riders. ([milgev.com](https://www.milgev.com/info/top-10-best-selling-electric-motorcycle-brands-103460342.html?utm_source=openai))
+
+
+
+[British Electric Motorcycle Manufacturer Maeving Enters French Market](https://www.rideapart.com/news/672801/maeving-rm1-launch-france-2023/?utm_source=openai)
+**Maeving**  
+A British brand that has become the UK's best-selling electric motorcycle manufacturer as of March 2026. Maeving focuses on stylish designs with removable batteries, offering convenience and classic aesthetics. ([maeving.com](https://maeving.com/en-us/blogs/news/maeving-is-the-uks-best-selling-electric-motorcycle-brand?utm_source=openai))
+
+
+
+[Verge TS PRO bikes for sale | AutoTrader Bikes](https://www.autotrader.co.uk/bikes/motorcycles/verge/ts-pro?utm_source=openai)
+**Verge Motorcycles**  
+Known for innovation, Verge announced the world's first production-ready motorcycle with solid-state batteries, offering a range of up to 370 miles and rapid charging capabilities. ([techradar.com](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/verge-announces-world-first-motorcycle-with-solid-state-batteries-for-a-370-mile-range-and-10-minute-charge-times?utm_source=openai))
+
+
+When choosing an electric motorcycle, consider factors such as performance, range, charging infrastructure, and the availability of service centers in your area. Each of these brands offers unique features tailored to different riding preferences and needs. 
