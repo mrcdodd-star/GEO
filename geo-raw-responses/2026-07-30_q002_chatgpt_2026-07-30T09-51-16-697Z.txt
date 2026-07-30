@@ -1,0 +1,44 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motorpasionmoto.com/motos-electricas/zero-fxe-ultima-moto-electrica-marca-americana-supermotard-45-cv-13-880-euros?utm_source=openai","https://www.happyrunsports.com/blogs/electric-motorcycle/what-are-the-best-electric-motorcycle-models-for-2025-urban-commuting?utm_source=openai","https://www.revzilla.com/common-tread/2024-livewire-s2-del-mar-first-ride-electric-motorcycle-review?utm_source=openai","https://dxbmoto.com/best-electric-motorcycles/?utm_source=openai","https://ridereview.com/reviews/energica-experia-2022-on-review-or-mcn?utm_source=openai","https://eahoraescooter.com/products/emars-m1p-black?utm_source=openai","https://www.bikeprof.com/best-motorcycles-for-commuting/?utm_source=openai","https://cscmotorcycles.com/2020-city-slicker-electric-motorcycle-black-red/?utm_source=openai","https://www.motorsocietyusa.com/electric-motorcycle-buyers-guide-2020/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Electric motorcycles have become a popular choice for daily city commuting, offering benefits like zero emissions, low operating costs, and instant torque for quick acceleration in urban traffic. Here are some top models to consider:
+
+
+[La Zero FXE es la última moto eléctrica de la marca americana: una supermotard de 45 CV por 13.880 euros](https://www.motorpasionmoto.com/motos-electricas/zero-fxe-ultima-moto-electrica-marca-americana-supermotard-45-cv-13-880-euros?utm_source=openai)
+**Zero FXE**  
+A lightweight and agile bike with a 100-mile range and modular battery system, ideal for stop-and-go city traffic. ([happyrunsports.com](https://www.happyrunsports.com/blogs/electric-motorcycle/what-are-the-best-electric-motorcycle-models-for-2025-urban-commuting?utm_source=openai))
+
+
+
+[2024 LiveWire S2 Del Mar first ride review - RevZilla](https://www.revzilla.com/common-tread/2024-livewire-s2-del-mar-first-ride-electric-motorcycle-review?utm_source=openai)
+**LiveWire S2 Del Mar**  
+Combines street-tracker handling with strong acceleration, featuring 19-inch wheels and adjustable suspension for urban riding. ([dxbmoto.com](https://dxbmoto.com/best-electric-motorcycles/?utm_source=openai))
+
+
+
+[ENERGICA EXPERIA (2022 - on) Review | MCN | Ride Review](https://ridereview.com/reviews/energica-experia-2022-on-review-or-mcn?utm_source=openai)
+**Energica Experia**  
+Designed for longer journeys with an upright riding position, wind protection, and DC fast-charging support, making it suitable for mixed city-highway use. ([dxbmoto.com](https://dxbmoto.com/best-electric-motorcycles/?utm_source=openai))
+
+
+
+[Eahora M1P: 2000W Electric Chopper Scooter, black
+– Eahora Scooter](https://eahoraescooter.com/products/emars-m1p-black?utm_source=openai)
+**eAhora M1P**  
+Offers a 40-mile range and 37 mph top speed, with full suspension and a wide seat for comfort on urban streets. ([bikeprof.com](https://www.bikeprof.com/best-motorcycles-for-commuting/?utm_source=openai))
+
+
+
+[Shop Demo Special: CSC City Slicker Electric Motorcycle | 10 Miles, Black/Red Accent](https://cscmotorcycles.com/2020-city-slicker-electric-motorcycle-black-red/?utm_source=openai)
+**CSC City Slicker**  
+A budget-friendly option with a 3.2 kW motor, top speed of 40-42 mph, and a range of up to 62 miles at lower speeds, suitable for short urban commutes. ([motorsocietyusa.com](https://www.motorsocietyusa.com/electric-motorcycle-buyers-guide-2020/?utm_source=openai))
+
+
+When selecting an electric motorcycle for city commuting, consider factors such as range, charging infrastructure, comfort, and budget to find the best fit for your daily needs. 
