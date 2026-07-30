@@ -1,0 +1,18 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.englishelectricmotorco.com/which-electric-motorbike-has-the-longest-range/","https://www.youtube.com/watch?v=yMAv4HlXd_0","https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.motorcyclistonline.com/news/best-electric-motorcycles/","https://www.youtube.com/shorts/cbGDA0DtB_k","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.google.com/search?q=product&prds=pvt:hg,productid:2481786215767261680&ibp=oshop","https://www.youtube.com/watch?v=aT6iT0dTkhc","https://www.reddit.com/r/Electricmotorcycles/comments/1ibhorl/help_me_decide_which_electric_motorcycles_to_buy/","https://www.google.com/search?q=product&prds=pvt:hg,productid:13891383814933889292,catalogid:6724257210958035586,gpcid:6441579070594253578,mid:576462868056019074&ibp=oshop","https://engwe.com/blogs/news/choosing-your-first-electric-bicycle-speed-price-and-style","https://www.magnetmotos.co.uk/electric-motorcycles/zero?srsltid=AfmBOor739sNjsRi4JQQ7QilAZcRk3D7N0fzeFSatxeh7XL74ycgsYH3","https://nz.trustpilot.com/review/www.zeromotorcycles.com","https://www.visordown.com/features/general/best-electric-motorcycles","https://www.digitaltrends.com/cars/deep-pocketed-riders-can-stoke-ego-two-new-ebikes-energica/","https://gearjunkie.com/motors/best-electric-motorcycles","https://www.facebook.com/coventrycc/posts/maeving-the-uks-only-electric-motorcycle-manufacturer-has-brought-coventry-back-/1345887027580956/","https://www.moveelectric.com/en-US/gallery/top-10-best-electric-motorbikes-2025-0","https://www.rideapart.com/news/771866/maeving-electric-motorcycle-funding-usa-expansion/","https://www.flexelectric.co.uk/?srsltid=AfmBOooZ7GANLDEHiOFCKrYJO3pZRAMI5RjfIGviyZ1BVPdhCygo_f2j","https://www.flexelectric.co.uk/post/best-electric-scooter-for-commuting?srsltid=AfmBOorIJkkW5fKbkYIDQSIrZ-28rwgtDsj_zuohXyi0ZjVoMdlmP8Sj","https://starkfuture.com/","https://www.rideapart.com/news/743925/stark-future-2025-varg-ex-enduro-street-legal/","https://hiknightebike.com/blogs/e-bikes/the-future-of-off-road-riding-why-an-electric-dirt-bike-changes-everything?srsltid=AfmBOopYMzGUd9U2_1Q_Dw6mxoSATE5A5LU39qPBiqrYCcwtMppT9H86","https://www.teammoto.com.au/new-bikes/surron","https://surron.ae/blogs/knowledge/which-is-the-best-all-around-electric-dirt-bike-surron-light-bee-x-or-segway-x260?srsltid=AfmBOoqsompN92QV2NMi4lrAiReACLDxHB2mID9zXoJeTSa9mZoewE8Y"]
+
+--- RAW RESPONSE TEXT ---
+The leading electric motorbike brands excel in different categories, ranging from high-performance track machines to stylish urban commuters.
+High-Performance & Premium Brands
+
+Urban Commuter & Lightweight Brands
+
+Off-Road & Motocross Brands
+
+What kind of riding do you plan on doing most? If you tell me your primary use case (e.g., daily city commute, highway riding, or trail riding) and your budget, I can recommend the specific brand and model that fits your needs.
