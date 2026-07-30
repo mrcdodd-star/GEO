@@ -1,0 +1,55 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://www.motawill.com/top-12-best-electric-motorcycles/","https://motorwatt.com/ev-blog/reviews/best-electric-motorcycles-2026","https://www.youtube.com/watch?v=vWh1G51F6sY","https://www.visordown.com/features/general/best-electric-motorcycles","https://gearjunkie.com/motors/best-electric-motorcycles"]
+
+--- RAW RESPONSE TEXT ---
+The **leading electric motorbike brands** today include **Zero Motorcycles, LiveWire (Harley-Davidson), Energica, Honda, Can-Am, Stark, Sur-Ron, and Damon**, with additional niche and youth-focused options from brands like Razor.[2][4][5]
+
+Below are the most commonly recommended brands and what they’re best known for:
+
+- **Zero Motorcycles**  
+  - One of the **best-established pure‑electric motorcycle manufacturers**, with a full line of street, dual‑sport, and adventure bikes.[2][5]  
+  - Models like the **Zero SR/F** (street) and **Zero DSR/X** (adventure) are frequently rated among the top all‑round electric motorcycles.[2][3]
+
+- **LiveWire (Harley-Davidson’s electric brand)**  
+  - Spun off from Harley-Davidson, focused entirely on premium electric bikes.[2][4]  
+  - The **LiveWire S2 Del Mar** is often listed as a top overall electric motorcycle and a leading *urban sport* choice.[2][3]  
+  - Known for **styling and brand heritage**, appealing to riders coming from Harley’s ICE lineup.[4][5]
+
+- **Energica (Italy)**  
+  - High‑performance and touring‑oriented electric motorcycles.[2][4]  
+  - The **Energica Experia** is widely cited as a top pick for **range and touring**, offering among the longest city ranges in the segment.[2][4]  
+  - Strong presence in performance and long‑distance categories.
+
+- **Honda**  
+  - Major global manufacturer entering the electric space with approachable models for new riders.[2][5]  
+  - The **Honda WN7** is highlighted as **best for new street riders**, leveraging Honda’s dealer and service network.[2]
+
+- **Can-Am**  
+  - Legacy powersports brand returning to motorcycles with electric street models.[2]  
+  - The **Can-Am Pulse** is noted as a **value‑oriented street bike** with competitive range at a lower entry price.[2]
+
+- **Stark Future (Stark Varg)**  
+  - Swedish brand specializing in high‑performance electric motocross.[2]  
+  - The **Stark Varg** is described as a top **competition off‑road** bike that has significantly impacted the motocross market.[2]
+
+- **Sur-Ron**  
+  - Chinese manufacturer popular in lightweight off‑road and trail riding.[2]  
+  - The **Sur-Ron Light Bee X** is frequently recommended as a **trail / lightweight off‑road** option with a large enthusiast community.[2]
+
+- **Damon Motorcycles**  
+  - Tech‑focused Canadian brand emphasizing advanced safety and connectivity.[3][5]  
+  - The **Damon HyperSport Premier** is often cited as **best for tech & safety**, thanks to features like advanced rider aids and connectivity.[3]
+
+- **Razor (youth and entry-level)**  
+  - Produces **low‑cost electric dirt bikes and mini‑bikes** for teens and younger riders, commonly recommended as age‑appropriate and budget‑friendly.[2]
+
+- **Other notable electric-focused brands**  
+  - Various guides also highlight additional specialist or emerging brands (for example, smaller EV-only companies) alongside these major players.[1][5]
+
+If you share your use case (commuting, touring, off‑road, budget, or performance), I can narrow this down to a few specific brands and models that best fit your needs.
