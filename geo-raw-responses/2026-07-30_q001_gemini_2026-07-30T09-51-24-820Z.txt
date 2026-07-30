@@ -1,0 +1,85 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Best electric motorbike brands
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUzpTQCbYomGX2tih8oWbnVJSLJUvlMXrAqiTitynb24mDI69mzNge2dqncxaz18Zb4Bc5MqS5PHIFdoDRiJwGS8tW7lD5J-1XEHQMu8GirkyZTOkXxXPg0PHApiH1aZwKuYy8Bccpdh_qFuFAM9wuqznZWVZ6t9c=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvXTg-8jORFnio7pFgIJwxxYdJsKpT-gW3mrEAcYkA-vkNvShRVz16hqUMgDB5gVE50fEdfSpUZ2Qx3scJQ9nU7X__nre6kiC21FhzgOnYp4bUrYbU4aDPT9Z1Z6OZZWwJ5MLyHbSu8H4Lbl3015JRQoM5P4eH307UeQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3ADJGPTshw5eHxEC6lFr_T8Sd2usgiBwHa7mzXGiprm5rt5XxNQCm4sBa0L1Sk_vIfhDQSvwEX9IIG0KSWo1LgE_GSzqU3XIHY-dFE1BYf0sUVw7Ls_AJKARc4f7KIw6aTywUPhYTbfTelHgq4Cn","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdz6rA3AivNT6mIpRS-Phzsxjo48_ED4xN29DJN7SoD4t9vtbnntUU0IcbYZznA9OldYEVO6Hl69EuAu_zPtN9l2jVl8qlyY3kWIJSM4QCkbu0iBPqZg__sCyDtUnzufCxl6Wv6qYN7XxJ9bDmmwUV6nQlFSup27eJtGy5vB3bgT0c0s9qosM6MvrV3gAIW7ksXOBfXgL72WDxPwM0TmApS4AeL7_Q","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjQIBSJDOmcBMAYj_hDCyUGI5ork9CmjXGc24uVuQQ1IJy6T3-_Ot_UPCkacufna0Zpc6xt4namypwkvEZcoFSfkfBFY_UX6CZ1WnWeGDIOxQxBfuGtUeZLSoORfRzeJhwmxvekIXILGFFRuEmdbFtbU4_e19zE-zm8jlLe_K5oToy-8IWDUnXNpzT_dYZNkcrisCBnS2VIpfaiRwUny0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4EI20SC62oTuRpGdASvScN6ZewaesS8qWJLYvEOzFYhTdH1PWSfzhFqrhKNg9cbURP6Ld0pz8LK8leXoeW1nobDW_zc8ZZ7g3mfp2l09cuxTh3oWnxGKX1s7TXJ_-gT0H","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBfD8FB3_0nM6u4p19gizmn012KUlgWKKeiWgHP6FM8xZP4gBrRwK6WQ9fdP-VGIzYqQQZotG4EoN2FSNmskFI9Vgmwp9qZYoZZcd891XFi-d6BBbrAibZUZTq0ZBcFDzW","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBPUM4Hf50meQqschkNYQ2bMVDS0dRho4kE7r_6H2h3iTnhZmexJVs1mMXwP0hhCYHFRhKsawK61fmy8rG4opS7242OVJns96nJqhWsbxBtSHh_zYY00k5S4lFZRmncaYp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsQSm9KYDWOYyFQZQMQYEAEAk03hJJzSlxpEUV88Yq3RH1theO8kd9t6-kEMR9UYqSWYZXQl8B0a1g8fokzdznMWLrjPJlIAIPC0Xiauqlwf9XB0rchVzGNQjPACMXLyeiUYz8ZnJzRmFX78ddhISghRYghFEDRwj","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtnDlJkLKh5PzczSyVEtoj1hm9uvvTIUVSboT8havAwR963bJULwau5gFhSmanukbkwKoLWNUgkfhHp9FpANu6Ytzszgzj4hCIwDcaKt5Vqjb6Kho46ZvLjRVu1YCtlY6loDtBhthW","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKi_1Lr-Zo1YkGMpPRwGayKV4gY04xmvfqnm2Rq5EreezSD5i-LNKFf2qqal7y2a1D3T7dGz1GlZRSK2ouUAvEVaZX7pemOgKMlmOgg9WXiBLvG3HWgqCi1Obw9HIWPC7I52_juxuCOjDrILEZFpl2hzluA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxG1Y0Yv7495EUJ-MYJCSOpt0nhxEZrbxWbAHYfB9J1pBm3IkdQtMuuXD71WHwhqAPJIlIX3Sk3K5CBNnYPKXkxZJXrHrCPxeenRV_Rm1wbg20OZCHiefIIKyVf8rUUV574Q7PakULLMDt2LZOOLReSFnRMMOLbg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEusPOBmpOf2XrQQ4poTQuzTz1bMRgy1_SJykg8BqWScmDMNzoSqRb1eg55I456froVA-MIqfVE0H3bf0_12zArwQWQWarCEU8Mc-Dbubo1nMDUey9QTVDC4frsgMI27bF4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4zUGcMyDEyiLHusht6vvQ8hrL5BLXay0j9Ej9GaUK6P3YXY4GpqiDopSKN-BkHN10neSCf1dJFH9SKCOmurQBPKZlCRyJbMjSh3lGJEE97ZvLZga1L4WZyFRuAioh5slw2nh8QUj0kLBXCYwFgbepzECFkPfVaHK3rIJ83IaJbJ93r8-qOY-qQg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf8cnV30SGfQ53fv6ajoC55oHG7ZPKeb-A3v5t7oDvzh3VZdpdhlGMCXYPhcGqtLKejxGXJqzrAKZTf4A-sC2g8moM4ojGS1z4hllXhsHlNFWkSFwU4I8pX72EQFK5WCYB","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRBp243zPmL65tuO74vCyKM40hfDiw1BGrnrd1VI3jmIj7pD1VtksPxl39dWv1OFRCUdrwLgioa-cEjtWns-vxQeOnRUl7_QzrcAp5mHZIp4-LDr_H9eQBu01u_nYHlAxIBl0hU9vhqd09GY30bCgmIAFQ5Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS1HXhDIfxORmf_eNrivpkgyTItO73PjwJGgNxlxm3PAUzizqKzUSxcb2zYJNYUYLZSvZAMaiGIli6ZEACLwbttnmvnKdrtbVSoAjhajzwfbAda3v045v1-8q4KeG6FTk2","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdT97mduXQoxQAOCC16cZb6v7KeBTuAdQ0LYhTqRCqO29xgsNL-6TNNMSG-uitV0-TgLNc5nTDa9n_86VJu9JmGIqLUzQCR2T1yL8-dzQsMSSUO9aUg58vQA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEurrLDyfpIdcikMaoxVPcEjzAFlj03uuS2FW-pqOzR8FpWI2Eb4mbQCv59t07V-owHtccHyCbzocall1tMgB8kv6sMCERLVplBtvvY07S_UIGREemxEaoyQGxMWUwZAPrNzvL7qqj1NxHhLT-ruTR_onwlRk7wnvX9YzzCepmhdoh5tbhP2C8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmOFdq1YDPMtYnTeJfVDsXK_9EW8zsnDh-Ju2vGLScHf-xlwS1bu8y94HFwJ_M2M3zf7IR1qkkIXkjtaxKb9ZN2Ya3CNFo06p0N-hC72ZkBi4nZWC-sFQ_hcXDLZwbNILEThIN7-YPaKHfBi7vGRcnxx6Xpobs2oUg8YSitbF2pPHRiUWVE3YfwLpUewXSP42FVkjtt0JoeCZz57mBwhCTXimi_Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxTCIjYOjNEjqYqS8_niyY37lybaaLvlbYkl4ioXRclI4wOhbf0TLQObg2cQ-vAvC_ckMQ14-HkO2WCkTp0FsY6Bu0llF08FcO4ptg7WO18Lo7ZE70DZzcR2O9xyDHBbTbHO_y8n1VpSEuK594goNZUHZef1EBKEEWUwzLCdQPW2TvXsr8QGxNeqcmkFoab0IJ5zMUCc11x-_9_HciGVeSH0Jumg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuiDlHtKkDJmz0gTttg-jeLTi6hmWtw77KCBP4wQt467toQg268oM54MH9W-lLxi1o-axIhT8QmPrLpTUHmYmHb9FVWrDLXydHYHHVMYe7ezmjFT2Iv0toWC_QHcCexAfyiiyPVVJni-PB7jn3bSZcTGbOYnqKZfYLqoMUxzTa-7RgnqjsKJ0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhOl4PmSewxHlvXvfzaco0SFW35XCAyyVvlAKT_rD9aAzhmFslDLqkTzHugpMFbvngfhvNdjqeg0FPUrCUtADgmyiLIa-gprKIPyHBCcfOfcotVafXf4q_15ByTRbJ4euhd-Rv1qJ9GgKFeKctVGbMd9Lmog1It4kiggiOPW1yOsIXmHKKa6KzVu8WhJbiPWwvZgN9Ws0if3a3I1I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5nByRS1kWcjys1Njy0hEsn7zEFZntoRJbCEropVm6ntqCwtl9FsGQOGWtXwYHy00mg1-475JbZ-hWIc95akdr9zLJyjRQRogmEe-ecprCeoTc9goQFVcy3XvRxxdz4FO9Y0kfzBNcV_tWRZr5pvE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLH-bIj60h_S_VlGdx70R5r9pwzRj16JJ0KWh0AnUkfHeBrqGzlJ7rNROMk6R6ZriCvlOy-f3zmfhnbVQBLya2O9jP-Nn2CyIFVKymTH8XT81SqT3yMeogmbOs4JZ2Mzm9Me9Uo1eOWHdqsA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPHEczSVY1injV2NcDG21uHN9WVrINWrTc47NQLZ6mjwKUv2FWVhupnPB3eOLn23PFFmwUI3RIf-cVeuhtF27Y155S4vTFme2pSDpHLbiyz-sMKVPJWVaUs4KI81lg9Yc3M-1xhChGNWz5t9jzt6uveGLG4exLPDWV-ygZ5XGbek6XNftqulgs1xToA80vQVUlOIj8vkbn7zJot-QjWb73QwadYZkhWFFhEwgBynt6"]
+
+--- RAW RESPONSE TEXT ---
+The electric motorcycle market has matured significantly. While pioneer brands continue to lead the pack, major traditional motorcycle manufacturers (OEMs) have entered the market with high-quality offerings, alongside innovative startups redefining lightweight off-road and urban riding. 
+
+The "best" electric motorbike brand depends entirely on your riding style, budget, and where you plan to ride. Here is a breakdown of the top electric motorcycle brands categorized by what they do best:
+
+---
+
+### 1. Established Premium Street & Sport
+*For riders seeking highway-capable, high-performance, everyday roadsters and sport-touring bikes.*
+
+*   **Zero Motorcycles (USA)**
+    *   **The Vibe:** The "Tesla of electric motorcycles" with the longest track record in the industry (founded in 2006). 
+    *   **Why they are the best:** Zero offers the most complete and reliable lineup on the market, backed by an established, global dealer and service network. Their bikes run proprietary Z-Force motors and highly refined software.
+    *   **Key Models:** **Zero SR/F** and **SR/S** (high-performance street naked/sport), **DSR/X** (a highly praised, heavy-duty adventure tourer), and the **FXS / FX** (lightweight urban dual-sports).
+*   **LiveWire (USA)**
+    *   **The Vibe:** Harley-Davidson’s dedicated, premium electric spin-off. 
+    *   **Why they are the best:** LiveWire benefits from Harley-Davidson’s massive engineering, manufacturing, and dealer infrastructure. Their bikes boast top-tier build quality, premium suspension components (Brembo, Showa), and excellent handling. 
+    *   **Key Models:** **LiveWire One** (cruiser-adjacent street rocket) and the **S2 Del Mar** / **S2 Mulholland** (lighter, flat-track-inspired urban cruisers built on their modular ARROW platform).
+
+---
+
+### 2. Extreme Off-Road & Motocross
+*For dedicated dirt, trail, and track riders who want maximum power and zero emissions.*
+
+*   **Stark Future (Spain)**
+    *   **The Vibe:** The undisputed disruptor of dirt.
+    *   **Why they are the best:** Their flagship bike, the **Stark VARG**, completely revolutionized the off-road world. It is widely considered by professional riders to be superior to traditional 450cc gas motocross bikes. It features up to 80 hp, a near-silent carbon-fiber sleeve motor, and an Android-based dashboard that lets you customize the power delivery, engine braking, and virtual flywheel to mimic any engine displacement.
+    *   **Key Model:** **Stark VARG**.
+
+---
+
+### 3. Legacy Manufacturers & Big OEMs
+*For riders who want guaranteed Japanese and North American build quality, reliable warranties, and local dealership support.*
+
+*   **Can-Am (Canada/BRP)**
+    *   **The Vibe:** High-tech, liquid-cooled, premium daily riders.
+    *   **Why they are the best:** Parent company BRP brought the legendary Can-Am name back to two wheels with two highly polished, beautifully built electric motorcycles. Driven by a liquid-cooled Rotax E-Power motor, they feature premium 10.25-inch touchscreens with Apple CarPlay and an enclosed chain case that reduces maintenance.
+    *   **Key Models:** **Can-Am Pulse** (sleek, naked street bike) and **Can-Am Origin** (a versatile, highly capable dual-sport).
+*   **Honda & Kawasaki (Japan)**
+    *   **The Vibe:** Reliable, approachable commuter options from the world's biggest brands.
+    *   **Why they are the best:** Kawasaki entered the space with beginner-friendly, lightweight A1/125cc-equivalent commuters like the **Ninja e-1**. Honda has made a massive splash with the **WN7**, their first production-ready, full-size electric naked street bike, combining Honda's legendary ergonomics with CCS2 DC fast charging.
+
+---
+
+### 4. Retro, Urban, & Multi-Utility Commuters
+*For city dwellers seeking stylish, lightweight, and low-maintenance runabouts.*
+
+*   **LAND Moto (USA)**
+    *   **The Vibe:** Hand-built, rugged, industrial-cool, and incredibly versatile.
+    *   **Why they are the best:** Based and manufactured in Cleveland, Ohio, LAND Moto's "District" platform is a unique multi-class vehicle. With the press of a button, you can set the bike to Class 2 e-bike mode (restricted speed for bike lanes), e-moped mode, or full highway-legal electric motorcycle mode (reaching 70+ mph).
+    *   **Key Models:** **District Street** and **District ADV** (an off-road capable, dual-sport version).
+*   **Maeving (UK)**
+    *   **The Vibe:** Stunning, hand-built British retro café racers.
+    *   **Why they are the best:** If you love classic motorcycle design, Maeving is unmatched. They build drop-dead gorgeous, lightweight urban bikes with completely removable, swappable batteries that you can carry inside to charge at a standard wall outlet. 
+    *   **Key Model:** **Maeving RM1S** (capable of 65 mph, ideal for city/suburban commutes).
+*   **BMW Motorrad (Germany)**
+    *   **The Vibe:** Futuristic, sci-fi premium urban mobility.
+    *   **Why they are the best:** BMW focuses heavily on high-end urban scooters. Their build quality, electronics, and futuristic aesthetic are unmatched.
+    *   **Key Models:** **CE 04** (highway-capable futuristic megascooter) and the **CE 02** (a smaller, nimbler "e-parkourer" designed for younger city riders).
+
+---
+
+### 5. Lightweight "E-Motos" (Surron-Style Dirt Bikes)
+*For trail riders, mountain bikers, and modders looking for ultralight, highly agile dirt-bike hybrids.*
+
+*   **Surron / Talaria / E Ride Pro**
+    *   **The Vibe:** Agile, incredibly fun, and highly customizable.
+    *   **Why they are the best:** These brands rule the "emoto" category—bikes that look like heavy-duty mountain bikes but perform like small dirt bikes. They are incredibly easy to throw in the back of an SUV, require almost zero maintenance, and have a massive aftermarket modification community.
+    *   **Key Models:** **Surron Light Bee X** (the bike that started the craze), **Talaria Sting R**, and **E Ride Pro SS 3.0** (a high-performance, 72V out-of-the-box powerhouse).
+
+---
+
+### ⚠️ A Note on the EV Market & "Comeback" Brands
+The electric motorcycle market has been highly volatile, with several major names experiencing financial restructuring. If you are shopping, keep these brand statuses in mind:
+*   **Energica (Italy):** Renowned as the "Ducati of electric bikes", they built incredibly fast, DC-fast-charging superbikes (like the **Experia** and **Ego**). They declared bankruptcy in late 2024 but were rescued by Singapore-based investors. They have officially entered a reconstruction and comeback phase, so keep an eye out for dealer support and parts availability.
+*   **Cake (Sweden):** Known for premium, minimalist, Scandinavian utility bikes (like the **Kalk** and **Ösa**), Cake went bankrupt in early 2024. They were purchased by a Norwegian holding group and are currently relaunching their premium electric two-wheelers under new leadership.
