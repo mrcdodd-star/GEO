@@ -1,0 +1,23 @@
+RUN DATE: 2026-07-30
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: What are the best electric motorcycles for daily city commuting
+
+CITED URLS:
+["https://www.motorcyclenews.com/advice/best/electric-motorbikes/","https://www.lexhaminsurance.co.uk/blog/10-great-electric-motorcycles-for-beginners/","https://www.reddit.com/r/Electricmotorcycles/comments/1dbd4wo/which_to_buy_for_commuting_and_for_those_with/","https://www.youtube.com/watch?v=7PKQfIa6880&vl=en","https://www.youtube.com/watch?v=_ANRcHncUMY","https://engwe.com/blogs/news/electric-commute-bike-secrets-how-to-beat-urban-traffic-easily","https://www.slashgear.com/1728321/2024-ryvid-anthem-review-specs-price-electric-range-performance/","https://www.fortunebusinessinsights.com/electric-motorcycle-market-105926","https://www.visordown.com/features/top-10s/top-10-best-scooters","https://www.thedrive.com/news/the-bmw-ce-02-is-a-new-electric-vehicle-between-a-scooter-and-a-motorcycle","https://www.visordown.com/features/general/best-electric-motorcycles"]
+
+--- RAW RESPONSE TEXT ---
+The best electric motorcycles for daily city commuting depend on whether you prioritise low costs, premium power, or unique city-friendly features like removable batteries.
+For most riders, the Ryvid Anthem stands out as the best overall commuter due to its budget-friendly price and adjustable seat height. If you want a tech-forward premium machine, the LiveWire S2 Del Mar offers unmatched urban performance and rapid charging times.
+The Top Electric Commuter Motorcycles
+Ryvid Anthem: Best value for money. This lightweight bike features an innovative, height-adjustable seat and a removable 4.3 kWh battery package that lets you swap or charge indoors. It reaches highway speeds of up to 75 mph, making it incredibly versatile for urban freeways.
+LiveWire S2 Del Mar: Best premium performance. Built specifically as a flat-track-inspired urban streetfighter, it produces a punchy 83 bhp and manages 60–86 miles of mixed riding. It also features fast charging, getting from 20% to 80% capacity in just under an hour and twenty minutes.
+Maeving RM1S: Best retro style. This British-built motorcycle blends classic cafe racer aesthetics with modern electric efficiency. It utilizes dual removable batteries, tops out at 65 mph, and delivers a highly practical 80 miles of urban range.
+BMW CE 02: Best for younger and new riders. Described by BMW as an "eParkourer," this funky, low-slung machine sits between a scooter and a motorcycle. It is incredibly nimble in dense traffic, though its 59 mph top speed restricts it from heavy highway usage.
+Kawasaki Ninja e-1: Best traditional sportbike commuter. For those who prefer a conventional motorcycle look, this offers 12 hp and a lightweight chassis that handles identically to its petrol siblings. It uses twin removable batteries that can be charged at your office desk.
+Key Specifications Comparison
+
+Crucial Commuting Considerations
+
+To help me pinpoint the absolute best option for your routine, could you tell me:
