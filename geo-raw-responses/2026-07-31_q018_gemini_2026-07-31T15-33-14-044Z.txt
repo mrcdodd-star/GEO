@@ -1,0 +1,47 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcBDtgUPNEHOgnkY4BzxpXFWuV-sY_KOyWYeQ8yXyVJJA2pbtBAMVGV6c7PY6ymLpTiqGxyJAks0xplbCWHBAanSvWu8sXAJ2OBktiar2o8cElbxRMlni-e0yZKJN8cX63CxwuNMUkHptfBqGJri3hwmkgz1i7m3944vuk9A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmudsupDkZC6iBgC34jqXc1puDRYTSmut0D_OJc4phHNTGnFarX69x3Bau9a3yQ1yiC8cA3eLsrN7Sn-yNuly3rzSx7nU-dRQ__FZDXu4-RRksAWvtsCgtydetoU5m0j6ALfNX7pIsrAnRQXCiJJHXyD17ZDOVw5eRJqd1SCzSKrDRDwadsw7hdVMaA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn80qsh_C4-IoIn1mMVAlQfR-AqgHXx2Fz5bUGf1_D4sprKwGbnShUFs9YhVfS20BCBGCLBYzLyoLI3BjxYy2479QgSNvmetHttsD3EtOpwpIHgC6G5Z6KsGBdDybpU1r7fvXcmPSMj5PmXxDA3IZ6oonp1-xm5iHHySHnaMaBRKDZ8NMD8yLdKLq3Cs3rCMgqRg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdr1M5IkA4ZU4iL8R3doBzggDUTfml98Mj9vZHTZfxLOr4kLVkOJnAun4p4tjGn5Fy3D_jeu4yO_Z9TIGBIOiEsQ-3lZawad3wOWOHhH7Ki4bEDxsh6v2r_ynRxyhWe1GmxzPAMVX4FXD4Xu0WAGMnKOSHKz4CEwy3LpX5HJtqFORICMWR8co_FPXt18=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq6YWzXiNI78LpyO3I3IUG5VziPMwQT88SveCZrRQerbtFxU82URAfHuaWwbGt0AOiszcuLRFAAFtgwdNGTv-HgiuEuFXfw7FpjmodekB_dRHnxCKzgP9_edSf_Lrm6pHnb7xXFQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Y18SLgMnUdIdQNMmELNEFq6ZNu3MjS_hCXYm2WAsMEbrbcGtpayzkjmoYUsmTkZvzr1bWVzsMU0hTDSnzrRNkLbj2NGWWGFCNjVKQnew4w4nPPu7VOwrtWpzY23NdhjJovi7F3awsT7fLzps4LJE4NxdMxCWMjIP5r8v1kwoDzA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAWmqppxEZhtMBifTDsTBc-LLWopbmOscMagb3909suWtFyO45_oBXOri2CLC5toZxAeSLhqSdaeZk-3XcZD91xHauHUE0j544RIvs_Wwc9K4DSSF28Mt0dXwBnH6M315_ftuXE9XkQX7shuUeMd7YuP4Ep2PenwBXzCdcd27Wexqu0Ah1K7OLhLXIZIo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHAVb8QxZp_Q4itrKiy92gByvPs4hurF8Jzm4L9tRE3ORoO_K5dost0lR7kfP9KmfMdtdZ5CJkxhiio6h9BwOltAF_XNo7nmcph2csJ9dyqqFvKb8c0jIwEX9ewGtA_gD5FsWykafMOIW8GZWI_cwQvt1BN9xfddA7SlNlMSzggjHjsammNIGzaGC4VO33m-4r","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHOR2RLscs7CKdxvH4OEajcgPc7ynRUVg3jZagzlFHcPwPWkw8AntkUe2XIVP6HN6jJgY--qO7nm8SZJ1sKmRQqbsSY4roLi88Y9wVR2naxi8vGqJzFslcz4w_PHLtTzjfaPHe_vA0lRChlRkPKQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHtUQDzsETSHMTkws2c55dtHWg1dMD9zWtTXq0sBVx5vaavAxN5W9y9P8KX8ujymSwcZxzckLU2mlAehg2VqmAMdZDirVfj5x2QPY44zynhLmtZ9Nr8jLrAsTWNgkW2y2vspMyoaWZZo8ooymdS_ZFVUiIl-h1VWl-VDsUMQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzGLw-LjdG9jxMVPTau6wSf9DoSoKJnSVnKksHcsWuoD530O3vEbYoid4bu9hSV3WPlkitJFR27ntWDV6PAr0-tlMoJhm-hZFXjzlcrGz_aPK2PzKYwk5G5OM7omNpw__ej4kQXqYIgKbVmtgqx1QzgnAkCNrloeaC_URhwUMRRA=="]
+
+--- RAW RESPONSE TEXT ---
+Booking the **Hyde Park Suite** (106 m² / 1,141 sq ft) directly at **The Dorchester in London** unlocks a prestigious tier of luxury, combining the standard elite amenities of the suite with the exclusive benefits of booking directly through the Dorchester Collection. 
+
+The direct perks and suite-specific privileges include the following:
+
+---
+
+### 1. Standard Perks Included with the Hyde Park Suite
+Because the Hyde Park Suite is one of the hotel's selected signature suites, your reservation automatically includes several high-value, complimentary VIP services:
+
+*   **Dedicated Butler Service:** You will have access to 24/7 personalized butler service to assist with unpacking, packing, garment pressing, itinerary planning, or in-suite dining.
+*   **Complimentary Round-Trip Transfers:** Enjoy private, chauffeur-driven round-trip transfers to and from any London airport (including Heathrow and Gatwick) or major London train station. 
+*   **Access to a Chauffeur-Driven Car:** During your stay, you will have access to a chauffeur-driven hotel car (often a luxury sedan or Bentley, subject to availability) for local trips around Mayfair and London.
+*   **Complimentary "Speed Nap Experience":** Every guest staying in the suite receives one complimentary Speed Nap Experience at The Dorchester Spa. This takes place on the spa's advanced Welnamis lounger, which utilizes binaural sound and gentle vibrations to deeply de-stress the body.
+
+---
+
+### 2. Website-Exclusive "Book Direct" Perks & Packages
+When booking directly through The Dorchester’s official website, you can take advantage of exclusive packages and promotional perks that are not typically available on third-party travel sites:
+
+*   **"Arrive Early, Stay Late" Benefit:** This direct-booking feature allows you to maximize your time in London by checking in as early as **8:00 AM** and checking out as late as **8:00 PM** (subject to package availability).
+*   **"Stay & Indulge" Credit:** For bookings of two nights or more, direct reservations often feature a **£200 complimentary hotel credit** to spend at The Dorchester's acclaimed dining spots. This can be used at *The Grill by Tom Booton*, *The Promenade* (for afternoon tea), *Vesper Bar*, or the *Artists' Bar*.
+*   **"Plan in Advance" Discounts:** If you book your suite directly ahead of time, you can access substantial discounts:
+    *   **15% off** when booking at least 14 days in advance.
+    *   **20% off** when booking at least 30 days in advance.
+*   **Complimentary Second Room for Families:** If traveling with children, direct family packages occasionally offer a complimentary second room when you book a suite.
+
+---
+
+### 3. Maximizing Your Perks: The "Virtuoso / Diamond Club" Alternative
+If you want to secure the standard direct-booking rate but want to add even more luxury perks, consider booking through a travel advisor affiliated with the **Dorchester Collection Diamond Club**. 
+
+Booking through this channel costs the same as booking directly with the hotel but adds the following extra VIP privileges:
+*   **Daily full English breakfast** for two (served in-room or at the restaurant).
+*   **£100 ($100–$200 equivalent) hotel credit** *per night* (or per stay, depending on current promotions).
+*   **VIP status recognition** with a customized welcome amenity (e.g., champagne, fresh flowers, or artisanal chocolates). 
+
+*To book, visit the official [Dorchester Collection website](https://www.dorchestercollection.com/london/the-dorchester) to secure these direct rates and select your preferred package.*
