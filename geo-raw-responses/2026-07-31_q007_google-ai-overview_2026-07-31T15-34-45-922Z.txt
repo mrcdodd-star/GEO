@@ -1,0 +1,22 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.facebook.com/groups/traveltipslondon/posts/1366369195654350/","https://www.maybourne.com/en/hotels/claridges/restaurants-bars/afternoon-tea","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhGeGNHaHliWGR1GAo","https://dxp.maybourne.com/globalassets/our-hotels/claridges/restaurants--bars/afternoon-tea/menus/2026/5.-may/claridges-afternoon-tea-menu-may-2026.pdf?_gl=1*1vp0ywj*_gcl_au*MTYxMjM0MDc0LjE3Nzc0MTAwMzE.","https://dxp.maybourne.com/globalassets/our-hotels/claridges/restaurants--bars/afternoon-tea/menus/2026/3.-march/claridges-afternoon-tea-menu-march-2026.pdf","https://www.youtube.com/watch?v=mnlkLyZ8bKM&t=38","https://www.tripadvisor.com/Restaurant_Review-g186338-d6387666-Reviews-or1060-Afternoon_Tea_At_Claridge_s-London_England.html","https://www.dorchestercollection.com/london/the-dorchester/dining/afternoon-tea","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM05XWmpkRzF5GAo","https://www.youtube.com/watch?v=HYkcz1__yko","https://www.theluxurytravelagency.com/luxury-hotels-in-london/","https://www.youtube.com/watch?v=4PVC6QTkB1g","https://www.houseandgarden.co.uk/gallery/best-hotels-in-london","https://www.countryclubuk.com/claridges-london-best-rates-at-this-art-deco-masterpiece-surely-the-most-glamorous-of-hotels-where-hm-queen-elizabeth-ii-was-a-regular-for-lunch-ranked-no1-among-the-worlds-top-50-hotels-to/","https://www.forbestravelguide.com/hotels/london-united-kingdom/claridges","https://www.bbcgoodfood.com/travel/uk/best-afternoon-teas-london","https://theweek.com/arts-life/food-drink/953165/london-best-afternoon-teas","https://dinewithjp.com/the-dorchester-london-luxury-hotel/"]
+
+--- RAW RESPONSE TEXT ---
+Claridge’s wins for timeless prestige and its iconic Art Deco glamour, while The Dorchester excels with a more modern, high-energy luxury feel following its extensive Pierre-Yves Rochon renovations. Both represent the absolute pinnacle of 5-star London afternoon tea experiences in Mayfair, but they differ significantly in atmosphere, culinary structure, and menu presentation.
+Side-by-Side Comparison
+
+The Case for Claridge’s
+
+The Case for The Dorchester
+
+Booking & Logistics
+Both venues are incredibly popular. It is highly recommended to book your tables via Claridge's Booking Engine or The Dorchester's Booking Portal up to six months in advance, especially for weekend sittings.
+If you are planning a trip, let me know:
+
+I can help you secure reservations or tailor the choice further.
