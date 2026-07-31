@@ -1,0 +1,119 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.thehotelguru.com/en-us/best-hotels/united-kingdom/london-mayfair","https://santorinidave.com/mayfair-hotels","https://www.tripadvisor.co.uk/Hotels-g186338-zff12-zfn7235717-London_England-Hotels.html","https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner","https://www.mrandmrssmith.com/destinations/london/mayfair/hotels","https://theluxuryeditor.com/location/europe/united-kingdom/england/greater-london/london/mayfair/","https://www.themayfairtownhouse.com/","https://www.youtube.com/watch?v=VcMLl3nT_H8&vl=en","https://www.expedia.com/Mayfair-London-Hotels-Luxury-Hotel.0-n6054503-0-tLuxuryHotel.Travel-Guide-Filter-Hotels","https://www.themayfairhotel.co.uk/","https://www.tripadvisor.fr/Hotels-g186338-zff12-zfn7235717-London_England-Hotels.html","https://www.hotels.com/nh1696010/hotels-in-mayfair-london-united-kingdom/","https://www.thebiltmorehotels.com/biltmore-mayfair","https://www.flemings-mayfair.co.uk/","https://www.booking.com/district/gb/london/mayfair.en-gb.html","https://www.fivestaralliance.com/best/hotels/898/the-best-london-mayfair-hotels","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/mayfair/hotels/","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.fourseasons.com/london/"]
+
+--- RAW RESPONSE TEXT ---
+For a **luxury stay in Mayfair**, the most widely recommended choices are **Claridge’s**, **The Connaught**, **Four Seasons Hotel London at Park Lane**, **The Dorchester**, and **The Beaumont**, with newer hotspots like **The Twenty Two** and **The Biltmore Mayfair** if you want something more contemporary.[1][2][4][12][13]
+
+Below is a quick, curated guide depending on the type of luxury experience you want.
+
+---
+
+### 1. For iconic, “classic London” glamour
+
+- **Claridge’s**  
+  - Often described as the **gold standard for classic luxury in Mayfair**.[2]  
+  - Art Deco-inspired interiors, seamless service, prime location in the heart of Mayfair.[1][2]  
+  - Ideal if you want the full “old-school London” experience with polished formality.
+
+- **The Dorchester** (Park Lane)  
+  - A true London institution, famous for **royal-treatment service** and very traditional British style.[1][2]  
+  - Overlooks Hyde Park; great if you want grand public spaces, iconic afternoon tea, and a very established feel.
+
+- **Brown’s Hotel**  
+  - One of London’s oldest hotels, blending heritage with discreet luxury in a central Mayfair location.[1][4]  
+  - Good if you want history without the full formality of Claridge’s or The Dorchester.
+
+---
+
+### 2. For discreet, ultra-refined luxury
+
+- **The Connaught**  
+  - Frequently cited as **the best discreet luxury hotel in Mayfair**.[2]  
+  - Michelin-starred dining, superb bar program, holistic spa, and very understated elegance.[2][15]  
+  - Excellent if you value privacy, impeccable service, and a “quietly wealthy” atmosphere.
+
+- **The Beaumont**  
+  - Luxurious Art Deco–style hotel tucked between Bond Street and Selfridges.[1][12]  
+  - Known for characterful design and a strong restaurant; feels exclusive but not intimidating.
+
+---
+
+### 3. For modern, contemporary 5-star luxury
+
+- **Four Seasons Hotel London at Park Lane**  
+  - Regularly highlighted as **best modern luxury near Hyde Park**.[2]  
+  - Contemporary rooms, rooftop spa with city views, very polished Four Seasons service.[1][12][19]  
+  - Good if you prefer light, modern décor over traditional British interiors.
+
+- **The Biltmore Mayfair (Grosvenor Square)**  
+  - Modern British elegance with refined interiors on Grosvenor Square.[8][13]  
+  - Strong choice if you want brand-new-feeling spaces and an upscale but less “old-world” vibe.
+
+- **COMO Metropolitan London**  
+  - Clean, minimalist, contemporary rooms across from Hyde Park.[1][5]  
+  - Works well if you like a design-forward, uncluttered aesthetic with a calmer atmosphere.
+
+- **1 Hotel Mayfair**  
+  - A **sustainable luxury** option: plant-filled interiors, Bamford wellness spa, high-end dining, steps from Green Park.[1]  
+  - Ideal if you prioritize eco-conscious design and wellness.
+
+---
+
+### 4. For buzzy, stylish “scene” hotels
+
+- **The Twenty Two**  
+  - Newer, very fashionable hotel with **seriously plush** Art Deco-style suites, a stylish bar and restaurant.[1][5]  
+  - Great if you want nightlife and a social atmosphere built into your hotel.
+
+- **The Mayfair Townhouse**  
+  - Described as a “stylish lifestyle hotel,” playful and design-led.[5][7]  
+  - Good if you prefer character and quirkiness over formality.
+
+---
+
+### 5. For apartment-style or longer luxury stays
+
+- **Grosvenor House Suites (JW Marriott)**  
+  - Often recommended as the **best luxury apartment-style option** in Mayfair.[2]  
+  - Large suites with kitchen facilities and hotel-level service on Park Lane – excellent for families or long stays.[2]
+
+- **No. 5 Maddox Street**  
+  - Discreet serviced apartments close to Bond Street and Regent Street, with more space than a typical hotel room.[1][2]  
+  - Stylish, good for longer visits and shoppers wanting a residential feel.
+
+- Other luxury residence-style options in Mayfair include **Grand Residences by Marriott** and **Native Mayfair**, both offering spacious, apartment-like accommodation with a luxurious feel.[11]
+
+---
+
+### 6. For luxury but slightly less “grand hotel” pricing
+
+- **Flemings Mayfair**  
+  - A historic, 5-star **boutique luxury hotel** in Georgian townhouses; part of Small Luxury Hotels of the World.[2][14][15]  
+  - More intimate than the big names, with a Michelin-starred restaurant (Ormer Mayfair).[14]  
+  - Excellent if you want high-end comfort in a smaller, quieter property.
+
+- **The Chesterfield Mayfair**  
+  - Classic British style, friendly service, very popular for its afternoon tea.[2][11]  
+  - Often noted as a strong **traditional 4-star** with a luxurious feel, and good value for its location.[2][11]
+
+- **The May Fair, A Radisson Collection Hotel**  
+  - Large five-star hotel with 400 rooms and suites in central Mayfair.[3][10][16]  
+  - More contemporary and business-friendly; tends to price below Claridge’s/Connaught but still fully luxury.
+
+---
+
+### How to choose, in one line
+
+- **First time, want the archetypal Mayfair experience:** go for **Claridge’s** or **The Dorchester**.[1][2]  
+- **Prefer privacy and understated wealth:** choose **The Connaught** or **The Beaumont**.[2][12]  
+- **Love modern design and wellness:** pick **Four Seasons Park Lane**, **1 Hotel Mayfair**, or **COMO Metropolitan**.[1][2][12]  
+- **Want a fashionable, social scene:** look at **The Twenty Two** or **The Biltmore Mayfair**.[1][8][13]  
+- **Need space or traveling with family:** **Grosvenor House Suites** or **No. 5 Maddox Street**.[1][2]
+
+If you share your budget range and whether you prefer classic vs modern and quiet vs social, I can narrow this down to 2–3 specific hotels that best fit your stay.
