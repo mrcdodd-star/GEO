@@ -1,0 +1,105 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.thedarlingacademy.com/articles/claridges-hotel-afternoon-tea-a-review/","https://www.maybourne.com/en/hotels/claridges/restaurants-bars/afternoon-tea","https://www.youtube.com/watch?v=LLJaGU_vprQ","https://resident.com/london/2026/04/14/the-12-best-afternoon-tea-experiences-in-london-at-the-citys-most-elegant-hotels","https://www.youtube.com/watch?v=p0QAtEvVX5U","https://highteasociety.com/reviews/afternoon-tea-claridges-london/","https://thesaucemag.com/best-london-afternoon-teas/","https://www.afternoonteareviews.eu/2022/03/afternoon-tea-claridges-london/","https://www.youtube.com/watch?v=BYki_cxi1Fw","https://www.youtube.com/watch?v=f3s2gGa0IyY","https://www.dandelionchandelier.com/best-afternoon-tea-in-london-at-claridges/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187685-r957576407-Claridge_s-London_England.html","https://www.maybourne.com/en/about-us/editorial/summertime-indulgence-luxury-afternoon-tea-at-claridges","https://shop.claridges.co.uk/blogs/the-edit/afternoon-tea-in-true-claridges-style","https://www.reddit.com/r/FATTravel/comments/ukclxs/what_is_the_quintessential_afternoon_tea/","https://www.businessinsider.com/photos-claridges-afternoon-tea-review-london-2020-3","https://afternoontea.co.uk/uk/london/mayfair/claridges/","https://www.aladyinlondon.com/2013/02/afternoon-tea-claridges.html","https://www.reddit.com/r/LondonTravel/comments/1rojmpa/afternoon_tea_fortnum_mason_or_claridges/","https://www.tripadvisor.com/Restaurant_Review-g186338-d6387666-Reviews-Afternoon_Tea_At_Claridge_s-London_England.html"]
+
+--- RAW RESPONSE TEXT ---
+Claridge’s is generally considered the **more iconic and consistently top‑rated** hotel afternoon tea than The Dorchester, but they offer slightly different vibes: Claridge’s for classic Mayfair glamour and precision, The Dorchester for grand Park Lane opulence and a slightly more relaxed, traditional feel.[6][11]
+
+Below is a focused comparison to help you choose.
+
+---
+
+## Overall reputation
+
+- **Claridge’s**
+  - Regularly appears on “best afternoon tea in London” lists and is often described as *quintessential* or *benchmark* afternoon tea.[6][11][7]  
+  - Some reviewers rank it above other famous teas like the Ritz and Harrods for food quality and service.[10][11]  
+  - Frequently booked out weeks or months in advance, which reflects high demand and reputation.[9][16]
+
+- **The Dorchester**
+  - Also consistently listed among London’s top hotel afternoon teas, with strong reviews for its tea room setting on Park Lane and classic style (from broader “best afternoon tea in London” roundups).[4]  
+  - Considered one of the most traditional, “old‑school” luxury hotel teas in London, with a slightly more formal, clubby feel.
+
+If your priority is *“the one everyone talks about”*, Claridge’s has the edge; if you want *classic luxury with a slightly less hyped but still top‑tier experience*, The Dorchester is excellent.
+
+---
+
+## Atmosphere & setting
+
+- **Claridge’s (Mayfair)**
+  - Location: Brook Street, Mayfair.[17]  
+  - Tea is served in a beautifully Art Deco space (the Reading Room / Foyer, depending on the current setup), with high ceilings, soft lighting and live piano.[6][11][16]  
+  - The feel: **elegant, polished, but not stiff**. Many reviews highlight how welcoming staff make it feel special but relaxed.[6][18][12]
+
+- **The Dorchester (Park Lane)**
+  - Location: Park Lane, overlooking Hyde Park.[4]  
+  - Tea typically served in The Promenade – a long, glamorous central space with chandeliers and plush seating.  
+  - The feel: **grand and traditional**, with strong “old English luxury” vibes; slightly more formal in appearance but still friendly.
+
+If you want a slightly more intimate, design‑focused room, Claridge’s wins; if you like a big, dramatic, classic hotel lobby promenade, The Dorchester may appeal more.
+
+---
+
+## Food: sandwiches, scones, pastries
+
+- **Claridge’s**
+  - Menu: Traditional afternoon tea with finger sandwiches (often seasonal fillings), warm scones with clotted cream and jam, and a changing selection of patisserie.[6][11][16]  
+  - Quality: Multiple independent reviews praise the precision of the sandwiches, the lightness of the scones, and the creativity and balance of the pastries.[6][1][18]  
+  - Style: Classic British afternoon tea with subtle modern twists (e.g., seasonal ingredients, refined presentation).[6][11]
+
+- **The Dorchester**
+  - Menu: Also very traditional – assorted finger sandwiches, scones, and pastries, usually slightly more classic in flavour profiles than Claridge’s (based on round‑up reviews).[4]  
+  - Style: Emphasis on *timeless* rather than inventive; you go for comfort and tradition rather than culinary experimentation.
+
+If you value **refined, slightly more modern patisserie**, Claridge’s is usually preferred; if you want **straight‑up traditional flavours in a very grand room**, The Dorchester fits better.
+
+---
+
+## Tea selection & service
+
+- **Claridge’s**
+  - Large selection of loose‑leaf teas and infusions, with staff happy to explain and guide choices.[6][11]  
+  - Service is repeatedly described as **attentive but unobtrusive**, with details like precise tea‑timing and quiet refills noted by reviewers.[6][1][18]  
+  - You’re usually given a defined slot (around 90 minutes) and clear seating times in the afternoon.[3][20]
+
+- **The Dorchester**
+  - Similarly extensive tea list, including classic blends and single‑estate teas.  
+  - Service is commonly characterised in round‑ups as very traditional, formal but warm.
+
+Both are strong on service; Claridge’s is often singled out for particularly seamless, almost “choreographed” service, while Dorchester feels more like a classic grand‑hotel ritual.
+
+---
+
+## Price & practicalities
+
+- **Claridge’s**
+  - Recent pricing for traditional afternoon tea around **£75–£85 per person**, with Champagne afternoon tea slightly higher.[1][7]  
+  - Very high demand; several reviewers mention needing to book weeks or months ahead.[9][16]  
+  - Serving times typically mid‑afternoon (example listing shows 3:00–5:30 pm daily).[20]
+
+- **The Dorchester**
+  - Pricing broadly comparable (typical London 5‑star hotel afternoon tea band: roughly £80–£90+ per person, often slightly different by day/season; mentioned in best‑afternoon‑tea round‑ups).[4]  
+  - Also requires advance booking, but tends to be a bit less notoriously booked‑out than Claridge’s.
+
+Cost will be similar; **availability may be easier at The Dorchester**, especially at shorter notice.
+
+---
+
+## Which should you choose?
+
+**Choose Claridge’s if:**
+- You want the **most talked‑about, “quintessential” London hotel afternoon tea**.[6][11]  
+- You appreciate Art Deco glamour and very polished, slightly more modern patisserie.[6][18]  
+- You’re happy to book well in advance and treat it as a “destination” experience.[9][16]
+
+**Choose The Dorchester if:**
+- You prefer **grand Park Lane / Hyde Park surroundings** and classic hotel opulence.  
+- You lean towards a **more traditional, understated menu and atmosphere**, with slightly less hype but still top‑tier quality.[4]  
+- You want a traditional English tea ritual in a very formal, iconic setting.
+
+If you tell me your priorities (e.g. food creativity vs tradition, atmosphere, budget, dress code, or if you’re celebrating a particular occasion), I can give a more tailored recommendation between the two.
