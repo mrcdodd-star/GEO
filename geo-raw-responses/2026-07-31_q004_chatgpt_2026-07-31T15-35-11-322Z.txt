@@ -1,0 +1,38 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://www.marriott.com/en-us/hotels/lonwb-the-wellesley-knightsbridge-a-luxury-collection-hotel-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai","https://www.mandarinoriental.com/en/london/hyde-park?src=loc.yext.molon.ggl&utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai","https://www.peninsula.com/en/london?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Hyde Park, one of London's most iconic green spaces, is surrounded by numerous luxury hotels offering exceptional accommodations and services. Here are some top luxury hotels near Hyde Park:
+
+**[The Wellesley Knightsbridge, a Luxury Collection Hotel, London](https://www.marriott.com/en-us/hotels/lonwb-the-wellesley-knightsbridge-a-luxury-collection-hotel-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai)**  
+**Closed · Hotel · 4.3 (531 reviews)**  
+_11 Knightsbridge, London SW1X 7LY, United Kingdom_  
+Overlooking Hyde Park, this boutique hotel features 36 rooms and suites with Art Deco design, 24-hour butler service, and a complimentary chauffeur service.
+
+**[Mandarin Oriental Hyde Park, London](https://www.mandarinoriental.com/en/london/hyde-park?src=loc.yext.molon.ggl&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2761 reviews)**  
+_66 Knightsbridge, London SW1X 7LA, United Kingdom_  
+Located in Knightsbridge, this prestigious hotel offers 141 rooms and 40 suites with stunning park views, a two-Michelin-starred restaurant by Heston Blumenthal, and an award-winning spa.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1914 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Situated between Hyde Park and Buckingham Palace Gardens, this luxury hotel offers elegant rooms, a rooftop spa with panoramic views, and the Michelin-starred Pavyllon London restaurant.
+
+**[The Dorchester](https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai)**  
+**Closed · Hotel · 4.6 (4577 reviews)**  
+_53 Park Ln, London W1K 1QA, United Kingdom_  
+An iconic hotel on Park Lane, The Dorchester offers luxurious accommodations, including the newly renovated Royal Suite with panoramic Hyde Park views, and renowned dining options.
+
+**[The Peninsula London](https://www.peninsula.com/en/london?utm_source=openai)**  
+**Closed · Hotel · 4.6 (1001 reviews)**  
+_The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, United Kingdom_  
+Located near Hyde Park Corner, this billion-pound hotel offers spacious rooms, a complimentary house car service, and several dining venues, including the rooftop Brooklands by Claude Bosi.
+
+Each of these hotels provides a unique blend of luxury, comfort, and proximity to Hyde Park, ensuring a memorable stay in London. 
