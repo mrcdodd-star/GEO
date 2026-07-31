@@ -1,0 +1,111 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhvmXPx_Rcj0W1YMeYUJEy9gtBDIre4DUn6KM2dFhAtvrl1YmQpPraexXuWvwuIo02q82vptwQhRAZyNXjvmH3xZv4hL0nI8Y_AN0bspub0VDzMRqRjCcCljM2nWJbx_mi_1Wglubg67yUr-JFb2ZfiIKmmZHUROChplgckB5mduzV7omDRnrp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1vYghOaJ9UKVQzAAJsIZd6nJ7ZVZUhuvUk0BvI2SFuT7PB1JXr0GKSefpkloGcpaP60ti4DsUjagmsiIfp2gAOcZfq8mtIlT1mcPI5sOImOR4uGeuHESM_bmOeQQ-5xCbbmRz7R5sfim7W6Epi0a91DEllCs8WwhJfgHZSGKKK5Dv5zLGpebuPkMOEKpART8X4rslnImZAhzPF8JKZQfSB7s-O6CN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQIaVyNlA70LjSMHqBLq125AtTtBePmQN-EP_3cv2NkMFDabNBFxeyxWTOi2TCG9GaVPymOSiGUDNwfQE_gKpZ4iZEoVIF776xYDNO3YM5vu8bp-HkRRqcStit8P2viB8YKDzZ8gmJ_O4y2Cl3LVZfZIN6WJxtXoY7Vwoy2JC7L6cdnITeemnPtvppGmFFAprxE7L9RBNsQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYSvCF7faTJOkhudLSbow_aU5d7fyG6Q2RYUJYEZJuFdX9_j_RiG7kYhwB9-ptY_9URi31Cri6Y5qLHbftwdaRGPadWvp8AQ4AfvzYWSdq6k4Q-iO923KbckLsUVr9OwdNaS3nw2nCOfBz7JHcCLV9nTN5IcPNAt-WbSIpYvdzLTtsu9sAOe0D","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnUftoTw7MKPo4H_mtvP2IGmSONJqXlH-Thj0osZUiVZfJRdjHIUR1cdbcrtVbdYOIDKAMQZwM6WzmOqjPXhSi62oYH6E1ojuoruL21rvJWtc-FNxOgLsetm7c2qTn0Pdv2uDYTtenqlo0f6HCmdBT1BmgDrA8mK-aCP1peED6Qd2NVsG89LbsNjQYwCD-Qv2Vj12-J1Pk3Fj19MWk","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-GFKjeGS3uu5sCagZ9HT7u2Nq2L-5fsO7BU7lqiQPRKWQMT8DK9iJnKDU2Z7bVXSKA_we0DN68qmSXaysffXdC59splKDo48aZgQgzakXli3na1Zus8Cfz7nXYCsE385bZwYZhTGZrWIc1s6lMPWHjWhsBd7EUXPFSA9_BdTnhsTd4kXN8KimCkZd-_n3UpRUfkIU_NHrRu15HeZe0w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETEhN_651oHUwz57aAc4tV4TlsLS7fJgTRNGjyNsDGXOCe8bhNJHhXyDuMLn6NuOcrFs63kjv-AutgHMgvSIuPu2gAWedOM7_4vnXsH6w3J1lHRUr_2HBKw_z8wyuc0JGIXuwI_hs0y1tQbp-yUv8Qu_NLACRmiwZPvRCKPDjDAu-mIWhr_uQxcV_wkSiEdA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBvz-elXz2oDsed8oquSIrTkDiJOrd4F98hdWejGdk3ljy-SO-U_TA11twctsU5bQ2M3bBaaxT5EW0OSh_wZCvPpFnHbV2rjQjgyCHuCkwdKTMBUeg1LaeymPtSKO0qHdt6vALDH9ozVezv-UiJ4Y3","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_vrR9_O1ZggAsr49UpK5qkNPGQQ8MHKIO7od-9xXQBgCs0HJRgSV8XQ79HJ8G0qDemMKzPkwWx51eIdd9LWtUThh7au59RdStYDds9IHsB4AKfMWOpL-vqPb7G6VPsVQKtYFIscyQi2nzR9e0UkF6-_2JiLyu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhIFH_0lpJdEhZVMFYA8QSDzvjLOrlV4UxL5n_LQvgSHXJyLrkGGuEL95F5c8UWZchHT3IbNZdln1gucf3H6GcjXK6I2-2iPiy-PJBvpQ22WoauVKVJU_r66NziUFCtJXZhHg5v41KbyLYTreGGb1kh_1ldcOD1ddEeB68EkBzWsC8dp4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjJiuWLqxIPe2rW1Gl0oJXD_9CHjPOG0_VRMB-PJMfFERL4IuTHAHgEEPd_h6j_5US4YvTIG7QPq3owSXgOcvnB_PJ7tOAkeGbxpb_oBrof1oJxDt1kjW0p-vqFMfnLcBzWq5VkkPxwNSTlZuXalfA4btBGGclZxlfgtPolMf2XcXnA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVQDrCdB95ffUF7NxNIQI75G6B8WZ6jQ2lZpn3aZ-n0sciHMMkggFQRKVq4jtxZHiOw47l6WjKMZLYFYwxyuZHd1spfbLbshmtQxTJy16nmiBLVgK_qAtR_6jKjeAr1q4inctqx0TADmqZROyrrbIdhZyROCe7HnNDXRFB8Yh0FZvRgr5","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1M5H2okVz-HhEoF41shV-7trg2JajpRx-75esvcRRq0nmH7mFsEiuOBTgz9LD2Xl5ipIoA8ns1SGSKeZ4AafIo_-xErJOZqI2g9PIVofMzV_4IFF90PQDH3A2U66ov2X7pDZlqXR22ICk03sqepLeqGT3cebIx6OYAsa4UY1mnoOG89bq2UOk9QjGzEvzNP2c","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVUjeKgEnxSh2FXCupVepZUH3wGXBjY_CDHu55jyACeFbrQfWNpJP3JuYq2XtcxAOps-VE9c_PtnB6VXOCL0XETaHI1109WyeW45rxkOlcy7g6luLFQN1eUfiYFHPokfp-_atwIBe1EMLTZuhJbKnmD9F1vzIT90D5h4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENFUbwivVCh7U4xHkOAjwopnaRhHNA0CthJYHArVCWoPf_ujKJnItSIoPuem3zcC9lpzf8wItwakhe-AcWSv5eOOEeWBe7Z0aJLK9xT6p2ZuvGFgdecUHN7Rs1tvSU2pGlfMsV8Pi0tGq52sz5G2ERleqcM3krevwmiA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEatG9RqTNYUfaiwrBP6gdFCSWsDE23S4rU6yN3pwvcLMBnyinlr0ooEqp8Fu1RnxjKmKFWZKQmPsvBmEvHt6IRwb5W5JwJ9IyChlTdt4mX-_LqdQc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpu9Kmp7hmGCqkYupFso2vwnQnAVAeYAaZxn_30zd5XZaorNcyPY3jPA6DIoG1O7yAwjABgXKicQX0nLy7TUHdV2Dc1JroERLZfm8rINs5Iv0NIQOE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECeku03JsKmY5JeFagJ_y9NRCn61ATbgJXwewWoyEhWnUrm00maIV7TsI_e5vJpdjmvanAymxZ4ezRXOjPSDD2yJv-GHqUQE5BpM1E9vm6-lIiExr3cXnqvhJMp9spdNS2hTS5xPS8CZL0c5Fb0JM9mb5cuGsToIXe","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpu9ZFegdrIer2VhHIHWTzcvjXQ8IUG6Mrvl9rd8p5Z7QPo-wwBhlLNchju91eBH1H1UmULqxHoJqRGYbXR2Z5Ukq54OK02PRn3zH8NgivNUjhlZLfnaMs8GH1DFxLhzAA8kxjjZd97F6j7eAxrNCxO6I9stmcf0o9iQLyd_mJnehpJ8mqZxrgdMPEkdM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPNIVvjIsSCXJH5jBKmyOKjYpOsD5mnlVU_yipZkOX1x1nVfAiy6Sd-Zncr4QaNMpNJtHM263EkzPdLHkJHbLmYQPOuUDFoDz27pWfmngsyjEh1xw2AvxuuNNhHuBeOxxHqEVBXQxfR0tQdziF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJegR1lGJ9zyhdIXqtgk6mDji_jrYnhD3X5WNiaOkLHmCygEdB7VVsjyG--HTi82DGZucx2Xy1uuhFASui9zIFZKWpSzbYsF_a0uio5gPc1autOsZxHfx1u-vO_ZEf1df0_laa8FNoKjZKJw8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTV0bX2j62S0ki10L10ROcGcFEpQU1VGY0v1_ghlOW4VJt1joPNnw5ZvhDaMWTgfLE2fFjLPrHm2fFo74Ce_ek2FlAob9gJSwZxZTUuGQ6pWCUySHJvQNAZrbkSE5NDTJBpTLR3VBmO6XUZKCzdV_d0PCuNXuc2OQAytc40QiXXYuh7-QyVmWH46wFcyfTsQi8z6_Vri4cDoyZMzrrjdzeqicDew==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgnbsngpTBwmAp5Dd-T6CKHIgdoMP68rzoIWp6yBQID3B5qFtpDrLYaT0wSnpDp9CbQN41mrcIdfOXoXSSh0eCMpGg2A4BFzCkG94Kz1fVSp9D5v6U2ZMxwSG21BzWnFGIiew6vnj9cNPR5EtBA7Kx1oHbcgwnhbXFOdRRv2I0pIwf4IE_l6W7","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhLaBSEN4sE3vGH6WvUGUnod0yHLtfTqMty030aDZNHHjwtxUyiYuqVH81WpRh-vU7bd-zTHM7SyizDqpmAGn-T1eWaRsGALv89Zw19W8zKyhh_qjU70brlr0bF898-1iAVaqTllfFmKaQB1picVEc99rbPFJZLh2fyu6mFcTNNbSrEjKq_9LLLe0SgvvV","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8FNvPfN-jkJ_fuPhCFRC5Wxm2-7-4slSAoElfburYUkXQwC6jFTOsVds_w2AYCjxKSpDeCbDsRICP2j81-nks3mP_n5IWbtKmAZCFadNxNafNN-Gzz04Fc6Rs3ulgEBwL2BnhdlIGznuhBbaj61WUMf6Q34aK0UjvfRdkMdKocOrBVCdT36lIfXPPPLjXuGSRcxbmAbk6TLIpLavaaOGappKDKE77LvbOx1GYPPBMfb_cwyyz5ssGbgVPVw0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd4Sx1Zfsr45uj4_fYmV5XAsY3AKgaGTCSlFHrPQijBrsie7zsoIbcQAtPVGcNsxKkNDz4uRma4rFcmRgYjdvv_2ArxjbIJzBhu9VEzZ0_SMJsDBCH0hwJRHCyMT3xblpj0l5IGqXc9ARQ6acIRSn_uCHwI4maCFmtR9sHb7tKr-3AifokwlXnCE4XctDBMn1mOumFFw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtwjdlKKWalqYLQgfgrY8e1wazjehMBhRh4DvRaytKefZAh_O5i-QWEeQYkpv7QcAsIf47J0HWAuya5vkGd4x3rz8eaOb3zokJkWQ_E-rqQdf6CWI6d-DSjiuTdqq3EkBnk0g1Lc9K0tLjSN8sRYERwx8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNElkVJiuTnIibFe3wD7FMM2ETBLibK4qOTfAaduJMsh7AaCM9_Y666Kj25s-TlmzTldWa5AIh5zfL0jqqWSGCHIcLv1CuP2meXDRYe5aeY8PL1P4SAUFz4kZxbnfeG8jroRoLW7-6Q8j1_e8XNU5EF7_CE1ARYPMvmckmufuBxUrKKXbEy2MS1g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkGKQ9tCLczUHO4WidBkil9V0jLTbYcPDnZnlzJXymvobyjUcd6UOBtbzeYySFUj4IdsQ1SWryRhBIMy0OEK6uT-5SZlb4rqRlila21n2NgsozPVcUDC4Feo6qa9YfYl0iBivyprOn7jM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPGtvbRZ5708G-LOxOX35CqG8G3juJcDA6JuDsQsJAYugboSUJKp4tO4bYzkMgIZfDhxkzjjUiHmRq0tWJd5IB8_kS5WGbvukjNpjpP0xGkqd0Lc_jXoDyd1qchf0mx-KwnYw7qn12T8xAMmDIYNaaQQ4bdtECwkkqAAzlTNt1eBIGOB7IFAFFnDxkU3I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ8m7S6xvnGrcYCmvMS_u_hO9MzkkoLhKT28th5GubQWUTLDjadbwid2nkFwDCiWdHXuyPMCZk6Wve5qDdhp0RVL4A5T4F5Ak5ihRtBFqm3JUpiLoGWl3qmue65ENpqcnNiiVST4FzdgFUas6MWC6ky4jtJ9Ifw4Y8fCCcSG5Cv_GYn-cv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Bs5-CikW3JeByAY4_AbiaFKeL2JwOYTFldiuY0bP9aq4w3CSKAQLySCBsTOmqgv3Ip7vAmRiJqDMFttnkOMCpz-YNSKd8qqpyFnaMouzkF45OLTxeEiCfMuRHDHAZNg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3vYQcF1Jah1osRrSBKuvLp-mbyotn5ZsDSla2Z8LlPtxB_AZY7faVb4XNOmXYtc4P4Pfu7GYnUC2pYIoRGxBvIi8OnzWl7js0nYJ4MyKIZnVX94BKrbpCtsE4SvVqPayCzF_NoqiHaA2ihe26nSHoyUslDEfKHUixW_Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4HeifwCCkvQHka03_iLL1NYxALZ4lifxkm-Veb2mjI-dHTfHWcRdqgLCDRtcxzSXZVqqS9xddid062aCT__f4Po9j1YJlbyMDu3ehbQBVx4o-zxuFplqMaLZlwL8RVMpcACq0m4W941Pqrw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdbFMmqiP-tp214mhApFo4mYO4YMQoj8ok23JJ3-Bgi350h7haKwtTExu61ej8lZcJNk4hfFyzSeA9nYZ20HYvEuoyVMpvmt_g1ACCcrU1zQuYTSreuw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgMyKUJlEQRcWrL5qY7ShfVyq-vjuqzYV2gp_bP9d1ug0vbc5Hb1hV-XIRzL6kg_bRljm5ReCymz5HwXXKcxtUG3p6AfW8zhB5xTMdqSA9je4hAZj5Ej58-hXfQWwWBV7rMhEAoGmgA2gGkkQYsA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKr1vLwf2v2JGk9l_7rFjEitebRCaOXxkw7KJa7xgl_8JhaxPwvXoM9vhI2yi73AJexMvOzU1FPOwRHBU1C68_ZTjuAmtzrY39azUEYWU-cHCamx6PhyRTIpo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF67h_Yl25UfzJAuEcYuXfOu-FaPw16-HzHiIuvZga9Jg4t2x6iMxooIWKREkCi6UE_Va_r9cLs6vLgsHfNmh1lYtF92IA7AehVNmrOqQFHXzA-YQoBoxLc9nrPGqpw5eJRMpr0yYoLyie_t7J5j5BSygEZIRHkbKMwFzm60NM3cBIdSYRxe4ya1CIa3HRADAz-OXipLNlDktflqI3ajKmaOVglW-8kXhaQlg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9ouPaiRMMT-g3knmsApSjPUE0qfsEYrlQBKsQIA0GTvAX7lEwx_8CZPQVAAEhD_vrW3RliYciwCBd9XyhP08DuN9RA2_GUkoVqJGNbkZbXtL7Euoc7KSl5m8lqKWoV0uSnGTVx3fQTmFIl2a9vYZIpTJvyMd7zRjnjgbOpKOMsKt0LA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5hZOYh_LxsQHrUZGioqDgMHZN3jQOxvJhavIVVfWHjwnzftafLX7zmWXAKfIg7bF86BhSEZIEUy_YtDTuX2qCAR2h0wEpZlf__RWWtp2DfQUxsscJKy8z1i7BRw80WFlKffC0pKjAxudka6SaJzG1LHflJLjiI4OLkMNOL4Fa","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKX-poOzkxIceBIodJyanSGYBLi9HUmF9R4wQTC7IAsnq2Lzai2XPQ9dS72FZK5DYGiH5UDWtRIRDg51jzQYFOg6RYgEIS8Sp83cJxlKj0y_UHng==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqY9dHpHSqIdoYYpwCOZlKGNGl5OEqCtT4T1rC8MIQMPDUM8Y9lmcfBR2ghPBEV5yo_dNXVDQMvXdNIpLOJylZxRq25MAayTx8Q7Izw1v51qERbJCGn_Ug0IHhuXfhkTR5DOXtrxQJotsxU6rK","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVRxtzmQHP3PSzpyKHYRYKtQx7oueNdajkId3lWrw4nWLKU1hCs5GSl-2GuzWvcp2-gP4NWtIIhZzGOcpnrF0Jt-tCFfG59K-49WRVNi_BPxbJ46m2kgpDOQY78_tGYo5GdMduQpyMv-hwjytNKfSe5xUhjc0134JmWjmMpQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzqWAnOzgPCEAKeKn5A3hunYzMAw_5nVXvSU6Z9eLQwsPDmYjcXAlQquNtByI37ZuIByG5_Dxf0y02Qvn9Y70rjhwyqIr3GQjDUfoIWofRPX9A9HieMa-xEOLo2EQvJaBIqzx0o3J7mHnzWhOrGIZjBSg5x16Y6fYZ9cz4NVCloEpjjgs="]
+
+--- RAW RESPONSE TEXT ---
+London is home to some of the world's finest hotel-dining partnerships. If you are looking for the ultimate combination of luxury five-star accommodations and world-class, Michelin-starred gastronomy, the British capital offers an incredible array of options. 
+
+The top five-star hotels in London are categorized below by the Michelin-star rating of their on-site restaurants, representing the most up-to-date standings:
+
+---
+
+### 3 Michelin Stars (The Ultimate Culinary Pinnacle)
+
+#### 1. **The Connaught (Mayfair)**
+*   **The Restaurant:** *Hélène Darroze at The Connaught*
+*   **The Vibe:** Celebrated French chef Hélène Darroze delivers a highly personalized, creative French fine-dining experience based on seasonal, artisan ingredients. 
+*   **The Hotel:** A legendary luxury landmark in Mayfair. The Connaught holds a coveted **Three Michelin Keys** rating (the hotel equivalent of three stars) for its timeless elegance, world-renowned bars, and flawless, intuitive service.
+
+#### 2. **The Dorchester (Mayfair)**
+*   **The Restaurant:** *Alain Ducasse at The Dorchester*
+*   **The Vibe:** Under the direction of Executive Chef Jean-Philippe Blondet, this world-renowned dining room serves contemporary French haute cuisine characterized by intense flavors and light, modern sauces.
+*   **The Hotel:** Overlooking Hyde Park, The Dorchester is an emblem of British high society, blending historic prestige with recently modernized, glamorous rooms. 
+
+---
+
+### 2 Michelin Stars (World-Class Gastronomy)
+
+#### 3. **The Peninsula London (Belgravia)**
+*   **The Restaurant:** *Brooklands by Claude Bosi*
+*   **The Vibe:** Sitting on the hotel's 8th-floor rooftop, this restaurant features a stunning, sleek design paying homage to British aviation and motorsport (complete with a scale model of Concorde suspended from the ceiling). Chef Claude Bosi crafts boundary-pushing, modern French dishes using prime British ingredients.
+*   **The Hotel:** The Peninsula is one of London’s newest ultra-luxury properties. It boasts grand, classic architecture, impeccably spacious rooms, and a Three Michelin Keys rating.
+
+#### 4. **The Ritz London (Mayfair/Piccadilly)**
+*   **The Restaurant:** *The Ritz Restaurant* (Elevated to 2 Stars)
+*   **The Vibe:** Often described as the grandest dining room in Europe, this opulent, gilded space serves classical French-British cuisine led by Executive Chef John Williams MBE.
+*   **The Hotel:** The epitome of old-school British luxury. Staying at The Ritz is a step back into the Edwardian era, featuring world-famous afternoon tea at Palm Court, lavish rooms, and formal dress codes.
+
+#### 5. **Mandarin Oriental Hyde Park (Knightsbridge)**
+*   **The Restaurant:** *Dinner by Heston Blumenthal*
+*   **The Vibe:** A highly inventive culinary journey through historic British gastronomy. Blumenthal’s menu features modern reinterpretations of recipes dating back as far as the 14th century, including his famous "Meat Fruit" (a chicken liver parfait made to look exactly like a mandarin orange).
+*   **The Hotel:** Combining Edwardian grandeur with sleek, Asian-influenced luxury, this hotel sits in the heart of Knightsbridge and features a subterranean spa and beautiful views of Hyde Park.
+
+#### 6. **Hotel Café Royal (Soho/Regent Street)**
+*   **The Restaurant:** *Alex Dilling at Hotel Café Royal*
+*   **The Vibe:** An intimate, 34-seat dining room on the first floor. Chef Alex Dilling showcases exceptionally precise, contemporary French techniques in elegant, multi-course tasting menus.
+*   **The Hotel:** Perfectly positioned where Mayfair, Soho, and St. James’s meet, this historic hotel boasts contemporary, minimalist rooms crafted from Carrara marble and host to a stunning wellness club.
+
+#### 7. **Four Seasons Hotel London at Ten Trinity Square (Tower Hill)**
+*   **The Restaurant:** *La Dame de Pic London*
+*   **The Vibe:** Run by Anne-Sophie Pic—the world's most decorated female chef—the restaurant blends classical French techniques with local British ingredients, famous for its signature berlingots pasta filled with seasonal cheeses.
+*   **The Hotel:** Housed in a magnificent, heritage-listed 1920s neoclassical building near the Tower of London, this hotel offers a sense of imperial scale, complete with a lavish spa and a private members' club.
+
+---
+
+### 1 Michelin Star (Outstanding Fine Dining)
+
+#### 8. **Raffles London at The OWO (Whitehall)**
+*   **The Restaurant:** *Mauro Colagreco at Raffles London at The OWO*
+*   **The Vibe:** Argentine chef Mauro Colagreco (best known for his 3-star Mirazur in France) helms this restaurant, which features a hyper-seasonal, nature-led menu showcasing the best of the British terroir. 
+*   **The Hotel:** Housed in the historic Old War Office—where Winston Churchill once walked the halls—Raffles London is an extraordinary hotel holding Three Michelin Keys.
+
+#### 9. **Four Seasons Hotel London at Park Lane (Mayfair)**
+*   **The Restaurant:** *Pavyllon London by Yannick Alléno*
+*   **The Vibe:** Celebrated French chef Yannick Alléno brings his refined, extraction-based modern French cuisine to a lively counter-dining layout. The restaurant is also famous for introducing London's first-ever Michelin-starred breakfast tasting menu.
+*   **The Hotel:** Located on Park Lane, this property features sleek, light-filled rooms and a dramatic, glass-walled rooftop spa looking out over the London skyline.
+
+#### 10. **The Stafford London (St. James's)**
+*   **The Restaurant:** *Michael Caines at The Stafford*
+*   **The Vibe:** A partnership with the acclaimed chef Michael Caines, serving modern European dining that pairs Stafford hotel classics (like tableside-carved Beef Wellington) with Devon-inspired seasonal dishes.
+*   **The Hotel:** A secluded, historic haven tucked away in St. James's, known for its historic mews-style carriage house rooms and the legendary, artifact-filled American Bar.
+
+#### 11. **45 Park Lane (Mayfair)**
+*   **The Restaurant:** *Sushi Kanesaka*
+*   **The Vibe:** A highly authentic, ultra-exclusive 9-seat Edomae sushi counter. Master chefs prepare a stunning, traditional omakase course right before your eyes.
+*   **The Hotel:** A boutique, art-deco-inspired sibling hotel to The Dorchester. It is contemporary, intimate, and highly personalized.
+
+#### 12. **The Goring (Belgravia)**
+*   **The Restaurant:** *The Dining Room*
+*   **The Vibe:** True old-school elegance. It serves exceptionally refined, classic British dishes (such as beef Wellington and cured fish) under Swarovski crystal chandeliers.
+*   **The Hotel:** A beloved, family-owned hotel with close ties to the British Royal Family. It is famous for its private garden, immaculate service, and quintessential English charm.
+
+#### 13. **The Savoy (Strand)**
+*   **The Restaurant:** *1890 by Gordon Ramsay*
+*   **The Vibe:** Named in honor of the year Georges Auguste Escoffier joined The Savoy, this intimate, 10-table restaurant serves contemporary French-inspired tasting menus with classic foundations.
+*   **The Hotel:** Perhaps London’s most famous historic hotel, sitting right on the Strand. It features spectacular views of the River Thames, beautiful art deco/Edwardian rooms, and world-class bars.
+
+#### 14. **Sofitel London St James (St. James's)**
+*   **The Restaurant:** *Wild Honey St James*
+*   **The Vibe:** Helmed by Chef Anthony Demetre, this lively, stylish space serves exceptional modern European cuisine with French bistro roots, utilizing a daily-changing menu based on the freshest British produce.
+*   **The Hotel:** Housed in a grand, neoclassical former bank building, the hotel blends classical French design elements with playful, modern British style.
+
+#### 15. **Flemings Mayfair (Mayfair)**
+*   **The Restaurant:** *Ormer Mayfair*
+*   **The Vibe:** Executive Chef Sofian Msetfi offers a highly sustainable fine-dining experience using ingredients sourced directly from their own eco-friendly kitchen garden in Essex.
+*   **The Hotel:** One of London’s oldest established hotels, offering a boutique-style, luxurious residence vibe with handsome, art-deco interior touches.
+
+#### 16. **Taj 51 Buckingham Gate Suites and Residences (Westminster)**
+*   **The Restaurant:** *Quilon*
+*   ** The Vibe:** Serving Michelin-starred Southwest coastal Indian cuisine, Quilon is famous for seafood-forward dishes, delicate spicing, and incredibly light coconut-based curries.
+*   **The Hotel:** An all-suite luxury property featuring massive, apartment-style residences centered around a beautiful courtyard fountain, just steps from Buckingham Palace.
+
+---
+
+### **Booking Tips:**
+*   **Reserve Months in Advance:** Establishments like *Hélène Darroze*, *Dinner by Heston Blumenthal*, and the extremely intimate 9-seat *Sushi Kanesaka* book out months in advance. 
+*   **Dress Codes:** Traditional luxury hotels like *The Ritz* enforce strict dress codes (jackets and ties required for gentlemen in the main restaurant). Always check the dress code of both the hotel and the restaurant prior to your arrival.
