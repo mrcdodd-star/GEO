@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.hotelcaferoyal.com/wellness/","https://www.spabreaks.com/venues/akasha-at-hotel-cafe-royal","https://www.tripadvisor.com/Attraction_Review-g186338-d6122887-Reviews-Akasha-London_England.html","https://www.timeout.com/london/news/this-is-officially-the-best-spa-hotel-in-london-in-2025-081425","https://www.thesetcollection.com/cafe-royal/wellness","https://www.christoff.ai/london/wellness-spaces/venue/akasha-spa-at-hotel-cafe-royal"]
+
+--- RAW RESPONSE TEXT ---
+Based on the latest reviews and awards, the clear front-runner is **Hotel Café Royal** and its **Akasha Holistic Wellbeing Spa**. Here's why it stands out:
+
+---
+
+### 🏆 Hotel Café Royal — Akasha Holistic Wellbeing Spa
+
