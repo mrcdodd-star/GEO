@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: claridges vs the dorchester london
+
+CITED URLS:
+["https://www.artisansofleisure.com/luxury-travel-blog/2025/01/must-stay-claridges-a-legendary-luxury-hotel-in-london/","https://www.businessclass.com/hotel/review/The-Dorchester-Dorchester-Collection","https://www.tripadvisor.com/Hotel_Review-g186338-d187685-Reviews-or2310-Claridge_s-London_England.html","https://www.booking.com/hotel/gb/claridge-s.html","https://luxuryhotelreview.uk/hotels/dorchester-hotel-london/","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://dinewithjp.com/claridges-hotel-london-review/","https://thepointsguy.com/reviews/dorchester-hotel-london-review"]
+
+--- RAW RESPONSE TEXT ---
+Here is a detailed head-to-head comparison of **Claridge's** vs **The Dorchester** — two of London's most iconic five-star luxury hotels:
+
+---
+
+# 🏨 Claridge's vs The Dorchester, London
+
+---
+
+## 🏛️ History & Heritage
+
+**Claridge's**
