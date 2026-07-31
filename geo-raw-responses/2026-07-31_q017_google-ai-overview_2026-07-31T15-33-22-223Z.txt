@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/plan-in-advance","https://guide.michelin.com/gb/en/hotels-stays/london/the-dorchester-194","https://thedorchester.hotelslondon24.com/en/","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/a-night-on-us","https://www.americanexpress.com/en-gb/travel/fine-hotels-resorts/property/The-Dorchester","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/stay-indulge","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/family-time","https://www.almosafer.com/en/hotel/details/atg/the-dorchester-1055336","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://www.kayak.co.uk/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp"]
+
+--- RAW RESPONSE TEXT ---
+Room rates at The Dorchester in London for October 2026 generally start at £750 per night when utilizing advance booking discounts, while standard entry-level rates typically hover around £1,145 to £1,290 per night depending on the specific room tier and date.
+Estimated Base Rates & Offers
+The exact nightly rate varies by week and room type, but several fixed offers are active for October 2026 stays:
+
+Mandatory Fees & Incidentals
+When budgeting for a stay at The Dorchester, note these additional costs:
+
+Location & Transport
+If you want to finalise your budget, let me know:
