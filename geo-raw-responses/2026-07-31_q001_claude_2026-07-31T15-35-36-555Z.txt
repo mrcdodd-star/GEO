@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://thehoteljournal.com/best-five-star-hotels-london-england/","https://www.londonscout.co.uk/best-5-star-hotels-london","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.thehotelguru.com/en-us/best-hotels/united-kingdom/london-classic-luxury","https://www.gastrotravelogue.com/travel/luxury-hotels-in-london/","https://hazelstravels.co.uk/5-star-hotels-in-london/","https://hotelsof.london/top10-5-star-london-hotels","https://www.ldnfashion.com/features/best-luxury-hotels-london/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a guide to some of the **best 5-star hotels in London** for 2026:
+
+---
+
+## 🏨 Best 5-Star Hotels in London (2026)
+
