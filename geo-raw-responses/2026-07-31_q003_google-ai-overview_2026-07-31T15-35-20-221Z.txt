@@ -1,0 +1,14 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkhaMGEyYxgK","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dzMmFHUXgYCg","https://sothebysrealty.co.uk/the-journal/5-star-hotels-in-mayfair/","https://www.urbanbooker.com/hotels/mayfair","https://www.luxuryproperty.com/lp16946","https://www.luxurylondonlistings.com/blog/the-ultimate-guide-to-restaurants-and-bars-in-mayfair-fine-dining-and-luxury-experiences","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-ritz-london","https://firstladieslondon.com/portfolio_page/45parklane/","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/londons-luxury-hotels-p2rq96zvv","https://www.janisratnieks.com/london-hotel-wedding-venues/","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/mayfair/hotels/claridges-hotel/","https://www.aircharterservice.co.na/about-us/news-features/blog/claridge-s","https://www.opentable.com/r/dante-mayfair-london","https://www.burgerandlobster.com/blog/the-best-hotels-in-mayfair/","https://www.guestreservations.com/four-seasons-hotel-london-at-park-lane/booking","https://www.cntraveller.com/hotels/london/four-seasons-hotel-london-at-park-lane-review","https://www.fcchauffeurs.co.uk/hotel-booking/hotels-in-mayfair/1-hotel-mayfair","https://www.maybourne.com/en/hotels/claridges/suites-rooms/mayfair-terrace-suite","https://www.fourseasons.com/london/dining/"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair is home to London’s finest, most historic five-star luxury hotels.
+Elite Luxury Hotels in Mayfair
+
+Where to Stay Based on Your Style
