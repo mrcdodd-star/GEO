@@ -1,0 +1,79 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: claridges vs the dorchester london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM94bsJQdlSuUJiwXy0_exLiHiSRzZLDy-WAKB2WWFPvIQdl8iGp8m9MKS9euj3u2-O5zHdAjFliVZqnV7_nwcK_D5_0jG-_GjHCieqcYQ9Wxb7CTsU30WICW3ifTdUl3UcBF1fwvigKW4qYx-","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwuWW81i0wevdynVVWg4bI4OHx3G4mUpwZf9ONYhy-iQAXNb8aUugy3bAE43R6txE3jsGV3dK9biXmEVgQClgTy7P_yEHteaX8ukxhV2BRg6lT9Uyr11cyqK6jWFVFeG3zF7YXqaWJAER3SaOQHw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGotClio_aD23XNa8xIrZKOJBO_rZWzrLyONxEy-ja_rSEkusq4WH0f_U-Fe79K5lSDE_CRKLMCDythEFwgZxFINr7S28ctIhRHjLQVIU45L6mQHHGzW5zuz6UIGWcqlOKemuBVvhemamqRU89K_A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGChdtY6XPrTsT2VDTgYgY5BnwhsoSveA9MQnTSEAhUAGr3SsOjiBgBEWjgb3KgTm6UuN7mVdx9MEszs2ppxDeBCnCBVdTYBLdzWeYeRuspqLcKImjKaRGbcrhG09SyjIPRyWsvRUT05bfEWJwdHWABuwivc4Mu1yzKC_gtbrBNYEneLnk2mUxp-YvWXgLWAz0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkzCdFzYXnR0nJd6wZhFQ9ckXe2vjBqMRPDmA3eitb8qXmxiGfUirvknJnR91NqcPCuLVpBR0hJexPIB6gBm_ShNXEET5OEzfFD8bd0wt3ixh5bOvLNw3Tzj2ufclGfB8aV5s-jz1gkFnUXBA4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1sosqIKtTy5f5n3a6XzohA-FWDLNVDpTuWK1Qtaq33RTmvCgQ5Mr2ihCHroYus47RQC6pBJZZh_I9PRwifKL-hSdoVJ2f9mffEm2E754PNIMfXLGRLp9qUke9malitnhzGpGFArXos4JGqVeWe9xsTcjQedMfhIz6","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbbbbh8OY88nxv1onPNkIBBVNYD-yVSd92vPq0gwRe3caiplrJWZcXukr-peISlaFdCifIjb-wFYdvjrRw12OrRQNC1SOUG4nKH1wgdyIXOc5Y5JGMNm_xyz506_8W6DYKfZqUDatYItlrADE0","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPiArHPKB6fKNhnps2DPqu0e9bFea2lSNhXFtJTV2V89b3RgldFMwVpgCe40tfsg9pLGJGJXaFRrK7QAcTQa6OL_HkelzQ1XxcX-y1SIQs9Sxg-HG-9iwhCQu4Dv2R-kTUSaZBpM8EGKbc24fPgNT1MK9vwsrES-Z9knmEkg5-C75sypKlbyi8jeZQ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9hCqjafTIk1Rp7ey9LvczFK1QgsFSqI1DhFkwJhmjtZ7YNJ1D32niRejHmOHL37nIcg4twm0w02Hrr6vTbC5a1JhnZaObcqg1Q0F3F-OeC77B-mfJLS2BI9VSupNagW0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BQa6XIsDdDOJJbGxE8Er_y_WW5es3lOpK6KeULmrdRsDyxf4zd8AY7yAIrIdN3uV8JivFgBQAz4IE-cNqyR6KugVhXaUH6MwhvX4eSVhkPqoy8kQaz2CmtOSb5fp_kws8IVZzB8TOTEmAlVrLojNJT47EKI6BvvZVKOdxqeNhyzP5LRVLXNS538oHl7CWPGTkic=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7df6s_i0VV_NzffqcC7hfvdi-LgkdD0qqTSMB7Kk6wd9yw1bzq5N_5J8_4MxBvnYIo7F2tam7wwpH8z79wpbyPSAllnd6-mbdjAQKBkphNd6y95Nch5ndAA0i7F8bZunlJx4hmXg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS6Ql1AVv1JED00p6DbCA0i_L4vTjbOPJvV8kagYu211iOlBnlnUEh8iknwKh9X-PsLbyXqqgNkzyibJpXJ1p3MnOascnvIbNaukuIg9jt55JDzUh9H8FcDxBx6IprNFDhL7huquVjXmZU5WjVln-z8Ra1R5Ks1gPMmb6O3Vg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaj_1NxDLgo2aZ84AVk4Z0Az0EO6opu4_jq8ZCSp1-E8Sxt4dGYMJCWcgI6yTgZcfaaP6AJT4pPUr-Y6l7PyfYi3lsKidGo37yfytb934m8U1_53gCMn8TeEWBS-Q9lmw1XRWdaFFAERuisjAJMDj3PFGJYVwbtrY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXmqnjBA55H_ae0LZeITkYGxfcMQRpD8JAP2OGragAflZ_5vRHjIA162ZJKVB6U7RRNr7EkD6jBtwsCI4kiGiO2BOih7spV9R0QW32s9WoT2kBo-CqCWkWr0s9-NwP","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdpXVy7vfApT5hLpCr0RiZ4u2wwQE-ZLUPNoyjLTz8rtOzXkvpG-YpDEaK8rHZNCq56zyRS4FcrVdK6qC21QLNhdqCqkXOv1-NHrgn2BR7s6UIeLhbzsD_g1RxFOfjQMXoMC9Bgaun0LKrXt2n0zX1ke2h","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3fJw-RCjPAIX-JW49zVzUGrLGWyA6ey5Sz6AofF9dR3P-_X_j9RiH2ejzmIZ4JAOFU-2x8YjQyoLHjyn3XmDpafFIR4_o_Q4fokw2KTApp8mHVfW1cgN8wBb-aBoxjNFZNIKqQpE4_ucrow_UHIGYgWeB38vJFoXC5ZSF5xNa3TtW3IYVugfHBBfcCmPMqLgeOjDTXMut5aDlMJuw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESzpa3eVkxhqxTi9G_L9zf5JzAF7c6IbdDe15rVdlOJXGYcZwxfgK-mAO_Ec9SoHKnCrnF5HLqr-YVoIXJiDsg6wg023fDMUkjLOviq5nnJbEBGiVPuqWBzjA1EJy0kgOADRDKi2jFdB1g4Hqbyulms_QiY8BqoOAOuEWnzNkqPhsCYCms2M8V06KRsoG7_8ZCcKiP-M7nC-rrSVJpG0VgYihjO1acSzFvHgFjogb5TTveVms=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7JvapXx25VGF6JbgmWopEd16rnyLOQhU2AFW_CyVRvd0ogDOA4v7k_vgiRTIe-bxWoGluVqEkKga2zjTAo5bMoNzFrbV3YLO0S8rLnUEneGgipyr3dD6wBlshpwfCfOQU6dhCJfxY9KRCtC6Jd1xkJzdHHnxFdB-raFMdr7v3i61YkGuspiaTid-xnQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa3Cy3niP9ol7EPRQUusqirIAETroHm9mWsALJvysng0lvY54hvTzkp-CjI7wDQKcHaogUeDpjLWsdurrM3_iyGmAHY-VxTlRYkh88d1L-FiN9rQGTEbRQVTjq9mV8CP9EhU6lSj8nXeYu4qYSx4z60P_LFv-OklL6Tn7SPKGjuA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwBVQMLOMw_s0cpVMTox3N0qsN0IPuM-zmpWypUFfn-v5ZzOhLr7O8zprw8vOgvK_1-Jk8g7zzjVzWxXI4_8cSTuGGHD-9X1DVMxKpoxf_DI5cVNRP63P-X67XMSyMoIKX5CQwyBebAD7km5WswQdyVc9iKpQwoqLcHg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfo8BqSBZDh2wclNGl5KRvP4jzg9cu_cFh7ShDRggHdxLa8DrGJOvguMyssNo7BhVyhLSemU-k5X_5FwqEvaCyI25O2bBia2txEf7sGnFh_dlz5oEIkyR5lyzNs29aQTDh1_hXRYo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-aGbVlcZitAspTyocURi79uK9s7G8SliObLohDDviHHHAWtJRPZK29F92fl0q98mxJ5wBNvpVH_g-p7Yh09jdd2sWOAfb2sGy64JqdDDiIIPkXslYzIj83l7pzbLGXJkZTcOWcod7g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPp-05ZAPKrkvnvZyzbyjBqPeWy91gqXMZ0T4ESCXTyhlZsVdlFuffljbhjlNhZnYIdDAra6ftMRIdXWps4uclyeUhGwDBFqrNLZEIlqGGilk66PrgB6LVV5KAYHAHRpvAnjj9kC7QYvjl69uAhgJMtYQbnuMKTWDgo1Qri7v4IQ_E_tjwzw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKKxQamVXiDGsgksPSZS-15uEuuI4VFbBMa3IsLVlckIZPXiah2-s0P5UNAxYOW7XGdnbp89LhayWCsgC945xu31jjRujF21SzZezl4AM3rn6U7q-Fjflwf35HZgQ-qOKk7eF7Tw6jwHMKEAk_nOwdnQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu3HvZ_-fNYDlPPH1nEPKvoT4GJHQhX5EYEEyNfYyyiI-UqbcaNLzzMTBMmJh6lvtlZpQ4oW4SFNLkbGKu5vODo0AsXXvUdeRMREHR5diVAmVTAuy_-jycB9tpuFgiDxkdL76oZL7sxInT5sw="]
+
+--- RAW RESPONSE TEXT ---
+Claridge’s and The Dorchester are two of London’s most celebrated five-star landmarks. Located only a ten-minute walk apart in Mayfair, they have spent decades competing for the patronage of royalty, celebrities, and discerning global travelers. 
+
+However, they offer two fundamentally different expressions of luxury. **The Dorchester** is a grand, outward-looking hotel that commands spectacular views of Hyde Park and boasts some of the city's most prestigious fine dining. **Claridge’s** is an inward-looking sanctuary, celebrated as London’s ultimate Art Deco jewel, famous for its theatrical service and world-class subterranean wellness center.
+
+---
+
+### The Quick Verdict: Which Should You Book?
+
+*   **Book Claridge’s if:** You want a masterclass in Art Deco design, the most iconic Afternoon Tea in London, an award-winning subterranean wellness sanctuary, and a high-fashion, discreet Mayfair atmosphere.
+*   **Book The Dorchester if:** You want expansive, green views of Hyde Park, three-Michelin-starred French dining, a glamorous and lively bar scene, and the grand, residential feel of a classic English estate.
+
+---
+
+### 1. Location & Vibe
+
+*   **Claridge’s (Brook Street, Mayfair):** Tucked away on a quieter street corner in the heart of Mayfair, Claridge’s feels exclusive and highly residential. It is steps away from Bond Street’s luxury boutiques, private galleries, and upscale dining, making it the perfect base for high-end shoppers and art lovers. The vibe is sophisticated, deeply fashionable, and bustling with stylish Londoners.
+*   **The Dorchester (Park Lane):** Sitting prominently on Park Lane, The Dorchester boasts a highly visible, grand presence. A stately, plane-tree-shaded forecourt buffers the hotel from the street, and the greenery of Hyde Park sits directly across the road. It feels more energetic and traditional, serving as a gateway between Mayfair and Knightsbridge.
+
+---
+
+### 2. Design, Rooms, & Suites
+
+*   **Claridge’s:** Widely regarded as London's finest Art Deco masterpiece. Its iconic mirrored lobby, black-and-white chevron-tiled floor, and sweeping staircase are legendary. Rooms are a seamless blend of classic English heritage, subtle Chinoiserie, and streamlined Art Deco elegance. For ultimate indulgence, the hotel's top-floor penthouses—such as **The Residence** (designed by André Fu)—come with private terraces and personal hydrotherapy pools floating over the London skyline.
+*   **The Dorchester:** Following a massive multi-year renovation, the hotel features a stunning, lighter design realized by legendary interior designer Pierre-Yves Rochon. The guest rooms boast a refined, classic English aesthetic with rich fabrics, hand-painted wallpapers, and modern amenities. Crucially, the upper-level rooms and suites offer **sweeping views over the treetops of Hyde Park**—a rare luxury in central London that Claridge’s cannot replicate.
+
+---
+
+### 3. Dining & Bars: The Culinary Heavyweights
+
+Both hotels host some of the most famous dining rooms in the UK, but their culinary focuses differ wildly:
+
+#### **The Dorchester: The Fine Dining Powerhouse**
+*   **Alain Ducasse at The Dorchester:** The hotel's crown jewel. This legendary restaurant has held **three Michelin stars** for over a decade, serving contemporary French haute cuisine. Guests can book the "Table Lumière," which is surrounded by a shimmering curtain of 4,500 fiber-optic lights.
+*   **The Grill at The Dorchester:** Revamped with a modern touch, this historic dining room is led by Culinary Director **Martyn Nail**—who, in a fascinating industry twist, spent 36 years as the Executive Chef at Claridge's before making the move. It serves refined, elevated British comfort foods and tableside preparations.
+*   **China Tang:** A lavish, subterranean restaurant that offers some of London’s best Cantonese cuisine in an opulent, 1930s Shanghai-style dining room.
+*   **The Bars:** The sexy, James Bond-inspired **Vesper Bar** (designed by Martin Brudnizki) and the dazzling **Artists' Bar**—which features Lalique crystal and Liberace’s actual mirrored piano—are two of the trendiest evening spots in Mayfair.
+
+#### **Claridge’s: The Ritual & Social Hub**
+*   **Dante Mayfair:** Operating as the hotel's permanent flagship restaurant and bar, this Manhattan transplant (voted World’s Best Bar in 2019) brings a lively, relaxed New York Italian energy to Davies Street, complete with an elite Martini hour and live music.
+*   **The Foyer & Reading Room:** The stage for **London’s most famous and sought-after Afternoon Tea**. Served beneath a dramatic Dale Chihuly glass sculpture, it is an essential British ritual.
+*   **The Bars:** Claridge's features **The Fumoir**—a moody, dark-paneled velvet jewel box perfect for intimate drinks—and **The Painter’s Room**, a chic, pale-pink cocktail lounge.
+*   **Claridge’s Bakery:** Located on Brook's Mews behind the hotel, this artisanal bakery is headed by famed chef Richard Hart, serving world-class sourdough and classic British sweet treats to locals and guests.
+
+---
+
+### 4. Spa, Pool, & Wellness
+
+*   **Claridge’s (The Winner):** Claridge’s pulled off a monumental engineering feat by hand-excavating five floors beneath the hotel to build **Claridge’s Spa**. Designed by André Fu and inspired by Kyoto’s Zen gardens, the 7,000-square-foot subterranean sanctuary features a stunning, limestone-carved relaxation pool, oak-paneled treatment rooms, and curated residencies by top beauty and wellness experts.
+*   **The Dorchester:** The Dorchester Spa is highly regarded, offering beauty treatments, facials, and massages in an elegant, soothing cream-and-pink space. However, it is a boutique spa that **lacks a full-sized swimming pool**, giving Claridge’s the definitive edge for a complete wellness getaway.
+
+---
+
+### Summary Comparison Table
+
+| Feature | Claridge's | The Dorchester |
+| :--- | :--- | :--- |
+| **Vibe** | High-fashion, Art Deco, glamorous | Grand, traditional, highly energetic |
+| **Location** | Heart of Mayfair (Brook Street) | Park Lane (fronting Hyde Park) |
+| **Key Views** | Inward-facing (focused on hotel interiors) | Expansive green views of Hyde Park |
+| **Michelin Dining** | None (though Dante is highly celebrated) | 3 Michelin Stars (*Alain Ducasse*) |
+| **Afternoon Tea** | The most famous in London | Exceptional, served in *The Promenade* |
+| **Cocktail Scene** | *The Fumoir*, *Dante*, *The Painter's Room* | *Vesper Bar*, *Artists' Bar* |
+| **Spa & Pool** | 7,000 sq ft subterranean spa & relaxation pool | Luxury day spa (no swimming pool) |
+
+### Final Recommendation
+
+Choose **Claridge’s** if you want to feel like you are stepping onto a glamourous, historic stage. It is the ultimate choice for a romantic weekend, design lovers, and anyone who wants to spend hours relaxing in a world-class subterranean spa.
+
+Choose **The Dorchester** if you prefer a grand sense of arrival, want to wake up looking at Hyde Park, and plan to base your trip around legendary culinary experiences like three-Michelin-star dining and high-energy cocktail lounges.
