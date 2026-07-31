@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://guide.michelin.com/en/article/travel/the-connaught-helene-darroze-three-keys-three-stars","https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars/helene-darroze-at-the-connaught","https://luxurylondon.co.uk/travel/london/london-hotels-with-michelin-starred-restaurants/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.thecaterer.com/indepth/london-hotels-michelin-star-restaurants","https://thehotelmagazine.co.uk/brooklands-by-claude-bosi-retains-two-michelin-star/","https://www.peninsula.com/en/london/hotel-fine-dining/brooklands","https://hirespace.com/Spaces/London/210966/Mandarin-Oriental-Hyde-Park-London/Dinner-By-Heston-Blumenthal/Dining"]
+
+--- RAW RESPONSE TEXT ---
+Here is a curated guide to some of London's finest **5-star hotels with Michelin-starred restaurants**, ranging from three-star pinnacles of gastronomy to impressive two-star establishments:
+
+---
+
+## 🏨⭐ 5-Star Hotels in London with Michelin-Star Restaurants
+
+---
+
+### 1. 🌟🌟🌟 The Connaught — *Hélène Darroze at The Connaught* (3 Michelin Stars)
