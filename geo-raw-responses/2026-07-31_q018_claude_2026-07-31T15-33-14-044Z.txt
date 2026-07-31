@@ -1,0 +1,53 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+I appreciate you reaching out! However, I'm a text-based AI assistant and **I'm unable to make bookings, reservations, or access any external systems** on your behalf. You'll need to book directly yourself.
+
+Here's how you can book **The Dorchester – Hyde Park Suite** with **direct booking perks**:
+
+---
+
+## 🏨 How to Book The Dorchester Hyde Park Suite Directly
+
+### 1. **Official Website**
+- Visit: [www.dorchestercollection.com](https://www.dorchestercollection.com)
+- Navigate to **The Dorchester** → Suites → **Hyde Park Suite**
+- Book directly to access **Best Rate Guarantee** and exclusive perks
+
+---
+
+### 2. **Direct Booking Perks (Typically Include):**
+When booking direct via the Dorchester Collection website or by calling the hotel, you often receive:
+
+- ✅ **Best available rate guarantee**
+- ✅ **Room upgrades** (subject to availability)
+- ✅ **Early check-in / Late check-out** (subject to availability)
+- ✅ **Complimentary Wi-Fi**
+- ✅ **Welcome amenity** (e.g., fruit basket, champagne, or chocolates)
+- ✅ **Flexible cancellation policies**
+- ✅ **Access to loyalty/rewards benefits** via Dorchester Collection loyalty programs or partner programs (e.g., **Virtuoso**, **Amex Fine Hotels & Resorts**)
+
+---
+
+### 3. **Call the Hotel Directly**
+- 📞 **+44 (0)20 7629 8888**
+- Ask specifically about **direct booking rates and inclusions** for the Hyde Park Suite
+
+### 4. **Preferred Partner Programs**
+If you have access to:
+- **Amex Fine Hotels & Resorts (FHR)**
+- **Virtuoso**
+- **Signature Travel Network**
+
+These can offer **additional perks on top of direct rates** (e.g., daily breakfast, resort credits, upgrades).
+
+---
+
+Would you like help finding the best perks program for your stay, or do you have any other questions about The Dorchester?
