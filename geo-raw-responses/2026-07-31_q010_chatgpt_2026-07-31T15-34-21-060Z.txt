@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.stjameshotelandclub.com/en/?utm_medium=organic&utm_source=openai","https://www.thebeaumont.com/?utm_source=openai","https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai","https://www.marriott.com/en-us/hotels/lonmm-montcalm-mayfair-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai","https://www.marriott.com/en-us/hotels/longh-jw-marriott-grosvenor-house-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair, London, offers a selection of luxurious 5-star hotels with family-friendly suites. Here are some options to consider:
+
+**[Althoff St. James's Hotel & Club - Mayfair London](https://www.stjameshotelandclub.com/en/?utm_medium=organic&utm_source=openai)**  
+**Closed · Hotel · 4.3 (567 reviews)**  
+_7-8 Park Pl, London SW1A 1LS, United Kingdom_  
+Located in the heart of Mayfair, this hotel offers interconnecting rooms that can expand to three or four bedrooms, ideal for families. Options include combinations of Deluxe or Superior rooms with Deluxe or Junior suites.
+
+**[The Beaumont Mayfair](https://www.thebeaumont.com/?utm_source=openai)**  
+**Closed · Hotel · 4.7 (796 reviews)**  
+_8 Balderton St, Brown Hart Gardens, London W1K 6TF, United Kingdom_  
+This hotel provides spacious suites suitable for families. The Classic Suites, measuring 61 sq. m, feature separate sitting rooms and some include sofa beds. The Mayfair Suites, ranging from 81 to 87 sq. m, can connect to a Superior Grand Room to create a two-bedroom suite.
+
+**[The Biltmore Mayfair](https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai)**  
+**Closed · Hotel · 4.4 (922 reviews)**  
+_44 Grosvenor Sq, London W1K 2HP, United Kingdom_  
+The Biltmore Family Suite offers a separate living room and private bedroom with one king bed and one double bed, accommodating up to four guests. For larger families, the Lord Harrowby Suite features two bedrooms, a living room, and dining area, accommodating up to five guests.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1914 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Recently renovated, this hotel offers suites with a refined residential feel. The Presidential Suite includes three bedrooms, marble bathrooms, and panoramic views of Hyde Park, suitable for larger families.
+
+**[Montcalm Mayfair, Autograph Collection](https://www.marriott.com/en-us/hotels/lonmm-montcalm-mayfair-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai)**  
+**Closed · Hotel · 4.2 (1164 reviews)**  
+_2 Wallenberg Pl, London W1H 7TN, United Kingdom_  
+This luxury boutique hotel offers a range of suites with a fresh, holistic approach to hospitality, blending timeless elegance with contemporary sophistication. Specific family-friendly suite options are available upon request.
+
+**[JW Marriott Grosvenor House London](https://www.marriott.com/en-us/hotels/longh-jw-marriott-grosvenor-house-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai)**  
+**Closed · Hotel · 4.5 (5819 reviews)**  
+_86-90 Park Ln, London W1K 7TN, United Kingdom_  
+Located on Park Lane, this hotel offers family rooms and suites with plush beds, elegant marble bathrooms, and high-speed Wi-Fi access, providing a comfortable stay for families.
+
+These hotels provide a blend of luxury and family-friendly accommodations in Mayfair, ensuring a comfortable and memorable stay for you and your loved ones. 
