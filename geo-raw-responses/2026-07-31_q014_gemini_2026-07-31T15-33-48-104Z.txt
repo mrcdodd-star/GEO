@@ -1,0 +1,68 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtA07YlD4F8ujq4N3Rsb8UReIJh2ux_X0c7Os4-qKOEwrI6jtEC1N8zBaWGA-aqcoCYZgKTnjq_CGmcb9xEhUqTV70cml35lJHm02seKHVhzl8CrFkCoKb5MXnJMSE3dCjBSs0KQqInE1Dhgsn","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiWXnSgq0Ky2Z5RpBozOfHpJ-PjzDjp9K1EsvJmsbni68ZTMN8KEAYGnnHo06ReDe-iFi2YDtF6UIkmaCJlsMJaBaD7yu_6ecSXiNnzoQKwnnLGMAzfJ-11ZZTzuL5BPfCc6zXVH7R8gPAdDVhvuiHSfLXiA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF065B7cvLE5jZG9zszvGEWrqcekgUzd9Paew_mwvJEe0njVheUUY_ILwcJTAniWiaeHB8A00tCqIfUtoiwLhQVKm5SZCCCwHtx9Je8YJ6Wa01ybRJK0ZWN8X9QzCMWTxj-","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt8YV99hCZm0NBpIlZOVGOIE70CQ22D051DyA61CkfYjvOGBG0PNeitjSIC6S0V4U7hknVG99U6avqKicH42zcErt_LsJ2GFU1dD-l81WpljnsgCDXTtyH58YyPpbee3SBSw2RKAZeaRhNl_OrfbzeG_05KTZQSRXl8rpp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9NkZvLLpDNiq7lzySreZd9x8-90MUUEJIJDfI0YPA_Xmf3vmsNcTHhNtQI9tYE-q4cBHFiZOUCwIaqe0wNX68jqAAkGbpZI3YFNuTEg2A0aVKbz-BqGhB0xYC-yZvHgUHAA5W7EG9JuHhtW7dSzLwwpO0gPK-alQvkIGipWfqcGSfChCDXP9njg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkiZjbt3_vTOJF5rLV_6iI0aLenBOpY4JClEgUbv-TcIxWAo6z1BcgmVN3z6KO-yjCxYSGiwDeeewxJ9A_t7aJuimP3Fb74Ko4L3I1RQnYF5Vu73Rd5b3s4SPEF9jAkOVWmCmVtQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiaMglD6SlTEFAKQlhFitsH6qATzP-gn3DOhtv4QorI3wbMrFc76AUIG6PaLNAOW5TLuFHnG_7dyBiTewudktZav6AEan5S1pDvOcoujj3LDarUzmOvVDuO8MPgME3iYlN0kAyPvn2m8eTlW-wHs9bIWMy6CD6YuQ9zbQwop0g8x3AwVCpD7HbHpMQIKt4Zvj2ow==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3JlsNtwqsR2pSfk9N9_uuco3wOuOUb1uLZwPC_q7vm6IU6I9VDCiNGgitJr47b9CpCfZvurArdquTEgs0H8zdBCRw33KnPdCCEeTqWBB6KrUH3COEIFCRjJOnXldqANz","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvn2PWndY9KDEpixYIeP1TtQd-t7xcMha3fbsytPmAtf8oiXbakBy2IBln9una9Ysx6IBbWuaNKJjARJq5AIbKI2n5k4QhNGZeoTOMJbSKpvmCFK5EpRZYWplhIu7Jp20z-yKA89bTH1pNxbuumkmaJGwwGOvFj6eYWunrRNz","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDG9YqrJl1DNhUB2XPr8lCLEo69-VQhraU_bglCMmNfWUHDTZB-uyv3f6pKZG73yPees1TnUigIHIu1BXBDA8Lgga-gDMW5x4zZxIw92tPrfAsEcRmsqXfFGwGtHw2UIvO_IM2TIF2zncB7dOP7Y-l04PPUoWwkCYmb_AnBr20BZEm5AsxoOoj97Q_lTlA4FiHHWyWGxYM8v6YNmVmk6imawEh_GTJaTLt2IlLnOlm","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO3eeybn2YBnLhSQtXDcTmhYy8x0_jHxXIzE0_EG9UsOk-3shqw8rudbXW4Ugcxi9Lhgc21iRdutd6tfDPxuqXuoyjk-drl_-phbu5g-6R8wAKZIIvThzUMIFOlE_EUxZ3Onf9O42wg1e9Tw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqNsqsfKzad8a0lzJDUkLOUJrAZFbGSMpXgsrCEZwmMJTQhTW4Wsh1PumqbL5y_VCZNbK9NQ4YqhOK1skVR1Lo0AVx5JURwathNtmk3T8A7gxipSeomeXEEjiq5Pui7YTeYG80l24-RiDObxVzbetMUrqMb8wmSLOFZVLtFHkrE9CumIQ12zL8VIQ2f9wI5OBOdw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFz7cks8TLGrrQmxbGRFOMz1Dvk2PqwyYhlDIltRzI97IfwHfutH5yMkHm1nTdIOw4K2gLulRq9JK4uq5V5QD4ih3iLDOdOaogNL5is-j1F44UqW0mgfVuplpisUoWkAYwVKzQ8pHM1DrFzusk2SVmZhi44XgYzyiPtKo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Ra2FN6oxnnI0ErlPXVAPj2zpdtgXIIT3i3FJQxB5Tou4t1zTyYpB2p4e-ZqjKn85hFxVL7oos9uP1eUMyPanK8dtwQI7_msVEtiqmVOHilSrpKh8c-Ep66l-6BeoUHh7kUvH6VxcCx65HI4IPEtQyTwbbGHbgSlLUIVjfSFzAz-cxUxa6kzFP-oLEN1Pb419fw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF98zTxuSSmBJy9C961OXPL_iBjVoK_haYmbP-phd2ClN_greP4cR25YXXex5SxWUz6rDArHCHe35e5PQREc_gc3cUwfWyN1RPf8jG8Shpj5dR4FCkp5myjQIGhAJSiYp4yfMSpUSeVMS1FPF6zjMKiXhR62mnfUVKGOei8bswtyVgO56YrQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVEVbWx8ch-vFqzpfAjEmpjaFl1d5TxeQu6SgyI0zAh3A-oyummnb3JV9TUUcgsXhkMyNV_zY6ojyshBAfkWervhpduxt4uiLfqBfefU-vrfRzlSlpmdp7mMsLc2Lc2XwtWwOVz8HiKkZlMctJmi0I9axJ8CvwmWVRECK-7veEaoEs7_X-ItTa4m31U_FCzqIdzyVZmU4tKxc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO79dkjZ8L_Png3YdUlhG0UUsn3F_2PrH4k1yVRBp43XIxWq3xUYvGBVorKjOBMy3hF29aF4vbn6XEf3kjj34VGzOglG2GNDDsjPXt-0TB0Ildfr-SPrEEnBgf_TbDP5K0HXaIKMBkzHrLmUdiG50WSKFvWLfrqaZutsTBKrMOX8x1p9quoSa6DlYI5k9IT8DsBhGSlodRVY8jZJCRGeCBgwuGnjM1Zv4H3g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe9_10SfSe_ymbPrgppHfRnn18g_q16_-oY_qMdfg6IVOjk2NsS5AOy4oIp3WesEENNCzzS7lCdb1XGFcUFPwo0IJ4mxUHcQS_AM3N1ig-dHIKSKb0F76EOYOYay4cDNiKv2MGEIAvoRib0Q9df-WdUK0WlLXvT-X9hgi2RoWTMIOdFhq7eYupdDA63KKEoQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXw1cd0gDVckVIkAfj4eMS8ksJAH0GZl2zS1Jxk_nflwPB7bnIBUcDfatZqKHCgMWkto5-Wvl5dV66UXAOOwi_kk3Knf0btZVm3VmJW0U2OfUhh51b8z4hJPYbUCBdQGKc","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyyMCR95xyyWh9fq_n7gQxDnTC4czpdczThcIpJUKOnjsev7bK_r_DmXHs7jAqNszfXfwjHOp2xNRJRAVsFOA99dCYmftbVbUEzMrzB1kz4r3wMLZI7K0ZAfWfED-OngYsJX8gl3OAv0jFhuklBLc2HxizY54AlrK0b8WsjCMBckbjaU9p0FLNqKHygPuLdkSaZA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRQwYLC5xPgG475ke9u7QVaoNqowlFHGtr4DQ6VbGE8OY15aYfef9_H-llOBEAyx0s9VmeYaf3j7G44jrAnFYF0Lqv0aoVQ1pVgVHgvrFc0F5B1ClZdm7ChOLaF-BzxFN5","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2sfN-iYmpug7slGo7MBpuwY9fAX2fRkhI4gj0MZfoSed__0fTFUjuT1vyKRIIzP2qQfZp48Q-aljBnGlovSydkrgJWol9vW9qBTuZWdgcKv0ZcCPt3rlHBB9Vktmc2ftwYnxBjZRZTAxIpy0DOl5KCZX1ldIbWJr3F4U41BNDKTeT3deuzkwR5qp8TtO9ILQxEHAQ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERTpPGNBulRlUt3M_h_Hb-3EGkvqedYbWOLgtTBpzTjuiNYS_HarvYr-tBtH3NnOY5gUz7E1RmPOTXABw5Lu_m9ode0wegur7G9tsiyJJPLqUcV_dVM_lfZzfcYhQZnGKayaBD1ZIuLskOFde48knHIvckT0rdnJ6NtS7wWg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLVMlGT5FBivU8fEGPimJDlPraZLCjF178cG1I4zoknQ8aYznq1GRQQH-NJ-9B090AyVZqA8qgrzLUxZxvMEr_JVYW6kv8B_rzhXQuzF2xjsKkYvdpqWPY-VQh-buUDwR-f9KjFynd","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA6nzFZnMgLu7RxrSvhQoLd-ZmYceciP5JRJyWX3v69iCPVDGb5r7mIuEVJ5wA6VhG6SH6u15aU8YGP_2O8UDjel5WOiCC5gaqBZTxYIAFWXK8SPgbDbjrnCedXPg2Y0UfYNWTMb6BZJw-u5Oe5ZFsNKKOm5sHWpw2rQ=="]
+
+--- RAW RESPONSE TEXT ---
+While both **Four Seasons Hotel London at Park Lane** and **The Dorchester** are legendary five-star luxury properties located in London’s prestigious Mayfair district overlooking Hyde Park, they offer two very different styles of high-end hospitality. 
+
+Choosing between them comes down to whether you prefer **polished, contemporary residential luxury** (Four Seasons) or **grand, historic, high-society glamour** (The Dorchester). 
+
+---
+
+### 1. Vibe, Style, and Heritage
+*   **The Dorchester:** Opened in 1931, this is one of the world's most famous grand dame hotels. Following a massive, multi-million-pound renovation (led by legendary designer Pierre-Yves Rochon), the hotel has seamlessly blended its historical English grandeur with a fresh, 21st-century perspective. The style is opulent, featuring whimsical English garden color palettes (rose fog pinks, pale leaf greens, lemon yellows), hand-painted de Gournay wallpapers, and striking floral displays. The vibe is buzzing, glamorous, and feels like an exclusive, lively private members' club.
+*   **Four Seasons Park Lane:** Opened in 1970 as the first Four Seasons hotel outside of Canada, this property pioneered the brand’s global reputation for exceptional service. Its aesthetic is "classically contemporary"—chic, sleek, and understated. Having undergone continuous luxury updates (including a collection of newly reimagined suites in 2025 designed by *Interiors with Art*), the style focuses on warm sycamore and walnut wood paneling, brushed metals, and soft, soothing color schemes. It is a serene, highly polished Mayfair sanctuary that feels intimate, quiet, and extremely professional.
+
+---
+
+### 2. Rooms and Suites
+*   **The Dorchester:** Offers 241 rooms and suites. Thanks to the recent renovations, they are incredibly spacious, bright, and deeply comfortable. Standard guest rooms feature ultra-plush decor and marble bathrooms. Suites are exceptionally lavish, boasting classic neoclassic touches, butler service, and some of the best direct, sweeping views of Hyde Park in London. 
+*   **Four Seasons Park Lane:** Has 193 rooms and suites. While entry-level rooms are slightly smaller than those at the Dorchester, they are masterfully designed to feel like private apartments. Highlights include deep-soaking marble tubs, vanity mirrors with integrated televisions, and rare features for London like working fireplaces and private landscaped terraces (especially in the higher-tier suites). 
+
+---
+
+### 3. Dining and Bars
+*   **The Dorchester (The Culinary Powerhouse):** 
+    *   **Alain Ducasse at The Dorchester:** A legendary establishment holding three Michelin stars.
+    *   **The Promenade:** The heart of the hotel, famous for hosting what is widely considered one of the finest luxury Afternoon Teas in London.
+    *   **The Grill by Tom Booton:** A relaxed yet upscale modern take on British classics.
+    *   **China Tang:** A high-end, atmospheric Cantonese favorite.
+    *   **Vesper Bar & Artists' Bar:** Vibrant, incredibly designed cocktail lounges (the former designed by Martin Brudnizki) that draw a fashionable, high-energy local crowd.
+*   **Four Seasons Park Lane (The Modern Gourmet):** 
+    *   **Pavyllon London:** Led by multi-Michelin-starred Chef Yannick Alléno, this stylish, open-kitchen counter restaurant earned its first Michelin star shortly after opening. It serves highly refined modern French fare, including a famous, decadent breakfast tasting menu. 
+    *   **Bar Antoine:** A chic cocktail space that extends onto a gorgeous outdoor terrace facing Mayfair—perfect for a quiet drink.
+
+---
+
+### 4. Spa, Wellness, and Pool Facilities
+*   **The Dorchester:** 
+    *   **The Spa:** The *Dorchester Spa* is a highly glamorous, Art Deco-inspired retreat featuring top-tier facials, massage therapies, and the lovely *Spatisserie* for light bites and champagne. 
+    *   **The Pool:** There is no pool inside the main Dorchester building. However, guests are granted exclusive, complimentary access to the spectacular **20-meter indoor lap pool**, steam room, and sauna at its sister property, **45 Park Lane** (located directly across the street).
+*   **Four Seasons Park Lane:** 
+    *   **The Spa:** Features a stunning **10th-floor rooftop spa** designed by architect Eric Parry. Glass-walled treatment rooms offer sweeping, sky-high views of the London skyline, Westminster, and Hyde Park. 
+    *   **The Pool:** While there is no full-size swimming pool, the rooftop spa features two gorgeous, sky-lit **vitality pools** alongside a Himalayan salt-wall sauna and eucalyptus steam rooms.
+
+---
+
+### Comparison Summary
+
+| Feature | The Dorchester | Four Seasons Park Lane |
+| :--- | :--- | :--- |
+| **Overall Style** | Classic British grandeur, vibrant, and opulent | Sleek, contemporary, residential, and understated |
+| **Atmosphere** | Buzzing social hub; feels like an elite private club | Quiet, highly professional, and intimate Mayfair sanctuary |
+| **Service Style** | Traditional, grand, and formal (highly attentive butlers) | Flawless, highly modern, consistent, and family-friendly |
+| **Key Dining** | Alain Ducasse (3 Michelin stars), China Tang, legendary Afternoon Tea | Pavyllon London by Yannick Alléno (1 Michelin star) |
+| **Spa & Pool** | Glamorous spa; access to a 20m lap pool across the street at 45 Park Lane | Forbes 5-Star 10th-floor rooftop spa with skyline views; 2 vitality pools |
+| **In-Room Vibe** | Florals, bespoke British fabrics, classic marble, grand scale | Sycamore/walnut paneling, fireplaces, smart technology, private balconies |
+
+---
+
+### Which one should you choose?
+
+*   **Book The Dorchester if:** You want the classic "London high society" experience. You will love it if you enjoy dressing up for a world-class afternoon tea, want to dine at a 3-Michelin-star restaurant without leaving the hotel, appreciate historic prestige, want a lively nightlife scene at the bar, and value having access to a full indoor lap pool.
+*   **Book Four Seasons Park Lane if:** You prefer a serene, high-tech, and incredibly consistent luxury experience. It is the superior choice if you want a quieter, residential-style stay, are traveling with children (for whom the Four Seasons’ service is unmatched), want a spectacular rooftop spa with floor-to-ceiling city views, or prefer sleek, modern French culinary dining.
