@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.thebiltmorehotels.com/en/biltmore-mayfair/rooms-details/biltmore-family-suite/","https://www.tripadvisor.co.uk/Hotels-g186338-zff4-zfn7235717-London_England-Hotels.html","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKcmFEa3paRFV3GAo","https://luxerecess.com/best-family-hotels-london-luxury-hotels/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.fourseasons.com/london/services-and-amenities/family/","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dzMmFHUXgYCg","https://www.stjameshotelandclub.com/en/rooms-suites/family-rooms?srsltid=AfmBOorZlmOZDzJYquOAiwhuDZkyKmFE_jYllX-jk-GGK_w_rG0ljhWU","https://www.kayak.com/London-Hotels-The-May-Fair-A-Radisson-Collection-Hotel-Mayfair.19809.ksp","https://www.visitlondon.com/where-to-stay/place/42311553-four-seasons-hotel-london-at-park-lane","https://www.checkinapartments.com/location/gb-london-mayfair/","https://1883magazine.com/the-emory-review-londons-first-all-suite-hotel-is-everything-youd-hope-for/","https://grosvenorhousesuites.com/","https://nestorstay.com/properties/courtfield/"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair is home to several elite, family-friendly 5-star properties offering expansive multi-bedroom suites, bespoke children’s amenities, and dedicated concierge services. The top luxury establishments providing dedicated family suites in this prestigious London enclave include Claridge's, Four Seasons Hotel London at Park Lane, Grosvenor House Suites, and The Biltmore Mayfair.
+Overview of Premium Family Stays
+
+Top Recommended 5-Star Suites
+Children are welcomed with personalized treats, games, and reduced rates for adjoining family layout options. The property serves one of London's finest afternoon teas and offers parents a serene rooftop spa.
+Renowned for unpretentious warmth, they feature newly renovated Royal Terrace Suites. These feature spacious living quarters, interconnecting configurations, and cinematic views of Hyde Park. Professional babysitting is easily arranged through the front desk.
+Perfect for larger groups or extended vacations, this property offers strictly all-suite and penthouse accommodations. Every unit is fitted with complete Poggenpohl or B&B Italia kitchens, laundry machines, and separate dining tables to mirror a luxury home.
+The Biltmore Family Suite handles family dynamics seamlessly by providing a private master king bedroom alongside a secondary double bedroom. It contains a completely separate living room space, state-of-the-art entertainment screens, and integrated USB ports.
+If you would like to narrow this down, please tell me:
+
+I can then provide live availability or look up structural booking deals.
