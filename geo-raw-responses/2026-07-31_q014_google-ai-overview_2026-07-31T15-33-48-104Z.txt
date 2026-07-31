@@ -1,0 +1,24 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dzMmFHUXgYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.thehotelguru.com/hotel/four-seasons-hotel-london-at-park-lane-london","https://thehoteljournal.com/best-five-star-hotels-london-england/","https://boldtraveller.ca/places-to-stay/hotels/hotel-reviews/london-hotels-two-of-englands-most-luxurious-stays/","https://www.instagram.com/reel/DBG6R28v7W1/","https://www.outthere.travel/the-dorchester-london-united-kingdom/","https://www.agoda.com/en-gb/four-seasons-hotel-london-at-park-lane/hotel/london-gb.html","https://www.reddit.com/r/FATTravel/comments/1q5q61k/four_seasons_london_park_lane_review/","https://www.timeout.com/london/hotels/londons-best-spa-hotels","https://www.fivestaralliance.com/luxury-hotels/london/four-seasons-hotel-london-at-park-lane","https://www.mayfair-london.co.uk/location/park-lane/","https://bownsbest.com/thedorchester.htm","https://www.thewalpole.co.uk/members/the-dorchester","https://www.privateupgrades.com/united-kingdom/four-seasons-hotel-park-lane-london","https://www.thefork.co.uk/restaurant/pavyllon-at-four-seasons-hotel-london-at-park-lane-r756116","https://www.visitlondon.com/where-to-stay/place/42311553-four-seasons-hotel-london-at-park-lane","https://santorinidave.com/best-hotels-london","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://elitetraveler.com/travel/travel-news/four-seasons-park-lane-new-suites","https://luxurylondon.co.uk/wellbeing/beauty/best-spas-and-spa-days-in-london/","https://www.experiencesluxe.com/en/destinations/europe/united-kingdom/london"]
+
+--- RAW RESPONSE TEXT ---
+Both the Four Seasons Hotel London at Park Lane and The Dorchester are elite 5-star standard-bearers of Mayfair luxury, located just a few doors apart on Park Lane.
+The choice comes down to vibe: Four Seasons Park Lane delivers an intimate, modern, and understated residential feel, while The Dorchester offers historic grandeur, high-energy British glamour, and legendary culinary prestige.
+At a Glance Comparison
+
+Atmosphere & Style
+Originally opened in 1970 as the brand's first property outside North America, it functions like a slick, high-end private club. It features a bright design and a collection of 14 newly renovated terrace suites that mirror elegant Mayfair apartments.
+This 1931 landmark completed a massive multi-million-pound property-wide renovation. It is known for its high-fashion "lobby catwalk" layout, theatrical floral arrangements, and deep Italian marble bathtubs. It is a bustling social hub where people go to see and be seen.
+Dining & Bars
+Home to Pavyllon London by multi-Michelin-starred Chef Yannick Alléno, which serves a unique Michelin-starred breakfast menu alongside modern French counter dining. Drinks are centered at the lively, chic Bar Antoine.
+A global culinary destination. It hosts Alain Ducasse at The Dorchester (the only 3-Michelin-starred restaurant inside a UK hotel), alongside The Grill, the iconic Promenade for afternoon tea, and the legendary Vesper Bar.
+Spa & Wellness
+Holds a major advantage for wellness seekers. Its spa is located on the 10th-floor rooftop with a 360-degree glass-walled thermal circuit and treatment rooms that look directly down onto Hyde Park.
+Offers a gorgeous, highly-rated Art Deco spa. However, it is located on the lower levels, meaning it lacks the cinematic city views found at the Four Seasons.
+To help narrow down your choice, tell me: Are you traveling for business or leisure? Is a rooftop spa or three-Michelin-star dining higher on your priority list?
