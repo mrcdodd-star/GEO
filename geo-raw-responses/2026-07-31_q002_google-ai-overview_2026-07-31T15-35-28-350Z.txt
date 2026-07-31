@@ -1,0 +1,24 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://www.youtube.com/watch?v=1J5U6t5l_aU","https://elitetraveler.com/travel/news/best-hotels-in-london","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://guide.michelin.com/gb/en/article/travel/london-s-most-luxurious-hotels","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoNlkyaHllRjl5GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMU5qSnhPVFl5GAo","https://www.capitalalist.com/best-luxury-hotels-in-london/","https://la-fete.com/top-luxury-event-venues-in-london-for-corporate-events/","https://www.bbc.co.uk/programmes/m0014t71","https://www.sandybrown.com/case-study/the-peninsula-london/","https://www.woodsbagot.com/global-studio/news/progress/world-class-hotel-the-londoner-tops-out/","https://luxebook.in/is-the-peninsula-london-the-epitome-of-luxury-living/","https://www.virtuoso.com/travel/articles/in-london-theres-a-luxury-hotel-for-every-mood","https://www.peninsula.com/en/london/5-star-luxury-hotel-belgravia","https://hauteliving.com/2025/04/the-9-hottest-new-london-hotels/766337/","https://thesaucemag.com/luxury-spas-in-london/","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/raffles-to-open-first-london-hotel-in-historic-old-war-office/","https://www.offpeakluxury.com/ultimate-luxury/?srsltid=AfmBOoo-OVRyJo-LNvwUAfeSXu9NhBs7YS2gnXRGwFfdP5H-O4j_hS-N","https://www.destination2.co.uk/blog/what-defines-a-luxury-hotel"]
+
+--- RAW RESPONSE TEXT ---
+The most exclusive luxury hotels in London are The Ritz, The Peninsula London, Claridge's, The Lanesborough, Raffles London at The OWO, and The Emory. These elite properties define ultra-luxury through historical prestige, bespoke services like round-the-clock personal butlers, Michelin-starred gastronomy, and astronomical room rates that often exceed £1,500 per night.
+A direct comparison highlights what sets each establishment apart:
+
+The Heritage Icons
+Situated on Piccadilly, this 1906 palace features gold-gilded, Louis XVI-style interiors. It is celebrated for its two-Michelin-starred Ritz Restaurant and the iconic afternoon tea at the opulent Palm Court. It is currently finalizing a £300 million transformation.
+This neoclassical landmark at Hyde Park Corner is famed for having the city's deepest heritage feel. It operates with an ultra-high staff-to-guest ratio, equipping every room with standard butler assistance. Its massive Royal Suite stretches across 445 square metres.
+Known as the "annexe to Buckingham Palace," this Mayfair hotel boasts stunning Art Deco aesthetics. The property features an expansive new subterranean spa and maintains an impeccably groomed, elite tier of service staff.
+The Modern Masterpieces
+Located at Belgravia's edge, this £1 billion custom-built hotel features arguably the best high-tech bathrooms in the capital. It is home to the Michelin-starred, Concorde-themed rooftop restaurant Brooklands by Chef Claude Bosi.
+Operating inside the Grade II* listed Old War Office building where Winston Churchill worked, this hotel features a massive 27,000-square-foot Guerlain Spa alongside 9 premier restaurants and bars.
+London’s most low-key, exclusive sanctuary is an all-suite hotel designed strictly for high-net-worth discretion. It avoids public fanfare, offering private entrances and personalized host pairings for ultimate guest isolation.
+If you are looking to narrow down your selection, let me know:
+
+I can then provide tailored suite and booking details.
