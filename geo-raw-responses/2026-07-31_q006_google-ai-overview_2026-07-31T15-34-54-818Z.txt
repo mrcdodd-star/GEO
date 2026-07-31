@@ -1,0 +1,14 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZiUzh3TVRNMFoyeHJiZxgK","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3WTJNeGEzWRgK","https://luxurylondon.co.uk/travel/london/london-hotels-with-michelin-starred-restaurants/","https://www.squaremeal.co.uk/restaurants/best-for/best-hotels-michelin-star-restaurants-london-uk_10809","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TWpJeU1HURgK","https://www.timeout.com/london/news/4-london-hotels-have-just-been-awarded-prestigious-michelin-key-ratings-101325","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVhoeVpHTTJaSEEYCg","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TjJ0cWJtUmoYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKNU4zRnhjbk41GAo","https://guide.michelin.com/gb/en/article/michelin-guide-ceremony/every-michelin-star-restaurant-in-london-full-list","https://guide.michelin.com/gb/en/greater-london/london/restaurants/michelin-hotels","https://dinewithjp.com/london-best-luxury-hotels-for-food-lovers/","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/the-best-five-star-hotels-in-london/","https://www.luxuryexplorer.com/UK/London","https://www.cozymeal.com/magazine/Michelin-Star-Restaurants-London","https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars","https://www.theritzlondon.com/dine-with-us/the-ritz-restaurant/","https://www.thehotelguru.com/best-hotels/united-kingdom/london-classic-luxury","https://www.agoda.com/en-gb/mandarin-oriental-hyde-park_3/hotel/london-gb.html","https://guide.michelin.com/en/article/travel/guide-to-all-star-restaurants-in-key-hotels-london-uk","https://melondon.londonhotels.it/","https://www.opentable.co.uk/lists/best-fine-dining-restaurants-london","https://www.opentable.com/r/restaurant-1890-by-gordon-ramsay-london","https://www.classictravel.com/hotels/the-stafford-london","https://www.thegoring.com/food-drink/","https://laurenbergercollection.com/properties/1489-Hotel-Westminster/","https://www.brownelltravel.com/partnerships/hotels/the-goring-london/"]
+
+--- RAW RESPONSE TEXT ---
+London features several of the world’s most renowned five-star luxury hotels hosting Michelin-starred restaurants, ranging from iconic historic institutions to contemporary properties.
+Quick Comparison of Top London Culinary Hotels
+
+Top 5-Star Hotels with Michelin Dining
