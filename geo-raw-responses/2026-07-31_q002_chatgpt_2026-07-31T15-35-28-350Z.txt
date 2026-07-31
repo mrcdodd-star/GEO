@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_medium=organic&utm_campaign=google_local_the_lanesborough&utm_source=openai","https://www.theritzlondon.com/?utm_source=openai","https://www.maybourne.com/en/hotels/the-emory?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.peninsula.com/en/london?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts a selection of exclusive luxury hotels renowned for their exceptional service, opulent accommodations, and prime locations. Here are some of the most distinguished:
+
+**[Claridge's](https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (4154 reviews)**  
+_Brook St, London W1K 4HR, United Kingdom_  
+An Art Deco masterpiece in Mayfair, known for its warm service, royal history, and Forbes-rated spa.
+
+**[The Connaught](https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2430 reviews)**  
+_The Connaught, Carlos Pl, London W1K 2AL, United Kingdom_  
+Epitomizing luxury in Mayfair, offering impeccable service, Michelin-starred dining, and the serene Aman Spa.
+
+**[The Lanesborough](https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_medium=organic&utm_campaign=google_local_the_lanesborough&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1775 reviews)**  
+_Park Corner, Hyde, London SW1X 7TA, United Kingdom_  
+Located in Knightsbridge, featuring 93 luxurious suites and rooms, a Michelin-starred restaurant, and 24-hour butler service.
+
+**[The Ritz London](https://www.theritzlondon.com/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (7791 reviews)**  
+_150 Piccadilly, London W1J 9BR, United Kingdom_  
+A symbol of high society and luxury since 1906, offering classic Edwardian style and prime location by Green Park.
+
+**[The Emory](https://www.maybourne.com/en/hotels/the-emory?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (136 reviews)**  
+_Old Barrack Yard, London SW1X 7NP, United Kingdom_  
+A modern masterpiece in Belgravia, offering 61 suites with elegant interiors by leading designers and access to a private members’ club for wellbeing.
+
+**[The Peninsula London](https://www.peninsula.com/en/london?utm_source=openai)**  
+**Closed · Hotel · 4.6 (1001 reviews)**  
+_The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, United Kingdom_  
+A billion-pound hotel near Hyde Park Corner, offering spacious rooms, flexible check-in/out, extensive spa facilities, and curated cultural experiences.
+
+Each of these hotels offers a unique blend of history, luxury, and personalized service, ensuring an unforgettable stay in London. 
