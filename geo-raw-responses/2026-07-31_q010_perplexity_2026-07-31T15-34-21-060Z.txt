@@ -1,0 +1,105 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.stjameshotelandclub.com/en/rooms-suites/family-rooms","https://www.marriott.com/en-us/hotels/londt-london-marriott-hotel-grosvenor-square/rooms/","https://luxerecess.com/best-family-hotels-london-luxury-hotels/","https://www.fourseasons.com/london/accommodations/","https://www.tripadvisor.in/ShowUserReviews-g186338-d2422212-r998825427-Grosvenor_House_Suites-London_England.html","https://www.thebiltmorehotels.com/en/biltmore-mayfair/rooms-details/biltmore-family-suite/","https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/","https://www.reddit.com/r/uktravel/comments/1f4iw7b/best_familyfriendly_5star_hotels_in_central_london/","https://www.themayfairhotel.co.uk/","https://www.fourseasons.com/london/services-and-amenities/family/","https://chesterfieldmayfair.com/about/families","https://www.tripadvisor.com/Hotels-g186338-zff4-zfn7235717-London_England-Hotels.html","https://www.comohotels.com/london/como-metropolitan-london","https://www.marriott.com/en-us/hotels/lonpl-london-marriott-hotel-park-lane/overview/","https://thehoteljournal.com/best-hotels-for-families-in-london-united-kingdom/","https://www.expedia.com/Mayfair-London-Hotels-Family-Hotel.0-n6054503-0-tFamilyHotel.Travel-Guide-Filter-Hotels","https://familytraveller.com/holiday-destinations/uk/england/family-friendly-hotels-london-grosvenor-suites/","https://www.themayfairhotel.co.uk/rooms","https://www.cntraveler.com/gallery/best-family-friendly-hotels-london","https://www.luxurytraveldiary.com/2025/04/best-london-hotels-with-family-rooms/"]
+
+--- RAW RESPONSE TEXT ---
+You have several excellent **5‑star, family‑friendly suite options in Mayfair**. Here are the strongest choices, focused on true suites and residences that work well for families:
+
+---
+
+## Top family‑friendly 5‑star suite options in Mayfair
+
+### 1. **Four Seasons Hotel London at Park Lane (Mayfair)**
+- **Why it’s good for families:** Explicitly positioned as a **luxury family‑friendly hotel in Mayfair**, with tailored kids’ experiences, family‑friendly dining and personalized service.[10]
+- **Accommodation:**  
+  - **Expansive suites** and **connecting rooms** designed with families in mind, offering space, flexibility and comfort.[10]  
+  - Specialty suites such as **Royal Terrace Suites** and **Hyde Park Suites** offer separate living and sleeping areas and ample room to gather.[4][10]
+- **Location:** Heart of Mayfair near Hyde Park, ideal for sightseeing and parks with kids.[10]
+- **Best for:** Families wanting a classic, high‑touch 5‑star experience with larger suites and excellent service.
+
+---
+
+### 2. **St. James’s Hotel & Club – Mayfair (Family interconnecting suites)**
+- **Why it’s good for families:** Markets itself clearly as a **luxury family hotel in London, in the heart of Mayfair**, with a family‑friendly atmosphere and 5‑star service.[1]
+- **Accommodation:**
+  - Extensive **interconnecting configurations** that turn rooms and suites into multi‑bedroom family units:  
+    - Deluxe & Superior (~45 m²)  
+    - Junior Suite & Deluxe (~59 m²)  
+    - Deluxe Suite & Superior (~65 m²)  
+    - Deluxe Suite + Junior Suite + Superior (~105 m²)  
+    - **2‑Bedroom Penthouse Suite (~120 m²)**[1]
+  - Ideal if you need **2–4 bedrooms** in one connected layout.
+- **Best for:** Larger families or multi‑generational trips who want a boutique 5‑star Mayfair property with flexible suite combinations.
+
+---
+
+### 3. **The Biltmore Mayfair – Biltmore Family Suite**
+- **Why it’s good for families:** Dedicated **Biltmore Family Suite** in a 5‑star hotel on Grosvenor Square.[6]
+- **Suite details:**
+  - Approx. **62 m² / 667 ft²**.[6]  
+  - **One king bed and one double bed**; maximum capacity **4 guests**.[6]  
+  - **Separate living room** and private bedroom, courtyard view.[6]  
+  - Amenities: complimentary Wi‑Fi, espresso machine, smart TV, laptop safe, USB ports, upscale bathroom with walk‑in shower, bathrobes and slippers.[6]
+- **Best for:** Family of four wanting a true suite (not just a larger room) in a central Mayfair location, with contemporary 5‑star comforts.
+
+---
+
+### 4. **Brown’s Hotel (Rocco Forte) – Mayfair**
+- **Why it’s good for families:** Frequently cited among the **best luxury family hotels in London**, and specifically in Mayfair.[3][15]
+- **Accommodation:**
+  - Offers **Family Rooms and Suites** that are spacious and designed to provide a relaxed and welcoming stay for families.[7]  
+  - Sources highlight **grand interconnecting suites**, ideal for families wanting extra space and a luxury “staycation” feel in Mayfair.[15]
+- **Best for:** Families who like traditional English style, history, and personalized service, with the option for interconnecting suites.
+
+---
+
+### 5. **London Marriott Hotel Grosvenor Square (Mayfair)**
+- **Why it’s good for families:** Described as offering **5‑star, family‑friendly Mayfair suites** overlooking Grosvenor Square.[2]
+- **Accommodation:**
+  - Suites with plush bedding, cotton‑rich linens and complimentary Wi‑Fi.[2]  
+  - Family‑friendly positioning, good for those who prefer the **Marriott** brand and loyalty program.
+- **Best for:** Families wanting a 5‑star suite in Mayfair with a more “international chain” style and likely a range of price points compared to ultra‑luxury independents.
+
+---
+
+### 6. **Grosvenor House Suites (by Jumeirah Living) – Mayfair area**
+- **Why it’s good for families:** Reviewed as **family‑friendly** and ideal for families needing more space, with apartment‑style living in the Mayfair area.[5][17]
+- **Accommodation:**
+  - Suites and residences with multiple bedrooms and living areas, allowing a child to have their own room and bath in a 2‑bedroom unit.[8][17]
+- **Best for:** Families who want **residence‑style suites** (kitchen, living room) with 5‑star service near Mayfair, rather than a classic hotel room setup.
+
+---
+
+### 7. **The May Fair Hotel – Mayfair**
+- **Why it’s good for families:** 5‑star hotel with **37 suites**, including large 1‑bedroom and 2‑bedroom penthouse suites.[9][18]
+- **Accommodation highlights:**
+  - Example sizes:  
+    - 1‑bedroom suites listed around **139 m² / 1492 ft²**.[9]  
+    - **Penthouse Suite**: 2 bedrooms, ~**200 m² / 2153 ft²**.[9]
+- **Best for:** Families prioritizing very **large suite footprints** in a central Mayfair hotel, with the flexibility of one or two bedrooms.
+
+---
+
+### 8. Other notable 5‑star Mayfair options with family‑friendly positioning
+
+These are also strong candidates if you broaden slightly beyond pure “suite” language:
+
+- **COMO Metropolitan London (Mayfair)** – A 5‑star hotel in Mayfair; modern style and good base for families, though suite‑specific family details are not highlighted in the snippet.[13]
+- **London Marriott Hotel Park Lane (border of Mayfair)** – 5‑star, with 28 suites and **family‑friendly spaces** mentioned in the hotel overview, suitable for families who like a boutique‑Marriott feel near Hyde Park.[14]
+- **The Chesterfield Mayfair** – Presents itself as a **luxury family hotel in Mayfair**, worth checking for family rooms and suites.[11]
+- **The Athenaeum (Mayfair)** – Highlighted by family‑travel sources for its **private residences** with living area, kitchen and washer/dryer; some have bunk beds and interconnecting options, excellent for longer family stays.[3]
+
+---
+
+## How to choose among them
+
+- **Most family‑focused ultra‑luxury:** Four Seasons Park Lane[4][10], Brown’s Hotel[7][15], St. James’s Hotel & Club[1].
+- **Best for larger or multi‑bedroom setups:** St. James’s interconnecting combinations and 2‑bedroom penthouse[1], Grosvenor House Suites residences[17], The May Fair Hotel large suites.[9]
+- **Best for a family of four in one suite:** Biltmore Family Suite (king + double, separate living room)[6], many Four Seasons or Marriott Grosvenor Square suites.[2][4][10]
+
+If you share how many people (and children’s ages) plus your approximate nightly budget, I can narrow this down to 2–3 ideal properties and suggest specific suite types to request.
