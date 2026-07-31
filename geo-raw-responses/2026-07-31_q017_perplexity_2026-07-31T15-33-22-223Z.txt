@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.booking.com/hotel/gb/the-dorchester-london.html","https://www.trivago.com/en-US/oar/hotel-the-dorchester-london?search=100-48161","https://www.hotels.com/ho477886/the-dorchester-dorchester-collection-london-united-kingdom/","https://www.kayak.com/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp","https://www.skyscanner.net/hotels/united-kingdom/london-hotels/the-dorchester/ht-46982033","https://www.tripadvisor.com/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://my.trip.com/hotels/london-hotel-detail-2194717/the-dorchester/?locale=en-MY&rankingId=100200440478","https://guide.michelin.com/us/en/hotels-stays/london/the-dorchester-194","https://www.booking.com/hotel/gb/the-dorchester-london.es.html","https://www.klook.com/en-US/hotels/detail/109407-the-dorchester/","https://www.expedia.com/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information","https://www.momondo.co.uk/hotels/london/The-Dorchester---Dorchester-Collection.mhd12532.ksp","https://www.dorchestercollection.com/london/the-dorchester","https://www.booking.com/hotel/gb/the-dorchester-london.it.html","https://www.countryclubuk.com/the-dorchester-london-best-rates/","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/plan-in-advance"]
+
+--- RAW RESPONSE TEXT ---
+For **October 2026**, current search results do **not** show a live room rate for The Dorchester because the booking sites require you to enter exact dates to display pricing[1][9]. The best available current price signals suggest the hotel is typically in the **high hundreds to low thousands per night**, with examples ranging from **$889** on KAYAK to about **£951 on average** on momondo and **$1,014–$2,146** on TripAdvisor[4][12][6].
+
+A few useful reference points:
+- **KAYAK:** cheapest rate shown from **$889/night** for The Dorchester[4].
+- **momondo:** guests can currently expect about **£951/night on average**, with deals starting at **£679/night**[12].
+- **TripAdvisor:** price range listed at **$1,014–$2,146** for a standard room[6].
+- **Trivago:** average prices from the last 30 days appear around **$871+**, with some dates much higher[2].
+
+If you want, I can also help you estimate a **likely October 2026 price range** based on these current rates and seasonality, or compare it with other Mayfair luxury hotels.
