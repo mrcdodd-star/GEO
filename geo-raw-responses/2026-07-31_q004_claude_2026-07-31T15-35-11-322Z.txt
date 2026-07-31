@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://www.cvent.com/venues/london/luxury-hotel/mandarin-oriental-hyde-park-london/venue-4e26f876-d817-4e5e-ae70-bb42dd6f39b4","https://www.forbestravelguide.com/hotels/london-united-kingdom/mandarin-oriental-hyde-park-london","https://www.booking.com/hotel/gb/mandarin-oriental-hyde-park-london.html","https://www.dorchestercollection.com/london/the-dorchester","https://foresyteapp.com/the-dorchester/","https://www.hotels.uk.com/uk/greater-london/hotels-in-london/the-dorchester-dorchester-collection.w1k-1qa?sid=b0c4aed6a88e2e067c2ed0601c22c6441tY+juGxc6lm","https://www.travelandtourworld.com/news/article/the-dorchester-unveils-sky-high-royal-suite-for-the-worlds-most-indulgent-hyde-park-stays-in-london/","https://theluxuryeditor.com/best-luxury-hotels-near-hyde-park/","https://www.ratedtrips.com/hotels/england/london/london-sw1/the-lanesborough-sw1x7ta","https://yonder-society.com/tops/hotels-tops/london-the-finest-hotels-in-and-around-hyde-park/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a curated list of the **top luxury hotels near Hyde Park, London**:
+
+---
+
+## 🏨 Top Luxury Hotels Near Hyde Park, London
+
+---
+
+### 1. 🌿 Mandarin Oriental Hyde Park
+**Knightsbridge | 5-Star**
+
