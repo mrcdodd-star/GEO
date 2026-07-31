@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://theluxuryeditor.com/location/europe/united-kingdom/england/greater-london/london/","https://essfeed.com/claridges-remains-the-most-prestigious-hotel-in-the-heart-of-london/","https://trip101.com/article/the-15-best-luxury-hotels-in-london","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.ldnfashion.com/features/best-luxury-hotels-london/","https://hauteliving.com/2025/04/the-9-hottest-new-london-hotels/766337/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a guide to the most exclusive and prestigious luxury hotels in London, spanning timeless grand dames to spectacular modern newcomers:
+
+---
+
+## 🏨 Most Exclusive Luxury Hotels in London (2025/2026)
+
