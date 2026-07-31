@@ -1,0 +1,18 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3Tkdjd01IaDMYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TWpJeU1HURgK","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hkbVkzQmlYM2sYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.plumguide.com/journal/top-10-luxury-hotels-near-london-must-see-att","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-ritz-london","https://www.enprimeurclub.com/guide/best-luxury-hotels-in-london","https://www.foratravel.com/guides/PJFVH6/5-days-of-glam-in-london-nicole-ciehoski","https://www.pacaso.com/blog/luxury-hotels-in-london","https://www.historichotels.org/hotels-resorts/the-savoy-london/","https://www.hrs.com/en/hotel/23014","https://www.instagram.com/reel/DSPV71JDWzO/","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-savoy","https://hannahroseweddings.co.uk/6-central-london-hotel-wedding-venues/","https://bonvivant.co.uk/journal/london-hotels-with-swimming-pools/","https://elitetraveler.com/travel/inspiration/wellness/best-spas-london","https://www.timeout.com/london/hotels/londons-best-hotels-with-pools","https://www.theluxevoyager.com/luxe-hotels/united-kingdom/the-dorchester-london-dorchester-collection/","https://guide.michelin.com/gb/en/article/travel/guide-to-all-star-restaurants-in-key-hotels-london-uk","https://bonvivant.co.uk/journal/best-hotel-restaurants-london/","https://www.berkeleygroup.co.uk/helping-you-move/berkeley-inspiration/top-five-luxury-hotels-in-london","https://thehoteljournal.com/best-boutique-hotels-in-london/","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/chinese-new-year-london-hotels-with-an-asian-influence/","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/most-romantic-hotels-in-london-t3cqscb67","https://www.visitlondon.com/things-to-do/sightseeing/london-attraction","https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotels-with-pools"]
+
+--- RAW RESPONSE TEXT ---
+London boasts some of the world's most iconic luxury properties, with The Ritz London, The Savoy, and Corinthia London leading the ranks for unmatched heritage, world-class dining, and exceptional service. Choosing the right one depends heavily on whether you prefer old-world British glamour, contemporary sleek aesthetics, or sweeping skyline views.
+The Top 5-Star Hotels Compared
+
+Iconic Heritage & Old-World Glamour
+
+Modern Opulence & Wellness
+
+Unrivalled Views
