@@ -1,0 +1,25 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.cntraveler.com/restaurants/london/afternoon-tea-at-claridges?utm_source=openai","https://moneyweek.com/spending-it/the-grill-at-the-dorchester-restaurant-review?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Both Claridge's and The Dorchester are esteemed London hotels renowned for their afternoon tea services, each offering a unique experience steeped in tradition and luxury.
+
+**Claridge's Afternoon Tea:**
+
+Served in the hotel's Art Deco-inspired foyer, Claridge's afternoon tea exudes retro glamour, complemented by live music from a pianist and harpist or cellist. The menu features classic finger sandwiches, warm scones with clotted cream and jam, and an exquisite selection of pastries. The tea selection is extensive, curated by tea connoisseur Henrietta Lovell, including rare blends like White Silver Tip and British-grown Cornish Earl Grey. The service is renowned for being unobtrusive yet attentive, ensuring a refined and memorable experience. ([cntraveler.com](https://www.cntraveler.com/restaurants/london/afternoon-tea-at-claridges?utm_source=openai))
+
+**The Dorchester's Afternoon Tea:**
+
+While specific details about The Dorchester's afternoon tea are not provided in the available sources, the hotel is known for its timeless sophistication and commitment to excellence. The Grill at The Dorchester, for instance, has been reimagined under chef Martyn Nail, formerly of Claridge’s, blending classic style with contemporary flair. This suggests that The Dorchester's afternoon tea likely offers a similarly elegant and high-quality experience. ([moneyweek.com](https://moneyweek.com/spending-it/the-grill-at-the-dorchester-restaurant-review?utm_source=openai))
+
+**Comparison:**
+
+Claridge's afternoon tea is celebrated for its elegant Art Deco setting, exceptional tea selection, and impeccable service, making it a quintessential choice for those seeking a classic British afternoon tea experience. The Dorchester, with its reputation for timeless sophistication and culinary excellence, likely offers an equally refined experience, though specific details are less readily available.
+
+Ultimately, both venues provide luxurious settings and high-quality offerings. Your choice may depend on personal preferences regarding ambiance and specific menu offerings. 
