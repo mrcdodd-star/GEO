@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://evanevanstours.com/blog/7-historic-hotels-to-visit-in-london/","https://www.londonmuseum.org.uk/collections/london-stories/london-historic-hotels/","https://www.timeout.com/london/hotels/the-best-historic-and-iconic-hotels","https://www.whatahotel.com/blog/224/Best-Luxury-Hotels-in-London-Historic-Grand-Hotels/","https://www.castlestostay.com/uk-inner-london-castle-hotels.html","https://www.langhamhotels.com/en/the-langham/london/our-story/","https://www.uniqhotels.com/langham-hotel-london/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a guide to the **best historic luxury hotels in London** — institutions that have shaped the very idea of grand hospitality, alongside some remarkable newer additions steeped in history:
+
+---
+
+## 🏨 Best Historic Luxury Hotels in London
+
+---
+
+### 1. 🥇 **The Savoy** *(Est. 1889 | The Strand)*
