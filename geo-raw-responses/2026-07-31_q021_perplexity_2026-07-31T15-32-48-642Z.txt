@@ -1,0 +1,44 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/executive-room","https://cms.dorchestercollection.com/media/3i0pfbqq/the-dorchester-unveils-rooms-and-suites-following-renovation.pdf","https://www.dorchestercollection.com/media/gb3lewgx/tdl_0624_factsheet.pdf","https://www.fivestarhotels.co.uk/hotels/the-dorchester/","https://www.dorchestercollection.com/london/the-dorchester","https://www.hotels.com/ho477886/the-dorchester-dorchester-collection-london-united-kingdom/","https://www.expedia.co.uk/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information","https://www.tripadvisor.com/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://www.dorchestercollection.com/london/45-park-lane/rooms-suites","https://www.trivago.com/en-US/oar/hotel-the-dorchester-london?search=100-48161","https://www.theluxurytravelagency.com/the-dorchester-london-hotel-booking/","https://www.dorchestercollection.com/suites-at-dorchester-collection","https://www.cvent.com/venues/london/hotel/the-dorchester-dorchester-collection/venue-f4e90fc8-0141-46c6-ac1a-a657d8ea4320","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://www.booking.com/hotel/gb/the-dorchester-london.html","https://www.kiwicollection.com/hotel-detail/the-dorchester","https://www.youtube.com/watch?v=UnEr6BNLSKg"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester’s **signature suites in London can’t be checked for availability in real time via public info**; to see if any are available for your dates you need to use the hotel’s booking tools or contact reservations directly.[1][2][5][17]
+
+### How to check signature suite availability
+
+You have three practical options:
+
+- **Online “Check Availability” buttons**  
+  On The Dorchester’s own site, each suite category (including **Dorchester Suite**, other **Signature Suites**, Hyde Park Suites, etc.) has a **“Check Availability”** button next to it.[1][2][3]  
+  - Go to the **Rooms & Suites** section for The Dorchester in London.[2]  
+  - Select **Dorchester Suite** or other **Signature Suites** and click **“Check Availability”**.[1][3]  
+  - Enter your dates, number of guests, and see which specific suite types are available.
+
+- **Contact reservations directly**  
+  The hotel’s factsheet lists the central contact for availability and suite bookings:[5]  
+  - **Phone:** +44 (0)20 7629 8888[5]  
+  - **Email:** reservations.TDL@dorchestercollection.com[5]  
+  Ask specifically about **signature suites** (e.g. Dorchester Suite, Hyde Park Suite, rooftop Harlequin/Oliver Messel, etc.), your dates, and any preferences like terrace or park view.[4][5][6]
+
+- **Use a major booking platform for a first pass**  
+  Sites like Booking.com and Expedia show which **suite categories** are available for your dates, though they may not label all of the hotel’s “signature suites” by name.[9][17]  
+  - On these sites, enter your dates, filter for **Suites**, and then confirm directly with the hotel if you require a particular named **signature suite** (e.g. Dorchester Suite, Oliver Messel, Harlequin).[6][9][13]
+
+### Useful context on The Dorchester’s signature suites
+
+- The Dorchester offers **one-of-a-kind signature suites**, notable for their **history, views, and individuality**.[4][5][6]  
+- Examples frequently mentioned include:[4][5][6][13][16]  
+  - **Dorchester Suite** – large one-bedroom suite that can be extended, with Hyde Park views, spacious living/dining area, often described as an ultra‑luxury option.[1][4][6][13][16]  
+  - **Hyde Park Suites / Mayfair Suites** – suites with park or Mayfair views and separate living/dining areas.[4][6][13][16]  
+  - **Oliver Messel Suite** – historic terrace suite retaining its 1953 design, with a private terrace and a long celebrity history.[4][6]  
+  - **Harlequin Suite** – rooftop signature suite with private roof terrace, dining room with crystal chandelier, butler service, and 1930s styling.[6]
+
+The hotel’s own booking engine and reservations team are the authoritative sources for **up‑to‑date availability** of these specific signature suites.[1][2][5][17]
+
+If you share your intended dates and any preferences (view, terrace, number of bedrooms), I can guide you to which suite types to ask for and what details to confirm with reservations.
