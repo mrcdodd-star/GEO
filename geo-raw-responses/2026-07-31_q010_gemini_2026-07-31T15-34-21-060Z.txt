@@ -1,0 +1,58 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZbaBxZJoyVXknrAqGvtGKk0bLF_p61YGq03JmAqPy2ZQgFcBqsrfQ36-qpXI1pZ8SdKzPHUHgMqtI8Tk5rO0CLP59hn-EzEjNSv22iiiF7oTrmp-n-w09Iw308lc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9bSNLi0sbaSMK3tDcXxkdS1ZMg629vMEf00cNUYHjEKW1G8Psz3MohcY2w6h6B5-5tncXX23B-af-I6QywA2rCmsEiP7wiVD_FmbhjJD4aNND6TPuAeVJtOYCnpTn-nGqkwkdGiyqzTJYa-lUE3yH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh8oQV5woVamcSN-uHe48U16XNLDj9lkXO79nKgXrjGMm1VEU6y4miOYD6pnEbWobNvCdnO_7cFiUihkn4P7LwRTcK3nSdxM_tNbXwTs6hauX6cUTNoCAtnv7J8drW0TwdbzyJCKFUKRQHDB6zFIE__Qqr3gWsbGS0xeoRxDK4KwPbdV3BTvqEehGYf4TJKwSyTXY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHJ_s3iyO6OsqIzjRppWb7x-ZIgdjrOmj1OD7CvuSCB5rjcaQ5mPOFoBv02AjswMdBtL-IYSzjGMuiQlPy0kCrBI6HMBASLcL8UStlw0nlJdfV11Y9HZWkoBtNirmg0VlsNyRZR76E8yneME-vdVmoH9FuHhx3zdbRTfIc8yBbYipD35ue5Wf3LBZMVErAA_iIGIVsaLHttZar18sZYEjEM1N3rKABk-p5","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELiN4II5FHUxTFz_f6ZsgllZnuaAUs3Vt0ISnxw-Pzs17JfQNkfnlkD6m2My0cBR1onxOT0lSeKk1RN1PETzlNv2D-PBqTjSRt41GRR73dbQGQI7ln7qjA5qq50NUZX0TD2-5wEdT5j39UNnpRRp-ZHXOvAyDYDYiDxFRs7ZHBVDhpfy-ZWltEVaYvsYPsfNAYm0wR3ZxOeFS2A19BFUk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO-fmuDX1vJqlWzoNMh6YNcxkCLlR0NjRnkBXV562sJQnnFfl69IaO8KDTNbJmNdM36bokAkao02uiuA3rkCDVaXp5ZgsfBdxNmYvHj0hXUVON5O44UvxFC00C_d4HaGR87GCKh2jrhyso","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR0QA_6ZB1LYD27c8A2GKKPasZBajzg9pgkS0SuzDcN1G-Xr0D1P2RaOdcucF8QCPKBsoTE0g2r9PgCVb0FgAG75slEC17hfc64IhzNPwi2uFT2o8p3XsdX5SXu0OGloxccupG2CFAtH5bHG-Ok1trWepveNx_HVuRy3OgH72WgNU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLX1n798c738D7nCLsyi2SQFvb_kEsICzRfMqtl7mWoIvGOPEN835kwzV1guNlODWbvn07qe1hIKZoZiDL4SuqBUF4dqGZR4MKIigkXQT9kcu1AJaHzKvQ2hRb4dF6_Az-aQ2xAF9QQG-2CTwwzs7ExfG-JIe1zrI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVsJRqQoPY3VlxecNgp16po_nNoXbHkgJQLQiSxwDZERncux7DCC_SZ4gHE5A6WWK-fk2ab-feQYevwGXeWOTl6IHTj_QK9ycO-CbsdBKW-_pbIHGg3Xi5Amw2tsn2qPda152jNjde-X8EEjINQ4k=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUThSCsCcCh8yYX6Q_37nHmp1slWRiiF58UoJ7uKmVsg7IhRHhpJ9rj9QSax-85gUYkdj5uul-A7xqrWmaPhVAY7DTtX31JCq-KKV2t9LIbdxZV7skYDqBPvfkFDLreUWfjl4uTsbW66lef-jR4AVlXzKORNspToz0OZs2Tw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWsvU3E3sRFb9i0lxx7D1NLgDadOo0C8P1lZFzJ9xuW0CHP3hmMg2k8Bd8U0wdkRe16jM5dPsA_WZDZWsBPOsoHdJUmd3_Lu9eTOlNOCzrd-mI0YxTYqLLTGk-_oE3IyW857Cj7AzwkXKBEtXdzVMGrUMcMx6vqLeghrL7lprvz3s69g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ75nGp30QjQquFUFOPjc-Fpzhl8S0t280nLmEOeax9f--y0ohwyB4lJ8fw3sEaSWHlNjjw4a6ZDqo4POOkXJlkCQ5yde9cQcvleADCmNkyxoOISva7a0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmKLT0w_xFc_kv6xkSvjZG1A6FvxLQJlpKrAaSsxGzp1r3D2uTVj3e3_gtUhEFNjWohOfGrcpFNczVfOD33JzPXww2rOVle_q7Bpw9BkOSA88vq1ZelXYcB8N6W_kKdxZHsuh7qpyBW2xTccMTBVc3fv4teTDklpLfTUX34LHu-TNqBQCKazgnV4sz-X-IxxQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5277Bmfo9CYAw1zHqN0b-GVdJguCl3c3DGH0lwdfThM0CAS3AhXvm4l_ONCZRDQsyDuMNEl6qB7PWF2hRBfj9HbAqLewBIbsSG-Q2_qZ0xKwRMiQTgwlIlTk5ZaSgRS1XOQp0E_FX4-P9hzBfR-3n9Y0dfhCe","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFttARNc0fi4U2Ip71m7rEQXs5I-PamZzkMGwU60RyFFGk-G_3so6DGK6-_KyhNBC2rBdeTH8g14SF8FQ0XC1VMlTE3B3wsbYgv2zx-DmI498WOHqmEOvPhZqf9gubOR5HvhPnXcUo0"]
+
+--- RAW RESPONSE TEXT ---
+For a luxury family trip to London, Mayfair is one of the most prestigious and convenient neighborhoods. It is bordered by Green Park and Hyde Park, within walking distance of the massive toy kingdom of Hamleys, and close to Buckingham Palace. 
+
+Several world-class 5-star hotels in Mayfair excel at catering to families with spacious suites, tailored children's programs, and thoughtful, high-end amenities.
+
+---
+
+### 1. The Athenaeum Hotel & Residences
+* **The Location:** Piccadilly, directly opposite Green Park.
+* **The Suites/Residences:** The hotel offers **Townhouse Residences**—fully-serviced, 550 sq. ft. private apartments set in Victorian red-brick townhouses adjacent to the hotel. They feature private front doors, fully equipped kitchens, spacious living areas, and the option for pop-up bunk beds or sofa beds for children. Adjoining townhouses can also interconnect.
+* **Why Families Love It:** 
+  * **Dedicated Children’s Concierge:** They will organize customized toys, recommend the best family activities, and even arrange kites for you to fly across the street in Green Park.
+  * **Yoto Partnership:** The hotel features screen-free Yoto audio players in family rooms, loaded with stories and music to make bedtime seamless. 
+  * **Kids Eat Free:** During school breaks, the hotel frequently runs "kids eat free" dining promotions at their restaurant.
+
+### 2. Brown’s Hotel (A Rocco Forte Hotel)
+* **The Location:** Albemarle Street, a quiet and elegant street near Green Park.
+* **The Suites:** Brown's offers stunning **Two-Bedroom Family Suites** featuring a modern-heritage design with spacious living and dining areas. For a legendary experience, book the **Kipling Suite** (named after Rudyard Kipling, who wrote *The Jungle Book* during his stay at the hotel), which can interconnect with an adjacent room to form a two-bedroom layout.
+* **Why Families Love It:**
+  * **Rocco Forte Kids Program:** This is arguably the most robust kids' program in London. It caters specifically to three age brackets: babies (0–3), kids (4–12), and teens (13–16).
+  * **The Playful Touches:** Upon arrival, children check in with their own "Rocco Forte Passport" and receive monkey-themed cuddly toys. Bedtimes include monkey-themed turndown services, pint-sized bathrobes, slippers, and children’s organic bath products.
+
+### 3. The Connaught
+* **The Location:** Carlos Place, in the ultra-chic heart of Mayfair.
+* **The Suites:** From massive three-bedroom signature suites to classically styled family-friendly setups, the rooms here are beautifully appointed with mahogany furniture and original art. The Connaught often runs a **"Family Time" promotion**, offering a complimentary adjoining room when you book a suite.
+* **Why Families Love It:**
+  * **The Aman Spa Pool:** Finding an indoor pool in Mayfair is rare. The Connaught’s stunning, subterranean Aman Spa pool has dedicated family swim times.
+  * **Unparalleled Butler Service:** Butler service is highly attentive to children’s needs, offering custom treats, warm-milk-and-cookies turndown services, and effortless organization of family itineraries.
+
+### 4. Grosvenor House Suites
+* **The Location:** Park Lane, overlooking Hyde Park.
+* **The Suites:** Perfect for larger families or longer stays, this property offers **1, 2, 3, and 4-bedroom suites and penthouses**. They operate as luxury residences, coming equipped with massive open-plan living areas, large dining tables, and fully-fitted modern kitchens. 
+* **Why Families Love It:**
+  * **"Home Away From Home" Concept:** You get the immense space, privacy, and kitchen convenience of an upscale apartment, but with 24/7 5-star concierge, daily housekeeping, and in-suite dining services.
+  * **Hyde Park on Your Doorstep:** The park is just across the street, making it incredibly easy to take children out to burn off energy.
+
+### 5. The Biltmore Mayfair (LXR Hotels & Resorts)
+* **The Location:** Grosvenor Square, a tranquil and prestigious square in Mayfair.
+* **The Suites:** The designated **Biltmore Family Suite** is a highly practical, 62 sqm (667 sqft) option that sleeps four. It features a separate living room, a private bedroom layout with one king bed and one double bed, and views of the quiet courtyard.
+* **Why Families Love It:**
+  * **Modern, Understated Luxury:** Ideal for families who prefer a contemporary, fresh luxury aesthetic rather than heavy, traditional English decor. 
+  * **Grosvenor Square Park:** The hotel steps right out onto the green gardens of Grosvenor Square, which is quieter and less crowded than the larger royal parks, making it perfect for a quick, peaceful stroll with young children.
+
+---
+
+### Quick Booking Tips for Families:
+* **Inquire About Interconnecting Configurations:** Historic Mayfair buildings mean room layouts can vary. If you can't find a multi-bedroom family suite, ask the hotel directly about their "guaranteed interconnecting" options (such as combining a Junior Suite with a Deluxe Room).
+* **Confirm Pool Policies:** If a swimming pool is a dealbreaker for your children, **The Connaught** is your best bet in Mayfair. 
+* **Kitchen Needs:** If you want the ability to cook or prepare baby meals easily, prioritize **The Athenaeum Residences** or **Grosvenor House Suites**.
