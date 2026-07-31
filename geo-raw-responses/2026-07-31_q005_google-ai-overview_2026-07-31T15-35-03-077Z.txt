@@ -1,0 +1,23 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://www.londonmuseum.org.uk/collections/london-stories/london-historic-hotels/","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TW5CeWMySm0YCg","https://www.cntraveller.com/gallery/best-hotels-in-london","https://en.wikipedia.org/wiki/Hotels_in_London","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxaU1ITjRNbXhtGAo","https://www.historichotels.org/destinations/london.php","https://evanevanstours.com/blog/7-historic-hotels-to-visit-in-london/","https://www.capitalalist.com/best-luxury-hotels-in-london/","https://www.jacadatravel.com/europe/england/london/","https://theculturetrip.com/europe/united-kingdom/england/london/articles/10-books-to-read-before-visiting-london","https://www.instagram.com/p/Da4Ld4VFKFS/","https://www.youtube.com/watch?v=2olEaK4UlYw","https://www.theluxevoyager.com/luxe-hotels/united-kingdom/browns-hotel-london-rocco-forte-hotels/","https://travellermade.com/hotel-partners-europe/rocco-fortes-browns-hotel-uk-traveller-made-hotel-partner/","https://www.facebook.com/thevicsoc/posts/discover-the-history-of-the-victorian-hotel-and-how-they-adapted-from-the-victor/1202648745227732/","https://elitetraveler.com/travel/destination-guides/europe/london-destination-guide/best-hotel-suites-london","https://www.glion.edu/magazine/top-luxury-hotels-in-london/","https://www.mountstreetneighbourhood.com/stories/hotels-to-stay-in-near-brook-street-london","https://www.greatdays.co.uk/tour/london-art-deco/","https://luxurylondon.co.uk/travel/london/the-savoy-hotel-london-history/","https://www.facebook.com/gulftimes/posts/the-hotel-is-now-one-of-the-worlds-truly-great-hotels-providing-travellers-with-/1803942203065959/","https://www.essentialsurrey.co.uk/food-drink/restaurant-reviews/the-goring-hotel-london/","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.thetimes.com/life-style/luxury/article/best-luxury-hotels-london-times-luxury-0vgdzff8r","https://muddystilettos.co.uk/things-to-do/london/new-london-hotel-raffles-at-the-old-war-office-whitehall/","https://www.luxuryexplorer.com/UK/London","https://www.corrigansmayfair.co.uk/local-area/the-connaught","https://www.mypremiumeurope.com/luxury-hotels-in-europe/uk/best-british-hotels-savoy.htm","https://www.travelmyth.co.uk/United-Kingdom/Hotels/luxury-five_star","https://luxurylondon.co.uk/travel/london/best-luxury-hotel-stays-in-london-packages-special-offers/","https://meraki-restaurant.com/luxury-dining-in-london/","https://www.19london.com/8-luxurious-things-to-do-in-london/"]
+
+--- RAW RESPONSE TEXT ---
+London features some of the world's most spectacular historic luxury hotels, blending centuries of royal, literary, and political heritage with flawless 5-star hospitality. The absolute pinnacle of historic luxury in the city includes iconic grand dames like Claridge's, The Savoy, and Brown's Hotel.
+The Top Historic Luxury Hotels
+Established by Lord Byron’s manservant in 1832, it stands as London's first-ever hotel. Rudyard Kipling famously penned The Jungle Book here. It delivers an unpretentious, upscale British ambiance in Mayfair.
+Founded in 1812, it earned the nickname the "annexe to Buckingham Palace" due to its popularity with Queen Victoria and royal houses across Europe. It is globally renowned for its art deco grandeur.
+Opened in 1889 by theatrical impresario Richard D'Oyly Carte, it was Britain's first luxury hotel to feature electric lights and en-suite bathrooms. It remains an iconic landmark on the Strand.
+Housed inside the magnificent, Grade II* listed Old War Office building from 1898, this hotel allows guests to walk the halls once used as Winston Churchill's headquarters. It features the clandestine, resident-only Spy Bar.
+Originally dating back to 1815, this Mayfair institution offers an exceptionally quiet, residential form of traditional luxury complete with designated butler service for suites. It houses a 3-Michelin-starred restaurant.
+Opened in 1873 as the Midland Grand Hotel, this masterpiece of Gothic Revival architecture offers a dramatic, romantic stay seamlessly integrated into the historic international train station.
+Overview Comparison
+
+If you are planning an upcoming trip, let me know:
+
+I can narrow down the perfect historic match for your stay.
