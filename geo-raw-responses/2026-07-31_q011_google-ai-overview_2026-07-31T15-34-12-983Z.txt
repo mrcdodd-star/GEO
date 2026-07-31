@@ -1,0 +1,23 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: claridges vs the dorchester london
+
+CITED URLS:
+["https://www.facebook.com/groups/traveltipslondon/posts/1366369195654350/","https://hotelsforkings.com/best/dorchester-vs-claridges/","https://www.cntraveler.com/gallery/readers-choice-awards-london-hotels","https://www.lartisien.com/blog/how-to-choose-ones-palace-in-london/","https://www.kilburntimes.co.uk/news/24073245.londons-claridges-dorchester-named-best-world/","https://www.tripadvisor.co.uk/ShowTopic-g186338-i17-k3539257-Claridge_s_or_The_Dorchester-London_England.html","https://www.youtube.com/watch?v=pDLHlRb5bLQ","https://www.americanexpress.com/en-gb/life-with-amex/travel-and-lifestyle/london-hotel-guide/","https://wheretogoin.net/english-afternoon-tea-london/","https://www.reddit.com/r/FATTravel/comments/1q4xlup/chancery_rosewood_v_claridges/","https://www.wallpaper.com/travel/hotels/claridges-bright-young-things-art-decor-sleepover","https://www.thehotelguru.com/best-hotels-in/united-kingdom/london","https://indagare.com/lodging/claridges-london","https://www.americanexpress.com/en-au/travel/discover/property/England/London/claridges","https://www.youtube.com/watch?v=4PVC6QTkB1g","https://www.fivestaralliance.com/luxury-hotels/london/the-dorchester","https://www.timeout.com/london/health-and-beauty/the-dorchester-spa","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://victoriaamrose.com/the-best-5-star-wedding-venues-in-london/"]
+
+--- RAW RESPONSE TEXT ---
+The primary difference between these two Mayfair icons is their core vibe and outlook: Claridge's is a masterclass in interior Art Deco glamour and high-society buzz, whereas The Dorchester excels at Park Lane grandeur, park views, and world-class fine dining.
+Choosing between them depends entirely on whether you want to look inward at the fashionably styled public spaces or outward at the greenery of Hyde Park.
+Quick Comparison Matrix
+
+Claridge's: The Art Deco Powerhouse
+Tucked inside the heart of Mayfair, Claridge's is historic but refuses to feel like a museum.
+
+The Dorchester: Parkside Royalty
+Commanding a dominant position on Park Lane, The Dorchester feels like an imposing, stately palace.
+
+Which Should You Choose?
+
+To help narrow down the choice, are you booking for a special occasion, or is there a specific amenity (like a pool or butler service) that you need?
