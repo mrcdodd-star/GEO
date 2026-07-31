@@ -1,0 +1,23 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://dinewithjp.com/mandarin-oriental-hyde-park/","https://www.mandarinoriental.com/en/london/hyde-park","https://www.businessclass.com/hotel/review/The-Dorchester-Dorchester-Collection","https://www.momondo.co.uk/hotels/london/The-Dorchester---Dorchester-Collection.mhd12532.ksp","https://www.theluxuryspaedit.com/spa/mandarin-oriental-london/","https://www.mandarinoriental.com/en/london/hyde-park/about","https://www.forbestravelguide.com/hotels/london-united-kingdom/mandarin-oriental-hyde-park-london","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://thepointsguy.com/reviews/dorchester-hotel-london-review","https://www.kiwicollection.com/hotel-detail/mandarin-oriental-hyde-park-london"]
+
+--- RAW RESPONSE TEXT ---
+Here is a detailed head-to-head comparison of two of London's most iconic luxury hotels:
+
+---
+
+# 🏨 Mandarin Oriental Hyde Park vs. The Dorchester
+
+Both hotels are legendary London institutions, but they offer distinctly different experiences. Here's how they stack up across the key categories:
+
+---
+
+## 📍 Location
+
+**Mandarin Oriental Hyde Park:**
