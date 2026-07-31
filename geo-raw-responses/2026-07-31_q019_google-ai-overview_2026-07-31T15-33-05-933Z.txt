@@ -1,0 +1,39 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://wanderwildtravel.com/dorchester-collection-diamond-club-preferred-hotel-program","https://biirdee.com/guides/dorchester-diamond-club-guide","https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/","https://thesuitesojourn.com/partners/dorchester-diamond-club/","https://bellandblytravel.com/partners/dorchester-collection-diamond-club/","https://www.starsdesk.com/dorchester-diamond-club","https://bonvivant.co.uk/partners/dorchester-diamond-club/","https://propellertravel.com/dorchester-collection-diamond-club/","https://www.denisealevy.com/dorchester-diamond-club","https://travelsort.com/dorchester-collection-diamond-club-benefits/","https://www.huffmantravel.com/partners/dorchester-collection-diamond-club","https://media.dorchestercollection.com/wp-content/uploads/2025/07/3cae1aff234d92e96c73b3deea319b72.pdf"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester Collection Diamond Club is an exclusive, invitation-only preferred partner program reserved for elite luxury travel agencies. When a travel agent books a client through this program, the client receives premium amenities and VIP recognition that cannot be obtained by booking directly or through standard online travel agencies.
+Core Travel Agent & Client Benefits
+
+Booking Terms and Eligibility
+Travel advisors must follow specific booking requirements to pass these amenities to their clients:
+
+Participating Dorchester Collection Hotels
+The Diamond Club program is active across all 9 iconic properties within the Dorchester Collection portfolio:
+Iconic luxury hotel located on Park Lane in Mayfair, London.
+Iconic luxury hotel located on Park Lane in Mayfair, London.
+Contemporary boutique hotel offering daily currency credits for all room tiers.
+Contemporary boutique hotel offering daily currency credits for all room tiers.
+Five-star country house hotel and spa nestled in Berkshire.
+Five-star country house hotel and spa nestled in Berkshire.
+Haute couture luxury palace hotel located on Avenue Montaigne.
+Haute couture luxury palace hotel located on Avenue Montaigne.
+Historic luxury hotel combining 18th-century opulence with modern design.
+Historic luxury hotel combining 18th-century opulence with modern design.
+Classic, landmark hotel overlooking Milan's Piazza della Repubblica.
+Classic, landmark hotel overlooking Milan's Piazza della Repubblica.
+Prestigious property situated in the heart of Rome near the Spanish Steps.
+Prestigious property situated in the heart of Rome near the Spanish Steps.
+The legendary "Pink Palace" located on Sunset Boulevard.
+The legendary "Pink Palace" located on Sunset Boulevard.
+Exclusive, canyon-hidden luxury resort oasis in Bel-Air. WanderWild Travel +2
+Exclusive, canyon-hidden luxury resort oasis in Bel-Air.
+If you are planning an upcoming trip, let me know:
+
+I can help clarify the specific upgrade pathways or property-specific credit guidelines for your stay.
