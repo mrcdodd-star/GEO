@@ -1,0 +1,48 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://www.thesavoylondon.com/?utm_medium=GMB%3Fgoto%3Dfiche_hotel&code_hotel=A597&merchantid=seo-maps-GB-A597&sourceid=aw-cen&utm_medium=seo+maps&utm_campaign=seo+maps&y_source=1_MTIzNjE0NDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D&utm_source=openai","https://www.theritzlondon.com/?utm_source=openai","https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/?utm_source=openai","https://www.hilton.com/en/hotels/lonwahi-the-waldorf-hilton-london/?SEO_id=GMB-EMEA-HI-LONWAHI&utm_source=openai","https://www.thedillylondon.com/?utm_source=openai","https://thezetter.com/bloomsbury/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts a rich tapestry of historic luxury hotels, each offering a unique blend of heritage and opulence. Here are some of the most esteemed establishments:
+
+**[The Savoy](https://www.thesavoylondon.com/?utm_medium=GMB%3Fgoto%3Dfiche_hotel&code_hotel=A597&merchantid=seo-maps-GB-A597&sourceid=aw-cen&utm_medium=seo+maps&utm_campaign=seo+maps&y_source=1_MTIzNjE0NDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D&utm_source=openai)**  
+**Closed · Hotel · 4.7 (11049 reviews)**  
+_Strand, London WC2R 0EZ, United Kingdom_  
+Established in 1889, The Savoy is renowned for its Edwardian and Art Deco interiors, exceptional service, and iconic Thames-facing suites offering panoramic city views.
+
+**[The Ritz London](https://www.theritzlondon.com/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (7791 reviews)**  
+_150 Piccadilly, London W1J 9BR, United Kingdom_  
+Opened in 1906, The Ritz epitomizes Edwardian grandeur with its Louis XVI-style interiors and the celebrated Palm Court, making it a symbol of British elegance.
+
+**[Claridge's](https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (4154 reviews)**  
+_Brook St, London W1K 4HR, United Kingdom_  
+Since 1856, Claridge's has been a favored retreat for royalty and celebrities, known for its Art Deco design and impeccable service.
+
+**[Brown's Hotel, a Rocco Forte hotel](https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (1626 reviews)**  
+_33 Albemarle St, London W1S 4BP, United Kingdom_  
+Dating back to 1832, Brown's Hotel is London's oldest luxury hotel, having hosted notable figures like Theodore Roosevelt and Rudyard Kipling.
+
+**[The Waldorf Hilton, London](https://www.hilton.com/en/hotels/lonwahi-the-waldorf-hilton-london/?SEO_id=GMB-EMEA-HI-LONWAHI&utm_source=openai)**  
+**Closed · Hotel · 4.4 (4479 reviews)**  
+_Aldwych, London WC2B 4DD, United Kingdom_  
+Opened in 1908, this hotel combines Edwardian architectural charm with modern amenities, situated in the heart of London's theatre district.
+
+**[The Dilly](https://www.thedillylondon.com/?utm_source=openai)**  
+**Closed · Hotel · 3.9 (1995 reviews)**  
+_21 Piccadilly, London W1J 0BH, United Kingdom_  
+Formerly known as The Piccadilly Hotel, The Dilly has been a landmark since 1908, offering a blend of historic charm and modern comfort.
+
+**[The Zetter Bloomsbury](https://thezetter.com/bloomsbury/?utm_source=openai)**  
+**Closed · Hotel · 4.9 (57 reviews)**  
+_2-7 Montague St, London WC1B 5BP, United Kingdom_  
+A boutique hotel situated in six interconnected Georgian townhouses near the British Museum, embodying relaxed luxury and personalized hospitality.
+
+Each of these hotels offers a unique glimpse into London's rich history, combined with the luxury and comfort expected by discerning travelers. 
