@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://www.almosafer.com/en/hotel/details/atg/the-dorchester-1055336","https://www.wallpaper.com/travel/hotels/the-dorchester-royal-suite-pierre-yves-rochon","https://www.thistle.com/book-direct-benefits/","https://summerlodgehotel.co.uk/offers","https://www.dorchestercollection.com/london/the-dorchester/overview","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite"]
+
+--- RAW RESPONSE TEXT ---
+Booking the Hyde Park Suite directly through the official The Dorchester website unlocks a premium tier of complimentary experiential benefits, local transit, and dedicated service.
+Included Direct Booking Perks
+When you reserve this specific suite directly, the hotel includes several high-value bespoke amenities:
+
+Suite Features & Layout
+The Hyde Park Suite spans 106 m² (1,141 ft²) of classic Mayfair elegance, strategically configured to frame the greenery across Park Lane:
+
+Booking Instructions
+As an AI, I cannot process payments or access live hotel inventory directly to finalize your reservation. To claim these perks and book your stay, navigate directly to the official Hyde Park Suite Booking Engine or contact their direct reservations team at +44 20 7629 8888.
+If you are planning your arrival, would you like me to look up the current nightly rates for your specific travel dates, or help you book a table at the hotel's three-Michelin-starred Alain Ducasse at The Dorchester?
