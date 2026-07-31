@@ -1,0 +1,60 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7CZcQV7MOx3fesRsUDkBO9oQbzYysjK2CxsLxDPi6NqXoIaxeMFV5RBRifTqsEH5AlGLytVF5MkP3N0TX0hcR5okCMRfQlaXH9IcEGIZ3VWNtZL3x6swRCA24MC-BR4YuD61M3wc-LGndClT6cu7YCNPiGvjvbLV8gL949n_BzvNiaGAncjAlJBl-oQA9Gqm0xdhwq19_eE4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM0WPG0Sgy4Apcsqu9CLv4kFBCh-rkXQ1-OM8caNIlzHRV5zye0Nb-2XvkZGoBxGe_5kdj9gsofr6PnVYFtX5xLKqhXGVeTFOgJRX4jvImZ5Xlwn_0HWjZ0cdO-rWn82qVH3oZF7WQkCg1RdjqnvlA94yMdTAgB5wN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo1P7XYTBpSGoYjBB58jtSxRIwT4E5k9kruxQtWb26XeBO2iozRUt9xkmOcoqXo8PHASU-mcEFIVpKHRDnIFsPJq22ey91MdtzzGn44KAWBIP-mSilwIc9xZzQ85OcPtBuHcVVnsTu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jt097sOqrw7QG2QQTYVkjF9dRpP_uBN2uR2w5XLlTtbaye513Tf7rFobbFDE9aF40fENgaIJdzFN55qSAdG1vdIn5-sKRB_HUwjbjrsBHKFNIIdhQ6kM8-ZYRIG1rdO3eWBGvlwAuLRxR7_dz5PaSrrAAxVdhVcYdgSCHj2ylBR23oOuqXnN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjGYCeX1nLCzfjH-gBlMValpCJSLgR-9FeGoTdb5LPhOEfCYYzhViQMA5loxquZb_iVBbIuOk8ACm4KzbQGIbOAFpQUazrXP_-RZD8rEQc1U3uqD39MKP14AM_4bIZk_KZ-huT2ShLuoqSVxJr9QEJjHpBJ7GSLanHJgY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrON7QQxy7MrS_iAW_9ogDcWiGN1TnLUon9CNBXm53xKLjoCT57lfvF0nr0Lvp4kOFuQp4SGj7HobtPrSZIm-u19FYS6hJxBOQd9lBuF4rOWRuhlksqnU5YBZA091chLmpGnSPaBhdSFpKbbzeXimZoGY_H5OrXc29A96Post7lmj6iD8efoVuB-18","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxEnvYvBAIH8R916EzPKKeLrgUMD7Gn6R1yqOWY6vXS3U2AKIumHheSt_OefmbuYG36gbEif2kxMTwWY9t0NBvLAJ7HQYEaruviRUGxSEAchAmYriMIkxI8yrEXfJ5L1UghXz-WCa9HmTtNg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlr7vnyrPrwUWTEhWD6GScVKDdX93nY7YWHb7PB5jKZw1bYUHEbCLUVLs9ZYu5zxlC0jttKxnT_0wk-eo4NA7VaPIrmzI-5rWtRXFIO2EUoPaiAwb8AKqHYt4d4fMN6JdStjz5SdpIid4lNgqV5lR2","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrhwCoH9Wfc7QzuwMBdn6pkhjFCxdhfrZ1OCLVPdxTJFCZubGbBWqEvNEMK7V3tM1scSiNgsW7XwbNxOUyPwzFbXC2Ec2Ou33Wen5B1G8v8K4wB-xAzmfg9hBciFEI_XwrSmFcOhTpzMS86Xutdzjyp7727H0SQ_EtoGs77JQRt0UP7vzRTWm91t99b3XX7NPrHWZwHZ0lC3tLS9d-ldbNLg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4JA1ewY9hGyW6VGjnzY9LGquo2Wz12TBrxXLl1qazQGshHsWojIRgcaM64HFujv8HyeOGWcdDl0VhCW7m0lQaU9Ec1ja8WocReoG90nc8oie25-aE744uamkPzCvZN1dbR-PCCtJWO9x-hGIRWKxYBw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGyNxuABjekF7L0-skTviafz5nBv_E02-q-5CesXj7SJaF4sF_gt4TqNSa8fofNCzs6DJ2Ip8Rxv8fsucjWHMJvrXkkzovlfWzTTkG-nt4-oT_dSc205TELAltbfGgMC4826QA298TSl77PCgd8vKkKyDq5chGys5DcGm9ggZ5erw6HJsFl_WJsW8IltrgLOBX4dXYm6RrdJyK73UK38B_rRO866d03trX-NWqDTYPRJS1CPWt4w36wPr63A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_dwbTEVCc7JyvdI-IA2a3zAVWy2GSq1nyaGhL97R-s4_eNIwt0Joms7DQUiPM2q3PovtxwOVDxPM0eoTaynwqrM9dk1VvWNCVtCrGmQeoXp7l7OSWZqTvTCtSu-BsBDxr_3oDsZkn4muuMej-1qUkp0Wp8oq0xFj8FYYhH7JH0eKYolPeAlo0pw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdrWvaXyVYkHA1seXmOKvchTaOb3KFuPD0Nfo1vrwzeJfwvzMYv_knf-gYZvdlgPpOzTqLrWhCq_2D1_AUNDoh5E2viwns1CxOiQs9ztgxmPkj-RJ6JP9e_jof7UfojqZGmi1XMqRD8sK1zqLTuNU2Iykc","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6GOy50GVcG9t65c4WDNjrYdSKyMrErJ0wTDv9TEo9pXBbq8CXWcRE6Pr2G-xa_gl479TrCKyUQYpEjW_3OsMSn-nFCU83riZ9B4D0vDhxp13xx1Ic-h85s8JMDYJu-3X1D7WMOoQJsScq5fJeQ3rx-9wTfhXGUauNeRMaWsoezB_aibQV7b9p3g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh89MyWBFDApg5T2oj-j5lPN-i7e8vu1ARQL4ygZTAPkZi82DuTNQGfvvxp4bV5ZDy2ZVyjuPl3zANbpuLWPDRcoOofEvWHX0TeOML3CNKiTA09EPi0XPxN385vHTyancCfUG11TnuApy7i2GkOMkO3J5Ujw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwtfOQryuNCh5Ik2-CJrdSchSYAEZBecjs-LAqFyny74R9SWqzJeHn_w3cWvGZNCrcCmUUVW2r9ocmQ6dSQjkEGNOJFDvfkl5qjzol1lmbIQELcAQ21m_XTJsWgirLKY8UJdn92VmwprRenK2X_RqHiA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHn08C8cNUoRn67G_hCSQ4pqRI3zs2p3ji1Y4C4OZVyVjY1p102KnsxmPxFJmnSKQUY8PhjVteAaFbyA59jWz6zuCtZkvy5o9pi8E73P4O11I6IOWEg0BjAl_H2s3HpeYkOrNxw9-qXPQe0ldll5v-ViOvyGLw7YY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCeDdJEBsCrkGNazTKlEFuW1g5-qbTaxAsuNTqa2T4xDTVsOOXbZAWTYCMx2csFoS0rilThRMnj0iMLdPsYXB-AZFjGE7ngZxWQipgVKgTOTbka8yH2pAmoGLsR1Au3A-cnjf0ibURD3ZT2EMbOiYlehxHNLSaa1qtm8W9ycUzmQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo8dhiKidP2JJfTE21-fGZKlBZYEcJ8lSY-6BzxvTRVfVKvBf2o2KV_Qi7cLJaxvjSEze1p7vHQAc7WjPKwQlYEYcjo7zzWfBXjA_43_ChdjbhG_N8jXHJK4CcF-TwL3BrUgw8PTlt","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkuFnDrDN6Tq1blbVrHvb1TLGQkM_HTBK_4ExQ4JjtngPUrLDa6zRkwntEirX8LVO0vaHs1p6dWjDL_UPnkZZNbnjkRb7QiU1t7MXEHGltDT_KwwzKOq9unZquEfpTjobsRNpG3T75KxTlM77A2DC6sX4Y0gei8Zh1aLbsR228yo_f","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhMRgSG70q5wzkqYePqawJgsXPybC0bTF0K7yPZyFYBz7W39shUZCNo92AKmoigrM5fefxaOZg0vlNSl7kS_TCY5FVI4zvWqI91HjmcUi4-Ik3sf32qF3JK7pEdn7rTYiy8tuKg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Wtk4hCCe3v1DwDioTcUxqilgYtmsofjRNSYZIVc1GqkrGwGOkepUyLiI_WEBctS3kitgUCt-QFxeo2Zj2OUeehUpKuGVE_5UR1xjLsLLp63AQDNNrivE9uGYkGNtjyzl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuhxVP732gOc7uHfoLr_VdaSqiaJU6nsX9kwSorY7yCistxqVI8nr3c_0s4LyA1Y1DIg9uJzMWMs3PmxRckMdMI0lO6HIq4qJhg-7iISv2cb0eFKjBH-9VFaKGn5eSrup10fk3DMXbVD-de39OkFo="]
+
+--- RAW RESPONSE TEXT ---
+Because "best" is subjective in the world of high-end wellness, London’s ultra-luxury hotels have spent years competing to build the ultimate subterranean sanctuary. The right hotel spa for you depends on whether you value **sheer scale, historic grandeur, pristine swimming pools, or advanced clinical treatments.** 
+
+The top-tier luxury hotel spas in London, categorized by what they do best, include:
+
+---
+
+### 1. The Guerlain Spa at Raffles London at The OWO
+* **Best for:** Sheer scale, Parisian beauty pedigree, and historic grandeur.
+* **The Vibe:** Spanning a massive **27,000 square feet across four underground floors**, this is one of London's most ambitious wellness spaces. Conceived by interior design studio Goddard Littlefair, it marries the historic weight of the Old War Office with soft, modern luxury.
+* **Standout Features:** 
+  * A stunning **20-meter indoor swimming pool** (remarkably long for central London) alongside a separate, beautifully lit vitality pool.
+  * Cutting-edge, highly personalized treatments using French luxury brand **Guerlain**, which combine advanced tech (like full-body LED light therapy) with classical relaxation.
+  * Custom olfactory consultations where you select your preferred Guerlain scent to be diffused during your treatment.
+
+### 2. ESPA Life at Corinthia
+* **Best for:** Futuristic thermal suites and holistic, multi-disciplinary wellness.
+* **The Vibe:** Often considered the blueprint for the modern mega-hotel spa, ESPA Life is spread over four floors of sultry, dark Nero Marquina marble, flickering fireplaces, and cream leather relaxation pods. It feels incredibly private, moody, and ultra-high-end.
+* **Standout Features:** 
+  * A breathtaking **thermal suite floor** featuring a dramatic glass-walled amphitheater sauna with a floating hearth, a black-marble steam room, an ice fountain, and a stainless-steel vitality pool.
+  * An exceptional roster of in-house specialists, including Chinese medicine practitioners, acupuncturists, osteopaths, and sleep therapists, offering highly targeted medical-wellness programs.
+
+### 3. The Bulgari Spa, Bulgari Hotel London
+* **Best for:** Unmatched pool aesthetics, privacy, and sleek Italian minimalism.
+* **The Vibe:** Located in Knightsbridge, this is arguably the most exclusive and discreet hotel spa in the city. The aesthetic is pure Italian luxury—sleek, dark, structured, and decorated with green Onyx, Vicenza stone, and gold leaf.
+* **Standout Features:** 
+  * One of London's most beautiful pool areas, anchored by a **25-meter colonnaded swimming pool** tiled in green-and-gold mosaic, complete with double-bed daybed cabanas. 
+  * A secondary, smaller **vitality pool completely lined in shimmering gold-leaf tiles**.
+  * High-performance fitness training courtesy of the on-site **Workshop Gymnasium**, alongside bespoke body treatments using brands like Amala.
+
+### 4. The Lanesborough Club & Spa
+* **Best for:** Neoclassical Regency luxury and an elite private-club atmosphere.
+* **The Vibe:** Operating as both a hotel spa and an exclusive private members’ club, this space is decorated like a grand, gilded 19th-century British manor. Expect silk wallpapers, leather detailing, and personal **Spa Butlers** who cater to your every whim during your visit.
+* **Standout Features:**
+  * A beautiful hydrotherapy pool alongside thermal treatment rooms, a spacious fitness center, and a private members' lounge serving healthy, high-end food.
+  * Highly effective, results-driven facials and body rituals partnering with top-tier brands like **Tata Harper** and **Ila**.
+
+### 5. Claridge’s Spa
+* **Best for:** Japanese Zen design and celebrity skincare collaborations.
+* **The Vibe:** Opened after a monumental engineering feat of digging five stories below Mayfair's most famous Art Deco hotel. Designed by world-renowned architect André Fu, the spa is a peaceful water temple inspired by the tranquil aesthetic of Japanese Zen gardens.
+* **Standout Features:**
+  * A serene, limestone-walled swimming pool with cascading water and Kyoto-inspired timber detailing.
+  * A treatment menu anchored by some of the beauty world’s most coveted resident brands, including **Augustinus Bader** and **Teresa Tarmey**, alongside visiting wellness masters like acupuncturist Ross J. Barr.
+
+---
+
+### Which one should you choose?
+* **Choose Raffles at The OWO** if you want massive spaces, brand-new facilities, and top-tier French skincare.
+* **Choose Corinthia** if you want a long, meditative thermal-circuit journey of saunas, steam rooms, and sleep pods.
+* **Choose Bulgari** if your priority is getting in proper swim laps in a beautiful, incredibly private setting. 
+* **Choose Claridge's** if you want a quiet, intimate, Zen-like atmosphere featuring the exact facialists and acupuncturists trusted by celebrities.
