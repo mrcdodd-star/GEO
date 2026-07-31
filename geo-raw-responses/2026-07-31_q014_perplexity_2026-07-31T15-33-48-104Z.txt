@@ -1,0 +1,59 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://ourismantravel.com/blog/luxury-london-hotels/","https://www.luxurytraveladvisor.com/destinations/london-hotels-earn-forbes-travel-guide-five-star-awards","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.fodors.com/community/europe/four-seasons-london-475590/","https://www.reddit.com/r/chubbytravel/comments/1smnv9t/help_me_pick_out_a_luxury_hotel_for_my_next_trip/","http://3.136.227.222/blog/the-dorchester-collection-hotels-in-london/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.fourseasons.com/london/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187993-r169687193-Four_Seasons_Hotel_London_at_Park_Lane-London_England.html","https://www.reddit.com/r/LuxuryTravel/comments/1kbl6rj/best_luxury_hotel_london/","https://santorinidave.com/mayfair-hotels","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://www.forbestravelguide.com/hotels/london-united-kingdom/four-seasons-hotel-london-at-park-lane","https://www.cntraveller.com/hotels/london/four-seasons-hotel-london-at-park-lane-review","https://thepointsguy.com/hotel/best-hotels-in-london/","https://en.wikipedia.org/wiki/Four_Seasons_Hotel_London_at_Park_Lane","https://www.theluxurytravelagency.com/luxury-hotels-in-london/","https://www.reddit.com/r/FourSeasonsHotels/comments/1n71ace/which_london_fs_property_would_you_choose/","https://www.tripadvisor.com/Hotel_Review-g186338-d187993-Reviews-Four_Seasons_Hotel_London_at_Park_Lane-London_England.html","https://www.reddit.com/r/FATTravel/comments/1mgm0l2/four_seasons_london_at_park_lane_review/"]
+
+--- RAW RESPONSE TEXT ---
+Both **Four Seasons Hotel London at Park Lane** and **The Dorchester** are top-tier, Hyde Park–adjacent luxury hotels on/just off Park Lane; broadly, Four Seasons is **modern, intimate and service-focused**, while The Dorchester is **grand, historic and more formal**.[1][11][17]
+
+Below is a side‑by‑side comparison to help you choose.
+
+| Aspect | Four Seasons Park Lane | The Dorchester |
+| --- | --- | --- |
+| **Overall vibe** | **Contemporary, polished, “Mayfair without the formality”**.[3][11][17] Interiors by Tara Bernerd with modern, park-inspired colors.[7] | **Classic grand hotel, very traditional and prestigious**; one of London’s defining landmark hotels.[1][6][7][11][17] More formal atmosphere. |
+| **Best for** | Guests who want **reliable modern luxury, top service, and a strong spa/wellness offering**, especially first‑time visitors wanting something relaxed but upscale.[1][3][11][15][17] | Guests who want **old‑school glamour, history, and a very “London institution” feel**, plus destination restaurants and a famous afternoon tea.[1][6][7][11][17] |
+| **Location** | Hamilton Place, just off Park Lane in Mayfair, about **5‑minute walk from Hyde Park Corner** tube.[3][7][13] Very central for sightseeing and shopping. | Directly on Park Lane overlooking Hyde Park, about **8‑minute walk from Hyde Park Corner**.[3][6][7][11] Also extremely central, but feels more like a grand boulevard address. |
+| **Rooms & size** | ~**196 keys** (153 rooms, 43 suites).[7][16] Modern, warm, not overly large; often described as intimate for a big-brand hotel.[11][15][17] | **180 rooms + 57 suites** and multiple specialty suites, including penthouses and a royal suite.[7][11] Larger, more variety, and a stronger sense of “big grand hotel”. |
+| **Design of rooms** | Contemporary luxury; Hyde Park views in park‑facing rooms, and some suites with fireplaces or terraces.[3][7][14][15] | Mix of traditional and recently refurbished suites; park‑facing rooms have classic decor and strong sense of place.[1][3][6][7][11] |
+| **Spa & wellness** | **Major strength**: 10th‑floor spa and comprehensive wellness floor, with strong fitness offering and views.[2][7][11][13][17] Forbes Five‑Star for both hotel and spa.[2] | Has spa, steam room and small gym, but **wellness is not its headline feature**.[7][11] Emphasis is more on dining and classic hotel experiences. |
+| **Dining** | Pavyllon London by Yannick Alléno and Bar Antoine.[7][8] Very good, but less “iconic” than Dorchester’s line‑up. | Heavyweight restaurant line‑up: **Alain Ducasse at The Dorchester**, The Grill, China Tang, The Promenade, Artists’ Bar, Vesper Bar, The Spatisserie.[1][6][7] Strong choice if food and bars are central to your stay. |
+| **Service style** | Four Seasons’ hallmark **warm, highly polished, very consistent service**; often called one of the most reliable options in London.[11][15][17][19] | Classic luxury service with more formality; some travelers love the old‑world style, others find it a bit grand or “stiff”.[1][6][11][17] |
+| **Atmosphere & clientele** | Feels more **discreet, contemporary and international**, strong with business travelers and modern luxury leisure guests.[4][11][15][17] | Feels more **society, old money, and special-occasion**; attracts guests who specifically want the Dorchester name and heritage.[1][6][11][17] |
+| **Views** | Park-facing categories have **Hyde Park views**; it’s crucial to book **Park-Facing Deluxe** if the view matters.[3][11] | Similarly, book **Park Facing Deluxe** for Hyde Park views; internal-facing rooms are much less special.[3][11] |
+| **Awards & recognition** | Forbes Travel Guide **Five-Star** for both hotel and spa.[2][13] Regularly listed among London’s best hotels.[15][17] | Forbes Five-Star hotel; part of Dorchester Collection and widely considered one of the world’s leading grand hotels.[2][6][7][11][17] |
+| **Price band** | Listed “from” around **£700–£895/night** for standard rooms, park‑facing from ~£950.[3][7] Real-world rates fluctuate with season.[3][15][19] | “From” around **£900/night**, with park-facing rooms reaching ~£1,400 in July and dropping ~£520 in January.[3][7][15] Similar price bracket, sometimes slightly more for views. |
+
+### How to choose, based on what you care about
+
+**Choose Four Seasons Park Lane if:**
+
+- You prefer **modern design, a slightly more relaxed vibe, and very consistent service** under a global brand.[11][15][17]  
+- A **strong spa and wellness floor** is important (massages, facials, fitness, treatments with views).[2][7][11][13]  
+- You’re a **first‑time visitor** who wants something luxurious but not intimidatingly formal.[1][11][17]  
+- You value extras like **Bentley house car within 2 miles and twice‑daily housekeeping**, and a more “international FS experience”.[15][19]
+
+**Choose The Dorchester if:**
+
+- You want a **classic London grand hotel** with heritage, ceremony and a sense of occasion.[1][6][11][17]  
+- You care most about **iconic restaurants and bars**, afternoon tea, and “old‑school” glamour.[1][6][7]  
+- A **Park Lane landmark address with Hyde Park views** and big, dramatic public spaces appeals to you more than cutting‑edge spa facilities.[7][11]  
+- You’re celebrating a special event or want the “I stayed at The Dorchester” experience.
+
+### Nuanced considerations
+
+- **Formality vs. comfort:**  
+  - Four Seasons is often described as “Mayfair without the formality,” with staff that are attentive but relaxed.[3][11][17]  
+  - The Dorchester delivers more **ceremonial, traditional luxury**; some love this, others find Four Seasons more comfortable day-to-day.[1][6][11][17]
+
+- **Room choice is critical at both:**  
+  - At both hotels, **park view is a paid category, not an upgrade request**. You really need to book **Park-Facing Deluxe** if Hyde Park views are non‑negotiable.[3][11]
+
+- **Trip purpose:**
+  - For **spa weekend, wellness, or a modern city break**, Four Seasons has the edge.  
+  - For **anniversary, high‑end dining weekend, or classic London experience**, The Dorchester stands out.
+
+If you share your priorities (spa vs. dining, modern vs. traditional, how formal you like things, and whether Hyde Park view is a must), I can give a very direct recommendation and even suggest specific room types to target at each.
