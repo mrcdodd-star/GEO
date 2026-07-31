@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the connaught vs the dorchester location and vibe
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/the-connaught","https://www.thefivestaredit.com/post/the-connaught-london","https://www.hotelsabovepar.com/articles/hotels/the-connaught-hotel-review-mayfair-london","https://www.yolojournal.com/guest-book-the-connaught/","https://www.cntraveller.com/hotels/london/the-connaught-hotel-review","https://www.ahotellife.com/hotels/the-connaught/","https://www.townandcountrymag.com/leisure/travel-guide/a62896931/connaught-london-hotel-review/","https://www.stylenest.co.uk/travel/hotel-reviews/the-connaught-hotel-london/","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-connaught","https://www.maybourne.com/en/hotels/the-connaught/about","https://www.reddit.com/r/chubbytravel/comments/1mt4xkn/the_connaught_a_controversial_review_not_my/","https://guide.michelin.com/en/hotels-stays/london/the-connaught-5891","https://www.tripadvisor.com/ShowUserReviews-g186338-d187991-r1042915936-The_Connaught-London_England.html","https://www.tripadvisor.co.uk/Hotel_Review-g186338-d187991-Reviews-The_Connaught-London_England.html","https://www.visasignaturehotels.com/hotel-detail/the-connaught-hotel-london","https://en.wikipedia.org/wiki/The_Connaught_(hotel)","https://www.theworlds50best.com/discovery/Establishments/UK/London/The-Connaught.html","https://us.trip.com/hotels/london-hotel-detail-2386490/the-connaught-maybourne-hotel-collection/","https://www.kayak.ie/London-Hotels-The-Connaught.18562.ksp"]
+
+--- RAW RESPONSE TEXT ---
+The **Connaught** is in **Mayfair**, on **Carlos Place / Mount Street**, which puts it in one of London’s most polished, central luxury neighborhoods, close to **Bond Street, Hyde Park, and high-end shops and galleries**.[1][2][10][12] Its vibe is usually described as **quietly glamorous, clubby, warm, and discreetly luxurious**—more like a refined English house or members’ club than a flashy hotel.[4][5][7]
+
+The **Dorchester** is also in **Mayfair**, but it sits in a more prominent position on **Park Lane**, right by **Hyde Park**, which gives it a broader, more immediately “grand hotel” presence in central London. In vibe terms, it’s generally seen as **more opulent, classic, and high-profile** than the Connaught, while the Connaught is often perceived as **softer, more intimate, and more under-the-radar**.
+
+If you’re choosing between them:
+- **The Connaught**: best for **quiet elegance, intimacy, and a polished neighborhood feel**.[4][5][7]
+- **The Dorchester**: best for **big landmark energy, Park Lane prestige, and traditional five-star glamour**.
+
+If you want, I can also compare them on **rooms, bars, restaurants, spa, and which is better for couples vs. a first-time London stay**.
