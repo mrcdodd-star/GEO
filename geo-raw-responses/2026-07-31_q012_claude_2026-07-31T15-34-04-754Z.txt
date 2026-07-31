@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://www.countryandtownhouse.com/travel/the-dorchester-london-hotel-review/","https://thepointsguy.com/reviews/peninsula-london-hotel-review","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://www.theluxevoyager.com/luxe-hotels/united-kingdom/the-peninsula-london/","https://au.trip.com/hotels/london-hotel-detail-111108762/the-peninsula-london","https://uk.trip.com/hotels/london-hotel-detail-2194717/the-dorchester","https://hauteliving.com/2025/09/best-hotels-in-london/775902/","https://thepointsguy.com/hotel/reviews/peninsula-london-hotel-review/","https://peninsulalondon.wellnesshotel.org/en/","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive comparison of **The Dorchester** vs. **The Peninsula London** — two of the finest luxury hotels in the city:
+
+---
+
+# 🏨 The Dorchester vs. The Peninsula London
+
+---
+
+## 🏛️ Heritage & Overview
+
+**The Dorchester** is the undisputed grande dame of London luxury. 
