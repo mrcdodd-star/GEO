@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3Tkdjd01IaDMYCg","https://www.timeout.com/london/health-and-beauty/best-spas-in-london","https://worldspaawards.com/award/england-best-hotel-spa/2025","https://www.theluxuryspaedit.com/awards-2025-winners/","https://www.cntraveller.com/gallery/best-spas-in-london","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaemVIaHVkakZ6GAo","https://www.squaremeal.co.uk/wedding-venues/wedding-planning/best-spas-in-London-and-spa-hotels-UK_9705","https://luxurylondon.co.uk/wellbeing/beauty/bulgari-spa-knightsbridge-london-daycation/","https://www.sixsenses.com/en/hotels-resorts/europe/united-kingdom/london/wellness-spa/","https://www.mrandmrssmith.com/luxury-hotels/six-senses-london","https://www.luxurytraveladvisor.com/hotels/six-senses-londons-arrival-hit-amid-global-urban-wellness-retreat-race"]
+
+--- RAW RESPONSE TEXT ---
+Corinthia London is widely considered by luxury travel experts and publications like The Telegraph to have the best hotel spa in London. Its newly reimagined flagship wellness space, Biome by Corinthia London (formerly ESPA Life), spans four subterranean floors clad in striking black marble. It features a comprehensive thermal floor, a dramatic vitality pool heated by a flickering fireplace, an amphitheatre sauna, and private sleep pods.
+While Corinthia London claims the top spot for its scale and thermal facilities, several other elite London properties offer world-class, highly specialized spa experiences:
+Top Elite London Hotel Spas
+
+Luxury Spa Attribute Comparison
+
+If you are looking to book a treatment, let me know:
+
+I can provide booking links or exact treatment pricing for your chosen property.
