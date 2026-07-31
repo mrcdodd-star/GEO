@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.tripadvisor.co.uk/ShowUserReviews-g186338-d187685-r995431413-Claridge_s-London_England.html","https://thebritishtravellist.substack.com/p/londons-best-afternoon-teas-for-2025","https://www.tripadvisor.com/ShowUserReviews-g186338-d6387666-r1035815236-Afternoon_Tea_At_Claridge_s-London_England.html","https://www.scribd.com/document/865727823/claridges-afternoon-tea-may-2025","https://www.tripadvisor.com/Restaurant_Review-g186338-d6387666-Reviews-Afternoon_Tea_At_Claridge_s-London_England.html","https://summerstirs.com/how-much-is-afternoon-tea-at-claridge-s-london/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187685-r947061281-Claridge_s-London_England.html","https://appointmenttrader.com/afternoon-tea-at-claridges-london","https://www.maybourne.com/en/hotels/claridges/restaurants-bars/afternoon-tea","https://afternoontea.co.uk/uk/london/mayfair/the-dorchester-hotel/","https://highteasociety.com/reviews/afternoon-tea-dorchester-london/","https://www.dorchestercollection.com/london/the-dorchester/dining/afternoon-tea"]
+
+--- RAW RESPONSE TEXT ---
+# ☕ Afternoon Tea Showdown: Claridge's vs. The Dorchester
+
+Two of London's most iconic five-star hotels, both in Mayfair, both legendary — but which serves the better afternoon tea? Here's a detailed head-to-head comparison:
+
+---
+
+## 🏛️ CLARIDGE'S
+### **The Foyer & Reading Room, Brook Street, Mayfair**
+
+**The Setting**
