@@ -1,0 +1,63 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkCJaq_eu9UyGYDJsXij3oGMz65uInANE2YJZWA7dP2nLDLBxYAv2pwxa3D6sjG5FmRhIgHHtJx953v9Tzic3PUENl7aNf90XydaAF3DzC6q0kI3I1OJvN5DJT_pnv9VyRIXmCZhNPKyzteBCHmmwdBbHvxoWVt5bSUSSKSaXbiQenZlNrTTU-EPsfEJ96BhQZnXZL1bK9RUgxqBmB8HaQT6657Q0ql7-HYoA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGrR2nODVnRuMICWiXFoyDlQj9BQDXASL2jhirZJeajbvKN8VgCbA_I_mCD1KscJqDr-3CchMGYvs8y5AWAwcrCjY49mlZvOF5l_aCPAOXtg190QpTQExMu2uMw-AxWM-0a64Mw-7vaWAU6ZGT5cRHQNg-UUSvZQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbD_kdbuyhKoYAt_5orAWo-KuM3IwhyX-e_BGF4_P909a683pxnq4R_GJx0W9XEgW8GBSix9krKiyfeq6Vly1VYatzKTAbtMLT6ayB_A95ZpbaIlqd7pE1W3_2kkCl4qU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPPIo1Nr1El7nVrfCwF8Z8DblGN9CfLGewuMGY50xLN4WaNLrYsUafy6yxn1zQDRkbYKMT9HJ5ql0MZXQBYiYp_8lXUHfO3bZEJ0RvWE28klvsc9MrNEwv_u3zMBlpey2s18X47Mmi_5YknF3BRA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2pqtawiyX5Fycl0eyTAPTLVO0X7xOKRhCamvdhzFTjkoclnwLoUzDjOOJpyHdlbpjJ2lNZdNTmhXiwzSaik_HOgU7sH3oC8ix731H1acSjVasaKOBhcU_5qlKJcfKVMkfUzWaPCNq5czdtiWQb2OV-qx4-zENKw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8aJB16eIGazvZ639e7iK-4ZDvZtODZwGeoqay69ke7Dtfu-eTwtNJ8obSHnhSLZWM4KNAqM18WaGOaxc1uzmnSLMq-7yG56KVMMEIq0z9ahk_9v3H-V2S8AnLaLU0eSKgiv2v_zYtf5f2wPyqK5S7sq8IV0mW5mtijOaR9JBoX6RBET2320VIWd9Ys2Fnm6OS58--WjU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2BRBfupX-1myX-PPHClNITp7zodKCrKaB2YZjtIG3LAqO7TEDbzOm8_eL5wjOn5nm3HFs5BMenjZNOKg_f0ySj8gGne6qJYTCRbIaebSmpCWywQMvVpL4Syui9z2G4wq6WCE_V3Uz73t2AZg6u_YtLRHlA-15SzUuBiNS-4ypPjt9qHWldmBpd6JRg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMfeIm-IHpMCY7-zsD_ENyanB4-r20T9is0L81jlTEEIASL9Phw3-qMgF0dhXeFWsCfBW4AW48NJhSmn-cIICQUfmKqxNWV3K8ATrhhaa-v9d2mtQJVnaz4pGZHm9Vx-8Uu4kByBWUI0SGN1CLC0BthZk_46eE3lpCfb0OIE0MQLm-d6LjGQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER6lQq0HgE0ROihQ82lmjz0g3qqaA_3L2VT3hGAjL_dSoavbVVBWHexS-r-iJ2bbzyCmwXcAfNwTi14zEF20o6dWlycsY4-3WskeylTW2XzQ2EJyfLcK9lXiB6W5idvofpu4SmvX9wN90NtnBIqFWgDg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJOllmH9ETzclcJqdBrN5z53V4Vwc4XlKjY-B0BDNbEKJkckqdTPNoNzykC1SfKThxKKiXDmsiEQUJb2B8_N-F2UaCAFBUCW69nYn-hXlKvzSz13InP_rkqwy3spiDrMOO4Rq-a98V-jEKVCqVbFP9kQp99RBl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF84XXxsf-WfKUX-rF2qeTH6FaITM9jc85ss1jc4gGEDGNWQ9hAdV8DlsK4oxTmcecp2kAR1pqN0CyP3Uu6Pjxfugnqh4lP8x6uqwi4v0A_Oj9bAlaqPTfRMw0sbD9K0gY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-x3_SSOJnVDXczN6rLrzmyH7uKCKzFwrjjt2Q-NcRp8UQeyBeGMuIIjD3sfR4gI1cUvmpRgVhHAlU-jZEUcHcGIMXLajlreK1Jwj4JOAX2ovxDAgH068XUE2uqDTWztXF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJMDWGIcGFCCj8VuC-vrOAvSkwgUoVRpKoCd4A6EZd51XPw5-VKWgFNlgV-JUWKUNuHZpffpvER2b6TB2eQTom8B4oQ36I9u9xcy-cPiMHAshZ4PpDwmWmiPKWEfa2C33HVISxdWHXvV1P47wYipueNWPR2tiabLdqNRNxvMH8uXe7FqHJAyoQLPo5sp9t23jpZ4RqzHI="]
+
+--- RAW RESPONSE TEXT ---
+London has one of the most competitive and prestigious luxury hotel scenes in the world. Whether you are looking for centuries-old British heritage and classic butler service or sleek, modern "quiet luxury," the capital has a five-star hotel to match. 
+
+The top five-star hotels in London are categorized below by their style and vibe, highlighting the most celebrated historic icons alongside spectacular modern properties.
+
+---
+
+### 1. The Iconic Legends (Classic British Heritage & Art Deco Elegance)
+
+#### **Claridge’s (Mayfair)**
+* **Best For:** Classic London high society, world-class afternoon tea, and timeless elegance.
+* **The Vibe:** Art Deco glamour at its finest. Often called the "annexe to Buckingham Palace," Claridge’s is a historic Mayfair landmark that feels incredibly alive and social rather than stuffy.
+* **Standout Feature:** The breathtaking foyer where legendary afternoon teas are served, and the newly excavated mega-spa. It also consistently ranks as one of the top hotels in the world on the *World’s 50 Best Hotels* list.
+
+#### **The Connaught (Mayfair)**
+* **Best For:** Ultimate discretion, bespoke old-school service, and world-class food & drink.
+* **The Vibe:** Intimate, cozy luxury. Located in a quieter corner of Mayfair, The Connaught blends historic wood-paneled elegance with spectacular contemporary art. 
+* **Standout Feature:** The legendary **Connaught Bar** (frequently named the best bar in the world) and the three-Michelin-starred dining by Hélène Darroze.
+
+---
+
+### 2. The Modern Masterpieces (Discreet & Design-Forward Ultra-Luxury)
+
+#### **The Emory (Belgravia)**
+* **Best For:** Ultra-exclusive "quiet luxury," modern design, and high-profile wellness.
+* **The Vibe:** Built by architect Richard Rogers, this is an exclusive, suite-only modern masterpiece tucked away in Belgravia. Each floor of the hotel is customized by a different world-renowned interior designer, offering an incredibly bespoke, residential feel.
+* **Standout Feature:** Guests get exclusive access to **Surrenne**, a private, four-floor subterranean wellbeing club featuring a stunning pool, advanced longevity treatments, and a Tracy Anderson studio. Every stay also includes a dedicated butler and a fully stocked complimentary in-room bar.
+
+#### **The Peninsula London (Belgravia/Knightsbridge)**
+* **Best For:** Giant rooms, cutting-edge in-room tech, and sweeping views of Hyde Park Corner.
+* **The Vibe:** A massive, multi-million-pound architectural marvel that blends classic British grandeur with signature Asian hospitality. Designed by Peter Marino, the interiors are sleek, lavish, and incredibly spacious. 
+* **Standout Feature:** The rooftop restaurant **Brooklands by Claude Bosi**, which holds two Michelin stars and offers breathtaking, unobstructed views of the London skyline. 
+
+---
+
+### 3. The Regal & Historic Grandeur
+
+#### **Raffles London at The OWO (Whitehall)**
+* **Best For:** History buffs, James Bond enthusiasts, and monumental British scale.
+* **The Vibe:** Majestic and steeped in history. The hotel occupies the Grade II-listed former Old War Office building (where Winston Churchill once worked and Ian Fleming was inspired to write 007). It features marble staircases, soaring ceilings, and incredibly restored Edwardian architecture.
+* **Standout Feature:** The sheer variety of world-class dining and bars (9 restaurants and 3 bars onsite), plus the spectacular Guerlain Spa. 
+
+---
+
+### Honorable Mentions Worth Considering:
+* **The Lanesborough (Hyde Park Corner):** The absolute gold standard for traditional English country-house luxury, famous for its grand Regency interiors and round-the-clock personal butler service for *every* room.
+* **Mandarin Oriental Hyde Park (Knightsbridge):** Perfect for families and first-time visitors. It sits right on the edge of Hyde Park, offering incredible park views, top-tier service, and easy access to Harrods.
+* **Corinthia London (Whitehall):** Best for spa lovers. It boasts one of the largest and most spectacular hotel spas in London (the multi-level ESPA Life) alongside a highly contemporary grand-hotel atmosphere.
+
+### How to Choose:
+* **For Art Deco charm & people-watching:** Choose **Claridge's**.
+* **For a private, modern, suite-only hideaway:** Choose **The Emory**.
+* **For unparalleled space, technology, and rooftop dining:** Choose **The Peninsula**.
+* **For a deeply historic, regal British experience:** Choose **Raffles at The OWO**.
