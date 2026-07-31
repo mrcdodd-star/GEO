@@ -1,0 +1,47 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBaRV6_H8rHROa0M_P5mR7s78GN2i2-ZyTQp6MW76ylfTQ6qgQMIyBtLJfxHzscHVKqKL6x8oKnkcVM8vUE6Br7hcM6Ex1uMLGK_iMojDNdgqh13jcqLwRKr_-F292YYJi-X4_W3xYgLtB8Gv3A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbpq4o9bjJfvVryiSmG8zq6NN8WV8JAucZwnMb7u-BttecRVHk7528fnc25GZ0zcc_vO4YMbGn6GLnzQYfZr5g6nIBgjIJOIsYN-oEAqw7Yp1BLMDm7i72FPo6DBrLx3zWq-mDbm2Q-1m23A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHazyXyy-2qzR7fWAulXiaFGsLIyI_zN0i380Za1ivuiGCTcUDvh96zPSQJmIJPkBOKqqWU9AVr33YYowfdk1ZmoEW7PjbE_24rlXR9RawfNUlTgVzA3ZuAutGWVlWE3edasJLpNx0-YQe3KQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqSlKFnSTxcUPv36rd-yCcqqnOU3N6_M4tnFsANES7yYQdYyOe9AvIJhuxgBj3ikc61PPiIuXPCQeoq8QHwRLtz9L9t5XrSV_rTAdJJ4uFzPbQC40QFngFHxHBT1ZyDEk8gw4zp8f7avl2oykX9CzeKa_MHzQnYZsqCEk86dB38WV7zg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZFqvBSlg7B1nU6XjzIlD_BrX_a6kSJLH8q-p-9abA1_aSJb2Szfhe0N8G-v9Rx9hUCZgR9GCqztyshk1tGQpuS9ZzT1eypWUpegv2AtYs1iUQLyReIqqUX4zYQcl0tj2dc1is4rfWl-m7dJmLovVcs7_zUQqncOwmvELogHbVT5Dm","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8bdQOOWObyfn_DLj-rZI2dmCeeUkTZpdokLdmMrwwzycnjNznn_dkU4CAPUPFxpyd6K1wNvB_25J1-CbEsBxgarnk33VAse3W0MAB9W6Cm7FCa1KydgJ2EmUx9JWZO6Hewzbw1AHMlmsVhlWsUte-PsgaKoeUYZU7lG8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZGyEV0e2pil5HKAhSilT3YFy5WiOdvL8apR1CBJbRj3w69lGPfKEik5Re5HyID9c1oNf6EqYKjZgYt2-sFhl__z_KbG6fYxSkFa7YmMbNKvZ51m-InsvBH48DKg-3K2JTZ-W3VeQUuf5aogNcnhCJzFPh96SfRaHLOunEMS-LC_xTPWigdDLMuiOEoo2KOMveDP3x","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGu0QdUg9NJJ9IbxWWEym4SuGpCGeu_5C51O_Sk6GCp8qH2rH3I8e97wUbLwuhg1xZYLBt9QjjnEX42_sdxqMQfxu9lNvcFHP1oymCFeBNr8IF4X4pQQGLuAVVumZq-P634Ig0YV3OGq1gs0dleYSTpOARg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ6ldHn9GDyYnqi2BRGLJPpDYqJfzrLUTSqI9PmPBry3T1A7LF7MB41HxYUgFLl6BwT5a802yS2WP2X3lYhpJdr4jVwJPaSATslLvx6Bzm9YizL0QE4kogQ8_4g15tnJrryK62oXt0EXiwixAwb0xHjjM5ug==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGfCC0XzJCa9HrTMw7z5uTigsPAFmoJx0pllGNdtkVpcts878GnfbchUKsYs9mtNP7tAa03SmzY8ngTlYr_a1Zg4NSj_7W1Xz8xHv4KCFIplMfT4W9L5rh1p6skGWjQ7HHPdADYg7RXHOwiO4xsTps3KP7RfbWjKqFde0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVor_UzEFnQk825jtRlJ4acKY9kBvreLmvE43eWqGjCCm_au9c8QXX6FwJf1Z6LZZv-CWBK0Nv5OuSA5Ph9D19SpdbpnXbpVeoBU_fhlxMPWgjsBjFm_vTDPL0n1sr3svJSGIR_IET1WrZkfSePAsSJJGCqoodnlBktH2D95t-_N8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3h-WEixG3n-OonSfE8z69sfuRgDx3txhV14SQyvdWlhBjIQKsPQFbN6t0cufvyyNhAqVNT-uNQSwNI-AGt2PGp24WVm4femlabtk2DYCBG2LjmFInlogZ9YXsUc2ve0XVmqqNktePsJ0VQ_2iPaTfy6s2ix8NA8H_n-WUA-0iu7x1yODxNEdg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsBSZV6cF9pT5L8b_a6OgOBmXn6gT_foBxVaMriU075_Syj1sOjbEP_Vk5TZsPw_Lda4-LCcFgWNfPvhmPzTDHOaFOkowIcjokXg20S_ud1RZBb23RHoBMGiSDbD_sAitVrA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfIAoancsWdSO5TS-cFq7yUthJ9ohDaZE9OtNLPRkYIzrF8qgv9yCokxCyYj1mCeABOdA07BybINy7Iqzm3juV9CjkJc_9j-ytHEkxEY3HJGkDI0BqCxSoSebeHcRjzwSN6I_Z7jcp9r8Yk4R-i71XzVy1_i5cDEg="]
+
+--- RAW RESPONSE TEXT ---
+Suite booking rates at the iconic **Claridge’s** in Mayfair, London, vary significantly depending on the season, day of the week, and booking demand. However, average starting rates for their luxury suites generally range from **£1,500 to over £21,000+ per night**.
+
+The approximate starting rates by suite category are detailed below:
+
+### 1. Junior Suites & Studios (approx. 650–780 sq ft)
+These open-plan suites offer plenty of space, blending Claridge's signature Art Deco elements with classic Victorian elegance.
+* **Claridge’s Studio / Deluxe Junior Suite:** Starts around **£1,500 to £1,800** ($1,950 – $2,400 USD) per night.
+* **Terrace Junior Suite:** Starts around **£2,000** ($2,600+ USD) per night.
+
+### 2. One-Bedroom Suites (approx. 780–1,000 sq ft)
+These suites feature a completely separate, spacious sitting room and typically include Claridge's renowned **24-hour private butler service**.
+* **Mayfair Suite:** Starts around **£2,200** ($2,900 USD) per night.
+* **Claridge’s Suite:** Starts around **£2,500 to £2,800** ($3,200 – $3,600 USD) per night.
+* **Mayfair Terrace Suite:** Starts around **£2,800+** ($3,600+ USD) per night.
+
+### 3. Specialty & Signature Two-Bedroom Suites (approx. 1,200–2,200 sq ft)
+Individually designed by premier tastemakers, these highly prestigious residences feature double-height ceilings, hand-picked art, and expansive dining areas perfect for entertaining.
+* **Two-Bedroom Mayfair Suite:** Starts around **£3,500 to £4,500** per night.
+* **Brook Suite:** Starts around **£4,100** (~$5,400 USD) per night.
+* **The Grand Piano Suite** (designed by Diane von Furstenberg, featuring a private bar, marble fireplace, and grand piano): Starts around **£11,000 to £14,000** (~$14,300 – $18,000 USD) per night. 
+* **Georgian Suite:** Starts around **£16,000** (~$20,800 USD) per night.
+
+### 4. Penthouses & The Royal Suite (up to 2,400 sq ft)
+These represent the absolute height of luxury in London, historically hosting royal families, heads of state, and global celebrities. 
+* **The Royal Suite / The Penthouse:** Typically start at **£16,000 to £21,600+** per night depending on how many connecting bedrooms are booked.
+
+---
+
+### Key Inclusions & Perks
+When you book a suite at Claridge's, several highly bespoke amenities are typically included in your rate:
+* **24-Hour Butler Service:** Available for Mayfair Suites and higher tiers. Your butler will unpack your luggage, prepare in-suite cocktails, and cater to any request.
+* **Wellness Access:** Full, complimentary access to the newly renovated, subterranean Claridge’s Spa, heated swimming pool, and gym.
+* **In-Suite Amenities:** Complimentary soft drinks and local treats from the mini-bar, high-end Surrenne bath products, and Dyson Supersonic hairdryers.
+
+### Tips for Booking
+* **The "Life is Suite" Package:** Claridge's periodically offers this package, which provides a **10% discount** on best available rates for suites, complimentary daily full English breakfast for two (served in your suite or the Foyer), and a chilled welcome bottle of Billecart-Salmon Champagne.
+* **Taxes and Service Charges:** Rates quoted by the hotel are usually inclusive of VAT, but look out for a **5% discretionary service charge** added to the room bill at checkout.
