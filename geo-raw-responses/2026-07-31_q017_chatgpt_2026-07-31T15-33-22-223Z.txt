@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.google.com/maps/search/The+Dorchester%2C+London?utm_source=openai","https://en.wikipedia.org/wiki/The_Dorchester?utm_source=openai","https://www.expedia.co.uk/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information?dateless=true&guestRating=40&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+
+## [The Dorchester, London](https://www.google.com/maps/search/The+Dorchester%2C+London?utm_source=openai)
+
+
+The Dorchester is a renowned five-star hotel located on Park Lane in London's Mayfair district, offering luxurious accommodations and exceptional service. ([en.wikipedia.org](https://en.wikipedia.org/wiki/The_Dorchester?utm_source=openai))
+
+As of July 2026, specific room rates for October 2026 are not readily available. However, to provide a general idea, recent listings indicate that rates for a Superior Room in late July 2026 start from £848 per night for two adults. ([expedia.co.uk](https://www.expedia.co.uk/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information?dateless=true&guestRating=40&utm_source=openai))
+
+Please note that hotel rates can fluctuate based on factors such as demand, special events, and booking time. For the most accurate and up-to-date pricing for October 2026, I recommend visiting The Dorchester's official website or contacting their reservations team directly. 
