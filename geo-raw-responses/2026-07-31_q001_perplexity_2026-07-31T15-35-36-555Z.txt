@@ -1,0 +1,92 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://www.tripadvisor.com/Hotels-g186338-zfc5-London_England-Hotels.html","https://www.tripadvisor.com/Hotels-g186338-oa30-zfc5-London_England-Hotels.html","https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london","https://www.booking.com/fivestars/city/gb/london.fr.html","https://www.expedia.com/5Star-London-Hotels.s50-0-d178279.Travel-Guide-Filter-Hotels","https://www.booking.com/fivestars/city/gb/london.en-gb.html","https://all.accor.com/a/en/destination/city/hotels-london-v2352/5-stars.html","https://www.trip.com/hotels/star5/city/gb/london.html","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.fivestaralliance.com/luxury-hotels/637/europe/united-kingdom/london-england"]
+
+--- RAW RESPONSE TEXT ---
+The **best 5-star hotels in London** are consistently cited as icons like **Claridge’s, The Ritz, The Dorchester, The Savoy, 1 Hotel Mayfair, Landmark London, and The Connaught**, alongside newer luxury names such as **The Trafalgar St. James** and **Great Scotland Yard Hotel**.[3][5][7][9][10]
+
+Below is a curated shortlist combining expert reviews (Time Out, Luxury London, Five Star Alliance) with major booking/review platforms:
+
+---
+
+### Classic, world-famous grand hotels
+
+- **Claridge’s (Mayfair)**  
+  - Frequently named **London’s most historic luxury hotel**.[3]  
+  - Art Deco glamour, renowned afternoon tea, and Michelin-level dining.[3][9][10]  
+  - Excellent for Mayfair shopping and high‑end dining nearby.[3]
+
+- **The Ritz London (Piccadilly)**  
+  - Described as **“most downright iconic”** among London five‑stars.[3]  
+  - Famous Palm Court afternoon tea, classic Louis XVI décor, dress code in main restaurant.[3][9]  
+  - Ideal if you want very traditional, old-school luxury.
+
+- **The Dorchester (Park Lane)**  
+  - Highlighted for **top Michelin-starred restaurants**, including Alain Ducasse at The Dorchester.[3][9]  
+  - Overlooks Hyde Park, strong reputation for service and fine dining.[3][9]  
+  - Good mix of classic glamour and modern renovations.
+
+- **The Savoy (Strand / Covent Garden)**  
+  - River Thames views and “**riverside luxury and timeless British style**.”[7]  
+  - Historic bars and restaurants (including the American Bar and Savoy Grill).[7][9]  
+  - Great location for theatre in Covent Garden and the West End.
+
+---
+
+### Luxury boutique & modern style
+
+- **The Connaught (Mayfair)**  
+  - Frequently listed among the **top luxury hotels in London**.[9][10]  
+  - Michelin-starred restaurant (Hélène Darroze at The Connaught) and a celebrated bar.[9][10]  
+  - Intimate, discreet, ideal for a quieter high-end stay.
+
+- **1 Hotel Mayfair (Mayfair)**  
+  - Picked as **“best modern”** five‑star hotel in London.[3]  
+  - Strong sustainability focus, biophilic design and contemporary rooms.[3]  
+  - Good if you prefer eco-conscious but high-luxury accommodation.
+
+- **Great Scotland Yard Hotel (near Trafalgar Square)**  
+  - Recommended as one of the **best 5‑star hotels in London** on Expedia.[5]  
+  - Housed in the former Metropolitan Police HQ; stylish, characterful interior.[5]  
+  - Very central for major sights (Trafalgar Square, Covent Garden, Westminster).
+
+- **The Trafalgar St. James, Curio Collection by Hilton (Trafalgar Square)**  
+  - Featured by Expedia as a top 5‑star choice, with a popular rooftop bar.[5]  
+  - Strong option if you want modern design in a super‑central location.[5]
+
+---
+
+### Spa-focused and relaxation
+
+- **Landmark London (Marylebone)**  
+  - Highlighted as **“best spa hotel”** among five‑stars.[3]  
+  - Impressive atrium, indoor pool, and spacious rooms.[3][9]  
+  - Good for guests prioritising wellness and larger room sizes.
+
+---
+
+### Other highly regarded five-star options
+
+These frequently appear in expert and luxury-hotel listings:[9][10]
+
+- **The Berkeley (Knightsbridge)** – fashion‑forward styling, rooftop pool, and Marcus restaurant.[9][10]  
+- **Mandarin Oriental Hyde Park (Knightsbridge)** – Asian‑influenced luxury, spa, and direct Hyde Park access.[9][10]  
+- **The Langham (Marylebone)** – one of London’s grand old hotels, strong food & beverage offering.[9][10]  
+- **Shangri‑La The Shard (London Bridge)** – spectacular views from within The Shard; contemporary luxury.[9][10]
+
+---
+
+### How to choose the “best” for you
+
+- **For classic British glamour:** Claridge’s, The Ritz, The Dorchester, The Savoy.[3][7][9]  
+- **For modern, design-led stays:** 1 Hotel Mayfair, Great Scotland Yard, The Trafalgar St. James, Shangri‑La.[3][5][9]  
+- **For food lovers:** The Dorchester, The Connaught, The Berkeley, Mandarin Oriental (multiple Michelin‑starred venues).[3][9][10]  
+- **For spa and wellness:** Landmark London, Mandarin Oriental, The Berkeley.[3][9][10]  
+- **For central sightseeing:** Great Scotland Yard, The Trafalgar St. James, The Savoy, Shangri‑La.[5][7][9]
+
+To refine your choice, check recent guest scores and prices on large platforms like **Tripadvisor** (5-star filter for London)[1][2], **Booking.com**[4][6], **Expedia**[5], or **Trip.com**[8], focusing on the latest reviews and your preferred neighbourhood.
