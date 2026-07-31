@@ -1,0 +1,19 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/claridges","https://www.forbestravelguide.com/hotels/london-united-kingdom/claridges","https://www.mayfair-london.co.uk/lcat/hotels/","https://www.capitalalist.com/best-luxury-hotels-in-mayfair/","https://www.rosewoodhotels.com/en/the-chancery-rosewood","https://ourismantravel.com/blog/the-chancery-rosewood-london/","https://travelsort.com/the-chancery-rosewood-london-hotel/","https://www.expedia.com/Mayfair-London-Hotels-Luxury-Hotel.0-n6054503-0-tLuxuryHotel.Travel-Guide-Filter-Hotels","https://www.winetravelandsong.com/hotels/londons-grand-dame-luxury-hotels","https://www.thehotelguru.com/en-us/best-hotels/united-kingdom/london-mayfair"]
+
+--- RAW RESPONSE TEXT ---
+Here is a guide to the **best luxury hotels to stay in Mayfair, London** — one of the world's most prestigious neighbourhoods:
+
+---
+
+## 🏨 Best Luxury Hotels in Mayfair, London
+
+---
+
+### 1. 🥇 **Claridge's**
