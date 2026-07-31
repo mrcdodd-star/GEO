@@ -1,0 +1,37 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4RdQ6ISQcZo_Xk3igorUIYeqbLA5GILBl9S2lE_jtq_re09IGwLlpCDqYazkcirX_cY9ToFrQiCOShbf5NGRGjWCu-VOwWZ_QQcZ94IH6JYYMr_qUPBQAnqmNh-Rc2wx2SGnUmFvak-H8gK5KyoX-TX7zTRg8Y0p8LJlySfM5mo33mZHMOCzKdEOPB2zB9V6T","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc8E1YRpu85bXlgjTC9x-vgsLYEXLe4ejkGQ_q9IeW4tG0O9DIj2U1QlM9muLwg751al0zcI8FMbZFpu9CSwSKFRJACSJOzdG1aGtjLUMthvPTgPhnsAfzAsyKcqcb969xLJ8EqSUXzVQ8uTWxWD1lHGppnvFP2evWZGIsdvU3nA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3lISdX-vbvgch_SGfWQDwoOluVtzi5TlfLxNtqL6WgdZnJqA_TFcsloV4b7TsllVfSTGRgM6EZsDJaACeYAJTrgLDJ2vvDX7Ltz7E6cnKPd6nlVWw33qCoyBd","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3jczjvgBkDl6R8mn6P2PP6MXFUZrq1iPlBvhFrnXeT7viKJJWdyEvEcSYuT0XSa7FC7c7gPCY51jf-pG6TP1gA8morAMOcRt_SvQOxfXm6TelyaXeOEvOv_mFd0k-yfaSKA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bKbeYfZWT3LUut8oye5XLVvhOf8w6fCWkNJaCUPJ45sOpA66_ULLtfoPyZnHelY6SLMDTrVUSaBUK4_DYjd2IteIr6ZAsYfRT4Zjm9J12kvAg3EBHDNQ39AsxnASDt_U_wyUZzzorHCrMxevki3uzA7I_-hynXdG7HZ3CNYG-DOU7XYi9Nscoc-BrWr8FHaMT7HqDmbgq8q-Xw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5ToM_FlTD5c9ix202NUYSPaYxaKiz7Il_Dg7y_kFmGaNi7yOIXcIEGB985JHBDnsFqfdjkrvO8CXkJSXNvEfMwwWhMWFeo6e8m9CmEO222KJmMCIJNCCN7rbCD-ImnDvElwDGxrCzIQXoN38NwufyzetwRWhZf-fBJd-rG6FN5IO-Tl1yma7xJXG6cI-oIgJQmHfoHlFfijU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh0uP4v9kutDpGA6zRvPxkNz0y4K2e4X9cLFDVhzQJ5uiLNBnJO26iu4fRACRx-2PbWPzkMXk95YBsmglzJQspOrxljjzfGp7hwan1eK9sdoSZyruqBh0FdnN6c6phScSTF3Y-vrQ57B_B00uqVuhRF-qyJjSYzw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMZRokCvCeellZmfB8a3gwHyCm9109Sp48iVrc5_x3kKkU2-EIxAljH2NOa1Ak0yNHBpXY7XQpAY5MCoepFPxuKbjmYn0hnV-CxN5effXTqBB2b-QAGazfljreJHIIPVxNbqo5Mvt_KRrmUqmwrGIMdA3JTNS8FzGpDjXQvbrCfLAXW7pW9ULRSlxSyIFbZB2VidUE8rwhJkjWqttmDRTKXH4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2MsKZWAboN6w0HCRHGoE2-c0FzIxfbGr56Jrmw_PrgQblbTI-66PQwy2mjzfBO9AbXZ0c37W1C8uNzxJiCNWxPBx3ztiExMOZ0pmep4sSSA9WRvMxYsNEeLa13_diY1DgThvYrz1TBp-2YVzeuRs0quqn-nXR9VNfH6WucA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPTb_BpkEnLILvk3Ai9NwSxvXuLLNha_an65Uya2l20nYFHI4dk8dj97ejtIdOrM10yNWueh2Lm-SlaQ2VQ19_beJ5-drIo_S6CTVJcMeHKFouH0T-k4bO2y3kueH4smR_MZpE0bjJ_YfaxCH8JW_Hn1rM7ukor43b7oa5GJsezqY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnXuEhU5j-WRdzBOE6zwkNo9Y8S3gqNbVta8u2Bg88lfPjF9gW0auMNV51udD5cF8wAzSS6n2lLQxWlBcyVCSVKu3EkrTlzeSwKLJKurMtMom8WM3EZJGsA3fwz_jIivOwzr7-ZXea-6X1w0U5bvsikYV9nCohWv2xFYvhwXySqVfCnhkhP2NhogiZPorUXg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECgxzb7ySR9cwx01muQ98R3XIyn7QZOxp_o2sWWnaClr253AeXS1wFKGcKdR11fDK4BG5M_cTFL_ACRQp71FHskBkmd4rqbtHmAiTDzmuWbrjGscOmCQ1gAbMEGU3RUoysrJP3f4-6g7YwUSfHX4-3ybAXfnXKLmc2mju6D5Noab5zg4AQMGDF4FH0","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPvdBts6ueX9DfpIq3_qWXavkjxjM1lblF4Dz0WP6F7XV698WDY0Zjt1nowC0C5ZyTupMnNKpJEYjlMKgntK3ehPYgsukrAd0j0cME_PpbCB_4W9mQseS_4UK-idX8aDAnZFHofy01tWqXDzlePzrzi18gBBSg8KjU0x9ozeh0h7EbhEyxgseExOVI0oagpsWRGA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSLjS8uGbFxpYjWvIR7ujCOvp7MqEkOts-Mwv00fsA6GB7COp3fvAcaQ4BbqDZjBiDzHtAlfNXpnxMhhBiY5vx1Jmgzi2pvEN79_zO3BwYdZ9Y8aOKPsdV1wyGTCHYcUktSp0LsgM8MrgL0CLIcBC2Xz2V9r2AjgVCfOd7g9DfE_hw6_WYskDQH4SHj7_qG_xg14W-IQv0BxDYXye8aq-Td-aF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXSx_L3Pd5d5ppO_0Zzoxhbf8KQNb57PJEP0JzTpfwDi3yZdfHL8yH_aIvXKqbyAGu5UutCk5t-Um8m7BsgvuK9Vt9vb5QkhPOmRRX5lms96idyoXG2Le5wTtc0G-9Mn5CFazb-fKqsGSLGWCfpReRF6MzgHvc3nNelm-j3yY0-lHFYxuSrTeT06ubEQ=="]
+
+--- RAW RESPONSE TEXT ---
+Room rates at **The Dorchester** in Mayfair, London, for **October 2026** vary depending on the room category, date of stay, and how far in advance you book. 
+
+October is a highly popular autumn month in London, driven heavily by major cultural events. Below is a breakdown of expected rates, seasonal packages, and key events affecting pricing for October 2026:
+
+### 1. Estimated Nightly Rates
+*   **Standard/Superior King Rooms:** Starting rates typically range between **£900 and £1,150+ per night** (approx. $1,150 to $1,500+ USD).
+*   **Deluxe Rooms:** Usually start from **£1,050 to £1,250+ per night**.
+*   **Suites (e.g., Studio, Belgravia, Mayfair):** Generally range from **£1,500 to over £5,000+ per night** depending on the tier and views of Hyde Park.
+
+### 2. October 2026 Hotel Packages & Promotions
+If you are planning to book, you can take advantage of several active offers valid through October 2026:
+
+*   **Plan in Advance Offer:** Booking your stay directly through the hotel at least 14 days in advance secures a 15% discount, while booking 30 days in advance yields a 20% discount. With this promotion, rates can start as low as **£750 per night**.
+*   **Bed & Breakfast Package:** Includes a daily English breakfast for two, with rates starting from **£940 per night**.
+*   **A Night On Us (Complimentary 4th Night):** The Dorchester is running a "stay four nights, pay for three" offer for bookings between July 24 and November 24, 2026. *(Note: Blackout dates apply—see below).*
+
+### 3. Frieze London Peak & Blackout Dates (Oct 14–18, 2026)
+The primary driver of luxury hotel demand in London during mid-October is **Frieze London & Frieze Masters 2026**, which is confirmed to run from **October 14 to October 18, 2026** in Regent's Park. 
+
+Because of the massive influx of international art collectors, dealers, and VIPs:
+*   Expect significantly higher room rates and limited availability during this week.
+*   The "Complimentary 4th Night" promotion has strict blackout dates over **October 14, 15, 16, and 17, 2026**. 
+
+### 4. Special Event in October 2026
+If you are staying at the hotel in late October, **The Grill at The Dorchester** is hosting its monthly **Ronnie Scott’s Jazz Residency** on **October 28, 2026**. The evening features a live performance by acclaimed singer-songwriter and pianist Natalie Duncan, paired with a three-course dinner by Chef Martyn Nail. Tickets for this event are **£175 per person** (excluding drinks).
+
+*Tip: Standard rates are usually lowest when booking Sunday or Monday nights, while Thursdays tend to be the most expensive night of the week.*
