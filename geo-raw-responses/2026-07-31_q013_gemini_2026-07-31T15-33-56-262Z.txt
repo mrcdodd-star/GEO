@@ -1,0 +1,54 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the connaught vs the dorchester location and vibe
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQmXf2fgELYkKur9oNupddJRsCrgiB0V1p9xaaRkdpWPIfKkNgijL21nSE0mRDunGlhRkFhBWf4M5-0deMbyncrMUZ7PRr7dtF5IgULCEt8VX63hZsn8bHL2hjwcRkhBjL65fyK-7dZdW1zdXacikHX80_pOVkVWHE6rGWV5TH-J-cYkSJPfGLfKjIoouVH8OO4QYf","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIwhQ1vtIfpv_zrwiXHAt4kt-VBNn_vRKPzaOYgXnJGElKR0H0H4gPclmwpLaVSznH1PgrTUSmTFNeI3t8r749KPLgnQZyf-IbsXQ-t5EOKg4j_5rkuCIAlTckx0_X4pPxqAFIk1e65B1tO3Fw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSmGWXzQoO4XpNgRduZsTFCf2Zj99qWZWoWT8r3zA23NxnxrDQNq-zMtkj-Am_UqjF9yXe3p4FpJnv4J-fzjNwjK9xRLa8hNnukIJyym_FirX3OuVoKIgs7fw_44SzKXkd_Kc5WBQoTJJlECd-64zmTTrFibI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSLv0uo6mH3OdJPDB_KUS3_05AimSvN9HIBT4mKWwPdsxhVxczQ9ZSRRs6W5FWrGGwdmub4II51fqHzjTIW2ZOazu2WfX1ikPaD49_8kthxmlImcpDOlJCEZ1enWy3KGFwoOdDHzOelMk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7DWnyK_zr80FKlPbUdyxj0kA7uwgmdum4b95HsYmJzNiL2R1ghLqvRb4CIPSvwrzvY0GXLdBl7OOSqL9ua7WTVqQ87nF4Vlas2JRN0eNNedxOqy7veXhIwff6j4G29NaiUan96rxukdjBpDfl0lzml180_NIY_vC5T1H5zF318MN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJdMWmxdyzhZXv8w5OUEgkYOO-HrNuEsMiO6o-DOTSEu-27DFWn11UaWbFHxoO4UxVBjzadrt4ofmmXyNCoY3TsgmnwdShuaqFYIz9CPres1h7y-WIfYAjKPFR6cjHcBsR4SJXndVNE3i1XA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu4HrabwJilpFLwSBKNpFYcPh2Z7NpNN7xqt5g8SbsvBz0yDyTqFNE7TMuqPLDwNJqCt4e91T1G_MikHqy2nPQbeo9ySS3Y0C0zg4GIlO29xvfmRb3d5Uf7D1v_em8KzopkgKL9_fCVFt3whKlL03zvIlIZY_KwfIRMKJQeVVnv1weiCkp7ePzCZE4BA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkWlvtE76zkaqXxJ5H72AFVRiDDSOMuWntsTKyVYk1_2fJ-IxAWBU1NhmZZyIFnWIC3lsV6acUBpNClbL5kABNx78L0mi5FeFsWqsZV0p2ieFTi64kEvCjdOufwzfb7d0DM0mNBX6eySQUDAlYzxGMmH4IWdE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ2AnwhZK3YfE3ndyObjcMgyE9IzBro-Z4wqXd-8D2yZOvZoRZ69w6cgKtu-TnUeOdRfP-xcL6rUmcvG0B6dNy_-xKhSozWZXzqXH3DhmUZ-4uV5qqGwhY8TuyHlWRv77qUq1YVUg0L_P3ymg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM_FxrEACMf7pRUo0O9vPyZAuHFugq5IZEZ8jzAuUk8YMvy_eHFE_okTCZZ0x8x-RfoMZqmCesTcwhGPkPj4CusF6RQ7ETAzvjvAbN2XUzfj8RNuI8V0rs7XALIyuCVsl8CJaZPIB5Q1sqmauYXDEM0C4SlbpJev3h3BhAEC76B-x6xRUtWLqlPKFZ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5u6yPeEa78pABQECGmfN9TyS6zjUNuldGIqZ5aJu8nznOuRHdBXfA9LQlm_DqW1EKfsC2ZYO-18x8V0J3jXXn7q_rdDAg_sY2HJIdcxWFykmGOVZ0sHHbCnimwvNKQ6oUd6k9r6W6t_CoFjJjYU4bZTFwQBIuTe-MnSYwJDgElCcPVadfWujF6_yY","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5kf2in3sFGbML1FX9GUrHrrOYADhI5T6FgRwhQIohTACEA4z_KmcR_mNzBxfv4VAps7i_GedsxErcjNX3vD7JyguyD4NAZEvbfXD_CAKNTB-sep66U1yXKNTQhay1k7PPphE889GbfMBstMzOlpfpqzE6hw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeS9QAwm4-tQ94H08dBkKg5mHkKtuIEbwWcWo-SkOdOwQwIl89qbvEOKkoR_rkAOoGIAsSRDhfDhP4eIu1Fk9mzHRRtfuc3ZBBRyQf9GaMOWjEf8zo0FeQDLIjl-FtgdP2gXk-q94HfjEmTWT6hXCRVf8XVn50NV-Ymd9eXYtFTEpVPsAHVFftE9dyHyHp-yMpLDczQC3Fa6KMVKHguMhRyA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERE_DiU6cr8Ha34CrYVVdaVcAwK0F1p_vNi_iscY40VBfmpNJ0JWvxERFbk8jYCSjd-m4bqeRu2uXxzw6s4KaB8NQaf8Pe5TdpXffJKYo506x3I8W5FbmvO-fp6HYNi_utPZmtsyg106THRNZo9wGr7cNr9jZDZK8z","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFuAWsXwSAiw2LvbiVfuHwM8xR3mOlq8kv4olIVWY1-LXnkyx9Q2IXtECdYMES1BkWEdxV5TPnghVqNKiweuoCWF8AbOuh3tz_HmOQ3EmPBQoFse2bJb0zdmLAwPj13FPzFP4eTmkp3vacYtqEs-2ovLB-O-aUz4Ax81F3fZZ0Ry2eFhRj7n8H2hlSCKCKCiwgzM8zATy32kp2a50PlWnLI04eYZoVScH0xw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqx_BPLmAgS6p3hS3eGCcyy0PyFGXa-0Ow9ZblR7sTw0SjXoGusSVxyMbYA-Anrbe8dEBCCnqpiNUtzlA_N5IMUKElfq1UxnFMtI4eNCpYbpp8vUa-kNpRfEWY1gH9I-u_prZ_VP9kH6HIjw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuyzskQDjn2xr_UlzR6hiRPnq0OLBZgdfmUj8DcxNrFQd0WDUDSgjh1rgLYcpTc_aRKf8ZMfAfRcFfs98XwAbsxFLDes76wqbdLLCmPUGVcxZ5iC8JbwZs9OM1GcVdGVpkvO3ADJ4zpB0_I6KzC88iyco5FrQJ-gS52RA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJC1iQqMYyDdJ_TM9qul7OoqBFo-d2dJ5bv6x-2CjUOs9YRiFMKLs50K5AUS0Luqxkt10RIGqcMAdrdrWiFarABWkVN79sQnCQL1B1tOJV3_k9MWqgPQX5e01J-r-stm37H0Xf5Jc1rp3lFStBBM_0g=="]
+
+--- RAW RESPONSE TEXT ---
+While **The Connaught** and **The Dorchester** are both legendary five-star crown jewels of London’s luxury hotel scene, they offer completely different experiences. 
+
+Choosing between them comes down to whether you prefer **quiet, residential discretion** or **grand, high-profile glamour**. 
+
+---
+
+### 1. Location: Secret Mayfair vs. Park Lane Grandeur
+
+While both hotels are located in the ultra-wealthy district of Mayfair, their immediate surroundings dramatically dictate your daily experience of London.
+
+#### **The Connaught: Carlos Place & Mount Street**
+* **The Setting:** Tucked deep inside the quiet, prestigious heart of Mayfair, away from major thoroughfares. It sits on Carlos Place, directly facing Mount Street.
+* **The Neighborhood Vibe:** It feels like a private, exceptionally wealthy London village. Mount Street is lined with red-brick Victorian architecture, high-end but quiet designer boutiques (like Celine and Oscar de la Renta), independent art galleries, and upscale neighborhood cafes. 
+* **Walkability:** Highly walkable but intimate. You can walk to Bond Street or Berkeley Square in minutes, but the moment you return to the hotel, you are shielded from the city’s noise and crowds.
+
+#### **The Dorchester: Park Lane**
+* **The Setting:** Prominently positioned on Park Lane, a major, bustling multi-lane thoroughfare that runs along the eastern edge of Hyde Park. 
+* **The Neighborhood Vibe:** High-profile and prestigious. Park Lane is famous for its grand-dame hotels and luxury car showrooms. 
+* **Walkability & Views:** It is directly across the street from Hyde Park, making it unparalleled if you want morning park runs, walks, or park-facing room views. To reach the heart of Mayfair’s shopping district or Knightsbridge (for Harrods and Harvey Nichols), it is about a 10-to-15-minute walk.
+
+---
+
+### 2. Vibe & Atmosphere: Elite Club vs. Cinematic Glamour
+
+The interior design and the "crowd" at each hotel cultivate entirely distinct atmospheres.
+
+#### **The Connaught: "Discreet Opulence, Cultured Cool, & Residential Luxury"**
+* **The Vibe:** Intimate, polished, and quietly confident. Walking in feels like entering the private townhouse of an incredibly wealthy, art-collecting British aristocrat. It seamlessly blends historic architecture (like its famous sweeping mahogany staircase) with world-class modern art by Damien Hirst, Louise Bourgeois, and Tadao Ando. 
+* **The Energy:** Low-key and deeply private. The service is famously intuitive and highly personalized. 
+* **The Social Scene:** Mischievous and highly refined. It is home to the world-famous **Connaught Bar** (celebrated for its bespoke martini trolley and frequently named the world's best bar) and the cozy, art-filled **Red Room**. For dining, Hélène Darroze offers a serene 3-Michelin-starred experience.
+* **Wellness:** Underneath the hotel lies London’s only **Aman Spa**, a tranquil, minimalist subterranean sanctuary that emphasizes quiet restoration.
+
+#### **The Dorchester: "The Vibrant Showstopper, High Society, & High Fashion"**
+* **The Vibe:** Majestic, high-energy, and theatrical. Having recently completed a multi-million-pound masterclass renovation (reimagined by designers Pierre-Yves Rochon and Martin Brudnizki), the hotel has combined its 1930s Hollywood-glamour DNA with vibrant, whimsical English-garden pastel tones. 
+* **The Energy:** Buzzing and social. Cars pull up to a grand, bustling driveway, and the lobby is always alive with activity. It’s a place to "see and be seen."
+* **The Social Scene:** Centered around **The Promenade**—a stunning, lavishly restored central hall with gold-leaf ceilings where guests enjoy high society afternoon tea and champagne. This flows into the glamorous **Artists’ Bar** (featuring a glittering Liberace piano) and the sultry, clubby **Vesper Bar**. It also hosts the legendary 3-Michelin-starred **Alain Ducasse at The Dorchester**.
+* **Wellness:** The Dorchester Spa is indulgent and beautifully designed, mirroring the hotel's overall glamorous, pampering energy.
+
+---
+
+### Summary: Which should you choose?
+
+* **Choose The Connaught if:** You want to feel like a wealthy London local. You prefer quiet streets, boutique shopping, a cozy but incredibly chic "insider" vibe, world-class cocktails, and a highly private, serene hotel to retreat to at the end of the day.
+* **Choose The Dorchester if:** You want a sense of grand occasion and classic Park Lane glamour. You want beautiful views over Hyde Park, a lively social atmosphere, stunning, newly updated pastel-and-floral interiors, and the vibrant buzz of high society all around you.
