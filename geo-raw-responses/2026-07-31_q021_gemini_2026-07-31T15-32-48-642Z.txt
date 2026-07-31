@@ -1,0 +1,33 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDmsPVCsctilgqxeZWI4vbfq_74eis2ingVijC67J4IQcb5B7UgEmu9fjIso95VCo-9aqmfXEKja9J8c8LADMZ6_x1-DzvnS8-7PXBwDBtrjKD6LnFjAhoKjkQFSOt4wpZEIPt9eSMnMTzSlvP0BGYfp9IyBvajGCBgsvSsOX1mOBzec5sUjTpMV_E","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzhQmL-_rdPVcQPvHbh1bGo1C3JKTqdu5e0B9ye0ICe9hsVbDhheQuM_OGLXNDu5d8JRgu6Fc7QXfWp5S47rtjNdmwvJ0JORYfNmbh3XrDG1FTrwpcxHuxm9vzY-h4Pvfg9uJxRg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjN9_bjUYrHej36NaNgJ5LxLoyrxst3ZO182PTDFxp26SjCX2IfgPyFNdHWfbZMsYMNHFnUAiz_zD1tj_SdNV3vOd3bYyXMoFlVa_ZMavN9tC50UXcLG2iaFqE4wB8pqr4DoTaWrb0YebJWejJ_Dw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4CFmFmQMDAsCSw-BZ992yudHuS2-Mj498Zqi7Pc1XybwL3bimothQonnxueS2ww_PcqoguCIFyltqegrOI2ZmO9ykslzIXDsoqMqNu1CS8DXyGTEpH86H9Dmf8jg_4D0ix1_QMP-vG8043UAK0oxl6BWs6We-o5YxOyD3f2vrosZUyJ3FiRuv_gq0OvyT","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTNFfv-_MPV1KHUj9VjXzJgdTOWCpY8-M-YMAxxM3dbp65S6g5O90A0P-q7ClDLUM-vMzOEsE8t3soeKg__MEhld8PcuFWnNsxQYcY81CInmW1TKcuPUk2lWKeSVtTMSjht1S0Q9Iur7-k_xA6Sn7du4Vc3t9r","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt142kNb_6ntVMqEIwObSYXtj_ommOfwQ_FACqmiHGqHPmBQa-JmNBiJjRxHj1gL6VPMQkBC8RDTOSeBiIaEOlLo2UxooTN8frbXxylwErvlkNoM8Dp78_WzKUdUBWfjn3ghVq1b-gE2vdAwNQrso=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRZ-9rAXXl1uQaxXJUzn4Zl-flB1b_iB08cAwMJP6LCksBffYbA5hInJLWdrIapTBkCzrWQRSNAjZ1DxGab5q1ZrgQxlV_jhpzrRy2uCgvSv4ahKDyWMIzTenqDAS_kvYGmOujVcG-lwHCR54RYchzcoJzTigho9l2KGdQ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLtLJ5AVdKb0GOGeJQsdboY3_XFwJzDpFHXxZ3k0FHaLUOtTyQfSe4GeT46W59VZDlDhbGXzPgJAi8cclUhdiPS3M6lDnyTzvc2lcQOJs1lla6Xakq4pvJiAUb4m7fibn16sNxBhlgJrYOvP2lnt6XmtYW1-8DFfVZHj0LEAD-pqexPLLcYnNSGhx8GI-rYgq7Ig==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE430sUTKk0FjGpEoEgojz-H_BR-KW1sj3r9T-srsER_3FzlJTqww6HNvQGfwxSlKIEv7SozdmStrH60iOJ5gj57Nx6BK3XekqQ-7Ij16JStwTS_uf34qvs1aK2Zu_V"]
+
+--- RAW RESPONSE TEXT ---
+The availability of the highly coveted **Signature Suites** at **The Dorchester** in London is highly dynamic and depends on your exact travel dates. 
+
+To secure one of these ultra-luxury accommodations, you will need to check real-time availability directly through their booking portal or by contacting their dedicated reservation specialists. 
+
+### **The Dorchester’s Signature Suites**
+Following a massive multi-year renovation of the entire hotel, the suites feel more like luxury Mayfair apartments. The premier Signature Suites include:
+
+*   **The Royal Suite:** The hotel’s newly revealed flagship suite (officially launched in June 2026 and designed by Pierre-Yves Rochon). It occupies a massive corner of the eighth floor, offering stunning panoramic views of Hyde Park’s treetops and the Serpentine.
+*   **The Dorchester Suite:** Positioned on a coveted corner with wrap-around windows, offering dramatic dual-aspect views of both the peaceful Hyde Park and the vibrant energy of Park Lane. 
+*   **The Garden Terrace Suite:** A vibrant, light-filled suite that can expand up to five bedrooms, featuring a stunning private terrace overlooking the front of the hotel.
+*   **The Oliver Messel Terrace Suite:** Globally renowned and historic, this suite is dressed in a joyful style designed by Oliver Messel and is adored by a long history of celebrity and high-profile guests.
+
+---
+
+### **How to Check Availability & Book**
+
+Because these top-tier suites often require bespoke configurations (and the most premium suites like the *Oliver Messel* and *Royal Suite* operate on a "Price on Application" basis), the most effective way to check availability is to contact the hotel directly:
+
+*   **By Phone (UK/International):** `+44 (0)20 7898 9880` or `+44 (0)20 7629 8888`
+*   **By Phone (US Toll-Free):** `+1 855 901 0709`
+*   **Online:** You can search standard suite availability on the official [Dorchester Collection Website](https://www.dorchestercollection.com).
+
+**Pro-Tip:** If you book through a specialized luxury travel advisor (specifically one affiliated with the **Dorchester Collection Diamond Club** or programs like **Amex Fine Hotels + Resorts**), you can secure exclusive benefits. These typically include daily full breakfast, guaranteed room upgrades (for select categories), early check-in/late check-out, and a hotel credit of £100 per night to spend on property.
