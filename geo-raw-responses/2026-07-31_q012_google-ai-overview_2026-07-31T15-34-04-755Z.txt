@@ -1,0 +1,20 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/five-star-hotels-best-and-worst/","https://biirdee.com/guides/best-luxury-hotels-london","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.peninsula.com/en/london/luxury-hotel-room-suite-types","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoNlkyaHllRjl5GAo","https://www.dorchestercollection.com/london/the-dorchester","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://prestigiousstarawards.com/venue/the-dorchester","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.scmp.com/magazines/style/lifestyle/travel-hotels/article/3286767/peninsula-london-luxurious-british-details-combine-subtle-asian-accents-create-experience-recalling","https://theweek.com/culture-life/travel/the-peninsula-londons-first-billion-pound-hotel","https://www.peninsula.com/en/london/5-star-luxury-hotel-belgravia","https://www.booking.com/hotel/gb/the-peninsula-london.en-gb.html","https://boldtraveller.ca/places-to-stay/hotels/hotel-reviews/london-hotels-two-of-englands-most-luxurious-stays/","https://www.ca.kayak.com/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp"]
+
+--- RAW RESPONSE TEXT ---
+The Peninsula London and The Dorchester both represent the absolute pinnacle of luxury in London, but they cater to distinct travel styles. The Peninsula is the definitive choice for modern opulence, cutting-edge technology, and unparalleled hard product. The Dorchester is the ultimate choice if you are seeking classic British heritage, historical prestige, and lively, old-world glamour.
+Core Comparison
+
+The Peninsula London
+Opened in 2023, this purpose-built, £1 billion hotel was designed by Peter Marino and features large open-plan rooms. It is unconstrained by historical listed architecture, which allowed for massive, flawlessly designed marble bathrooms with Toto washlets, walk-in mahogany wardrobes, and state-of-the-art bedside touchscreen controls.
+
+The Dorchester
+A true Mayfair legend dating back to the 1930s, The Dorchester has been revitalised following the most extensive renovation in its history, reconfiguring some spaces to provide a more modern yet timeless British feel. It boasts the deepest marble bathtubs in London and houses some of the city's most storied social spaces like the Vesper Bar and Artists' Bar.
+
+If you can tell me which time of year you are travelling and whether you prioritise modern room technology or traditional hotel heritage, I can provide specific room and seasonal recommendations.
