@@ -1,0 +1,49 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRY16H4SQ-LMk5SsVIX3-2_-7tdA6E4wZwvubjeBy7u0QrSwmZ0Vb98wWkcvRhxhKZwVH99BdlYIL7qJ37O7DACPEmHZUwIl1xbpmoTxsDKr-yUcRbnz41fArKsVBNR3BbIht2VdRRVye50Ba7NLf7qoiiGIwJUSTO","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx2H-qqikFQjfKmh8QoWy8IgEZNvJPUgTrEDF5U9eprrfxdmhBU4fZVlAD4Lc0zGUV2DClJuuCV0039BIJDl3Dxpwf3S8HNPpobanMq_bRUDPF0Z4x_kfYpFXPEAnxRzwdQy-k-cHbiKXH25Mnq6PkhhbSIYwyuD2xTWYdFVBw0cfZwcI-a7bhuLhwoVSiPrR3QE7s","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS1pQe05DdSEFxfVQhKqwhzc2pozEWUC5-F6pkWPJbIDjBI6v0yoEh6nTAFivNHagI8OtoLukjPE1qvY2gO3KMnjEL1N8Qhi-g18Xn-HYWcFG3Roe6ujK5YZwj7ddw9mYAc3QbB04zurjlkDuv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwRH_nmqWG48LG1JUTfcYj7oOhIqs4gmiItktbJMEFjvDih4XG79xO-yshRsmI7igB0QuoQlfWKtIZnjefZCYHDUXaFkWHjkjR7vB9u9fB6InmeBasf15IwXGWfxAz0wrLXjrlME8uVBhVgI7b3STfLc2qSMcLYys-iHvZ0-r","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmDTSdfht7nkpzjkpFswJTsqoqvEWZDpcqpAFa48gM2gZRBdGHx1Ht-t1Q_8yimpus-yMQbXdsGhl8fhbbE0DtNYPQ4XOd_kbm63uyiDHQgN12tRnvr1mlHawMBzr0b8zA8XQk7PZw89G2jCee6vYewgHdZlosdhA64qcY","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy_TdywhLcwF-cENiEgz99BaDTr6cDK47Zhq0Ykm7PLTXJ8g2ZkeqAHZa8vTXedkSb-rhcwc1gP68xIJO5gHlQ-DRcodENWPmtSOl_H2ZuWoc4GbCIJa5NgX0Z-Udj1MWC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGLBc9VoUfouWn8f6qF6hTE4flPE_Mc8BXZxJi2gNP48GsO16_sBTtZAgPWJeZkvOxCRccvccGuiYuVYJ9XsS7nWr2mf57UVu64U52Kh09FYCgwUwUn6iDZcAlKjo-TNlxCbH2VFw3Bvg1jrM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebArtT6BdTrpQPSzylqkrt683mFK-sxG1rtj16TAvTXgOrj3m56-oXzB3NO6_LiFOyxOTM1vbc-441V3HnjBqEkzMjcyFpZTlfelVLRS31qiPvKAVfopfPr75mbYKzG_LYLKpKqk_UVQMLzHTpy4D49zLBZSRqE4ReqdaICP6Ul2-ZR21SQJ3vDn52QyI48kZW1n1BxirzqkyaS4NVj2-MDHDLEVCXlp2Dw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQQBc9geWJRUDIoPQS7E2GDZQhxj3d87qyRK0bW7Z7raKQj1jY1ssMgxEc1ozb502sYGduIrSrlJd7SOV1-GUNY6VOvoZ6Qof5cxQB-N-VPIkLAiaQrw2L_EqVIewm1K7c7f6bHw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJLZMQFTIWfo5YNe1zVJ4RrAFKruwvGDb9yOUaZhaiTsAcp2m_0StlYW7nlEJo6LrMXWGA99TfoDnNqCAJ8z8zwr8s7nX9LUnOZfxUHnlOce7KDRqo3zAfC_9kqDaYjdl6","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEULQPaWtRdDnOHt3HmPRxaxy2yUhW-CUVEpbkHHUf3FUjSgC5C6Jmkd3dYlGFeO4PZrw7LZwLzsb3GDAP5R08t71WBSYt_v8AuvpmBWXESyB1J1198kFrZzQVOhIQvFfMZj-JH0Q1QkvDEowKZb95a","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWUgPJmMIYDRpVZdZ-akQ4YnvSKQM9MZHu1eYH1xYsX9itr8BsuxjXVeqEFzQe14PLlPFj5tOMXvu9fLITHAtJIq2AQcbXmrqMSAmoTxx55aWjb1910ORjYXnztgNFdchyfEsMutJ5XvL3KT5z5MxzRrqx59_YPmDsyySCgC0irjE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGogwnxtdBCE602lhOSeUSBzjEd5KTHpgMsVvv6vq96_6uvUBLx-vud7bcBU8_OzTf5NU_-_6gly6rBUsuKZU-bpjd44EQUNUeYGZX8VSMuhwHDE0FfUWI59_KcR2rZ7RPvnk4O3Hcs_9tUqwtnkHGmEYCFfjw6PImw7ZG0RCSrAJVCAiVMI_1WykquszQnAy8Tg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMlcnVn3iDNh353DMljYTpU7wWFbr7BVUVlFt4TfqPPpBdB5I8fdZxV1POYrX_wZ_MLqlZZsCBNEe2caRgI4yAgzdwyuciQvq1yP283MMdanrKB2gvmUOcoKMGH14-up5o0LA8J_71PfppvkEAroGrJcdrLsvZKQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYNrP-zqHRp1lSet_5CoMtwWzgv3tRmSdvOfCbD9SSfucQz7kuEX5wT9r5tu_szFAmpS7ex6HMELz-kWkmaDfcTzJ_q4NVBbKceY4-3XHb8T9gM8-MftrfoO3cuJ9Z9vZqsRn-lVSz9nI8a53Jz0KK80BzG54gY6TBlrL_S2QDwSnxowdce-PJDg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUXN8KLqoNvLyRQGpMxmIhcnWYOLX56QO2vN40UtLcAH0gL7GB-V0IWD11ppM5I_9-mtbXL7GBTPYHgSMg4bHRbHUJvsigz0PJA2vkz1uLwOeYbcLPlIwkXH6vgXE37fICuHmF97Tv59Fvxg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJgltNQtmI39WFbIxe7na4iT7S1IaTG_hs3Z2LzYHfRnob5agLLrylJLOG5UNAy8QcoD1aNQDOAqM1ow5mY0p-ldBZZb_IJy1uyiS9X8epH2PlStI8-G6ad86mWifXUsNKIHgx4Ykg6v5zuRwerh12","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX5Kov2vouOyR7UHMbY6Vv78scCvnHiBj5VsKhIGJwVwOjMAovD4fvevlVLKY7l-mWFszCPiji9x6XKMF07nrZMgs7seySGpCXKwdr4E9C3togtDONzczV_UE4xq1HT8cH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6WxENL-1h0_kKkshKYMGB1GvI936xKuFTssY6_jC5jsEVVle_XHOy39bbLFjlEQDI8eip30sXZLhIOeVmKgiFbzkjMbTwhS45oPYPmwTtqmnB9kTXIXQoN-MII94IHxHJ"]
+
+--- RAW RESPONSE TEXT ---
+Choosing between **The Dorchester** and **The Peninsula London** is a choice between two distinct interpretations of ultra-luxury hospitality. Both are positioned at the absolute pinnacle of London's hotel scene, but they offer vastly different experiences depending on whether you prefer historic British grandeur or hyper-modern, tech-forward luxury.
+
+---
+
+### 1. The Heritage & Vibe
+*   **The Dorchester:** Established in 1931, this is one of London’s ultimate "Grand Dame" hotels. Historically the haunt of royalty, Hollywood legends (like Elizabeth Taylor), and high-society, it recently completed a massive, multi-million-pound head-to-toe renovation. The vibe is lively and social, feeling almost like an exclusive private members' club. It celebrates its heritage with a classic, glamorous, and distinctly British atmosphere.
+*   **The Peninsula London:** Opened in late 2023 as London’s first "billion-pound" purpose-built hotel, this property is a masterclass in modern "quiet luxury". Designed by the legendary Peter Marino (famed for his high-fashion boutique designs for Chanel and Louis Vuitton), it feels incredibly sleek, imposing, and polished. The vibe is highly international, serene, and incredibly exclusive.
+
+### 2. Location
+*   **The Dorchester (Mayfair):** Situated midway down Park Lane, overlooking Hyde Park. It is ideally located if you want to be in the heart of Mayfair, steps away from the high-end art galleries of Cork Street, the bespoke tailors of Savile Row, and the designer boutiques of Bond Street. 
+*   **The Peninsula (Belgravia / Hyde Park Corner):** Perched prominently at Hyde Park Corner, right where Mayfair, Belgravia, and Knightsbridge meet. It sits next to Wellington Arch and is incredibly close to Buckingham Palace. This spot is highly convenient for strolling through Green Park or walking to the luxury department stores of Knightsbridge (Harrods and Harvey Nichols).
+
+### 3. Rooms & Technology
+*   **The Dorchester:** Its 241 rooms and suites have been beautifully redesigned by Pierre-Yves Rochon to feel like luxurious, light-filled English residences. The design leans on "English Garden" palettes (think rose pink, sage green, and heather blue), custom-woven carpets, and hand-painted *de Gournay* headboards. It’s warm, incredibly comfortable, and steeped in classic English design. 
+*   **The Peninsula:** Built from the ground up for the digital age, these are some of the most technologically advanced and meticulously constructed hotel rooms in the world. They feature flawless soundproofing (despite the busy Hyde Park Corner traffic outside), massive walk-in dressing rooms, Toto toilets, heated bathroom floors, and state-of-the-art tablet controls. Every room even features a silent, built-in printer/copier for business travelers.
+
+### 4. Food & Beverage
+Both hotels are heavyweight culinary destinations, but they offer different dining experiences:
+*   **The Dorchester:** 
+    *   **Alain Ducasse at The Dorchester:** The hotel's crown jewel, boasting three Michelin stars.
+    *   **China Tang:** A legendary, opulent basement spot for high-end Cantonese dining.
+    *   **The Grill by Tom Booton:** Modern, playful takes on traditional British classics.
+    *   **The Promenade / The Bar:** Perfect for one of London’s most famous traditional Afternoon Teas or a glamorous evening cocktail.
+*   **The Peninsula:**
+    *   **Brooklands by Claude Bosi:** A stunning, two-Michelin-starred rooftop restaurant themed around British aviation and motorsport, offering sweeping, panoramic views of London.
+    *   **Canton Blue:** An atmospheric, highly theatrical fine-dining Chinese restaurant on the ground floor.
+    *   **The Lobby:** Serves a magnificent daily afternoon tea accompanied by a live orchestra.
+
+### 5. Wellness & Spa (The Dealbreaker)
+If a hotel's spa is a high priority for your stay, this is where the two properties diverge most sharply:
+*   **The Peninsula** wins this category hands-down. It boasts a spectacular, subterranean wellness floor featuring a stunning **25-meter indoor heated swimming pool**, a state-of-the-art fitness center, and a highly advanced luxury spa.
+*   **The Dorchester** has a beautiful, deeply relaxing, and highly rated spa, but **it does not have a swimming pool**. If swimming or lounging poolside is essential to your hotel routine, this is a major factor to consider.
+
+---
+
+### Summary: Which should you choose?
+
+*   **Choose The Dorchester if:** You want quintessential British charm, historic legacy, and the lively buzz of Mayfair. It is perfect if you love the idea of staying in a newly refreshed classic where historic glamour meets modern residential comfort, and you want access to world-renowned, multi-Michelin-starred dining on-site.
+*   **Choose The Peninsula if:** You want the absolute state-of-the-art in hotel engineering. It is perfect if you value hyper-polished modern luxury, flawless in-room technology, top-tier soundproofing, a spectacular indoor pool, and stunning rooftop dining views.
