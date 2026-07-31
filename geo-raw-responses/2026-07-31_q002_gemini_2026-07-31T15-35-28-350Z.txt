@@ -1,0 +1,75 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPyA1g9DpmGln_rLjlQm8r6PAZFmJfqS05tRfosbF0EOneOhcS9WkbrmgtBgMv75R3JB2YivatLgHvlmBEm7EeWF0f24U6ByTWQE5laFypqN9NlELsCFGyPAY1YKSg8Mb1M2TjQmP6mfl9igy7G6jNhEy5fh7nemv9kn2VKvVaabo6qnL42pJs5P3HLwwSvm8Ex97J6pVQr4Tv0dVQg-cskFyDmGLb8nEUl6s=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW9xBg46MsdEKssuT6GT8zrPsI51A91RhwFJaoVhilTKRD3Zr_LPlbo6oNkj4LIKxvaeUzvz7LRF9Pw84Mu4bmCrev4SwowbbIcMZS4aq2wzw063i-duWug8dqIhsg_8I-5Lm85Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLTmEqKAVtb5mz8lebbAhSvqc-ZWbNgaWSa4ozYVvIMxxh1uGU88fwwXo7fVNc1uzrYxBOI1NgAGx9vcXB73R6sMRVltCqy-pvtc-7zJO5DyD4leDW-2bcPWt24Qs1UyQp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC2jDAUHEmwt65DVvxdG6qneKIHGw0Az4-dSve7_z-7q42OGjQ94WnQMd7lkyVtt09dPa-e-1B8hypT50l_nuKyGphRBbBavuk5MliO9J54eh2LdpLFEFQGZwdjb_O6npKz4LLh9RVJf8IqJBWqwSlQBWfJM2x-bkMyz5iT7_UTVaBXw_P89A17w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6SExl3znwoURwUAqP12toIYnO7qLbrlyKUSVUTSd0AyKDYVRaCBhNPMK-5E0iPlrs36PcIG3Y1m5OwTSRryCew7wMX3Xhy0YBKAaQPWJlx8CASuDc2F4qsEjQ9t7rnd2p","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlhxIwqfxMTzT0jkWi8lL5DlMgWOPtd2ZBYQNJdryPyHxwzA5-XqYNnD6sDu7eqwv64SWu1eT3Y6beMrbxXbEYpXptOWEAxA6X6hTLoLzI9vT_Bws9HFDgdFuoM8bvQrjZIOE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMxA49AeqJZFI4nW1Hw7NC1pt9GtHXpe_sJm2NRCrtezCx8pmhXsPdjnYr5O67UmAEglRqnN8-pcXSMixLCil0h96l0gcdDwkK8uMUaqczh64d2q_RRTXNNKtUKB4J2S5zUiFpTHBF6O__ofWCn_0TrHU9xPCz7ZdGjZgkAFNx","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_E3ig5Bi_iW2J5G70VfqxLzrmS2V-cobROWTEdZzyhJTeOMPmzUnyb6be21Ceo0iC6vJQDqzOLHnPMWVsnjj5ri-wMXShbYX7iiLJfW_49zcUjj_63H1Flszvu74o9pVpFhdton5F-GWvQShBo8ww4agoXJgwOzlO33Db3ko=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRIHHBE8L-QwLIWafaDfj7u-0n5LNqWLkIQTvcL5_iSdB2xCJyiXVXktZSOWDNeINjx9kzzZGA4ERYOfB4uH_FxZ4Vvbx7IV24U28P0j8A3ZwoPu5CB-XERYnRfeQr7LaqGio4YjpQCmHl6uep3YlrwGrSGTS0ZEi_Looe2sXnGSaYo7bezbm0jPQF81Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnbbZ8aAkq-cGp9AnyAEg3ffYJEb-bBy-TVS9--CM8nJJDFW3pAiUV_HHBBTPCH_LhMisKnDZWVGTfhHazN_QtbccS_LaVxKbCFutcnQICNNZYctVVMGmqgODQCSb0ONuy2LkRFtxbH6cwryelK41w8_IPOpjVTA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhqVnPmMIic0kr-d8PB_ZYgmzxizTX4ylbjChrGUmcDIlMWNmBJCpbSXAtSj2YkTSW8ZHil24Rr9j1OQfCmVKKpsnYrpnAO-ia9Uf8OGZmYpZNwOyQZHC0iVfD0qwZ7-FeceNqsGAesO59hUPZN2Ppid4BJ8y6Pg551R2vux2YRiZbLg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGst0dKJQoBVRpKeKEeYgFmYUEi9Yk3-_kNKPxEodjMDACclHaSDuB4qozsZbGHmprovWrXTmtk6YPuPI4PAHa5TlsxXtyaQsVwrE7ZRM92UmBvbPnJ4m7glP_rtfLwIBNJEvJQ8uRnsAD_lAK4QLM-JdGpa5QK0V-dFtPKz0SodKJ24IQa2NsCcBdOVhq-7kUR9X2GGDb2KnUWmHo37MYLSRB-MxU4oUSNMHjv2xY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC_XcDkD-odLWT1KNjNeBMg4e5ePYuRBHjSnovYwx5s6zkLnpPL62htQPYOj83JJw28SccH_YsrLJDdTf_klFxhEvgFi84bUB2OAYREelnoIWu_RTfxXN6DnGQr_H7CsPlQAr0c7-K5d_K6_Nutch_huk6WJHJfuMaivIgojHcGlmO4N2qQRPeoP30otfefdA9pTLmfriCQhnQGqcmx6V3UpDhMJs7Lk3H","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6L1lNP80BiA66nidtbwZxgarL-uuKyr9XRlQZumplNS7a6CPyHmynGptGINbqkk6i6T4p9jShNtmpuk5uG37NdfcRTeMoTEoaKaMiZwuuhsmgkekUv0H6V5nFe-SqG76bh6rC3fWJUThUkHEfOe3mIfY_bd1SgFvRBXLz","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtBoYongdO6BTEopT5RpP9MEAKt1sX4VgadMGqFhnNUjI91iahlKWjm29HqaLtho9axoktWqUzxfc8DUtZMjko7HSDHLJjhevNjTJqZBvT4aEBb4MXlqnu4hoarSfMqJQyo0UHfVxl3-9T_wzikOCg2RpI097JwnsCSeLA7rNXfykK1zxJOgl5tdgR7Be_wY7OL43ngrtSDrDT3W28Ldjh3w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwGiNNKnEncYB0RTEHEa1u2sXm17p7723vNDIwgtgfXenWzRn6gRW6RzEGZa2zR3mOmssJOxlxPpztZ6Z_uJnX2ZFO5CrrHrUxXZ_lWWON6QAmkGRd_7ZbGuIseoBnOhjgzWJIgbojiW4l4Y4Qu4uU2Z2Ryd9YrZpMoHQberOaQgvkWlcRhN4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGevvd3OvFeO9Lrkajb_dGYGuSrgp4cecLUB6P9a7wvR2hlf6a4VYxv0d1_DoExwydE-lH-1lOizdDZpybT8cYFlULIbQnMLdaQD88U7COxQPTce66OSrxznLD7cPx3xz85","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB0hhkjV0PiUxP-6rk3LGbNOqT7MAKZft8p_KRcslQK_iSl2H2WO7eEPDYGcsIChuvNo0mLtaX_SO1-dGnswQhsIx3exkRc_NqUVIY5WtwzS113E0Wd-aHJcBnD8mgdVv93UWL5NOUqg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiQ14bjs4e7RI_uJEEz4M5v5aN_iretJASj1c_2oLrIXGAAYJNDLLw43i5MeaW8R6pHH2YozOOe8dtS9sil59puEtzdtZaax8PGZEL0ErlIXHVT7oQvYbSDDFby7ART0YPVCm6mi-nexlmbMTM1FyqSYgGpG9MRYP5guwyAZ8d93y7O22Nx_-zWb9fSVoecxFOOpC_dJ_QmA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZQo1Ds7vKa90w1U4DHSLS3-nHaxsnCqZ3YE494Y1fMeMndSvv2ImIrEvT6e3XaIsMWvPkHE4u7-A5cFV6JgzB5a_Y_dn7TFkXEo-d_9ngJPmvbh_UY7O_MMdcA9vLmNpIYUj5wFXL","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUNFm0diPP8UQlU5aWjrwtqlQ5XiPlAWmCzHvaTy4u8lbbcHzZzmnyBYESx91E_S1JVZZcbtDd9ql1ANKRWSCbVVLoYOjgd2iVFenLDtbF9c5asDm-_fXUonIyGmTr7LLu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKb0gSF3X2DyEnIeQqwCqYvgfkxpxEKOExIW60YBlU-X4EYZZBZnjl1ewWgf09F8u34ZtzunxsKHQfo5uq_Y7W-dWu0tIvmAqyXycapiTCEbTA9VNmEkcSekCY9-a363m2UevpzUivhT4U1lc1tj6SVp2wYxqzFSZxFpU5CQH9eT1O-V4kwhrJTQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXuMZXKxtO8fwMscrrPzAWvwATI97TzWFKVlMs3D9Dcv6MXKvkuY9v3Wmmej2h_p132OGs9R0AvGaYasOF8KekfyfzQt1xWeyJg9aClXBeU_OUqBm8dxQADF2hA5zhr-FTxFfE6MvQ_o8NTVYm7XRR"]
+
+--- RAW RESPONSE TEXT ---
+London’s luxury hotel scene is widely considered one of the finest in the world. In recent years, a wave of multi-billion-pound developments and ultra-exclusive openings has elevated the city’s hospitality landscape to an entirely new level. 
+
+The most exclusive luxury hotels in London are divided into **the ground-breaking modern newcomers** and **the legendary, timeless "grande dames."** 
+
+---
+
+### The Modern Masterpieces (The Ultra-Exclusive New Guard)
+
+These properties represent the pinnacle of modern "quiet luxury," blending cutting-edge design, immense privacy, and massive financial investment.
+
+#### 1. The Emory (Belgravia/Knightsbridge)
+* **The Vibe:** Billionaire-level privacy and hyper-curated, modern design.
+* **Why it’s exclusive:** Opened in April 2024 by the prestigious Maybourne Hotel Group (owners of Claridge’s and The Connaught), The Emory is **London’s first all-suite hotel**. It is tucked away in a cobblestone yard and offers a level of discretion unmatched in the city. 
+* **Exclusive Perks:** Guests enjoy return airport transfers in the hotel's private fleet, and those arriving via private jet can request a **one-way helicopter transfer**. Staying here also unlocks access to the ultra-private *Surrenne* wellness and longevity club and a guests-only rooftop bar with panoramic views of Hyde Park.
+* **Starting Price:** ~£1,600+ per night.
+
+#### 2. The Chancery Rosewood (Mayfair)
+* **The Vibe:** Mid-century diplomatic glamour reborn as an ultra-polished sanctuary.
+* **Why it’s exclusive:** Housed in the Grade II-listed former U.S. Embassy on Grosvenor Square, this historic property underwent a reported £1 billion transformation before opening in September 2025. Designed by Sir David Chipperfield and Joseph Dirand, it was instantly named the "world’s best new luxury hotel" by travel experts.
+* **Exclusive Perks:** Its entry-level rooms are massive (starting at 53 square meters, which is practically unheard of in London). The hotel features the subterranean, state-of-the-art *Asaya Spa* and is home to highly sought-after restaurants like New York import *Carbone* and the *Jacqueline* tea room.
+* **Starting Price:** ~£1,170+ per night.
+
+#### 3. The Peninsula London (Belgravia)
+* **The Vibe:** Sleek, grand-scale Asian hospitality meets British heritage.
+* **Why it’s exclusive:** Overlooking Hyde Park Corner, this newly built, £1 billion+ masterpiece was designed by architect Peter Marino. It offers some of the largest, most technologically advanced guest rooms in the capital, featuring deep soaking tubs and bespoke valet boxes. 
+* **Exclusive Perks:** The hotel maintains its own custom fleet of hybrid Bentley Bentaygas and a pristine 1935 Rolls-Royce Phantom. It is also home to the dazzling aviation-themed rooftop restaurant *Brooklands by Claude Bosi*, which holds two Michelin stars.
+* **Starting Price:** ~£1,000+ per night.
+
+#### 4. Raffles London at The OWO (Whitehall)
+* **The Vibe:** Stately Edwardian history and cinematic James Bond glamour.
+* **Why it’s exclusive:** Opened in late 2023, the hotel occupies the historic Old War Office, which served as Winston Churchill’s headquarters during WWII and inspired Ian Fleming’s James Bond. The £1.4 billion renovation took eight years to complete, preserving original mosaic tiled floors and grand marble staircases.
+* **Exclusive Perks:** Guests can book historic "heritage suites" located in the former offices of military leaders. It features a spectacular 20,000-square-foot Guerlain Spa spanning four floors and nine distinct restaurants and bars, including fine dining by chef Mauro Colagreco.
+* **Starting Price:** ~£1,100+ per night.
+
+---
+
+### The Legendary Grande Dames (Timeless Prestige)
+
+For those who value old-world status, impeccable heritage, and a client list that includes royalty and heads of state.
+
+#### 5. The Connaught (Mayfair)
+* **The Vibe:** Quiet luxury, discretion, and flawless, highly personalized service.
+* **Why it’s exclusive:** Located in the heart of Mayfair, The Connaught feels less like a hotel and more like an incredibly wealthy friend's private townhouse. It is widely considered by luxury travelers to be the gold standard of British hospitality.
+* **Exclusive Perks:** Every room on every floor is assigned a dedicated, highly trained butler. It is home to the legendary *Connaught Bar* (frequently named the best bar in the world) and the three-Michelin-starred *Hélène Darroze at The Connaught*.
+* **Starting Price:** ~£950+ per night.
+
+#### 6. Claridge’s (Mayfair)
+* **The Vibe:** High-society Art Deco glamour.
+* **Why it’s exclusive:** Known as the "annexe to Buckingham Palace," Claridge’s has hosted kings, queens, and Hollywood icons for over a century. Despite its historic roots, a massive subterranean renovation has added a multi-story, state-of-the-art spa and ultra-exclusive penthouse suites.
+* **Exclusive Perks:** The legendary Claridge’s Afternoon Tea is an institution that requires booking months in advance. The service is legendary—the hotel's staff-to-guest ratio ensures that your every preference is memorized for subsequent visits.
+* **Starting Price:** ~£1,000+ per night.
+
+#### 7. The Lanesborough (Belgravia)
+* **The Vibe:** Regency-era palace opulence.
+* **Why it’s exclusive:** Strikingly positioned overlooking Hyde Park Corner, The Lanesborough is decorated like a grand 19th-century manor, complete with vibrant silks, oil paintings, and gold leaf detailing.
+* **Exclusive Perks:** It is the only hotel in London to offer **24-hour butler service to every single room and suite**, regardless of booking category. Guests also receive access to the ultra-exclusive *Lanesborough Club & Spa*, one of the most prestigious private fitness and wellness clubs in the city.
+* **Starting Price:** ~£900+ per night.
+
+---
+
+### Which one should you choose?
+* **For ultimate modern privacy and wellness:** Choose **The Emory**.
+* **For architectural prestige and a buzzing social scene:** Choose **The Chancery Rosewood**.
+* **For historic gravity and Edwardian grandeur:** Choose **Raffles at The OWO**.
+* **For peerless, old-school British service:** Choose **The Connaught** or **The Lanesborough**.
