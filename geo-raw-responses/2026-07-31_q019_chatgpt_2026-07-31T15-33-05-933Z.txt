@@ -1,0 +1,33 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/?utm_source=openai","https://www.clements.travel/partners/dorchester-collection?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester Collection Diamond Club is an exclusive, invitation-only program that offers enhanced benefits to guests booking through authorized travel advisors. By reserving your stay at Dorchester Collection properties through a Diamond Club-affiliated travel agent, you can enjoy a range of VIP amenities at no additional cost compared to standard booking rates.
+
+**Key Benefits of Booking Through a Diamond Club Travel Agent:**
+
+- **Guaranteed Room Upgrade at Booking:** Subject to availability, receive a confirmed one-category room upgrade at the time of reservation, up to a Junior Suite. ([princeoftravel.com](https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/?utm_source=openai))
+
+- **Daily Complimentary Breakfast for Two:** Enjoy breakfast each day, either in the hotel's restaurant or through in-room dining, for you and a companion. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **Hotel Credit:** Receive a credit of 100 units of local currency per stay for rooms and junior suites, or 100 units per day when booking a suite. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **VIP Welcome and Personal Escort:** Experience a personalized welcome with a hotel management escort to your room upon arrival. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **Priority for Additional Upgrades:** Benefit from priority consideration for further upgrades upon arrival, when available. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **No-Walk Guarantee:** Ensure your reservation is protected with a guarantee that you won't be relocated to another property. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **24/7 Ambassador Support:** Access dedicated assistance from the Dorchester Collection's Diamond Club Ambassador Team throughout your stay. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+- **Complimentary High-Speed Wi-Fi:** Enjoy unlimited internet access across multiple devices during your stay. ([princeoftravel.com](https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/?utm_source=openai))
+
+These benefits are available exclusively when booking through a recognized Diamond Club travel agent and are not typically accessible through direct bookings or online travel agencies. Additionally, many Diamond Club travel agents do not charge booking fees, ensuring you receive these enhanced amenities without extra cost. ([clements.travel](https://www.clements.travel/partners/dorchester-collection?utm_source=openai))
+
+By choosing to book through a Diamond Club-affiliated travel advisor, you can elevate your experience at Dorchester Collection hotels, enjoying personalized service and exclusive perks that enhance your stay. 
