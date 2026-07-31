@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.mandarinoriental.com/en/london/mayfair?src=loc.yext.momay.ggl&utm_source=openai","https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai","https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.thebeaumont.com/?utm_source=openai","https://www.flemings-mayfair.co.uk/?utm_medium=organic&utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair, London, is renowned for its opulent accommodations, offering a range of luxury hotels that blend historical charm with modern elegance. Here are some top choices:
+
+**[Mandarin Oriental Mayfair, London](https://www.mandarinoriental.com/en/london/mayfair?src=loc.yext.momay.ggl&utm_source=openai)**  
+**Closed · Hotel · 4.6 (317 reviews)**  
+_22 Hanover Square, London W1S 1JP, United Kingdom_  
+A sleek boutique hotel offering urban luxury with floor-to-ceiling windows, bespoke furnishings, and a rooftop spa overlooking Hyde Park.
+
+**[The Biltmore Mayfair](https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai)**  
+**Closed · Hotel · 4.4 (922 reviews)**  
+_44 Grosvenor Sq, London W1K 2HP, United Kingdom_  
+Nestled within Grosvenor Square, this hotel offers opulent accommodations, personalized service, and proximity to iconic destinations like New Bond Street.
+
+**[The Connaught](https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2430 reviews)**  
+_The Connaught, Carlos Pl, London W1K 2AL, United Kingdom_  
+A five-star hotel featuring Michelin-starred dining, a holistic spa, and bespoke butler services, situated in the exclusive Mayfair area.
+
+**[The Beaumont Mayfair](https://www.thebeaumont.com/?utm_source=openai)**  
+**Closed · Hotel · 4.7 (796 reviews)**  
+_8 Balderton St, Brown Hart Gardens, London W1K 6TF, United Kingdom_  
+An Art Deco modernist hotel with a boutique attitude, featuring airy, light-filled rooms and a vibrant charm in central London.
+
+**[Flemings Mayfair Hotel](https://www.flemings-mayfair.co.uk/?utm_medium=organic&utm_source=openai)**  
+**Closed · Hotel · 4.4 (411 reviews)**  
+_7-12 Half Moon St, London W1J 7BH, United Kingdom_  
+One of London's oldest established hotels, offering luxury accommodations and the Michelin-starred restaurant Ormer Mayfair.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1914 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Overlooking Hyde Park, this hotel combines prime location with serene luxury, featuring a Michelin-starred restaurant and a rooftop spa.
+
+Each of these hotels offers a unique experience, ensuring a luxurious stay in the heart of Mayfair. 
