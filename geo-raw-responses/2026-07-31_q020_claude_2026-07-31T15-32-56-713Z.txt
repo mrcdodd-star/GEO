@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://dinewithjp.com/claridges-hotel-london-review/","https://www.fivestaralliance.com/luxury-hotels/london/claridges","https://rumemagazine.com/hotels/suite-spotlight/claridges-penthouse-suite-london-luxury/","https://www.suitesandvillas.com/suites/hotel/claridges-penthouse-price","https://www.ca.kayak.com/London-Hotels-Claridge-s.13323.ksp","https://uk.trip.com/hotels/london-hotel-detail-2386986/claridge-s-maybourne-hotel-collection/","https://www.booking.com/hotel/gb/claridge-s.html"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive overview of **Claridge's Hotel London** suite booking rates for 2026. Please note that prices vary by season and availability, so it's always best to confirm directly with the hotel.
+
+---
+
+## 🏨 Claridge's Hotel, London — Suite Rates (2026)
+
