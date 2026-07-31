@@ -1,0 +1,17 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://www.trivago.co.uk/en-GB/oar/hotel-claridge-s-london?search=100-48022","https://www.youtube.com/watch?v=GCLSDtd6PU4&t=314","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkhaMGEyYxgK","https://claridges.wearegifted.co.uk/a-suite-stay-at-claridges","https://www.privateupgrades.com/united-kingdom/claridges-hotel-london","https://www.maybourne.com/en/hotels/claridges/offers/life-is-suite","https://www.maybourne.com/en/hotels/claridges/offers","https://www.backpacklondon.co.uk/hotels/london/review/claridges","https://www.virtuoso.com/travel/luxury-hotels/6163909/claridges-london"]
+
+--- RAW RESPONSE TEXT ---
+Suite booking rates at Claridge's typically range from £2,000 to over £6,900 per night, depending heavily on seasonal demand, the exact suite tier, and specific booking packages.
+Estimated Nightly Rates by Suite Tier
+
+Current Promotions & Incentives
+You can check current availability or lock in custom packages directly through the Claridge's Stay Reservations Portal. Available promotions through April 2027 include:
+
+Would you like me to check exact pricing for specific dates or a particular suite type?
