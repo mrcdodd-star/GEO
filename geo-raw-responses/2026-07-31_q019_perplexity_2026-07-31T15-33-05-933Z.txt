@@ -1,0 +1,111 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://www.brownelltravel.com/preferred-partners/diamond-club-dorchester-collection/","https://bonvivant.co.uk/partners/dorchester-diamond-club/","https://www.foratravel.com/partners/dorchester-diamond-club","https://biirdee.com/guides/dorchester-collection-guide","https://blog.montecitovillagetravel.com/partners/dorchester-diamond-club","https://www.dcdiamondclub.com/","https://www.liveluxetravelco.com/dorchester-diamond-club","https://www.reddit.com/r/chubbytravel/comments/1kjb3qc/dorchester_collection_diamond_agents/","https://theprivatetraveller.com/dorchester-collection-diamond-club"]
+
+--- RAW RESPONSE TEXT ---
+Dorchester Collection’s **Diamond Club** is an *invitation‑only preferred partner program* for top luxury travel agencies; there is no guest loyalty program, and benefits are delivered **via eligible travel advisors**, not by direct booking.[3][4]  
+
+Below are the key **travel‑agent / client benefits** and how the program works.
+
+---
+
+## 1. What the Diamond Club is (for agencies)
+
+- **Advisor‑only program**: Diamond Club is explicitly “advisor‑only” and reserved for *elite, invited travel agencies*.[3][4]  
+- **No public enrollment for guests**: Individual travelers cannot join; **benefits attach to the booking channel (the agency)**, not the guest.[4]  
+- **Applies at standard flexible rates**: Diamond Club bookings are generally made at the **same flexible/standard rate you’d pay direct**, but with added benefits layered on.[4][7]  
+
+Agencies such as Brownell Travel, Bon Vivant Travel, Fora Travel, Biirdee, Montecito Village Travel, and Live Luxe Travel Co are examples of Diamond Club partners and can extend these perks to their clients.[1][2][3][4][5][7][9]
+
+For a travel agent, the “benefit” is the ability to offer **true value‑added VIP perks** at Dorchester Collection hotels that a client cannot obtain on their own.
+
+---
+
+## 2. Core client benefits via Diamond Club agencies
+
+Exact details can vary slightly by property and agency, but the **consistent core benefits** are:
+
+- **Confirmed one‑category room upgrade at time of booking**  
+  - Diamond Club is notable for a **guaranteed/confirmed upgrade at booking**, not “subject to availability at check‑in.”[1][2][4]  
+  - Biirdee and Bon Vivant emphasize a **one‑category upgrade confirmed at time of booking** for standard rooms.[2][4]  
+
+- **Complimentary daily breakfast for two**  
+  - Daily breakfast for two guests is a standard Diamond Club perk.[1][2][3][4][7]  
+  - Often valid **either in‑room or in the hotel restaurant**.[1]  
+
+- **Hotel / resort credit (typically 100+ units of local currency)**  
+  - Most sources cite **≈100 units of local currency** (e.g., £100 / €100 / $100) per stay to spend at the hotel and apply to the final bill.[1][2][4]  
+  - Some agencies (e.g., Live Luxe Travel Co) quote **$200 USD or equivalent per stay**, which can reflect an enhanced or agency‑specific implementation.[7]  
+
+- **VIP recognition & personalized service**  
+  - **VIP status**: Hotel management is notified of the Diamond Club booking and may personally escort the guest to their room.[1]  
+  - A **24/7 Diamond Club Ambassador Team** is available to assist during the stay.[1]  
+  - **Welcome amenity** such as a special in‑room gift is often included.[7][9]  
+
+- **Early check‑in / late check‑out (subject to availability)**  
+  - Several partners note early check‑in and late check‑out when possible.[2][7][9]  
+
+- **Priority / protected status on availability**  
+  - Brownell notes a **“no‑walk policy”**: Diamond Club guests are not walked to another hotel, providing extra security on overbooked dates.[1]  
+  - Priority for **room upgrades** and preferential handling of requests is commonly cited.[1][3][9]  
+
+- **Complimentary high‑speed internet**  
+  - Daily unlimited internet access for an unlimited number of devices is highlighted by Brownell.[1]  
+
+These benefits are generally **per stay**, tied to the booking, and applied on top of the standard flexible rate.[4][7]
+
+---
+
+## 3. Suite & room‑type nuances
+
+Some agencies and Dorchester materials differentiate benefits by room category:[1][4]
+
+- **Guest rooms / junior suites**  
+  - **Confirmed upgrade at time of booking** for guest rooms (subject to inventory).[1][4]  
+  - For junior suites, common patterns include **upgrade on arrival if available** rather than fully guaranteed at booking.[1]  
+
+- **Full suites**  
+  - Brownell cites **daily 100‑unit local‑currency credit for suites**, vs. one‑time credit for rooms/junior suites.[1]  
+  - In practice, the exact configuration can vary by property, so agents often check each hotel’s Diamond Club grid.[3][9]  
+
+Live Luxe’s published grid shows both a **confirmed one‑category upgrade** and an additional **one‑category upgrade at check‑in (if available)**, implying potential double‑upgrade scenarios at some hotels.[7]  
+
+---
+
+## 4. How travel agents benefit professionally
+
+For a travel advisor, Diamond Club confers **competitive advantages**:
+
+- Ability to offer **“same rate as direct, plus extras”** at all Dorchester Collection hotels.[4][7]  
+- Access to **priority contacts and Ambassador team**, making it easier to secure special arrangements for clients.[1][3][9]  
+- **Stronger client value proposition** (upgrades, breakfast, credits) that helps with client retention and justification of planning fees.[4][5][7]  
+- Enhanced client perception: guests receive **visible VIP treatment**, and hotel staff recognize Diamond Club bookings as high‑value business.[1][9]  
+
+Some agencies publish their own **policies/fees**: for example, Live Luxe Travel Co books Dorchester stays with Diamond Club benefits and waives booking fees above a given nightly or total spend threshold.[7]
+
+---
+
+## 5. Access & eligibility (for agents and clients)
+
+- **For travel agents**  
+  - Diamond Club membership is **by invitation** from Dorchester Collection and limited to **top‑tier luxury agencies**.[3][4][9]  
+  - New or independent advisors usually gain access by affiliating with an existing Diamond Club member agency or consortium.[3][8][9]  
+
+- **For travelers / end clients**  
+  - Guests cannot enroll directly; they must **book through a Diamond Club agency/advisor** to receive benefits.[3][4][7]  
+  - The **Dorchester Diamond Club rate** should reflect the hotel’s **flexible/standard rate**, and benefits are often combinable with certain packages, as long as identical benefits aren’t duplicated (e.g., only one set of breakfast benefits).[7]  
+
+To use Diamond Club as a traveler, you simply:
+
+1. Work with a **Diamond Club‑accredited travel advisor**.  
+2. Book your Dorchester stay through them at the appropriate Diamond Club rate.  
+3. The **upgrade, breakfast, credit, and VIP treatment** are then attached to your reservation automatically.[1][3][4][7]  
+
+---
+
+If you tell me whether you are a traveler or a travel advisor (and in which country you’re based), I can outline concrete next steps: either how to find a Diamond Club agency you can use, or how advisors typically gain access via host agencies or consortia.
