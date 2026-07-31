@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.fourseasons.com/london/","https://www.fourseasons.com/london/services-and-amenities/family/","https://press.fourseasons.com/london/hotel-news/2025/renovated-suites/","https://www.guestreservations.com/four-seasons-hotel-london-at-park-lane/booking","https://www.fivestaralliance.com/luxury-hotels/london/claridges","https://www.maybourne.com/en/hotels/claridges/suites-rooms","https://www.mayfair-london.co.uk/listing/the-athenaeum-hotel-residences/","https://www.kidandcoe.com/destinations/mayfair/the-athenaeum-residences","https://www.athenaeumhotel.com/rooms/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a curated guide to the **best family-friendly 5-star suites in London's Mayfair**:
+
+---
+
+## 🏨 Top Family-Friendly 5-Star Suites in Mayfair, London
+
+---
+
+### 1. 🌟 Four Seasons Hotel London at Park Lane
+**Park Lane, Mayfair**
+
