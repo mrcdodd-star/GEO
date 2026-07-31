@@ -1,0 +1,107 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://guide.michelin.com/us/en/greater-london/london/restaurants/michelin-hotels","https://luxurylondon.co.uk/travel/london/london-hotels-with-michelin-starred-restaurants/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://thehoteljournal.com/best-five-star-hotels-london-england/","https://www.fourseasons.com/london-collection/","https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london","https://www.squaremeal.co.uk/restaurants/best-for/best-hotels-michelin-star-restaurants-london-uk_10809","https://sofitel.accor.com/en/hotels/3144.html","https://www.booking.com/fivestars/city/gb/london.en-gb.html","https://five-star-hotel.com/london/","https://www.thecaterer.com/indepth/london-hotels-michelin-star-restaurants","https://www.aladyofleisure.com/hotels-with-michelin-star-restaurants/","https://guide.michelin.com/us/en/article/travel/all-the-michelin-key-hotels-in-london","https://www.thegoring.com/food-drink/the-dining-room/","https://www.timeout.com/london/news/4-london-hotels-have-just-been-awarded-prestigious-michelin-key-ratings-101325","https://guide.michelin.com/us/en/travel-guide/london","https://guide.michelin.com/us/en/hotels-stays/london","https://dinewithjp.com/london-best-luxury-hotels-for-food-lovers/","https://www.theritzlondon.com/dine-with-us/the-ritz-restaurant/","https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"]
+
+--- RAW RESPONSE TEXT ---
+Several **5‑star London hotels** currently have **Michelin‑starred restaurants on site**. Here are the most notable options, focusing on places where you can both stay and dine at a Michelin‑star level in the same property.
+
+---
+
+### Central / West London (Mayfair, St James’s, Westminster)
+
+**1. The Dorchester (Mayfair, Park Lane)**  
+- **Hotel:** Iconic 5‑star luxury hotel on Park Lane.[6][4]  
+- **Michelin restaurant:** **Alain Ducasse at The Dorchester** – **3 Michelin stars**, French fine dining.[4][7][6]  
+- Also hosts other acclaimed venues such as China Tang and The Grill by Tom Booton.[4][6]  
+- Ideal if you want one of London’s highest‑rated fine‑dining experiences within a classic luxury hotel.
+
+**2. Four Seasons Hotel London at Park Lane (Mayfair)**  
+- **Hotel:** 5‑star luxury hotel in Mayfair.[5][3]  
+- **Michelin restaurant:** **Pavyllon London** by Yannick Alléno – **1 Michelin star**.[3][5]  
+- Modern French cuisine in a refined but relaxed setting.[3][5]  
+
+**3. The Ritz London (Piccadilly)**  
+- **Hotel:** Historic 5‑star grand hotel near Green Park.[6]  
+- **Michelin restaurant:** **The Ritz Restaurant** – **2 Michelin stars** and multiple awards.[2][6][19]  
+- Very formal, classic dining room with traditional French‑leaning cuisine.[6][19]  
+
+**4. Sofitel London St James (St James’s)**  
+- **Hotel:** 5‑star French‑inspired luxury hotel in St James’s.[8][15]  
+- **Michelin restaurant:** **Wild Honey St James** – **1 Michelin star**.[8]  
+- Seasonal, modern European cooking with French technique.[8]  
+
+**5. The Corinthia London (near Whitehall/Embankment)**  
+- **Hotel:** 5‑star luxury hotel close to Trafalgar Square and the river.  
+- **Michelin restaurant:** **Kerridge’s Bar & Grill** – **1 Michelin star** (listed as a hotel‑based Michelin restaurant).[7]  
+- British brasserie‑style menu with elevated comfort dishes.[7]  
+
+---
+
+### Knightsbridge / Hyde Park Corner
+
+**6. The Peninsula London (Hyde Park Corner)**  
+- **Hotel:** New ultra‑luxury 5‑star property overlooking Hyde Park Corner.[11]  
+- **Michelin restaurant:** **Brooklands** – **2 Michelin stars**, rooftop modern British restaurant.[2][11]  
+- High‑end, design‑driven setting with motorsport and aviation‑inspired décor.[2][11]  
+
+**7. Mandarin Oriental Hyde Park (Knightsbridge)**  
+- **Hotel:** 5‑star luxury hotel directly on Hyde Park.[12]  
+- **Michelin restaurant:** **Dinner by Heston Blumenthal** – historically 2 Michelin stars (hotel regularly cited among London stays with Michelin‑star dining).[12][20]  
+- Historically focused on historically inspired British cuisine; check current star status in the latest guide for exact rating.[20]  
+
+---
+
+### Tower Hill / City
+
+**8. Four Seasons Hotel London at Ten Trinity Square (Tower Hill)**  
+- **Hotel:** 5‑star luxury hotel near the Tower of London.[11]  
+- **Michelin restaurant:** **La Dame de Pic London** – **2 Michelin stars**, French cuisine by Anne‑Sophie Pic.[4][11]  
+- Known for highly technical, creative French dishes with strong wine pairings.[11]  
+
+---
+
+### Mayfair boutique luxury
+
+**9. The Connaught (Mayfair)**  
+- **Hotel:** 5‑star luxury hotel in Mayfair.[9][10][3]  
+- **Michelin restaurant:** **Hélène Darroze at The Connaught** – **3 Michelin stars**.[3][10][18]  
+- Contemporary French cuisine with tasting menus and extensive wine list.  
+
+---
+
+### Belgravia
+
+**10. The Goring (Belgravia)**  
+- **Hotel:** Family‑run 5‑star hotel near Buckingham Palace (often categorised as 5‑star luxury).[14]  
+- **Michelin restaurant:** **The Dining Room at The Goring** – **1 Michelin star**.[14][11]  
+- Classic British fine dining in a traditional setting.[14]  
+
+---
+
+### How to choose
+
+If you want:
+
+- **Highest level of Michelin dining on site:**  
+  - **Alain Ducasse at The Dorchester (3★)** at The Dorchester.[4][7]  
+  - **Hélène Darroze at The Connaught (3★)** at The Connaught.[10][18]  
+
+- **Two‑star experiences in a hotel:**  
+  - **The Ritz Restaurant (2★)** at The Ritz.[2][6][19]  
+  - **Brooklands (2★)** at The Peninsula London.[2][11]  
+  - **La Dame de Pic (2★)** at Four Seasons Ten Trinity Square.[4][11]  
+
+- **More relaxed 1‑star options within a 5‑star setting:**  
+  - **Pavyllon London (1★)** at Four Seasons Park Lane.[3][5]  
+  - **Wild Honey St James (1★)** at Sofitel London St James.[8]  
+  - **Kerridge’s Bar & Grill (1★)** at Corinthia London.[7]  
+  - **The Dining Room (1★)** at The Goring.[14][11]  
+
+For the most up‑to‑date star ratings (they can change year‑to‑year), it is best to cross‑check individual restaurants in the current **Michelin Guide for Great Britain & Ireland**.[1][16][20]  
+
+If you tell me your preferred area (Mayfair, City, Knightsbridge, etc.) and style (classic vs modern, French vs British), I can narrow this down to 2–3 best fits and suggest typical price ranges.
