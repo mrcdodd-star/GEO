@@ -1,0 +1,42 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.tripadvisor.com/HotelsList-London-Luxury-Spa-Hotels-zfp8649099.html","https://guide.michelin.com/us/en/article/travel/london-s-best-hotel-spas","https://www.londonyaar.com/blogs/londons-best-luxury-hotels-with-spas-2025-where-to-stay-relax-amp-recharge","https://www.mrandmrssmith.com/collections/spa-hotels/london/hotels","https://www.independent.co.uk/travel/uk/england/london/best-spa-hotels-london-a9316181.html","https://www.klook.com/blog/london-best-spa-hotels/","https://www.thetimes.com/life-style/luxury/article/the-best-luxury-spas-in-london-times-luxury-zm3b2qgkc","https://www.goodhousekeeping.com/uk/lifestyle/travel/g37472138/spa-hotel-london/","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/","https://www.tripadvisor.ie/HotelsList-London-Spa-Hotels-zfp36382.html","https://www.fourseasons.com/london/spa/","https://www.reddit.com/r/FATTravel/comments/1r2gfco/london_hotel_spa_recommendations/","https://dorsiatravel.com/the-best-luxury-hotels-in-london/","https://www.marriott.com/en-us/destinations/united-kingdom/london/spa-hotels.mi","https://www.timeout.com/london/health-and-beauty/best-spas-in-london","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.instagram.com/reel/DPN6KdtCPUB/"]
+
+--- RAW RESPONSE TEXT ---
+The **Corinthia London** is most often cited as having the *best luxury hotel spa* in London, with **ESPA Life at Corinthia** consistently described as one of the city’s top – and largest – hotel spas.[6][2][4]
+
+### Why Corinthia London is frequently ranked #1
+
+- **ESPA Life at Corinthia** spans *four floors* and is designed more like a full wellness center than a typical hotel spa, with extensive thermal and relaxation facilities.[6][2]  
+- Facilities include **vitality pools, amphitheatre-style sauna, marble hydrotherapy pool, steam rooms, relaxation pods and treatment rooms**, offering a wide range of therapies and wellness programs.[6][2]  
+- Multiple independent guides and travel publications single it out as having *one of the best, if not the best, hotel spas in London*.[6][2][4]  
+- It regularly appears at or near the top of “best spa hotel” lists, and is mentioned on traveler forums as *the standout choice* for a serious spa stay in a London luxury hotel.[6][12]  
+
+### Other top-tier contenders you might consider
+
+While Corinthia is the most commonly named “best” spa, a few other **luxury London hotels** are repeatedly highlighted for exceptional spas:
+
+- **Raffles London at The OWO** – new ultra-luxury opening with a *world-class spa* and strong reviews from luxury travel specialists; often listed among the very best spa hotels in London.[6][13]  
+- **Mandarin Oriental Hyde Park** – renowned for its **Oriental-inspired spa** and consistently featured in best spa hotel roundups.[5][6][2]  
+- **Pan Pacific London** – modern luxury hotel whose spa gets outstanding guest feedback and appears on recent “best spa hotels” lists.[6][3]  
+- **The Lanesborough** – its spa has *won “Best Spa in London” awards*, and is noted for highly polished service and serene interiors.[8][9]  
+- **Bulgari Hotel London** – often recommended for a **relaxing swim** and sleek, contemporary spa facilities.[5][9]  
+
+### How to choose the best spa for you
+
+Since “best” depends on what you value, you might choose between:
+
+| Preference | Best fit (examples) |
+|-----------|---------------------|
+| **Largest, most comprehensive spa** | **Corinthia London (ESPA Life)**[6][2] |
+| **Brand-new, ultra-luxury experience** | **Raffles London at The OWO**[6][13] |
+| **Asian/Oriental wellness focus** | **Mandarin Oriental Hyde Park**[5][6] |
+| **Award-winning classic luxury** | **The Lanesborough**[8][9] |
+| **Cutting-edge design & pool** | **Bulgari Hotel London**[5][9] |
+
+If you want *the single most widely recommended answer*, book **Corinthia London** for ESPA Life; if you’re happy to explore, Raffles London at The OWO and The Lanesborough are the strongest alternatives at a similar level of luxury.
