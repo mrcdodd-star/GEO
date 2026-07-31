@@ -1,0 +1,16 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the connaught vs the dorchester location and vibe
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/the-connaught","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.luxuryexplorer.com/UK/London/The-Dorchester","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://www.cntraveler.com/hotels/london/the-connaught","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-connaught","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/mayfair/hotels/the-connaught-hotel/","https://extraordinarytravelz.com/2025/04/15/is-the-connaught-the-best-hotel-in-london/","https://dorsiatravel.com/review-the-connaught-london/","https://www.youtube.com/watch?v=5_5DuvhLxcA&t=33","https://www.youtube.com/watch?v=0tbSm7o0HPk&t=10","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/the-dorchester-hotel-review-whbs5vc57","https://www.cntraveler.com/hotels/london/the-dorchester","https://www.timeout.com/london/hotels/the-dorchester","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.thefivestaredit.com/post/the-connaught-london","https://www.reddit.com/r/chubbytravel/comments/1mt4xkn/the_connaught_a_controversial_review_not_my/","https://www.youtube.com/watch?v=nlQOoinKiCk","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://guide.michelin.com/gb/en/hotels-stays/london/the-dorchester-194","https://homegirllondon.com/ten-reasons-to-visit-connaught-village-london-w2/","https://www.ahotellife.com/hotels/the-connaught/","https://www.tripadvisor.co.uk/Hotel_Review-g186338-d187991-Reviews-or20-The_Connaught-London_England.html","https://www.outthere.travel/the-dorchester-london-united-kingdom/","https://www.cntraveller.com/hotels/london/the-connaught-hotel-review","https://www.tripadvisor.co.uk/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html"]
+
+--- RAW RESPONSE TEXT ---
+While both legendary five-star properties sit within London's affluent Mayfair district, The Connaught offers a discreet, residential "village" sanctuary, whereas The Dorchester provides a grand, high-energy theatrical showcase.
+Quick Comparison
+
+Location Breakdown
+
+Vibe Breakdown
