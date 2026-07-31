@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: oetker collection lanesborough vs dorchester collection london
+
+CITED URLS:
+["https://blublazerguy.com/2021/08/23/the-lanesborough/","https://kktww.com/lanesborough-hotel-oetker-collection/","https://historichotelsthenandnow.com/dorchesterlondon.html","https://www.timeout.com/london/health-and-beauty/the-dorchester-spa","https://www.afar.com/hotels/the-dorchester-london","https://www.americanexpress.com/en-au/travel/discover/property/England/London/The-Lanesborough-Oetker-Collection","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-dorchester","https://www.booking.com/hotel/gb/the-lanesborough.en-gb.html","https://www.asmallworld.com/collection/hotels/the-lanesborough","https://www.spabreaks.com/venues/the-dorchester-spa"]
+
+--- RAW RESPONSE TEXT ---
+Here is a detailed, side-by-side comparison of **The Lanesborough, Oetker Collection** and **The Dorchester, Dorchester Collection** — two of London's most storied and prestigious luxury hotels:
+
+---
+
+# 🏛️ The Lanesborough, Oetker Collection vs. The Dorchester, Dorchester Collection
+
+---
+
+## 🏠 Heritage & History
+
+### The Lanesborough
