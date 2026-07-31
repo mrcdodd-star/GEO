@@ -1,0 +1,21 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://www.reddit.com/r/chubbytravel/comments/1fviomp/london_hotel/","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.outthere.travel/mandarin-oriental-hyde-park-london-united-kingdom/","https://www.escape.com.au/destinations/europe/uk/london/hotel-review-the-mandarin-oriental-hyde-park-london-is-a-luxury-star/news-story/4f5ee7731b089288c92214dd97076083","https://www.forbestravelguide.com/hotels/london-united-kingdom/mandarin-oriental-hyde-park-london","https://www.tripadvisor.ie/Hotel_Review-g186338-d188963-Reviews-Mandarin_Oriental_Hyde_Park_London-London_England.html","https://dorsiatravel.com/short-review-mandarin-oriental-hyde-park/","https://www.mandarinoriental.com/en/london/hyde-park","https://santorinidave.com/hyde-park-hotels","https://www.gastrotravelogue.com/travel/luxury-hotels-in-london/","https://www.luxurylink.com/5star/hotels/london-england/dorchester","https://vogueproperties.co.uk/discover-luxury-and-heritage-when-you-visit-london/","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://www.luxuryexplorer.com/UK/London/45-Park-Lane","https://www.elegantresorts.co.uk/luxury-properties/united-kingdom-and-ireland/mandarin-oriental-hyde-park-london","https://www.asmallworld.com/collection/hotels/the-lanesborough","https://www.mandarinoriental.com/en/london/hyde-park/stay/knightsbridge-family-room","https://www.fivestarhotels.co.uk/hotels/mandarin-oriental-hyde-park-london/","https://www.agoda.com/en-gb/the-dorchester/hotel/london-gb.html","https://www.trivago.co.uk/en-GB/oar/hotel-the-dorchester-london?search=100-48161","https://www.booking.com/hotel/gb/mandarin-oriental-hyde-park-london.en-gb.html","https://www.cntraveler.com/hotels/doha/mandarin-oriental-doha"]
+
+--- RAW RESPONSE TEXT ---
+Choosing between Mandarin Oriental Hyde Park and The Dorchester comes down to whether you prefer contemporary luxury with direct park access and high-tech amenities or a stately, ultra-traditional British grand dame with world-class dining. Both are iconic five-star London institutions flanking Hyde Park, but they offer distinct styles, vibes, and locations.
+Quick Comparison
+
+Location and Vibe
+
+Accommodation and Views
+The rooms are heavily tech-focused, featuring modern conveniences like Bang & Olufsen screens, multi-setting lighting, and automated Toto or Duravit toilets. The park-facing rooms offer unobstructed, ground-level views of the park greenery, including the daily Royal Horse Guards parade.
+Rooms favor classic English country-house aesthetics with rich fabrics and deep marble bathtubs. Higher floors offer sweeping views across London and Hyde Park, but you must be careful with lower-tier bookings, as internal-facing rooms on the lower floors can lack natural light.
+Dining and Amenities
+
+To help tailor a recommendation, let me know:
