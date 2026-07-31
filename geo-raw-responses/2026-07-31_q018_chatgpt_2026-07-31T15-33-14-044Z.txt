@@ -1,0 +1,25 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.google.com/maps/search/The+Dorchester?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+
+## [The Dorchester](https://www.google.com/maps/search/The+Dorchester?utm_source=openai)
+
+
+Booking the Hyde Park Suite at The Dorchester directly through the hotel's official channels offers several exclusive benefits:
+
+- **Dedicated Butler Service**: Enjoy round-the-clock assistance from a dedicated butler, ready to cater to your needs throughout your stay.
+
+- **Complimentary Round-Trip Transfers**: Experience seamless travel with complimentary round-trip transfers from your chosen London airport or railway station to The Dorchester.
+
+- **Use of Chauffeur-Driven Car**: Access a chauffeur-driven car during your stay, subject to availability, for convenient travel around London.
+
+- **Complimentary 'Speed Nap Experience'**: Relax with a complimentary speed nap session in The Dorchester Spa's serene relaxation room, featuring the Welnamis lounger with soothing vibrations and a calming binaural soundtrack.
+
+These perks are designed to enhance your stay, providing luxury and convenience. For more details or to make a reservation, please visit the official Dorchester Collection website. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai)) 
