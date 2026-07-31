@@ -1,0 +1,28 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.mandarinoriental.com/en/london/hyde-park/wellness/the-spa?src=loc.yext.molon.ggl&utm_source=openai","http://www.hotelcaferoyal.com/wellness?utm_source=openai","https://www.peninsula.com/en/london/wellness/spa?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts a plethora of luxury hotels with exceptional spa facilities. Here are some of the top options:
+
+**[The Spa at Mandarin Oriental Hyde Park, London](https://www.mandarinoriental.com/en/london/hyde-park/wellness/the-spa?src=loc.yext.molon.ggl&utm_source=openai)**  
+**Open now · Spa · 4.4 (86 reviews)**  
+_66 Knightsbridge, London SW1X 7LA, United Kingdom_  
+Spanning two floors, this spa includes a colour therapy area, amethyst crystal steam room, mineral vitality pool, and 13 treatment rooms offering therapies like hot stone massages and anti-ageing facials.
+
+**[Akasha](http://www.hotelcaferoyal.com/wellness?utm_source=openai)**  
+**Open now · Spa and health club · 4.5 (179 reviews)**  
+_Hotel, Café Royal, 68 Regent St., London W1B 4DY, United Kingdom_  
+A subterranean spa with an 18-metre lap pool, Watsu hydrotherapy pool, hammam, sauna, steam room, and Jacuzzis. Offers holistic treatments including massages and facials.
+
+**[The Peninsula Spa & Wellness Centre](https://www.peninsula.com/en/london/wellness/spa?utm_source=openai)**  
+**Open now · Spa · 3.9 (8 reviews)**  
+_1 Grosvenor Pl, London SW1X 7HJ, United Kingdom_  
+A luxurious spa inspired by London's royal parks, featuring a 25-metre heated pool, thermal cabins, steam room, sauna, and seven treatment rooms offering Ayurvedic therapies and high-tech facials.
+
+Each of these spas offers a unique experience, combining luxurious facilities with a range of treatments to cater to various preferences. 
