@@ -1,0 +1,50 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt4BRSJRofB4_qqFjieInNdgMNi1YlCCXKvTyz8b-G8X1hnbBua2QDFWPlAx_HskaWpA6ldG7sYEqqjkvY0nb4d5cOJ1VqpIRMbdEViH6AFDFzdIVcJkXoJ6dWay1kFO-gyQtvxzZlkEQKukKb","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrTXj1N80DVk1TlaErUKpJAbRCO29LJ8LybHlrzyXJgX40Xo1lUhYWr96_QvTrlxOa2yzN40TyRnSUahqd7K0LZJ3WpGh006tQ3jB2kcsafgpOvlo0kQzt5mujjkQO2wNCIaNg6pOCDPBc3WFqTHFhxd_bKQ6JpgtEDjetuoOR","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8hkDIS2jMUtFOY1viG_4MWHka8zwguf8QDT8qtK8qLePz9H0piDehn2SGMrbyp9gl70_fAGmtX4bSqosi55kw2MH9L3exP_npQio2TodMbiJAK2Jja1HDbwoCZtCZvss9OmFN1pSoPC1MXqDt37lEWc65rd-RjYIyjw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4zY0Aq6UV5yX74mYooCKs4HrW0ogyXl_RmphN-8J6mg7hQ6YGqIi5sONP72NFi_4K4pFdOAT3AQefSg-gVFU3TvR8A99UB0VBvIHORwtT88ABkmYa1JJTqbkac-MlhkIT0trNSvFmkQx4ETuIBNmPG3Cfnk_ana_FDMzNqrZu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBB02DeqPSP8PWpaNpkR1_6atg8xSsJNztO7EWVY8_fKW0oTC5YZ8edsOkQYsyAWpecwvyJ4HsYmw3zzarmCVENgBzPzqS-Q8RfxGVZHuxtzEkgZAPt21BjTiT2Q8V1ldHtkGRA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ3HYS3GiCPf0uHvWCw9VKEEStLOpCPGgo2OET0sUoSMGf0EbsUA1Dl79i_aaiAM1Qa3e9RYnovUNEIy54DdZht_jm5pufVnDPPEXjMoGziNQ-i8HOrqtk-9VHMLojkYgvbw-WEwFd4gGzzr-wNpJPgJob3GehoHCipwmom8HV-WfzKHNpRMn4hokWJxSQ3jkiqXD-S8RTSSmKZ8J-DpVd7WTBaVULYvkUjg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEfc-g8lD24qlwPZpDOiJE4pyZSLfvcYiUlExhh1jD_yk2wasP49lo_a8XPh_XRVQd89iczalXqb4jarVO4P1Awd9xYi7sLJBHhn5LcfGGMPH_fQ4rIoRedilRTM2_xLookHgc98LxGkq1FsbR6wuevvvMRQw7YFj_KCclBxM2WdcEy9gHuJkOqcbyQf08HOPiLg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP4LCG6w8cTPvaq7TDCTcIi7wIJUgDZ8JtZPL-rDa2QmP3njp14nZMH7JEvqED4KwDWeGlFErbyUhAojhCU9He5jXDhUNVRq67RbiHVtORgsU8BGO1Jt2eeRs4IweHj8HiDUpjdgS-_yxotyd7935k7KZUuAHnxX4G9D307tGtO4iwXxxFPm7tJ0b99rTq8aP-URt0e3pRaTONzBPYkw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiAxKRbn-yCHR2MyRmT_hzEr9xrqbvGj1PwpvldbJJ6cmVnlQ6jjz4nLw8yQUrFSJI82XuuN-T2HAKXNtMdrIQId-NgUqZ0OdHRSedqtsQHQFbmjv00Eon0WPWkioZOWHlg1gqhq6-uqWfsGk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8gN2i80fJHeT0Fz2_cE4mEr6w8SMuHFdefhwPSEYAoqb6DHLKdHhZcs2owlteqWALqeDE6gt6ikm-yVW4gwqMAK8_d8whi9jb09QQv05qmgllxLKbs4maKexB-r79qtBgFxsvZtwhIXuPGG0lByROsDEvaB7nNW0pMEX5HNH79lEuIB-0Y7G9PX1metOpDp8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsT0IVRD-D1jD8o-do_uO7jtCf1y1EQiPgNmrZyVowjuQTDPR5SqdDQimmWJwQIUOXf5UELN1zCQbLWw4FREK010mRNSHaEAZyAGPgpCFw6lZWOD7ZSgyDv4aDku_OnsE313vjZw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_burTMUjYr9pZ_INcPdbzzY_bGxjEc3WPU12fl9bg1y6qExzLLKCrN_KQtyskyT0e8FiKrToM_kfdBfvOEdx_0_TY_nkYynMhpg7fbrtMe-Y12juJCpgDT7HCCTfLBHgcVXSGCuSTCqo5FUUNow2FzS9c-mMSzBpi","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSgzT4l9XT8OLLAH0nzMIJa4BzTJiCx0ZPo-JZCVCIHC0PXBsSdyOoh8IAlrWdyhXYOXiGpxrUyg2etBotklYdF3OovU49W41XbaH7eHUYvliiIg7nRZS1bibeEiwl7bk57IIM_PtccwKsoo-ZcAh_24om6VWAs2kK7fsFSZVtBvgkxar-eKFyOhGTTv9z8SAYnYv-Xdx_UyI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHic1sZiq8AGfnB2B2q7a53zX3yARcfS6CFGUwk89eWblCXgYCgQ-z6qCKyDGUEotyC3EMnkpuqGeRQJimnGpTdszd9muwqrKUUU2D90Edg1l5t9d-SKLajFTbjEhzHlpeBfLsX6--e7kiTyEHvt9sdXrBejz0s7vFCZti8woWDEpf-4yezzWDd-V2qZfPj_A0RnOxPUqGFoojXPZofu8CszQ=="]
+
+--- RAW RESPONSE TEXT ---
+Choosing between **Mandarin Oriental Hyde Park** and **The Dorchester** means choosing between two of London’s absolute finest ultra-luxury hotels. While they are located on opposite sides of Hyde Park, they offer distinct atmospheres, styles, and strengths. 
+
+The primary differences between the two properties span across location, design, dining, and wellness facilities.
+
+---
+
+### 1. Location & Park Proximity
+*   **Mandarin Oriental Hyde Park (Knightsbridge):** Located on the south side of the park, this hotel boasts **direct park access**. Its back entrance opens straight onto the sand track of Hyde Park, meaning guest rooms on the park side enjoy uninterrupted views of the greenery. (You can even watch the Household Cavalry pass by every morning). Out the front door, you are in the heart of Knightsbridge, seconds away from elite shopping at **Harrods, Harvey Nichols, and Sloane Street**.
+*   **The Dorchester (Mayfair):** Situated on Park Lane, The Dorchester is separated from Hyde Park by a busy multi-lane road. While top-tier suites and park-facing rooms offer spectacular, sweeping views of the tree canopy, you do not get the same immediate step-out-the-door park access. However, its front door opens into **Mayfair**, placing you steps away from London’s most prestigious art galleries, high-end tailors, private members' clubs, and upscale dining.
+
+### 2. Design, Rooms & Recent Renovations
+*   **The Dorchester (Traditional-Glamour Reimagined):** The Dorchester is a legendary 1930s Art Deco landmark. It completed a comprehensive, multi-year renovation. Helmed by designers like Pierre-Yves Rochon, the renovated guest rooms and suites blend 1930s glamour with an English garden aesthetic (featuring pastel tones, Colefax and Fowler florals, and hand-painted de Gournay headboards). 
+    *   *Highlight:* The hotel restored the theatrical, ultra-exclusive **Oliver Messel Suite** and debuted a sprawling, brand-new **Royal Suite** overlooking the park.
+*   **Mandarin Oriental (Contemporary Sleekness):** Reopened in 2019 following a major restoration by designer Joyce Wang, the MO leans into a sleek, contemporary-classic aesthetic. It successfully marries its historic Edwardian exterior with a fashion-forward, Asian-influenced interior. The rooms feel incredibly fresh, light, and highly functional, featuring modern high-tech luxuries like Bang & Olufsen entertainment systems, Nespresso machines, and heated Japanese-style toilets.
+
+### 3. Dining & Nightlife
+Both hotels are absolute powerhouses in the London culinary scene, but they offer different vibes:
+*   **The Dorchester:**
+    *   **Alain Ducasse at The Dorchester:** A culinary institution boasting **3 Michelin stars**, serving world-class, contemporary French cuisine.
+    *   **The Grill by Tom Booton:** A lively, modern twist on classic British grill dining.
+    *   **Vesper Bar:** A gorgeous, 1930s-inspired cocktail bar designed by Martin Brudnizki that is highly popular with Mayfair locals.
+    *   **The Promenade & Artists' Bar:** Iconic spots for afternoon tea and evening champagne, featuring live entertainment and Liberace’s famous mirrored piano.
+*   **Mandarin Oriental:**
+    *   **Dinner by Heston Blumenthal:** A **2 Michelin-starred** restaurant offering highly creative, historic British gastronomy (famous for its iconic "Meat Fruit").
+    *   **The Aubrey:** A moody, chic Japanese izakaya and cocktail lounge featuring a superb vinyl-sound system and late-night drinks.
+    *   **The Rosebery:** A bright and beautiful salon known for having one of the best and most creative afternoon tea services in the city.
+
+### 4. Spa & Wellness (The Pool Factor)
+If fitness and spa facilities are a priority for your stay, this is a major differentiator:
+*   **Mandarin Oriental:** Offers a world-class wellness experience. It features an award-winning, deeply calming subterranean spa, a state-of-the-art fitness center, and a beautiful **17-meter indoor swimming pool**.
+*   **The Dorchester:** Features a highly luxurious, pampering boutique spa, but **does not have a swimming pool**. 
+
+---
+
+### The Verdict: Which should you choose?
+
+*   **Choose Mandarin Oriental Hyde Park if:** 
+    You want direct, tranquil access to the park, love high-end shopping (being next door to Harrods/Harvey Nichols), appreciate contemporary high-tech room design, and consider an **indoor swimming pool** and top-tier spa essential to your stay. It has a slightly sleeker, younger, and more global luxury feel.
+*   **Choose The Dorchester if:** 
+    You want to immerse yourself in classic, legendary British glamour. It is the better choice if you prefer the prestigious, residential feel of Mayfair, want to experience 3-Michelin-starred dining, and want to stay in freshly modernized rooms designed with an elegant, English-garden touch.
