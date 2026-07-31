@@ -1,0 +1,17 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.guestreservations.com"]
+
+--- RAW RESPONSE TEXT ---
+To check live availability and specific pricing for the Signature Suites at The Dorchester London, you will need to input your specific travel dates, as booking availability and rates fluctuate constantly.
+A baseline check via Booking.com shows that the premium suites are available for booking, with starting sample rates structured as follows:
+Signature Suite Pricing & Options
+
+How to Verify and Book Available Dates
+
+To help me pull exact availability and the best package deals, could you provide your intended check-in and check-out dates, alongside the number of guests in your party?
