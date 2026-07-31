@@ -1,0 +1,29 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/claridges/suites-rooms/royal-suite?utm_source=openai","https://www.asmallworld.com/collection/hotels/claridges-london?utm_source=openai","https://www.maybourne.com/en/hotels/claridges/booking?restaurant=TheFoyerReadingRoom&utm_source=openai","https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_united_kingdom/sub_england/cty_greater_london/34123457141680/?utm_source=openai","https://www.claridges.co.uk/special-offers/life-is-suite/?infinity=mac~M_B%3A+ME+-+Claridges+-+Exact~Claridges+Hotel~~~claridge+hotel+uk~&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Claridge's in London offers a range of luxurious suites, each with unique features and varying rates. Please note that suite rates fluctuate based on factors such as the specific suite, booking dates, and availability. For the most accurate and up-to-date pricing, it's recommended to contact Claridge's directly or visit their official website.
+
+Here are some of the suites available at Claridge's:
+
+- **Royal Suite**: A two-bedroom suite featuring twin dressing rooms, a Gilbert & Sullivan grand piano, and a dining table for eight guests. ([maybourne.com](https://www.maybourne.com/en/hotels/claridges/suites-rooms/royal-suite?utm_source=openai))
+
+- **Brook Suite**: Combines Georgian grandeur with contemporary flair, offering a spacious living area, dining table for six, and walk-in wardrobes. ([asmallworld.com](https://www.asmallworld.com/collection/hotels/claridges-london?utm_source=openai))
+
+- **Claridge's Suite**: Features an impressive entrance hall, spacious sitting room, and bedroom, with original Victorian or Art Deco period features. ([asmallworld.com](https://www.asmallworld.com/collection/hotels/claridges-london?utm_source=openai))
+
+- **Corner Terrace Suite**: Offers a bright living room with cream sofas, a grey armchair, and a light wood coffee table topped with flowers, featuring a cherry blossom artwork on the wall above. ([maybourne.com](https://www.maybourne.com/en/hotels/claridges/booking?restaurant=TheFoyerReadingRoom&utm_source=openai))
+
+- **Two Bedroom Claridge's Suite**: Includes a contemporary living room with a sofa, two armchairs, and a coffee table, centered around a green marble fireplace and framed by large windows. ([maybourne.com](https://www.maybourne.com/en/hotels/claridges/booking?restaurant=TheFoyerReadingRoom&utm_source=openai))
+
+For example, the Brook Suite, which spans 115 m² (1,238 ft²) and includes a king bed with city views, has been listed at €7,029 per night. ([asmallworld.com](https://www.asmallworld.com/collection/hotels/claridges-london?utm_source=openai)) Similarly, the Claridge's Suite, measuring 100 m² (1,076 ft²) with a king bed and various views, has been listed at $4,498 per night. ([travel.rakuten.com](https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_united_kingdom/sub_england/cty_greater_london/34123457141680/?utm_source=openai))
+
+Additionally, Claridge's offers special promotions such as the "Life Is Suite" package, which provides a 15% discount on suite bookings. ([claridges.co.uk](https://www.claridges.co.uk/special-offers/life-is-suite/?infinity=mac~M_B%3A+ME+-+Claridges+-+Exact~Claridges+Hotel~~~claridge+hotel+uk~&utm_source=openai))
+
+To obtain the most accurate and current rates for your desired dates, it's advisable to contact Claridge's directly or visit their official website. 
