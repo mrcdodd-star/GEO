@@ -1,0 +1,43 @@
+RUN DATE: 2026-07-31
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.standard.co.uk/lifestyle/travel/dorchester-royal-suite-london-hotel-30000-a-night-b1284718.html?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite?utm_source=openai","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite?utm_source=openai","https://theweek.com/arts-life/travel/953955/the-dorchester-hotel-review-london?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/mayfair-suite?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/garden-terrace-suite?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester in London offers a selection of signature suites, each providing a unique and luxurious experience. Here are some of the notable options:
+
+
+[The London hotel suite that costs £30,000 a night | The Standard](https://www.standard.co.uk/lifestyle/travel/dorchester-royal-suite-london-hotel-30000-a-night-b1284718.html?utm_source=openai)
+**The Royal Suite**  
+Occupying a vast corner of the eighth floor, this suite offers panoramic views of Hyde Park and the London skyline. It features a double living room, separate dining room, private study, and a fully equipped kitchen. The suite can be configured with up to four bedrooms. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite?utm_source=openai))
+
+
+
+[Book The Dorchester London Hotel | UK with VIP benefits](https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london?utm_source=openai)
+**The Dorchester Suite**  
+This suite provides corner views across Park Lane and Hyde Park. It includes separate living and dining areas, a dressing room, and can connect to create a five-bedroom configuration. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite?utm_source=openai))
+
+
+
+[The Dorchester hotel review: a celebration of London’s past and present  | The Week](https://theweek.com/arts-life/travel/953955/the-dorchester-hotel-review-london?utm_source=openai)
+**The Mayfair Suite**  
+Overlooking Mayfair, this suite features separate living and dining areas, a guest bathroom, and a dressing room. It can connect to form a five-bedroom suite. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/mayfair-suite?utm_source=openai))
+
+
+
+[Book The Dorchester London, UK with Exclusive VIP Benefits](https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london?utm_source=openai)
+**The Hyde Park Suite**  
+With views of Hyde Park from its three Juliet balconies, this suite offers separate living and dining areas, a dressing room, and can connect to create a three-bedroom suite. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai))
+
+
+
+[Garden Suite, Mayfair | Garden Terrace Suite at The Dorchester](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/garden-terrace-suite?utm_source=openai)
+**The Garden Terrace Suite**  
+This suite boasts a private terrace with views over Mayfair and Hyde Park. It includes separate living and dining areas and can accommodate up to five bedrooms. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites?utm_source=openai))
+
+
+To check the availability of these signature suites, you can visit The Dorchester's official website and use the 'Check Availability' feature for each suite. Alternatively, you can contact their reservations team directly at +44 (0)20 7898 9880 or via email at reservations.TDL@dorchestercollection.com. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites?utm_source=openai)) 
