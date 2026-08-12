@@ -1,0 +1,16 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/rooms-suites","https://latteluxurynews.com/2026/04/17/the-dorchester-royal-suite-reveal/","https://www.travelweekly.com/World-of-Luxury/Meet-The-Dorchester-s-new-Royal-Suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-oliver-messel-terrace-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/prestige-dorchester-suite"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive overview of **The Dorchester London's Signature Suites** — including the latest updates for 2026:
+
+---
+
+## 🏨 The Dorchester London — Signature Suites
+
