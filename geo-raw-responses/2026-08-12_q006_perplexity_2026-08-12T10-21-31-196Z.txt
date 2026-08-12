@@ -1,0 +1,24 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://guide.michelin.com/us/en/greater-london/london/restaurants/michelin-hotels","https://luxurylondon.co.uk/travel/london/london-hotels-with-michelin-starred-restaurants/","https://www.dorchestercollection.com/london/the-dorchester","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://hotelswithrestaurants.com/london/","https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london","https://www.squaremeal.co.uk/restaurants/best-for/best-hotels-michelin-star-restaurants-london-uk_10809","https://www.thecaterer.com/indepth/london-hotels-michelin-star-restaurants","https://sofitel.accor.com/en/hotels/3144.html","https://www.booking.com/fivestars/city/gb/london.en-gb.html","https://guide.michelin.com/us/en/article/travel/all-the-michelin-key-hotels-in-london","https://www.aladyofleisure.com/hotels-with-michelin-star-restaurants/","https://www.thegoring.com/food-drink/the-dining-room/","https://guide.michelin.com/gb/en/article/travel/guide-to-all-star-restaurants-in-key-hotels-london-uk","https://luxuryhotel.guru/london/michelin_stars/","https://dinewithjp.com/london-best-luxury-hotels-for-food-lovers/","https://www.peninsula.com/en/london/5-star-luxury-hotel-belgravia","https://guide.michelin.com/us/en/article/michelin-guide-ceremony/every-michelin-star-restaurant-in-london-full-list","https://www.goodhotelguide.com/hotels-with-michelin-star-restaurants/","https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"]
+
+--- RAW RESPONSE TEXT ---
+Here are some **5-star London hotels with Michelin-starred restaurants** you can consider:
+
+- **The Dorchester, Mayfair** — home to **Alain Ducasse at The Dorchester**, which has **three Michelin stars**.[3][6][14]
+- **The Connaught, Mayfair** — home to **Hélène Darroze at The Connaught**, which has **three Michelin stars**.[4][10][14]
+- **The Peninsula London, Belgravia** — home to **Brooklands by Claude Bosi**, which has **two Michelin stars**.[8][14][17]
+- **Four Seasons Hotel London at Tower Bridge / Trinity Square** — home to **La Dame de Pic**, which has **two Michelin stars**.[8]
+- **Sofitel London St James** — home to **Wild Honey St James**, which has **one Michelin star**.[9][14]
+- **The Goring, Belgravia** — home to **The Dining Room**, which has **one Michelin star**.[2][13]
+- **The Langham, London** — home to **Michel Roux Jr.’s Chez Roux**, which is listed as a **one-Michelin-star** restaurant in hotel guides.[16]
+- **The Londoner, Leicester Square** — home to **8 at The Londoner**, which is listed among London hotel Michelin-star restaurants.[7]
+- **Hotel Café Royal** — listed in hotel guides as having Michelin-star dining on site.[5]
+- **The Landmark London** — listed in hotel guides as having Michelin-star dining on site.[15]
+
+If you want, I can turn this into a **shortlist by area** (Mayfair, Belgravia, West End) or by **number of Michelin stars**.
