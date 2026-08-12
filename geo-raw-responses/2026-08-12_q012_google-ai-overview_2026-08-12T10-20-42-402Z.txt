@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://biirdee.com/guides/best-luxury-hotels-london","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://dorsiatravel.com/review-the-peninsula-london/","https://www.cntraveler.com/hotels/the-peninsula-london","https://elitetraveler.com/travel/news/the-peninsula-london-review","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/hyde-park/hotels/the-peninsula-london-hotel/","https://www.timeout.com/london/hotels/the-dorchester","https://www.luxuryrestaurantguide.com/whats-new-at-the-dorchester-45-park-lane/","https://smartflyer.com/review/the-peninsula-london/","https://www.travelated.com/united-kingdom/london"]
+
+--- RAW RESPONSE TEXT ---
+The choice between The Dorchester and The Peninsula London comes down to classic British grand dame tradition versus state-of-the-art Asian luxury hardware. While both sit right on the edges of Hyde Park, they cater to very different travel styles.
+Quick Comparison
+
+The Case for The Dorchester
+The Dorchester is a legendary London landmark that recently completed its most extensive renovation in decades.
+
+The Case for The Peninsula London
+Opened recently in 2023, The Peninsula London is a purpose-built luxury powerhouse that brings flawless Asian hospitality standards to Belgravia.
+
+To help narrow this down, are you travelling for leisure or business, and is a historic atmosphere more important to you than modern room technology?
