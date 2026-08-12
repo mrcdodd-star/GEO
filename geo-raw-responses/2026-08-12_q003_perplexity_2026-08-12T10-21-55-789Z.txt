@@ -1,0 +1,28 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.mrandmrssmith.com/destinations/london/mayfair/hotels","https://theluxuryeditor.com/location/europe/united-kingdom/england/greater-london/london/mayfair/","https://santorinidave.com/mayfair-hotels","https://luxuryhotel.world/london/mayfair/","https://www.tripadvisor.com/Hotels-g186338-zff12-zfn7235717-London_England-Hotels.html","https://www.thehotelguru.com/en-us/best-hotels/united-kingdom/london-mayfair","https://www.themayfairhotel.co.uk/","https://www.luxurylink.com/5star/hotel-deals/mayfair+london+england","https://www.fourseasons.com/london/","https://www.expedia.com/Mayfair-London-Hotels-Luxury-Hotel.0-n6054503-0-tLuxuryHotel.Travel-Guide-Filter-Hotels","https://www.mandarinoriental.com/en/london/mayfair","https://www.fivestaralliance.com/best/hotels/898/the-best-london-mayfair-hotels","https://www.thebiltmorehotels.com/biltmore-mayfair","https://thestaffordlondon.com/","https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner","https://www.hotels.com/nh1696010/hotels-in-mayfair-london-united-kingdom/"]
+
+--- RAW RESPONSE TEXT ---
+If you want to stay in **Mayfair, London** for luxury, the strongest picks are **Claridge’s**, **The Connaught**, **Four Seasons Hotel London at Park Lane**, and **Mandarin Oriental Mayfair**.[3][9][11]
+
+A practical shortlist by style:
+
+- **Best classic luxury:** **Claridge’s** — repeatedly described as the gold standard / a London institution with polished, traditional service.[3][6]
+- **Best for understated, modern luxury with Hyde Park views:** **Four Seasons Hotel London at Park Lane**.[3][9]
+- **Best for old-world, discreet luxury:** **The Connaught**.[3][10][15]
+- **Best sleek boutique luxury:** **Mandarin Oriental Mayfair**.[11]
+- **Best apartment-style luxury / more space:** **Grosvenor House Suites**.[3][4]
+- **Best boutique luxury value:** **Flemings Mayfair**.[3][6]
+- **Best lively five-star option near Green Park/Berkeley Square:** **The May Fair Hotel**.[7][4]
+
+If you want the “best area within Mayfair,” look around:
+- **Grosvenor Square** for quieter, central luxury hotels like **The Biltmore Mayfair** and nearby high-end stays.[13][5]
+- **Park Lane / Hyde Park edge** for the most iconic big luxury hotels and park views, especially **Four Seasons** and **45 Park Lane**.[9][4]
+- **Bond Street / Green Park** for a more walkable, shopping-focused base, including **Claridge’s**, **Flemings**, and **Mandarin Oriental Mayfair**.[3][6][11]
+
+If you tell me your budget per night and whether you prefer **classic grand hotel**, **boutique**, or **suite/apartment-style**, I can narrow this to the best 3 options for you.
