@@ -1,0 +1,28 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["http://www.hotelcaferoyal.com/wellness?utm_source=openai","https://www.mandarinoriental.com/en/london/hyde-park/wellness/the-spa?src=loc.yext.molon.ggl&utm_source=openai","https://www.lanesboroughclubandspa.com/?utm_medium=organic&utm_campaign=google_local_the_lanesborough_club_spa&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts several luxury hotels renowned for their exceptional spa facilities. Here are some top contenders:
+
+**[Akasha](http://www.hotelcaferoyal.com/wellness?utm_source=openai)**  
+**Open now · Spa and health club · 4.5 (179 reviews)**  
+_Hotel, Café Royal, 68 Regent St., London W1B 4DY, United Kingdom_  
+An urban retreat featuring an 18-metre lap pool, Watsu hydrotherapy pool, hammam, sauna, steam room, and nine private treatment rooms offering holistic therapies.
+
+**[The Spa at Mandarin Oriental Hyde Park, London](https://www.mandarinoriental.com/en/london/hyde-park/wellness/the-spa?src=loc.yext.molon.ggl&utm_source=openai)**  
+**Open now · Spa · 4.4 (86 reviews)**  
+_66 Knightsbridge, London SW1X 7LA, United Kingdom_  
+Spanning two floors, this spa includes a colour therapy area, amethyst crystal steam room, mineral vitality pool, and 13 treatment rooms offering therapies like hot stone massages and anti-ageing facials.
+
+**[The Lanesborough Club & Spa](https://www.lanesboroughclubandspa.com/?utm_medium=organic&utm_campaign=google_local_the_lanesborough_club_spa&utm_source=openai)**  
+**Open now · Spa and health club · 4.7 (101 reviews)**  
+_2 Lanesborough Pl, London SW1X 7TA, United Kingdom_  
+Combines refined British elegance with bespoke therapies and impeccable privacy, consistently rated among London’s top hotel spas.
+
+Each of these spas offers a unique experience, blending luxury with comprehensive wellness facilities. Your choice may depend on specific amenities, preferred treatments, or the overall ambiance you seek. 
