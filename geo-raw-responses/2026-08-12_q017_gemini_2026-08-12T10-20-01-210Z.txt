@@ -1,0 +1,31 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERAv5jlkkR-0KW_O-vRh3tJ3VVQCGHQWGHDr8848zXV56n9CrgKSdtNGiBh8nwpXuC0zxrOB8uy3DaZ75tluLY6_KVlnvR9ezX4At6z9w6gWHOE6PPUHvyz255hR2YE4ynpTxu1gCxZz4zhwnBmMHAtvA9HVuX3-JPBLK5dOHl--Af613XRLfmwVFZoQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOdBQWjkQDFP53YgG5tqRLrBX-FAF_IESyTLnBxKpwLpsfVin9HSj3DzwXjuk5NDaYjRISbfC6NQRDmFK2Gcdd7W7Y0VFIbiW1ZdE5hXGXMv4mWbxXD2_vt8G6Y9PEbsmGYwYyypbKGb76RE7Zjk8iYMUvQTvQERnChTf6bT768EVZ9VmK1-W5CHLaFbbcRp5j","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVLeISLbjriyeCfnlq-5YPg3fTprZe3KJ3uhS7DoOzbhXHU9vLEAefpc7FUZSGqlQWqamt0U8eItWuxaIs04pQL2LwqYRTiEFX19a6Zp0AVswiGQxJ9jh6kwGZJtFwQyFLsdJRg3-EnDeezWBjCkG9ZwRjMaR8-iSS5ys-cGtzvpf7ERoQGyF8G-GZ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHakGHEyw63GAndf5rAW-287wt6tUtc0Mm83S-gVIGdVOum4zG-M2fUlf39-YNj3MCBjW5IxCxJ_lyFVpg93SG_kPMTteudWdpXM73TrHy1f4nbT5bTV-dqN0xwQdeKknY9ajQ6Geeoqeh3-xS7jWw7crgFS2kYBZ_MpPsu5mxX-ubjcYfo-hKF3V4FhCZuiFZpf12GqGOQi4o6sw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtdsbhQrAhmDNSeckbwjIaSF3wCKpqzV4Yalsjj--186KC5SO4euNSOzzG6aGl-ISZtDC-1fMuv_YC0iHYPTh49_k06YPHa1CgjEXoHxsmfOqvoOXS78QQTApoTssJdHK9YPMPg1-Tf1gx8vW3PCiWP9myiWaT-FVjnJ2NPUOvL4Fku_Xu_sWjv4aDtYr5NXSVzzO1gTBaCZs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_XCLzOttm3AODgBdOSIS9Dqh6Y5gEcs1TVs69YWWqtUh9QqfFv_-JgCMybbKEWWee24AvyJRCQKpDQ3IAbJNXtvRuHQWY961nSDxwwQ4tk8njU6VGh11pNjZDZawQbFJH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB8eK4BDeKlaj-plKjwJewcQEGBQX7RfU2Ok-MK5wGptxyGruNpnpd4MkCLj8EjZ5YOKyCN0UTAVYaZJOMhN706NvR9IYKVHjARZZpC_pD7mqpurt8HQixbbQ29h5Oec4BNnoOdrLf8he5-MqrI5pLKdU8VZxQww==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgd3U21uZNQx4nv6WX7mx5C2mI02KbwobdNoTabOPWmdEc34_XqBQ-hqf2yRZGl6IWKip7aaqFp1mLNfDuxztIOcQ2fbTRVoX3mqPp7qvL6TnYWjd_9fGhibizOASyuejxPR5w3_ce7EJfCBtn_hTqo0AbL_BG6UTceYkJoKiSw5F5rEI14S2VieG6b56Vxy4x","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEilxwZOzwJhEBV1SyFNKYaGV2uQrisQVg-i8lIXAQ5hBmKlPwKPZsBIL_Pv1NHbGsM7QSRPV2E9ti1lQuFswqQKnO5eneMyYNQ7lnIvwXekQxPl4iLQkHoE8G-GmJE34p1rzRIXncm-2qfwtTaQTDjpGqEsxAdOzN0jvm_lzxLJDnWY980Tw-4C4BlULgP3DFSJA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcxvY_aZeNxkO2zfxieicxprd0RcrEAKBX9XCIloU0UkmU3afoy4t1nW-gGOZvCO7l4cTP-N0kGdF-r8suPylMSO62Z67YoeWPcr4ULQE5IqhKrUg0l_JpC-FLCKEzvjerZ2FxW5NNP8WMcFfWWMFyl0CtmRdZWpfI"]
+
+--- RAW RESPONSE TEXT ---
+Room rates for **The Dorchester, London** in **October 2026** vary depending on the type of room, the days of the week, and whether any major city events are taking place. 
+
+The general rate breakdown and available promotions for October 2026 include:
+
+### 1. Estimated Room and Suite Rates
+* **Standard Rooms (Classic & Superior Rooms):** 
+  * **Starting Rates:** If booked early or via promotional discounts, rates can start around **£635 to £750 per night**. 
+  * **Average Rates:** Normal nightly rates for standard rooms typically average between **£990 and £1,225 per night** (approx. $1,300 to $1,600 USD). 
+* **Suites (Junior & Signature Suites):** 
+  * Nightly rates for premium spaces (such as the Mayfair Suite, Belgravia Suite, or Hyde Park Suite) typically scale from **£2,000 to £4,500+ per night**.
+
+### 2. Active Promotions for October 2026
+If you are planning to book for October 2026, there are a couple of excellent promotions that can drastically lower the cost:
+* **The Dorchester "Plan in Advance" Offer:** Booking your stay at least 30 days in advance grants up to a **20% discount** on the best available rate (15% off for bookings made 14 days in advance). This promotional rate brings room prices down to around **£750/night** and is valid for stays through December 31, 2026.
+* **American Express Fine Hotels + Resorts (FHR) Promo:** If you book using an eligible American Express card, there is an active promotion offering a **complimentary 4th night**. You must book by November 20, 2026, for travel window dates between **September 25 and November 24, 2026** (which perfectly spans the month of October).
+
+### 3. Key October Dates to Watch
+October is generally a busy month for luxury hotels in London. In particular, watch out for:
+* **Frieze London & Frieze Masters (approx. October 14–18, 2026):** This major international art fair takes place in nearby Regent's Park and attracts high-profile global visitors. During this mid-October window, Mayfair hotels experience peak demand, meaning rates will likely spike and room availability will be highly competitive.
+
+*Note: All bookings at The Dorchester are subject to a discretionary 5% employee benefit charge in addition to standard local taxes. It is highly recommended to book at least 30 days in advance to lock in early-bird rates.*
