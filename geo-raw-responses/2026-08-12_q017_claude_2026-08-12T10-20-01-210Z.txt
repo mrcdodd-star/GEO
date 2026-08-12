@@ -1,0 +1,29 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://sites.google.com/view/dorchester2026howmuchisanighta/home","https://www.kayak.com/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp","https://www.travelocity.com/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites","https://www.trip.com/hotels/london-hotel-detail-2194717/the-dorchester/"]
+
+--- RAW RESPONSE TEXT ---
+Here is an overview of **The Dorchester London** rates for **October 2026**, based on available information. Please note that October is generally considered a mid-to-high season period in London, and exact prices vary by date and availability. For the most accurate pricing, it is best to check directly with [The Dorchester](https://www.dorchestercollection.com/london/the-dorchester/) or a booking platform for your specific dates.
+
+---
+
+### 🏨 The Dorchester London – Approximate Room Rates (October 2026)
+
+| Room Type | Approximate Nightly Rate |
+|---|---|
+| **Superior Room** | From ~£880–£950 / ~$889–$1,200+ |
+| **Deluxe Room** | From ~£1,100–£1,400+ |
+| **Executive Room** | From ~£1,200–£1,500+ |
+| **Suites** | From ~£2,500–£5,000+ |
+| **Signature/Penthouse Suites** | £10,000–£15,000+ |
+
+---
+
+### 💡 Key Pricing Notes:
+
+- 
