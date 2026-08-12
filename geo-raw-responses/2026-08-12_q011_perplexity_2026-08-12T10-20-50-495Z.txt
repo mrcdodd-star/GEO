@@ -1,0 +1,30 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: claridges vs the dorchester london
+
+CITED URLS:
+["https://hotelsforkings.com/best/dorchester-vs-claridges/","https://www.tripexpert.com/london/hotels/claridges-vs-the-dorchester","https://www.tripadvisor.co.uk/ShowTopic-g186338-i17-k3539257-Claridge_s_or_The_Dorchester-London_England.html","https://www.reddit.com/r/london/comments/1iwm9or/dorchester_or_claridges_for_afternoon_tea/","https://www.fodors.com/community/europe/help-4-seasons-claridges-dorchester-savoy-or-the-ritz-97877/","https://hotelsforkings.com/best/claridges-alternatives/","https://www.lartisien.com/blog/how-to-choose-ones-palace-in-london/","https://www.hamhigh.co.uk/news/24073245.londons-claridges-dorchester-named-best-world/","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://www.fodors.com/community/europe/four-seasons-london-475590/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187992-r587611552-The_Dorchester-London_England.html","https://www.whatahotel.com/blog/224/Best-Luxury-Hotels-in-London-Historic-Grand-Hotels/","https://www.pistonheads.com/gassing/topic.asp?h=0&f=209&t=2064518","https://www.winetravelandsong.com/hotels/londons-grand-dame-luxury-hotels","https://hotelsforkings.com/best/comparisons/","https://dorsiatravel.com/the-best-luxury-hotels-in-london/","https://en.wikipedia.org/wiki/Claridge's","https://www.cntraveler.com/gallery/readers-choice-awards-london-hotels","https://dinewithjp.com/best-luxury-hotels-london-guide/"]
+
+--- RAW RESPONSE TEXT ---
+**Claridge’s** is usually the better pick for *Art Deco glamour, afternoon tea, and a more “occasion” feel*, while **The Dorchester** is usually better for *Hyde Park views, stronger dining, and a classic Park Lane grand-hotel setting*. [1][2][11][13]
+
+If you want the shortest useful distinction:
+
+| If you care most about… | Better choice |
+|---|---|
+| **Interior design / atmosphere** | Claridge’s [1][11][13] |
+| **Afternoon tea** | Claridge’s [1][13] |
+| **Park views / location facing Hyde Park** | The Dorchester [1][7][11][13] |
+| **Serious dining** | The Dorchester [1][13] |
+| **Pool / spa feel** | Claridge’s has a subterranean pool; The Dorchester has a spa but no on-site pool in the comparison result. [1][6][11] |
+| **Most classic “grand hotel” statement** | Both, but in different styles [8][11][13] |
+
+A practical way to choose:
+- Choose **Claridge’s** if you want the hotel itself to feel like the main event: the lobby, the interiors, and afternoon tea are the big draws. [1][11][13]
+- Choose **The Dorchester** if you want the strongest mix of park-adjacent setting and high-end dining, especially if the view matters to you. [1][13]
+
+Both are widely recognized as top-tier London hotels, and both were included on *The Telegraph*’s 2024 Gold List of best hotels in the world, which underlines that this is a matter of style rather than quality gap. [8]
+
+If you want, I can also give you a **“which one should I book”** recommendation based on *tea, romance, business, family stay, or first-time London visit*.
