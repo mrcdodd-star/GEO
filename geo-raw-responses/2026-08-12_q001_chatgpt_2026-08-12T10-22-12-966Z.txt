@@ -1,0 +1,43 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://www.theritzlondon.com/?utm_source=openai","https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai","https://www.shangri-la.com/en/london/shangrila/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts a plethora of five-star hotels, each offering unique experiences and exceptional service. Here are some of the top luxury accommodations in the city:
+
+**[The Ritz London](https://www.theritzlondon.com/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (7829 reviews)**  
+_150 Piccadilly, London W1J 9BR, United Kingdom_  
+A symbol of high society and luxury since 1906, The Ritz offers opulent rooms and renowned afternoon tea, epitomizing classic British elegance.
+
+**[Claridge's](https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (4167 reviews)**  
+_Brook St, London W1K 4HR, United Kingdom_  
+Located in Mayfair, Claridge's combines Art Deco design with modern comforts, featuring Michelin-starred dining and impeccable service.
+
+**[The Connaught](https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2445 reviews)**  
+_The Connaught, Carlos Pl, London W1K 2AL, United Kingdom_  
+Situated in Mayfair, The Connaught offers elegant rooms, a holistic spa, and Michelin-starred dining, blending traditional charm with contemporary luxury.
+
+**[The Dorchester](https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai)**  
+**Closed · Hotel · 4.6 (4582 reviews)**  
+_53 Park Ln, London W1K 1QA, United Kingdom_  
+Located in Mayfair, The Dorchester is known for its opulent interiors, exceptional service, and three Michelin-starred restaurants.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1916 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Located in Mayfair, this hotel offers luxurious rooms, a rooftop spa with panoramic city views, and the Michelin-starred Pavyllon London restaurant.
+
+**[Shangri-La The Shard, London](https://www.shangri-la.com/en/london/shangrila/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (2885 reviews)**  
+_31 St Thomas St, London SE1 9QU, United Kingdom_  
+Occupying the upper floors of The Shard, this hotel provides rooms with floor-to-ceiling windows offering panoramic city views, along with an infinity pool and gourmet dining.
+
+Each of these hotels offers a unique experience, ensuring a memorable stay in London. 
