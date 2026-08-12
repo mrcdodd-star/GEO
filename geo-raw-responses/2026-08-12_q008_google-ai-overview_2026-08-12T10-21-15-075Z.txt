@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3Tkdjd01IaDMYCg","https://www.thetimes.com/life-style/luxury/article/the-best-luxury-spas-in-london-times-luxury-zm3b2qgkc","https://www.youtube.com/watch?v=V5pTNgi9XDQ","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaemVIaHVkakZ6GAo","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TjJ0cWJtUmoYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TWpJeU1HURgK","https://www.klook.com/blog/london-best-spa-hotels/","https://www.facebook.com/worldtravelnews365/photos/corinthia-london-proudly-announces-the-next-chapter-in-the-evolution-of-one-of-t/1591559219638301/","https://www.corinthia.com/en-gb/london/spa-at-corinthia-london/day-spa-experiences/","https://citizen-femme.com/2026/05/12/biome-by-corinthia-london-spa/","https://www.visitlondon.com/where-to-stay/hotel/luxury-hotels","https://www.net-a-porter.com/en-sa/porter/article-618ba89724c64914/lifestyle/travel/london-hotels","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/knightsbridge/hotels/the-emory-hotel/","https://thenudge.com/the-best-spas-in-london/","https://www.youtube.com/shorts/LozEfCppzfk","https://www.sixsenses.com/en/hotels-resorts/europe/united-kingdom/london/wellness-spa/","https://hoteldesigns.net/industry-news/six-senses-london-sets-a-date/","https://parkhallhotel.com/spa/","https://luxecityguides.com/luxe-reviews-mandarin-oriental-hyde-park-london/"]
+
+--- RAW RESPONSE TEXT ---
+Corinthia London is widely considered by luxury travel experts to have the absolute best hotel spa in the capital.
+Its legendary wellness space—recently rebranded and relaunched as Biome by Corinthia London—spans a massive four floors. It features a striking, futuristic design clad in inky-black marble, glass-walled saunas, floating fiery stoves, and a comprehensive thermal hydrotherapy circuit.
+While the Corinthia takes the top spot for overall scale and thermal facilities, several other ultra-luxury London properties stand out for specific wellness specialities.
+The Top Luxury Hotel Spas in London
+
+A Closer Look at London's Wellness Leaders
+
+Helpful Tips Before Booking
+
+If you would like to narrow this down, let me know:
