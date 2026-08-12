@@ -1,0 +1,22 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/claridges/restaurants-bars/afternoon-tea","https://www.thedarlingacademy.com/articles/claridges-hotel-afternoon-tea-a-review/","https://resident.com/london/2026/04/14/the-12-best-afternoon-tea-experiences-in-london-at-the-citys-most-elegant-hotels","https://thesaucemag.com/best-london-afternoon-teas/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187685-r967572368-Claridge_s-London_England.html","https://travjoy.com/blog/the-best-afternoon-tea-in-london-a-complete-guide-to-the-city-s-grand-hotel-teas-1","https://guide.michelin.com/en/article/travel/top-afternoon-tea-spots-in-london","https://www.luxurytravelmagazine.com/news-articles/claridges-named-best-in-london-for-afternoon-tea","https://www.dandelionchandelier.com/best-afternoon-tea-in-london-at-claridges/","https://highteasociety.com/reviews/afternoon-tea-claridges-london/","https://thatsup.co.uk/london/guide/the-best-hotels-with-afternoon-tea-in-london/","https://www.afternoonteareviews.eu/2022/03/afternoon-tea-claridges-london/","https://www.maybourne.com/en/about-us/editorial/summertime-indulgence-luxury-afternoon-tea-at-claridges","https://shop.claridges.co.uk/blogs/the-edit/afternoon-tea-in-true-claridges-style","https://www.reddit.com/r/FATTravel/comments/ukclxs/what_is_the_quintessential_afternoon_tea/","https://www.businessinsider.com/photos-claridges-afternoon-tea-review-london-2020-3","https://www.tripadvisor.com/Restaurant_Review-g186338-d6387666-Reviews-Afternoon_Tea_At_Claridge_s-London_England.html"]
+
+--- RAW RESPONSE TEXT ---
+If you want the **safer “best overall” pick**, I’d lean **Claridge’s**: it has long-standing recognition for afternoon tea, strong service reputation, and is widely treated as one of London’s signature tea experiences.[1][8][11] If you want a more *classic, grand hotel* atmosphere with a slightly different style of ceremony, **The Dorchester** is also an excellent choice, but the results you provided contain far more direct evidence and recent coverage for Claridge’s than for The Dorchester.[1][3][7][8]
+
+A practical way to choose between them:
+
+| Factor | **Claridge’s** | **The Dorchester** |
+|---|---|---|
+| **Reputation** | Frequently cited as one of London’s most iconic afternoon teas; has won major recognition for its tea service.[8][11] | Known as a top luxury hotel tea, but your provided results include less direct evidence here.[3][7] |
+| **Experience** | Very polished, traditional, and strongly associated with “special occasion” tea.[1][8] | Typically chosen for a formal, old-world luxury hotel setting. |
+| **Price signal** | Recent third-party coverage places it around **£95 per person** or more for Champagne options.[6] | Not clearly priced in your results. |
+| **Best for** | A benchmark London afternoon tea, prestige, and consistently praised service.[6][8] | A more traditional grand-hotel mood if you prefer that setting. |
+
+Based on the sources you shared, **Claridge’s is the stronger default recommendation**.[1][8][11] If you want, I can also give you a **direct Claridge’s vs Dorchester comparison** on *food, service, room atmosphere, dress code, and value for money*.
