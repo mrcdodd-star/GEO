@@ -1,0 +1,28 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the connaught vs the dorchester location and vibe
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/the-connaught","https://www.theworlds50best.com/discovery/Establishments/UK/London/The-Connaught.html","https://www.tripadvisor.com/Hotel_Review-g186338-d187991-Reviews-The_Connaught-London_England.html","https://www.maybourne.com/en/hotels/the-connaught/about/getting-here","https://en.wikipedia.org/wiki/The_Connaught_(hotel)","https://www.trivago.com/en-US/oar/hotel-the-connaught-london?search=100-32720","https://www.maybourne.com/en/hotels/the-connaught/about","https://www.the-connaught.co.uk/contact-us/how-to-find-us/","https://www.lucalvry.com/hotels/property/the-connaught-london","https://www.luxuryexplorer.com/UK/London/The-Connaught","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-connaught","https://maps.apple.com/place?place-id=IACD0A0EE17A7B86B","https://www.mountstreetneighbourhood.com/brand/the-connaught","https://www.enprimeurclub.com/hotels/the-connaught-london-hotel","https://www.expedia.com/London-Hotels-The-Connaught.h21364.Hotel-Information","https://www.travelweekly.com/Hotels/London/The-Connaught-p3946628","https://www.booking.com/hotel/gb/the-connaught-mayfair.html","https://shop.the-connaught.co.uk/blogs/the-edit/the-story-of-the-connaught","https://www.lartisien.com/hotel/the-connaught"]
+
+--- RAW RESPONSE TEXT ---
+If you want the short version: **The Connaught** is in **Mayfair**, on **Carlos Place/Mount Street**, and its vibe is **quiet, refined, and discreetly luxurious**[1][4][7]. I don’t have search results for **The Dorchester** here, so I can’t make a fully sourced side-by-side comparison; if you want, I can compare them once you ask specifically for The Dorchester or provide its results.
+
+For **The Connaught**, the location is especially strong if you want:
+- **Mayfair village character** rather than a busier tourist corridor[1][7][13]
+- Easy access to **Bond Street**, **Hyde Park**, and the **West End**[4][7][11]
+- A setting that feels tucked away on a **quiet street/corner** in central London[4][8]
+
+The vibe is described by sources as:
+- **“quiet welcome home”** and deeply rooted in its neighborhood[1]
+- **Refined elegance** and a **bastion of luxury**[2]
+- **Discreet English ambience** with modern 5-star touches[6]
+- More **cultured, understated, and residential** than flashy[1][18]
+
+If you mean **The Dorchester vs. The Connaught**, the usual high-level distinction is:
+- **The Connaught**: quieter, more intimate, more understated Mayfair feel
+- **The Dorchester**: more grand, classic, and prominent on Park Lane
+
+If you want, I can do a clean **Connaught vs Dorchester** comparison on **location, vibe, service, bars/restaurants, and which is better for couples vs. first-time London visitors**.
