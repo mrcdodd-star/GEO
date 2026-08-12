@@ -1,0 +1,42 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP2iZ1T9HivuUWXb4Zo257LF7xPvP8iT4_HexsTCfe_bYGPCrkEtP7rcvzYT43dZzuuFwoZTq8_NWSj5QOVx4PLxiDG3fuPKDF_iqORgtz9OL5scDxDKVog1kWaiKBkRl6xlHinB1iHGXAuz0_I47Y0yemd_8d","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYkCY4utgFLu3tI8167R81OBxms7HYLUbUCuAtIX9JQw6tsCzM5xaeua_5tuyZ7qDXfKcS4n06AwXpreX8mtNE0uPzvr7iYAKdunBBwKr0X3x63sEOa_7DKEiyWqZNUCzyAlQgSJWvEgZZnB9lUYBzri1MlFULjGOV-0F66e3CnixRUCYZiZKXfKdnhhmO","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaAqjzE7bcMgZPy5yQy75nsoMLtVN2qz17ql1PmHVsjMKWAMN0BNdP0lXuvWn1DGN_3TX_crCj_xZJz2fAF8tuHJdauY_oenJqA8AwcmQW9G7XJ1q4TZKf3F_F-ujLebeKmV-2fi6biwuI1nC2_As=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM78hQVb9mE2mFQHwoQt2lahqcW_nXz3h3FeuiAzthAT5-z_qGQXLRr1v7AO7Tl3J87h1_rfA-E5ddQOA-EyIlBFvIPTDXmjbHYanQTpQ1qeylguxem3kkm4X7PfbZltIdH0MuwLYXzuy8Nz3zoUxCtA82g9wE-TWsFPeMdR-6CzehUhYUJ1aRx8I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtw8BfaxOeG_wpw-Vi5UIYWbtz_Gv0DWGYX0nEVSJ8LrEL1a5QDaFVBLLU3F31jBcGmz_Uc_QVQXKWrBxOHTavwF0fhzKitem4D6Jtz2LL1n38T6h3ejptLiu6Cv8hhqg30FIq7t1N_6OROERWuWHtLzmPkRc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkYFi5VuRASmWY_VRUcQhxydyhulBsfiykkRBQ_oXPh79C_pT0OVGtYt-m8C17QcnW7pDd8c0FQnKQGpONhKksmdC50_nSugpamhtciPeh00YsWSBonZrIxZiQizH0EKRIgL1UDEloC-kp3gkSWV_O9UC-7vz5PVUOeRW86swcQWf63hdQrXJthXm_sw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw8loQa62nFemJnAYBnlKtAZ2WZZAHoVjJcy2dSSIQ2-QNKpznX8hUqrath1_mD8ONVxenDJ4gS-jbaGWpHuI4Lgz34fbs5BQQiWWPMvjxrs8VKgP9y6ULuWS7uE_2za_8EsfSUxeJzaq7pIndclhND5KaDIUx9x2YuH0QZB8EiZCPNoC7g6PqmWQs8is=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvxSqFb04Wz-59YXuauezxC8Qe4hz6tfqkNW8U3NptB-YP5W56ZbbitGjB2uAuUtvopJmMUTXxnHAmhMQQ5Lgocw5qHOcwhSge5SNE2rKobS3v2qxdH5kd7PkE7FH_KVfQn7bK67Qdr-3MZrK5vUYO47Ki92RCdQ_xf6HQeA_wZBbYbg2XrVvQArqUibFTHzSEYg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3b8AQZnKEhZipncDkcCzaAvjQ1HIuDiPhEf0DA3uQZzp5imYvhPdGMJ85fS34F5JUQ32iIfGmBdBSp54_8RccrFSqBAMRYahvLTHAgycj2O-vPaKmJ0sQGxBVl1_zjQNABcJZN8zWoE3T2HWMVySz6JFCOmL2CVbpQO8_tr3ct9ES2wTTgCxKnNvBeSR","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDYwO9W1KLMq5X2OCDDt4daAPpOuoWPr3WdhZRQdMGVwG-Gn_ygE13gXSUDNRsDeufteETSb12RJ_zUeOb0-H6HwSneywn8lrnOHNE3jdJSuLYMlGK_KnwWuR4YNOJaT67P9dxcQlqQlz4CNaYiK6E3ucIGn_3xAma1qoI_xztGslanEG72Rc_J5I476xgeJlQHQ12xXDoWORzZbzzyRdh","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlM_1crr583RGNTOHYeCrXwzx0ESKE44i4j66GJrVnMc5IJl_iHQR_szjEJLZrVxGjVToNt-K6YJ9C_J_ZfGQpQjvCzgX8f_bk1wB4EFP2KmECHmNJbCYEgpnTODLT3JpdaCNQQIWeZBNUYJEc","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGQQNUVLC5vdpugjKq8GmHFSkJKI1IeQDrsIMoJyEFEcms32ybeczuedo5GnHE_Lt4VbbNANjAPCTDdCyxksEtwa3yCHTiQVDqpqBmoZohY8sh_Tp5iGHKXT4J9-l9TxwqwbrlW-eCF-bIRiyFGRjTGltvbeQ-k-0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd2jyfD1zZNa7RRMR_DLBUeZr_S61-oPvxs8dYiVLOC5G6FhCoaaO2sszsFURdqNswNnQRsWFt7vZQmb2JMFfPhj3yiVbb55HIkvTnrfRT3rrg9HyI0YscyctKiHoGOhi9PvtiQyAAYcUn1WvmlXks-5KxilKrtxwpoBbncOX2"]
+
+--- RAW RESPONSE TEXT ---
+To check the availability of the **Signature Suites** at **The Dorchester in London**, you can book directly online or coordinate with their dedicated suite team, as many of these top-tier residences are subject to high demand and require personal booking assistance. 
+
+### 1. How to Check Availability & Book
+Because some of the most exclusive Signature Suites are listed as **Price on Application (POA)**, their availability is not always fully visible on standard booking calendars. You have a few options to check:
+
+*   **Online Booking:** You can check real-time availability for standard dates directly via the [Dorchester Collection Official Website](https://www.dorchestercollection.com). 
+*   **Dedicated Suite Reservations Team:** For immediate availability checks, bespoke configurations (connecting rooms), or booking the ultra-premium penthouses, you can reach out directly:
+    *   **Phone (UK):** +44 (0)20 7898 9888
+    *   **Phone (US Toll-Free):** +1 855 901 0709
+    *   **WhatsApp Reservation Enquiries:** +44 7488 880408
+    *   **Email:** `suites.TDL@dorchestercollection.com`
+
+---
+
+### 2. The Signature Suites Collection
+Following the hotel’s major multi-year restoration, the suites offer refined English-garden-inspired aesthetics and incredible modern comforts. The key signature and specialty suites include:
+
+*   **The Royal Suite:** The newly launched, majestic flagship residence overlooking Hyde Park. Spanning over 300 m², it offers a full ultra-luxury residential layout. *(Price: POA)*
+*   **The Oliver Messel Terrace Suite (144m² / 1,550ft²):** A legendary suite designed by Oliver Messel, featuring historic design elements, a private terrace, and sweeping London skyline views. *(Price: POA)*
+*   **Garden Terrace Suite (101m² / 1,087ft² + terrace):** Overlooks the front of the hotel with views of Mayfair and Hyde Park. It features private terrace access and can connect to accommodate up to five bedrooms. *(Rates typically from £3,200+/night)*
+*   **The Dorchester Suite (109m² / 1,173ft²):** A corner suite featuring wrap-around windows with direct views of Hyde Park and Park Lane. *(Rates typically from £2,500+/night)*
+*   **Belgravia, Mayfair, & Hyde Park Suites (100m² – 106m²):** Individually styled suites carrying distinct design identities, complete with spacious dining areas, Juliet balconies, and options for connecting layouts. *(Rates typically from £2,500+/night)*
+*   **Elizabeth Taylor Harlequin Suite (208m²):** A historic rooftop suite with a large outside terrace, famously Elizabeth Taylor's "home away from home". 
+
+---
+
+### 3. Benefits of Booking a Signature Suite
+When you book a Signature Suite directly with The Dorchester, your stay includes specialized elite services:
+*   **Butler Service:** Personalized butler service, with staff trained to royal standards, is included for all signature suites.
+*   **Flexible Check-In/Out:** Early check-in and late check-out privileges to let you enjoy your stay at your own pace.
+*   **Spa & Wellness Perks:** Suite bookings often include complimentary wellness additions, such as a "speed nap" experience on the Welnamis lounger at the award-winning Dorchester Spa. 
+*   **Complimentary Airport Transfers:** Often included for one-bedroom suite bookings and above to ensure a seamless arrival.
