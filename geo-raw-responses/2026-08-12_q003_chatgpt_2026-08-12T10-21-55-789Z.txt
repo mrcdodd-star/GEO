@@ -1,0 +1,38 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.mandarinoriental.com/en/london/mayfair?src=loc.yext.momay.ggl&utm_source=openai","https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair, London, is renowned for its opulent accommodations, offering a range of luxury hotels that blend historical charm with modern elegance. Here are some top choices:
+
+**[The Connaught](https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2445 reviews)**  
+_The Connaught, Carlos Pl, London W1K 2AL, United Kingdom_  
+A five-star hotel offering bespoke butler service, Michelin-starred dining, and chic bars, situated in the exclusive Mayfair area.
+
+**[Mandarin Oriental Mayfair, London](https://www.mandarinoriental.com/en/london/mayfair?src=loc.yext.momay.ggl&utm_source=openai)**  
+**Closed · Hotel · 4.6 (324 reviews)**  
+_22 Hanover Square, London W1S 1JP, United Kingdom_  
+A sleek boutique hotel with 50 rooms and suites, featuring Akira Back's first UK restaurant blending Korean and Japanese cuisines.
+
+**[The Biltmore Mayfair](https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai)**  
+**Closed · Hotel · 4.4 (924 reviews)**  
+_44 Grosvenor Sq, London W1K 2HP, United Kingdom_  
+Located within Grosvenor Square, this hotel offers opulent accommodations, personalized service, and delightful dining options.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1916 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Overlooking Hyde Park, this hotel combines prime location with serene luxury, featuring refurbished suites and a Michelin-starred restaurant.
+
+**[The Dorchester](https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai)**  
+**Closed · Hotel · 4.6 (4582 reviews)**  
+_53 Park Ln, London W1K 1QA, United Kingdom_  
+An iconic hotel known for its luxurious accommodations and exceptional service, recently featuring a vibrant 'Summer Garden' collaboration.
+
+Each of these hotels offers a unique experience, ensuring a luxurious stay in the heart of Mayfair. 
