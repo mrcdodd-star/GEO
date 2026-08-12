@@ -1,0 +1,37 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/","https://luxurylondon.co.uk/travel/london/the-dorchester-hotel-review/","https://hauteliving.com/2025/09/best-hotels-in-london/775902/","https://nypost.com/2023/09/26/a-new-wave-of-hotels-is-upsetting-londons-balance-of-power/","https://thepointsguy.com/hotel/best-hotels-in-london/","https://luxgetaway.com/best-luxury-hotels-in-london-2026-10-five-star-stays-for-the-discerning-traveler/","https://en.tripadvisor.com.hk/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://www.timeout.com/london/hotels/the-peninsula-london","https://www.tripadvisor.com/ShowUserReviews-g186338-d187992-r1039961109-The_Dorchester-London_England.html","https://www.peninsula.com/en/london/5-star-luxury-hotel-belgravia","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-dorchester","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://www.forbes.com/sites/lewisnunn/2026/06/03/an-insiders-guide-to-the-peninsula-london/","https://www.afar.com/hotels/the-peninsula-london-review","https://www.tripadvisor.com/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://en.wikipedia.org/wiki/The_Dorchester","https://www.cntraveler.com/gallery/best-hotels-in-london"]
+
+--- RAW RESPONSE TEXT ---
+If you’re choosing between **The Dorchester** and **The Peninsula London**, the short version is: **The Peninsula is the newer, more polished ultra-luxury all-rounder; The Dorchester is the classic, more storied London grande dame**.[1][3][7]
+
+- **The Peninsula London** opened in **2023** in **Belgravia** at **1 Grosvenor Place**, near Hyde Park Corner and Wellington Arch.[1][5][17]
+- **The Dorchester** is the historic **Mayfair** icon at **53 Park Lane**, dating back to **1931** and long associated with old-school London luxury.[1][5][19]
+
+If you care most about **newness, room size, and spa/dining polish**, The Peninsula has the edge:
+- It has about **190 rooms and 59 suites** and is described as having a **subterranean spa**, **rooftop terrace**, and a strong dining lineup including **Brooklands by Claude Bosi** and **Canton Blue**.[1][4]
+- Reviews and guides describe it as a modern luxury flagship with very high starting rates, often around **£880+ per night** or higher depending on source and date.[1][10][16]
+
+If you care most about **heritage, Park Lane prestige, and classic London glamour**, The Dorchester is the stronger fit:
+- It has about **241 rooms** and sits directly opposite **Hyde Park** in **Mayfair**.[1][15]
+- Recent coverage describes a major refresh, including the **Promenade**, **Vesper Bar**, and guest rooms and suites, while preserving its famous old-world identity.[5][7]
+
+A practical comparison:
+
+| Category | The Dorchester | The Peninsula London |
+|---|---|---|
+| **Style** | Classic, historic, grand | Contemporary, ultra-polished, newer |
+| **Location** | Mayfair, Park Lane | Belgravia, Hyde Park Corner |
+| **Opened** | 1931 | 2023 |
+| **Room count** | About 241 | About 190 rooms + 59 suites |
+| **Best for** | Heritage, tradition, old-school glamour | New luxury, spacious rooms, spa, modern service |
+
+**Choose The Dorchester** if you want the more iconic London address and a traditional sense of occasion.[1][5][19]  
+**Choose The Peninsula** if you want the more contemporary luxury experience and don’t mind paying for the newest flagship feel.[1][4][16]
+
+If you want, I can also compare them specifically by **rooms, afternoon tea, restaurants, spa, or value for money**.
