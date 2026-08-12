@@ -1,0 +1,80 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4OVKw5kGBygsp_pAq95C91R-U05SpkrZZkJmRnObSqZoU9NsG_zVa49J32zo-CvjZ2uJGg3Ps15P8ESG8vuFKdSGQIzYLi00STffotsyjePBK9mGUfrxW-YAUIdN1fhI11npsryL2gP2a4bJkKdaXa1fCVIU0FTF1WR2lDFs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_T7QpNeK7BY5r0ZVHT3kkM6ODBvQdDs2BzxuKqx-a6fnw6F0rQ2IA8E6yuzgKwvTCQ_1SmEALODKuY8RAOQz5unkdK4dRb4CK26LufELhTlejnOWCkox4Bfbf8fF1vakncvdUDbGbxD5TXreZ0tNDWjin2NMokQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu5wvSaGUdLjEmwqxfNmbzQKtGr-hGPDOJhOdXgMCWQQe1pirp3nv2kkVHQiVlFCfkZ8zn8urqaEIDSX3U5LgpwdgDqWrcnA0-QIcThSV_oeRz04-xPA7kdQlX3owtIXDqG75v4jQitV1t7gU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSlZUITlEZnz7QZUNj2JEiCBC99EdxpFSUihqI5R12crgc1rfpX8ubw57w19bYSi7V2Ty7Lhf32xL73A8w5hK5B5mA3siCQYBCgXRNRbet5_HdTajyRNhLSd8hKAeKKwCg_5y8","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxKYl8rXLdOsQPWxm6cjwCvaBQjxhV13p3hFB9fXOvgfVaOV_RBdhXFYXG5MaSgCS9-627vYFd2LMlVn1IjDxpnPoJE7JVEF7wNQB2LalTpS0cpvYwhMB9zFDKtsOFLqVNZy-QkCp9q-cDhTClLe4QnbjpD1CUHGVUkTE8QuY0ywsG_Psn6K62sA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV2-KMvTKcNrjw8mVUG77GD0QvW-XgsmH1UWksHAwwO6519MV5AWdj2eTM23KSy6OBUnQdkQnMJP53VlUTSjVwL72bm0mFsrvlicPdM0GyJR9U320ZT_nAOsQ9qzCbO_eGDiIOXF60dQQFDC_qQ3VniqCPeC7PDDJnA7P0tB7Hmhro6sfFdtNeidWVWun_YZdP05SW5hICTw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdsdLHum6nEt_0CVRvXVcKpIdUjm8Qr6dkX_nsWwusg9XQQNSLxcUi3K7LqlG9AMb1_WCd8JLh4ZvWujTKZJyasK_pnQNdfDsHy-ykJkJFSs6_sm0bV9TAWbnfh4zodOkAuyyr","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyYCIX96eECa4hdAYpgID8lhDxSdXz1OEnW_39kjYrcjrX1j7aiatg-HRWJn0zwZC5yafrBy1seriANpsiYrSUD8vIe692yZTSTiP4oLvsVV7PmcC9yS9kYPoKBVhMZwyoS1mjgQxB8upx-wRd6lKg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfivsYPsG279aK73yeD7nM-ufDLooSmLPSn9YiOxZyrPt28ah8ikjeykbb8xtdQNkZrW1SAvRvh8UETxKe23oENmnpEu0R0jisg8r1pJnbOFRP1zPleBRTl6MfzmCEEwytsts="]
+
+--- RAW RESPONSE TEXT ---
+Choosing between the **Mandarin Oriental Hyde Park** and **The Dorchester** is a delightful dilemma, as both are among London’s most prestigious, iconic ultra-luxury hotels. 
+
+While they both sit on the edge of Hyde Park, they offer distinctly different atmospheres, design aesthetics, and amenities. 
+
+---
+
+### 1. Location & Neighborhood Vibe
+*   **Mandarin Oriental Hyde Park (Knightsbridge):**
+    *   **The Vibe:** High-energy, bustling, and fashion-forward. 
+    *   **The Location:** Located in Knightsbridge, it sits directly on the boundary of Hyde Park. In fact, it is the only hotel with **direct, private gated access into the park** (perfect for morning jogs or watching the Royal Household Cavalry ride past). 
+    *   **Right outside your door:** Some of the world’s best shopping, including Harrods, Harvey Nichols, and Sloane Street, are literally steps away.
+*   **The Dorchester (Mayfair):**
+    *   **The Vibe:** Elite, prestigious, discreet, and steeped in British high society.
+    *   **The Location:** Located on Park Lane in Mayfair. While it overlooks the treetops of Hyde Park, it is separated from the park by the busy Park Lane road.
+    *   **Right outside your door:** Quiet, residential streets lined with world-class art galleries, private members' clubs, and the high-end boutiques of Bond Street and Mount Street.
+
+### 2. Design, Atmosphere, & Recent Renovations
+*   **Mandarin Oriental Hyde Park:**
+    *   Following a massive, top-to-bottom renovation (led by designer Joyce Wang), the hotel feels incredibly bright, fresh, and contemporary while paying homage to its Edwardian heritage. 
+    *   The style is a blend of Art Deco glamour and sleek, modern luxury. Rooms are highly functional and tech-forward, featuring things like heated electronic toilet seats, high-end acoustics, and sleek, light-colored marble.
+*   **The Dorchester:**
+    *   The Dorchester recently completed its most significant, multi-phase transformation in over 30 years. Handled by legendary designers Pierre-Yves Rochon and Martin Brudnizki, the hotel’s public spaces, bars, and rooms have been beautifully refreshed.
+    *   The design concept centers on a "fresh English garden" aesthetic, featuring pastel silks, floral wallpapers, and classic wood craftsmanship. The hotel maintains its legendary, old-world glamour and theatrical scale, but feels thoroughly polished, bright, and vibrant. 
+
+### 3. Rooms, Suites, & Service
+*   **Mandarin Oriental Hyde Park:**
+    *   The rooms here are light, airy, and calming, with many offering spectacular, uninterrupted views of the park. 
+    *   **Service:** Polished, efficient, and deeply intuitive in the signature Asian hospitality style. It feels incredibly professional and seamless, though slightly less formalized than the butler-heavy service of Mayfair.
+*   **The Dorchester:**
+    *   The guest rooms and historic suites (such as the meticulously restored Oliver Messel Suite and the massive, newly debuted Royal Suite) represent the absolute pinnacle of traditional English luxury. 
+    *   **Service:** Unmatched for traditionalists. The Dorchester boasts a newly revamped, highly rigorous butler programme for its suite guests, offering highly personalized services like unpacking, color-coordinating wardrobes, and pressing clothes. 
+
+### 4. Dining & Bar Scene
+Both hotels are absolute powerhouses in the culinary world, making this a tie depending on your taste:
+
+*   **Mandarin Oriental Hyde Park:**
+    *   **Dinner by Heston Blumenthal (2 Michelin Stars):** Exceptional, highly creative fine dining based on historic British recipes.
+    *   **The Aubrey:** A moody, highly stylish, and energetic Japanese Izakaya and cocktail bar.
+    *   **The Rosebery:** A stunning, light-filled salon famous for its fashion-forward afternoon tea.
+*   **The Dorchester:**
+    *   **Alain Ducasse at The Dorchester (3 Michelin Stars):** The peak of classical, elite French gastronomy.
+    *   **The Grill by Tom Booton:** A modern, incredibly vibrant, and unstuffy take on British classics.
+    *   **The Promenade:** The legendary, newly revamped heart of the hotel, famous for its grand, social Afternoon Tea.
+    *   **Vesper Bar & Artists' Bar:** Designed by Martin Brudnizki, these bars are incredibly chic spots for cocktails, often featuring live music on Liberace's famous silver piano.
+
+### 5. Spa, Wellness, & Pool (The Biggest Divider)
+If wellness is a priority for your stay, this is where the two hotels diverge most significantly:
+
+*   **Mandarin Oriental Hyde Park:** 
+    *   **The Winner for Wellness.** It features a world-renowned, extensive subterranean wellness center. 
+    *   Crucially, it includes a beautiful **17-meter indoor swimming pool** and a state-of-the-art fitness center, alongside advanced wellness treatments.
+*   **The Dorchester:**
+    *   The hotel has a gorgeous, ultra-chic boutique spa (featuring an exclusive partnership with La Prairie). 
+    *   However, **it does not have a swimming pool**. If a morning swim or a massive wet-spa area is a must-have for you, the Mandarin Oriental is the clear choice.
+
+---
+
+### Summary: Which should you choose?
+
+*   **Choose Mandarin Oriental Hyde Park if:**
+    *   You want direct, step-out-of-the-lobby access to Hyde Park.
+    *   You are a serious shopper and want Harrods and Harvey Nichols at your doorstep.
+    *   An indoor swimming pool, high-tech gym, and a massive spa are non-negotiable.
+    *   You prefer bright, contemporary, and sleek design over traditional English florals.
+
+*   **Choose The Dorchester if:**
+    *   You prefer the prestigious, slightly quieter, and highly exclusive vibe of Mayfair.
+    *   You appreciate grand, historic British luxury refreshed to modern perfection.
+    *   You want top-tier, classic white-glove butler service.
+    *   You want to experience some of London's finest dining and legendary, lively hotel bars (Alain Ducasse, Vesper Bar) under one roof.
