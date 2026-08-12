@@ -1,0 +1,26 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: 45 park lane vs the dorchester difference
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/45-park-lane","https://studiopdp.com/45-park-lane-hotels-hospitality","https://jenpollackbianco.com/45-park-lane-hotel-review-a-starlet-in-every-room/","https://www.vogue.com.au/vogue-living/travel/in-london-sister-hotels-tell-different-tales/image-gallery/009fec23226daf18a00d96f7dbc4eea8","https://guide.michelin.com/pl/en/hotels-stays/london/45-park-lane-5944","https://www.tripadvisor.co.uk/Hotel_Review-g186338-d1859025-Reviews-45_Park_Lane-London_England.html","https://ourismantravel.com/blog/luxury-london-hotels/","https://www.instagram.com/reel/DRPEfXXk1Mu/?hl=en","https://www.thereviewmag.co.uk/45-park-lane-w1/","https://www.booking.com/hotel/gb/parklane.html","https://www.dorchestercollection.com/london/45-park-lane/about","https://www.sophisticatedstlouis.com/home/queen-for-a-stay","https://www.dorchestercollection.com/london/45-park-lane/rooms-suites"]
+
+--- RAW RESPONSE TEXT ---
+The main difference between 45 Park Lane and The Dorchester is their size, style, and atmosphere. While both are ultra-luxury hotels owned by the Dorchester Collection and sit right next to each other in Mayfair, The Dorchester is a grand, historic British icon with 241 rooms, while 45 Park Lane is a sleek, modern boutique hotel with just 45 rooms.
+Quick Comparison
+
+Atmosphere and Style
+CallDirectionsWebsiteThis property feels like a sophisticated, private residence rather than a bustling hotel. It features bold Art Deco lines, leather couches, and a massive collection of contemporary British artwork. The environment is relaxed, lively, and intimate.
+CallDirectionsWebsiteOperating since 1931, this hotel treats guests to pure regal opulence. It boasts high ceilings, marble columns, floral arrangements, and deep-rooted British traditions. It acts as a bustling social hub for celebrities and world leaders.
+Rooms and Tech
+CallDirectionsWebsiteEvery single room guarantees a direct view overlooking Hyde Park. The rooms are packed with modern technology, including touch-screens that control the lights, curtains, and climate.
+CallDirectionsWebsiteRooms are traditionally designed with classic fabrics, deep marble baths, and hand-painted headboards. Views vary depending on which side of the massive building your room is located.
+Dining and Amenities
+CallDirectionsWebsiteHome to CUT by Wolfgang Puck, a high-end American steakhouse. It also features Bar 45 and a Michelin-starred sushi outpost called Sushi Kanesaka.
+CallDirectionsWebsiteFamous for its stunning Promenade, which serves legendary afternoon tea. It also features The Grill restaurant, the French masterclass Alain Ducasse (3 Michelin stars), and the famous Vesper Bar.
+Note: The two hotels are physically connected by an underground tunnel. Guests staying at either property can easily share and enjoy the spa and fitness facilities across both locations.
+If you are planning a stay, please share:
+
+I can check the current room rates and availability for your trip.
