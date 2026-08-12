@@ -1,0 +1,33 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://ourismantravel.com/blog/luxury-london-hotels/","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.luxurytraveladvisor.com/destinations/london-hotels-earn-forbes-travel-guide-five-star-awards","https://www.fodors.com/community/europe/four-seasons-london-475590/","https://www.fourseasons.com/london/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187993-r169687193-Four_Seasons_Hotel_London_at_Park_Lane-London_England.html","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://www.reddit.com/r/LuxuryTravel/comments/1kbl6rj/best_luxury_hotel_london/","https://www.cntraveller.com/hotels/london/four-seasons-hotel-london-at-park-lane-review","https://www.fourseasons.com/london/accommodations/","https://www.wallpaper.com/travel/hotels/four-seasons-london-at-park-lane-new-suites","https://www.forbestravelguide.com/hotels/london-united-kingdom/four-seasons-hotel-london-at-park-lane","https://thepointsguy.com/hotel/best-hotels-in-london/","https://santorinidave.com/mayfair-hotels","https://fat.voyage/compare/four-seasons-london-park-lane-vs-four-seasons-london-ten-trinity-square","https://press.fourseasons.com/london/hotel-facts/","https://en.wikipedia.org/wiki/Four_Seasons_Hotel_London_at_Park_Lane","https://www.reddit.com/r/FATTravel/comments/1q5q61k/four_seasons_london_park_lane_review/","https://www.tripadvisor.com/Hotel_Review-g186338-d187993-Reviews-Four_Seasons_Hotel_London_at_Park_Lane-London_England.html"]
+
+--- RAW RESPONSE TEXT ---
+If you mean **Four Seasons Hotel London at Park Lane vs The Dorchester**, the main difference is this: **Four Seasons** is the more contemporary, wellness-focused choice, while **The Dorchester** is the more traditional, grand London landmark. Both are top-tier Mayfair/Park Lane luxury hotels with very similar pricing at the high end.[3][6][15]
+
+- **Choose Four Seasons Park Lane** if you want:
+  - A more **modern** feel and a polished, contemporary design.[1][15]
+  - Better **wellness/spa emphasis**; Forbes Travel Guide notes it received Five-Star ratings for both the hotel and the spa.[3]
+  - A slightly more relaxed, less formal atmosphere than The Dorchester.[2][15]
+
+- **Choose The Dorchester** if you want:
+  - More **classic London glamour** and a true Park Lane icon.[15]
+  - Stronger sense of **heritage and formality**.[15]
+  - A hotel with a broader restaurant lineup and a larger, more traditional grand-hotel experience.[6]
+
+A few practical points:
+- **Location:** Both are on or near Park Lane in Mayfair; Four Seasons is at Hamilton Place, and The Dorchester is at 53 Park Lane.[6][13][17]
+- **Rooms and size:** Four Seasons Park Lane is generally the smaller-feeling, more intimate option with 153 rooms and 43 suites listed in one hotel guide, while The Dorchester is larger with 180 rooms and 57 suites.[6]
+- **Wellness:** Four Seasons is often preferred for spa/wellness; The Dorchester has spa facilities too, but it is less often singled out for that strength.[3][6]
+- **Dining:** The Dorchester has the more expansive dining roster, including Alain Ducasse at The Dorchester, The Grill, China Tang, and others.[6]
+
+If you want the short recommendation:
+- **Best for classic luxury:** **The Dorchester**.[15]
+- **Best for modern luxury and spa:** **Four Seasons Park Lane**.[3][15]
+
+If you want, I can also compare them specifically for **rooms, breakfast, spa, family stay, or value for money**.
