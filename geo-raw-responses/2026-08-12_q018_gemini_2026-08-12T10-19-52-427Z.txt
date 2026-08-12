@@ -1,0 +1,40 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_nmfBT6hIMXFHdSEMuBN8MRFXwFIC5RHy96CWfkAWDBYb29VRKwWcT7BvpawWrhQTtfZl-LnDyfgXz08E1HDZLmZDTfx5lHQlUHa9I48j4gv1cpJUWM5Ccazn-9ZUjpKvhPg21gL8_YPNyVbRc1e_URbVAiUG9f2Z-6b7dg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGELimw1KPhfHOmqZ9npf93SXOjiK9yuzRht4OuwJw9RyfydztUrlMUdf83kOv7cqfjjfuSrs4_M6CiBjNS0AFbEd_tgZlwBodTJw2GQzHjHa9YkDNyygIdi5-B5Yf07qnhV1z5VW9r4PLsDE3Nk00Yc76ba3lt8_HgXCH7g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQANT9QNJ4teryutPfgOR06R2DhffWzA3bgHmXmS29vwlwyWqT4fkhJz2_KDY7V2fP5PhBfyuV36A8q20pZNL2LPHpNYnmJUjDEVsjgyXbfRtgAQY-DYvgbxLsnqgEXXDtv-e3y2t3h-Jp-zlCVP4zARzVQ9BLATOShVqqlWs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS2FYYXGur4D0BvAjVsx3htXLd4FsV40lVlc1i00rzQ0fkcWIay-mjbU98HaSnoOi29isWXFMV7Gq6aJ3-HsHzqy54iQaw4bM3Ql646_iFhyASmoS9zYg6l5dgJlr3Wvglqd-n-Q3ZItMCckKqkDjREsS6JUwCpB5N-C8_TKGJcbnzbbc-ejZuCu1gxA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBuQ7rfV3Ts7uD10-_9uxVRzWkJ4GWu1_nKVQ6wmSLZSJkOHcWZeBQLXoTTa38xTtbU3W5CKAByO6xqiyEroKWnY-Tdss7Bu6N64AEaFbw0155dxgGmR_yQQ68K6DVUshssN2Wg2wakiYG0R0gCNZd5tGHtqSkW4IWzhfQyIRdrHX4PXy1VHoJEaUO1Ay","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZAezNuKFAJJRKtg7XZHcl-DZMi7an55dKVirmHE7WvNo5UFKCM3RkXj5QzlXgj93ArG7-19c1QzlohIM4bwICjczSauYtli1wDOG8LBX-na2ugxuXAEr8Won3Jl374tIpYPrwouz4aYjmZmCdOATBzb5LhmlCuPwsXdJxtsk-fIFYK3s8DDLdb96VNRr65OMriw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELXOy5F-_i5ebuT9KZSoDM1isnZDJRxPC-zQOKNcXeGU1ipUnI2CZjQmc_zcLsNRCNCI-ir04ynvpTYOULSSa9j-PfiFbddEQ3RFE2jDRvTN5LFYiEYleJ-SFb0tc4i-3KNwJCihiKLBjT7MPN3nRUNRvmKYliEHGxUWa5lC9sf44=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiF1lrvo1wwXBlUsolH_G2NFVUj53LkMEcM1YDlsy_tECjzRqYNgebvHsUOKZEWXcbKlIYWm_64q3Rny5TAMiOrWPDaUwCqI_mbNq2pBZLQ2HEaL6o8O6ovdq_EvFTeYWAiuEpOOevfL8qD-Nt_gDC7NrPoewRsg3gJPNCsqrTaEirYk3MetC3Wo6_aDxlBv7A","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrVl9e9n-9V3xal88Zt0fVkNwstl3yEvnV-ok1IEBx3IbzViBjoTUcW8YlJltsmxxGQRECdPt8BWt6oIQaTmZV4fNDn2wPAP47e_pgDqwEWuum8omnTKzblNhkKJ_Sz93KNR6eRRYYC1dhIgEGZcOQzV3iF7eJoYUQyliGfMstTLtq_-js","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGH6YCNAtowT0Q5vtFNHlnDmPOfv5zfyn_P4bdDfCSHwReaHy1qXD-3jLU9Lt4FjQAG2qAoWE4aJYT_0lbRl5YQjogCcDd1ay-nS9WpMUtO81AFt0X5XDifkz_vmG3-Fa0OiC_X2k=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy51acw9KqCS4kMZAHwWbevxY68tJ17G59gYQ3xXc-fyf2a2HJ7nW5MbotbPugi8Ky8-mLp4fV4siQGI6_eT4kqHvHZiSlbZc5WIuuVO8pdMKvLEzJfHtf3Qy6cvdMOBb-fzmOqAyIG0nUO5YYUn_6tcDC84cmyqdbZhgtPG97RYbvquxG8AzeGR74TA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbgtxqNqu7mo9VuJ6vFij75x5bSvatz0xRZfRtuVXKOwabw6uTbzfYZSrPUkfJF8kZz3HU3BoEY-8Shw8aiBSapzZ46Zc2NypF3HRv4PuRCdt0zzDTvtxr2FnX0P6dJDj1FKjNTSdAJp690bu7CJYIqzgL6tQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqnOmytHUuxOvIvmAboCE__iRwOSZKbhJpGEn28GGdPVf_pD5DezQqdlxZ5JwmPNnibcPDZnzZVl03cEcdIb_PQxAyG_q_f-IBsG3ZaAdgPdInMqPI6El_srbVdMtNvX7vNFIfSuwQQ7yqA8g-"]
+
+--- RAW RESPONSE TEXT ---
+When booking the **Hyde Park Suite** at **The Dorchester, London** directly with the hotel, you unlock a highly prestigious tier of signature suite benefits. 
+
+The direct perks, luxury amenities, and booking strategies available for this category include:
+
+### 1. Signature Suite Inclusions (Included for all Hyde Park Suite bookings)
+Because the Hyde Park Suite is classified as a signature suite, booking it automatically grants you the hotel's top-tier services:
+* **Dedicated 24/7 Butler Service:** You will have access to a dedicated butler trained under The Dorchester's prestigious butler program. Services include packing/unpacking, wardrobe organization, private check-in, and personalized itineraries.
+* **Complimentary Round-Trip Transfers:** Chauffeur-driven transfers to and from any London airport or railway station.
+* **Local Chauffeur-Driven Car:** Access to the hotel's chauffeur-driven house car for nearby trips (subject to availability).
+* **Complimentary Spa Experience:** One complimentary "Speed Nap Experience" (vibro-acoustic therapy on a Welnamis relaxation bed) per person, per stay at The Dorchester Spa.
+* **High-End In-Room Details:** The 106m² (1,141 sq. ft.) suite features three Juliet balconies with panoramic Hyde Park views, a separate dining and living area, Bang & Olufsen TVs, Dyson hair dryers, and premium Wildsmith bath amenities.
+
+---
+
+### 2. Website-Exclusive Direct Booking Offers
+If you book directly through The Dorchester's official website, you can take advantage of exclusive packages and rate guarantees:
+* **Arrive Early, Stay Late:** Allows for flexible check-in as early as 8:00 AM and late check-out up to 8:00 PM (subject to availability on eligible rates).
+* **Stay & Indulge Package:** Includes a complimentary hotel credit (typically £200) to spend on dining or spa treatments during your stay of two nights or longer.
+* **Plan in Advance:** Receive 15% off your stay when booked at least 14 days in advance, or 20% off when booked 30 days or more in advance.
+* **Best Rate Guarantee:** If you find a lower rate within 24 hours of booking, the hotel will match it.
+
+---
+
+### 3. The Pro-Traveler Direct Route: Dorchester Diamond Club
+If you want to maximize your perks, the best way to book is through a **Dorchester Collection Diamond Club** travel advisor. These advisors book you at the **exact same direct flexible rate** found on the hotel’s website, but they stack massive additional VIP perks onto your stay:
+* **£100 daily hotel credit:** Instead of a one-time credit, Diamond Club suite guests receive a **£100 credit per day** of their stay to spend on dining or spa treatments.
+* **Complimentary Daily Breakfast:** Full English breakfast for two daily, which can be taken in the restaurant or via **in-room dining** serviced by your butler.
+* **Priority Upgrades & VIP Recognition:** You will be treated as an elite guest, with a custom welcome amenity and top priority for early check-in or late check-out.
+
+**How to book:** You can reserve directly on the [Dorchester Collection website](https://www.dorchestercollection.com/london/the-dorchester) to secure direct package promotions, or contact a luxury travel agency with "Diamond Club" status to stack the daily credits and free breakfast.
