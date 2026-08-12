@@ -1,0 +1,24 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://luxerecess.com/best-family-hotels-london-luxury-hotels/","https://www.thebiltmorehotels.com/en/biltmore-mayfair/rooms-details/biltmore-family-suite/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneFkyaHVhR0pyGAo","https://thesaucemag.com/12-family-friendly-hotels-in-london/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKcmFEa3paRFV3GAo","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TlRVMlkzZxgK","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkhaMGEyYxgK","https://thehoteljournal.com/best-hotels-for-families-in-london-united-kingdom/","https://www.mayfair-london.co.uk/lcat/hotels/","https://www.bestchildfriendlyholidays.co.uk/best-luxury-family-hotels/","https://my.best5starhotels.com/northumberland/","https://thehoteljournal.com/best-five-star-hotels-london-england/","https://stayplayuk.co.uk/stay/the-beaumont/"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair, London boasts some of the world's most luxurious 5-star hotels that specifically cater to families with dedicated multi-room suites, children's amenities, and concierge services. Top options include The Biltmore Mayfair, The Beaumont Mayfair, Grosvenor House Suites, and Claridge's.
+Family Suite Comparison
+
+CallDirectionsWebsiteThe dedicated Biltmore Family Suite features a separate living room and a private bedroom configuration containing one king bed and one double bed. The layout mimics a sophisticated private London residence, located right on Grosvenor Square.
+The dedicated Biltmore Family Suite features a separate living room and a private bedroom configuration containing one king bed and one double bed. The layout mimics a sophisticated private London residence, located right on Grosvenor Square.
+CallDirectionsWebsiteThis Art Deco gem offers flexible interconnecting rooms and suites to keep the family connected yet private. Its standout feature is a miniature children's bus parked inside, fully stocked with toys, treats, and custom colouring books.
+This Art Deco gem offers flexible interconnecting rooms and suites to keep the family connected yet private. Its standout feature is a miniature children's bus parked inside, fully stocked with toys, treats, and custom colouring books.
+CallDirectionsWebsiteAn ideal choice if you want the space of a luxury apartment with the service of a 5-star hotel. These palatial suites feature large living spaces and full kitchen amenities, perfect for preparing quick meals for children.
+An ideal choice if you want the space of a luxury apartment with the service of a 5-star hotel. These palatial suites feature large living spaces and full kitchen amenities, perfect for preparing quick meals for children.
+CallDirectionsWebsiteAn iconic Mayfair institution that treats children with grand hospitality, providing custom amenities, games, and reduced rates for adjoining rooms. The elegant indoor swimming pool also offers designated hours for family fun.
+An iconic Mayfair institution that treats children with grand hospitality, providing custom amenities, games, and reduced rates for adjoining rooms. The elegant indoor swimming pool also offers designated hours for family fun.
+CallDirectionsWebsiteFamous for its "Rocco Forte Kids" programme, offering grand interconnecting suites equipped with in-room play tents, personalised kids' bedding, and a specialized kids' concierge service to map out your city itinerary. Luxe Recess +7
+Famous for its "Rocco Forte Kids" programme, offering grand interconnecting suites equipped with in-room play tents, personalised kids' bedding, and a specialized kids' concierge service to map out your city itinerary.
+To help tailor these recommendations, could you let me know:
