@@ -1,0 +1,50 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1wcJxL761r1x4TWpb5i9anDkhxIeUegHs81vGJMYDJ0gmkQWXg34-s8Wc0_fKgm3ADB_rS78dXiXejFWWN0NtETcREYBJXsJ6ZYJbULjW0eUOIvAdV9fqovhbS8mLI3zj6V3EP_1IPIf0cDbZnbr7BzVpmnRPhn7lyddx7MMxIP6KqzCd-A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7rzlcoXoyzG645eMmpCjwyaIDyELQM0G_0YPun-LMRtIXLdRWhkdXo3kLsRP3BduoL5uM4pQ5HfSb-eAUZn4XJmZKrH_UEKi4BKajxLM26KXi9mA1XuTO-IH7-fK1ZEZYaFf2_QYDCCokm9Uz2z-s86PKE1YpRN4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-92GgmhShTaS18VAqV7l6z5XZK0Bh4A6rBYhxlgHa_3guHdHNmXOuRAkfuOk12APiOZjMesoXknxpwuBOo6pfrS5sa-vio4EBVR3BP2bsDnUiFyeEWn_vEPEL-69jlssfru4Og7sUOCIKF48D5EKyzNahgKdAlhyyBDWc96EFRygLl_sWhx0_YKD_0eVSrURGIZVis5bqgE802q3e174mPE3DBJhgHONXj0JlR6Isv0-xGvP7gfzwsJoL8SCamyrx7gwToqcV4cIOJ8OYZ2WYhcUwbg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbfnOztOsb_32iLjplevJJuk9Z-WFsaU2Dl691Jt2dZFc-fdKSfZIogeCs65CeX7x9AHxm_HrTD5RkOxSiBEok4BYodmfRh9dNjwTN-xTZhyz5uSzHoJfF7z0ogqY6ueOQ6826zM3a2szflphXNxin84aNZUb0iWvR2sQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuGzkeCgaKpIIAR-VXcikZgjM_GSnNlcwZjNy071L94QKRXTpk7P3B-bLs0P_KLdcb--_Z-hmRA9fOFuIqxPchbhd1Jkr57Ka-bcbLoUpvMHchnmKey7kQdg2901wDz6Uomg3DR2EyeA-X9mj166_6-bEM1G0lW6vy3Nw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyPcTmRHj5w4hDB0Torq8Tl2dQv3ZV-ouG9EKF7Od1BaYt6gwCSgM5hudgUxaLvut5gkCW33dhoCGuNDoCHyk_HTO9gYkabYuv0MukiGpBj6w8jtVWQLeJT3-blqplg-RMPhaJkArjP_xK6d6Oeq62ovXdknuVadN0XmPWIa6tTA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXVbz00pw0HUZAniztlcVOhZD1mE4Ffh0-rBYOcrSl5hOtHXHKwF_00ycZDyIXy4z-3iBMjYJX9OKGHX3WMEJMioNHS1UU-taqHCRyK1FiPSDAU90Phbbma1BmnAItt69emztt0ZvXdZgrA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLQzoNymM9N3SMh2pg3RapIq5-1dkZ5grAzNgZezWir5CMDwgh13-z4scYmXpvP_AM6sdy2qkl11AvlBE9WTu8DUWAMCZk5acM2CFLaccVf1OeRJRuWS-op0C-4pTrA0ook1iNl-0xuBC6vLoJgEHDfEQX","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt5XTAqPz5RghvGGj9S3n-rrr49vaXYp-ziGv9ssYQRpLYjBxPzm5EztdN_joS7rfBHeVUTEkV1GVOLB4_MZSBG1pwXRr9g0RWQ6SGQpyODn9kHSi_uLvdJ0KRDkfdqw0Ha7_MsjR3BEYaiUXbKr0VTvDv7Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLWNesHftrPiy2fC8GNcJNkUQAotAjppTfl_mhGAooj0xBIzzSp29hdyLq7_bLndr9oihJL7Izx9Kr5G_ZKJJtwKL-SSVgTkCDMi5b1sEO3wsh1z6dnZQV3s3-5UnMH4W_wwYzCOtqYQ5XhdGwog7TIMVAqbYl70ea1ERpDcRunAPmeQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfG2ib-8rVvMHEmGf-hI8MSJTG2n8gU9B0lR2gUuAuTrLoA8fukL4LWw98UqxIvJnflrOTiwqPIAOQeFmspccJtYKz1BjQnOetnK7syaZoUsQ-hrgX-2-ZJFR5FYuxya3QzmNinM-YZ-kLfYKslUhLTn1h7Hk-68m31Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd2Lb0sneWXdDP7cwHOu8pC-hDYQG8gISTZJDFLatF_dHMwzKDVygeyz2T5smbCu333H1L95Q2UutRoSxOQzwY-aIfACZuBb7In4CNIt_DwLu4VxL4GzfB0fclMCOUJ-ZLnIkBijNj_27ZE_xF6qhY9kBU","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbaTfTXQS3Zu-9U-vabqisCSCIhgCN1yfNnbrEtE_0TP-6FPXPo1dQFDfHDAGQ6RBEDScUoikPSDIazS0Hx3EKcQAchOceJ5UA33Hk6oYFQtR7S8z1DqTi49ewq3Taj_GPvZxekcJt0vq-WaTaqlxGVNuqS5Zht34=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqL25-EyWyQAVaQIKE-NozWU56btmUpIhED8MSzbxi6eBEwnMrtWA1Z0sLtuTwPRmpKEqCi4lhLGII60oKj-FCJxDgkRhdvbwGUWpT-9tr5IBx9dILL28JXvPJg_hUto85gS5YKOi6CcrT9tcbQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzADN58EJfPQPomvveCJTAI0zGqStqhbBO-fbGi5Ff0bJfY7EmCRKjtZB50kLE_72vBbrVMOkq966-MIhcXUhXJZ0K0fmKf04NV5I7aJLI9oJ97AatC2eIrDkrXqm64hXA7zdwYs_fydecLLbthPKJT-NrwA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWXWlTIKV4L-LakQI9_B3No8g24rpmvSpjSLrbzyQg7OlbspuInUL3-owQ3Lx6KOK4LYMkw7A3voHV8VGCpgb3s8GyFkT656h_tf5yz68fdnKkYtcgw_Gpavm-YlJcrtBYDh68dUcEChPy98M3wxjRTVyJ316PM5VgKT8Z"]
+
+--- RAW RESPONSE TEXT ---
+Claridge’s is a legendary 5-star Art Deco landmark in Mayfair, London. Because luxury hotel pricing fluctuates dynamically depending on the season, day of the week, and availability, booking rates can vary significantly. 
+
+Below is a breakdown of the standard suite booking rates, categorized by size and luxury level, to give you an accurate expectation of nightly rates. *(Estimates are shown in both British Pounds (GBP) and US Dollars (USD)).*
+
+---
+
+### 1. Junior & Studio Suites (Entry Suite Level)
+These accommodations are ideal for guests seeking a bit more space than a standard room without stepping into a full multi-room suite layout.
+*   **Claridge’s Studio:** From **$2,500+ USD** (~£1,950+ GBP) per night.
+*   **Deluxe Junior Suite:** From **$2,880+ USD** (~£2,250+ GBP) per night.
+*   **Terrace Junior Suite:** From **$2,970+ USD** (~£2,320+ GBP) per night.
+
+### 2. One-Bedroom Suites (Mid-Tier Luxury)
+These suites offer designated separate living/sitting spaces, a spacious bedroom, marble bathrooms, and often come with Claridge’s famous personal butler service.
+*   **Mayfair Suite (861 sq. ft.):** Starts at roughly **£2,200 to £2,500 GBP** ($2,900 to $3,400 USD) per night. *(Note: Claridge’s official gift voucher for a 1-night stay in a Mayfair Suite with breakfast and champagne is priced at £4,080).*
+*   **Claridge’s Suite (1,076 sq. ft.):** Starts at approximately **$4,185+ USD** (~£3,270+ GBP) per night.
+*   **Mayfair Terrace Suite:** Starts at approximately **$4,771+ USD** (~£3,730+ GBP) per night.
+*   **Claridge’s Terrace Suite:** Starts at approximately **$5,660+ USD** (~£4,420+ GBP) per night.
+
+### 3. Grand & Signature Suites
+These are significantly larger, uniquely designed, and often feature historic fireplaces, grand architectural details, and dining spaces suitable for entertaining.
+*   **Corner Suite (1,130 sq. ft.):** Starts at approximately **$6,180+ USD** (~£4,830+ GBP) per night.
+*   **Brook Suite (1,238 sq. ft.):** Starts at approximately **$6,460+ USD** (~£5,050+ GBP) per night.
+*   **Corner Terrace Suite (1,109 sq. ft.):** Starts at approximately **$14,500+ USD** (~£11,350+ GBP) per night.
+
+### 4. Penthouses and Presidential Suites (The Top Tier)
+These are some of the most expensive hotel rooms in the United Kingdom, built for absolute luxury, royalty, and high-profile guests.
+*   **Grand Piano Suite (Designed by Diane von Furstenberg):** Starts around **$21,000+ USD** (~£16,400+ GBP) per night.
+*   **The Royal Suite:** Typically priced around **£21,600 GBP** (~$27,500 USD) per night.
+*   **Ultra-Exclusive Penthouses (e.g., The Residence):** Can range from **£16,000 to over £30,000+ GBP** per night depending on booking specifications.
+
+---
+
+### Special Booking Promotions & Packages
+If you are planning to book a suite, it is highly recommended to look at Claridge’s direct promotions, which offer substantial added value:
+
+*   **"Life is Suite" Promotion:** Valid for a minimum of two-night stays. It offers **10% off** the Bed and Breakfast rate on selected suites (Mayfair Suite, Claridge's Suite, Mayfair Terrace Suite, Claridge's Terrace Suite, Corner Suite, Corner Terrace Suite, or Brook Suite). This offer also includes complimentary daily full English breakfast and a welcome bottle of chilled Champagne.
+*   **Direct Booking Inclusions:** Most high-level suite bookings automatically include complimentary access to the newly built Claridge's Spa (including the indoor pool and gym), complimentary soft drinks from the minibar, and dedicated 24-hour butler service.
+
+*Tip: Standard rates at Claridge's are quoted per room per night, are inclusive of 20% VAT, and are typically subject to a 5% discretionary service charge. Always check the cancellation policies, as many promotional suite rates require full, non-refundable prepayments at the time of booking.*
