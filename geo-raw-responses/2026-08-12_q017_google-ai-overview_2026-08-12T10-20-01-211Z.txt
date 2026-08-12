@@ -1,0 +1,22 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.expedia.co.uk/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information","https://www.kayak.co.uk/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp","https://www.dorchestercollection.com/london/the-dorchester","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/family-time","https://guide.michelin.com/gb/en/hotels-stays/london/the-dorchester-194","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers","https://www.americanexpress.com/en-gb/travel/discover/property/England/London/The-Dorchester","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/plan-in-advance","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/stay-indulge","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/bed-breakfast","https://www.ca.kayak.com/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp"]
+
+--- RAW RESPONSE TEXT ---
+Rates for The Dorchester in London for October 2026 average £1,225 per night, with entry-level room rates typically starting around £990 to £1,100 depending on the day of the week.
+October is historically one of the most affordable times to experience this luxury Mayfair landmark, showing an average price drop of up to 54% compared to peak summer months.
+Estimated Room Night Pricing
+While exact live pricing varies by date and room category, standard nightly rate expectations include:
+
+Active Special Offers for October 2026
+You can substantially lower the total cost of your stay by booking directly or using premium travel programs that feature active promotions during October 2026:
+
+Important Bill Considerations
+When budgeting your total cost, remember that standard rates at The Dorchester include VAT but typically exclude a discretionary 5% service/employee benefit charge added to the final bill.
+If you plan to bring a vehicle or a pet, The Dorchester charges £85 per day for valet parking and a £35 daily fee for small dogs (under 7 kg).
+Would you like me to find out the cancellation policies for these advance rates, or are you looking for specific amenities like their Michelin-starred dining options during your stay?
