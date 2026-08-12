@@ -1,0 +1,33 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.google.com/maps/search/The+Dorchester?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+
+## [The Dorchester](https://www.google.com/maps/search/The+Dorchester?utm_source=openai)
+
+
+Booking the Hyde Park Suite directly at The Dorchester offers several exclusive benefits:
+
+- **Dedicated Butler Service**: Enjoy round-the-clock assistance for unpacking, restaurant reservations, and personalized recommendations. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai))
+
+- **Complimentary Round-Trip Transfers**: Experience seamless travel with complimentary chauffeur-driven transfers to and from your chosen London airport or railway station. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai))
+
+- **Use of Chauffeur-Driven Car**: Access a chauffeur-driven car during your stay, subject to availability. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai))
+
+- **Complimentary 'Speed Nap Experience'**: Relax with a complimentary session in The Dorchester Spa's Welnamis lounger, featuring soothing vibrations and a calming binaural soundtrack. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai))
+
+Additionally, the suite features:
+
+- **Spacious Living and Dining Areas**: Ideal for entertaining or unwinding.
+
+- **Three Juliet Balconies**: Offering picturesque views of Hyde Park.
+
+- **Dressing Room**: Providing ample space for your wardrobe.
+
+For more details or to make a reservation, please visit The Dorchester's official website. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite?utm_source=openai)) 
