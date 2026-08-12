@@ -1,0 +1,30 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://www.asmallworld.com/collection/hotels/claridges-london","https://www.maybourne.com/en/hotels/claridges/suites-rooms","https://www.kayak.com/London-Hotels-Claridge-s.13323.ksp","https://dinewithjp.com/claridges-hotel-london-review/","https://www.booking.com/hotel/gb/claridge-s.html","https://www.riiiich.me/articles/live/claridges-london-review-2026/","https://www.privateupgrades.com/united-kingdom/claridges-hotel-london","https://www.maybourne.com/en/hotels/claridges/suites-rooms/claridges-suite","https://www.claridge.com/rooms-suites","https://www.riiiich.me/articles/stay/claridges-london-review-2026/","https://www.momondo.com/hotels/london/Claridge-s.mhd13323.ksp","https://www.trivago.com/en-US/oar/hotel-claridge-s-london?search=100-48022","https://www.maybourne.com/en/hotels/claridges/booking","https://www.hotels.com/ho172844/claridge-s-london-united-kingdom/","https://www.expedia.co.uk/London-Hotels-Claridges.h15588.Hotel-Information","https://www.maybourne.com/en/hotels/claridges/offers/life-is-suite","https://www.theworlds50best.com/discovery/Establishments/UK/London/Claridges.html","https://www.tripadvisor.com/Hotel_Review-g186338-d187685-Reviews-Claridge_s-London_England.html","https://claridges.wearegifted.co.uk/a-suite-stay-at-claridges","https://www.tripadvisor.com/Hotel_Feature-g186338-d187685-zft1-Claridge_s.html"]
+
+--- RAW RESPONSE TEXT ---
+Claridge’s **suite booking rates** vary widely by suite type, but recent sources show **suite prices starting around £1,500 per night** and rising to **£60,000+ per night** for the most exclusive suites.[4] A current booking/offers page also shows suite options such as the Mayfair Suite, Claridge’s Suite, and terrace suites, with rates quoted **per room, per night** and including VAT, plus a **5% discretionary service charge**.[16]
+
+Here’s a practical snapshot from the results:
+
+| Suite / category | Reported rate |
+|---|---:|
+| **Junior Suite** | from about **£1,500/night**[4] |
+| **Mayfair Suite** | about **£2,200–£2,300/night**[4] |
+| **Claridge’s Suite** | from about **$2,887 USD**[7] |
+| **2 Bedroom Claridge’s Suite** | from about **$4,185 USD**[7] |
+| **Signature / premium suites** | about **$3,000–$60,000+ per night**[4] |
+| **Grand Piano Suite** | **$8,000+ per night**[6] |
+
+If you want a tighter estimate for a specific date, the best comparison sources in the results are the hotel’s own suite pages and current booking platforms like Booking.com, Expedia, KAYAK, and Momondo.[2][5][11][15] Prices change significantly by season, room type, and booking lead time.[3][11][15]
+
+If you want, I can also break this down into:
+- **cheapest Claridge’s suite options**
+- **best-value suites**
+- **current rates in GBP vs USD**
+- **how to book directly vs through travel partners**
