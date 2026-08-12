@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.qxtravel.io/special-programs/dorchester-diamond-club","https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite","https://www.dorchestercollection.com/london/the-dorchester/spa-wellness","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/mayfair-suite","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.theluxurytravelagency.com/the-dorchester-london-hotel-booking/","https://www.bestetravel.com/dorchesterdiamond","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://ie.hotels.com/ho477886/the-dorchester-dorchester-collection-london-united-kingdom/","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/regal-suite"]
+
+--- RAW RESPONSE TEXT ---
+To book the Hyde Park Suite at The Dorchester and unlock its signature direct booking benefits, reservations must be completed via the official platform or through an authorized Dorchester Diamond Club travel advisor. The Dorchester intentionally does not operate a traditional guest-facing loyalty scheme, meaning direct or preferred partner channels are required to access exclusive suite privileges.
+The nightly rate for the Hyde Park Suite starts at approximately £4,380.
+Included Suite Amenities & Services
+When booking this specific 106m² (1,141ft²) suite overlooking Hyde Park, the following luxury services are built directly into your stay:
+
+Choosing Your Booking Route for Maximum Perks
+
+How to Complete Your Booking
+
+If you would like to proceed, please share your intended check-in date and the number of nights you plan to stay so I can check live availability and the latest promotions for the Hyde Park Suite.
