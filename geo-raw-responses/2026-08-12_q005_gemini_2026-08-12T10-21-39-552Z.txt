@@ -1,0 +1,66 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqOn_JKLE9RdrRW9VJr71ArNHC6GYmu64AK0XKb-88-qV7E34QNWr7CFh49c8KwlEgTZSLfuTHBUJnWIlUG6Qc7gmNbwv2SG5-9pgVFt_5l8wXJa5kgdHk2V6r3EoEbo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIqmbOoAan4l4K44BDoTto1mx0Y43Asna3Bkb2EFQ49vvXv9g_WC5COWNJuCcNfmjdxckQdVO0Ds2Rjgtylmww5Cv8OmvIIHBDdJGuMIQt9dnzjmQ0NckaXKY7QyNn4w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJePnwFFOfb4z4nOuY8OUeu3_DGzBRezqdWU24pwFBx0sAof3YG3ICRN4bWxlr_bS8QZUKJtuL55lBrWpqXObXcPhr3vjwa5knfWQto6Ccf-dg5ESlcgEWp3lyO73ISLerRDo8mQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyT4_60Yb8ENDowRUHVbiG7y6FSJUrniDK8h-8JI8rf2GYX9KMY_6EBW80WFNcU8Yt9wxRyNt9wJfT6U0gvV5LcS3vzySazbcSPERhtM7xYNbucG71QuQ7hJWJHat0bWtcwys=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEGlK8HX11bq3rl9w9ThovuT4jvb4_D1aNAW5WGZ4yq7q273xRewukdGwocDxWbZuPJ2AtfiSTQxShA5i2k_CooSBcOPG9FT4cjmZ-e57OqV3pA5WGp9qoIyNV01zbfoCym3v3dLh-TO4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGr-ME1MLqziWvJahtoQHmeIIiOCT2x_pVyt4iros_4KrFYARwcn5AGRxvjgunfB1o8SlmKC3EhQhRKWhrRw9WODhXfhLIMtvPCMWMcxn1Xj5cLrFru2CYw10riadvBZ_Qck1zs2RyTQBeeAKjtP5ztX3fA7Xo63_ERjeANdHe98PM3m4wY7eooInvoi0DiXiuqcButNjEzXZQRO6ugD9-AJpcZyVpYxHUwA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFSTsG2ENHUp9nC54gjq7LosD5S0Rsp7rfj_r7Fw610dm2xRnmcDFDdj7BBgu5eDK_-6_GKKSwtkKyblCrp5Ho_sTd91bsjWPawasZy3u1nDJah_rtAGVl4ORNNCb6e-YrdEZs1HtOmsWy5diXPPlT0ORSVyV9Yi840UWBXoEgL4TehQTQ830=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6m-PJQSVCdfw-metOu33fxVuuSxV5MaXOzUxHCA35cw0Qb1ezrhZnJnKsblCltPGmUOnJ5CeG0grq1Brtwm2an705vSneXQ1r0DwhkcrMhSaby2qv6ulsJcH_XqWdQBgN7FIa0u3CPum4_hRvMLe1hQysugDg6exAhYNurF_ZMfqNClG6uAm5","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqLvJHU4hZ5iupkaVRU7nTrDgB_KEYExXGZMtwF1m8jIjCNUfhMtouqwNFuz9ykmn3JR_CuLsZT0QRpG16fxGz2NOZ2gxeQFnqWcFftnyP85EwLOKfY5zzZDrf8yER98QAAsU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB3KgYnp2246idLpWcg12RwVsvOiZTzwUBfjpO0y1rcC-7NgKgtF--3GnkH9Yf-Q4gOF80Cs0ix2PuuPbTfpUPnKygIrLHccT-e7TuUZZ8opIlUG8fATZL52QCSr6sEaesBmJSkfat4iQG5pSwDfD6Y2lyRlI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhvS4MWpxu6aZVpNQfQUxotvE_9p7_ACR_SSy25ZFh8p_5UI_4kcOQtbkfyNNse3pfDJKGrfrNhOubzOPtjUHi3wI0-EjvZP7vfUR9rxr9IlC8TEMJd7NeMIw4tF7vA3tm_hpPEjJoMJYjIAf6dHLaVSng5KZ17msxOiS7KQEJUPHFdGrzIAQuRNQwrUWsb6al","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ZFbv2JW9AqZ1c83pg0zRi0_kZ-8SCEkBKZ4fEs8BsJNaE346NVhHzFRMjOhOZeBl9lSe_ybvlo5fAd8lE7lHaw378qlMruAM0ioecwEK0ScxNFEFZy3LC-lN4V0mFm1scrilA0hwOrU1vjsuKlSGrqf6Cz5QkcuFGdOyoto=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT11ZhO2eSU_R9t4HW25XMkg5jd5ues2VGmLzWqlhNAHUIOOWePdItIVWSNSX1ljmRnwuXVIszf2pwHjbDIdLLysl1LigVlJKmy_yqrCCB387-NAx5YKdbIJZlHT8duRzVDdkqEh5esv1HPQPsRrlakLaQJRkZXjAKC_RjMtEN40KV2vkyO9WMmuG2Uo1_noxGyHX2-f5zshvmWWLPsiRX","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFasn5AX0aewyTirhVth0HhxWGh33Z2Qt440LClk2QRckGPaDQ2IX6SnBrjPPv7i99SwYftxnxeEqRSfsErBU85GY-ngCsPMqb2E-BiEMQkiiCE1U7h5UF2SbJMVXav0m8DTuiS6NiGHTMSVQZh9R2KhuQo7WmvRroiYLEJS_TtMqAkObC1THm4zCbzIQQJ7l-Ea3g3kw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ZZMBBgwIU-F0KoVpDMnSQ2a2VStU40_4PkVnNtaQSMDobNH33KOzyFD9LdFqGqGoaFDHsvIuo-GwaHksgdKjPKJvkfrXRfgsPeNHJkw0d-rXNvSsE5iKi9mIZ3-KgmSp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSd6gBn7-AjbEMeTNcdPWQ6AAbJa_Dd2KqJx6Rx99OgIKv7hD4bxIODx4ptvW-259x3B2R31vDNuLDc81XYblpaAdXXA2gpypzB9Fih4zBs8_woYE9rzoJ8lx8k-84pF6fn6Ja6te3cMNHrZHoR3m_ZL9DAK8OkbiF7VVtCFjJnZnG2uStR3VfX4gYjKydvawyHsCs8TncHA69lk8F9knK9FFbBy-pKXLBhcScT9TJ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKL3LkoAw3Yz0DVesbd83QL-4NSnlBiPFBtFNMoK1gWtlcoSiw8AeZ-OmcmLhXv1cQdq-ALUr6AS-mSu4UuzLg9sXc7ZvKJmAhZHqYfirB1BqSI7UHvX011PsaLjZKRnrl42iOTexWdQYavDvOl4eHoXIa_HXbJEg2UN3t7t5KGoyHv-WN","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl_iEciwcMwypTN4S0M6dL-5rdr2dMzF4JwYMQ8f38ajWLRV09w92FX_M-FDzFl-SH5DJa3dEt2_9V1DCMDGQMhovHoBdY2vWtt-tq4A2LkYF3xGNh03wP5NBxctC9JurkgSJno9irtFuT-HTChXClo2aeRzEDD9IXc_EjweG10uZNK6kC8fjn25qaZCDm","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFz1zJGuo9F8ap8t4enl97wJQ0v7Hhgq9kpNtu0gJULxYv5oEUR_DCjY_gGnNI2hMrXqhDl9tAowzKiG8Fy3LLvL3ARrrhRjZwENS5yGf1M_Gdo3hHr_zQyEYphMYoP77Iugq3eZpwh-YV3NL-ncT0SJk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVw1e4iaKuF1e9y52keQtIVJtXp82U4q9ytlzPGhLTVitif5_FVeawx7KLKz942pt0DG2ouBB21LddsDR5NbHdnS_7VPjZZpJ3YCWrE2_CbeLgH-G9VtLdNTY5Du_McyVi78_KlKCgD_WNxSMX7H-6cIIQiP5dr25DoB4="]
+
+--- RAW RESPONSE TEXT ---
+London’s luxury hotel scene is defined by its "Grand Dames"—historic properties that have shaped the city’s identity for over a century. From sheltering exiled royalty and hosting clandestine wartime meetings to inspiring legendary writers, these iconic establishments offer a seamless blend of heritage and modern five-star opulence. 
+
+These historic luxury hotels in London stand out for their legendary pasts and world-class present-day experiences:
+
+---
+
+### 1. The Savoy (Established 1889)
+* **Location:** The Strand
+* **The Heritage:** Built by opera impresario Richard D’Oyly Carte using the profits from his Gilbert and Sullivan productions, The Savoy was the UK’s first purpose-built luxury hotel. It pioneered modern hospitality, being the first in Britain to feature electric lights, electric lifts, and en-suite bathrooms with constant hot and cold running water. Its early success was driven by legendary hotelier César Ritz and world-renowned chef Auguste Escoffier. Claude Monet painted the River Thames from his room here, and Winston Churchill was a frequent guest.
+* **The Modern Experience:** The hotel bridges two distinct design eras: classic Edwardian facing the River Thames, and sleek Art Deco facing the Strand. It remains a theatrical, buzzing hub of central London.
+* **Don’t Miss:** A drink at **The American Bar**, the oldest surviving cocktail bar in Britain, or a classic British meal at the Gordon Ramsay-run **Savoy Grill**.
+
+### 2. Claridge’s (Established 1856)
+* **Location:** Mayfair
+* **The Heritage:** Originally opened as Mivart's Hotel in 1812, it was expanded and renamed Claridge’s in 1856. It quickly earned a reputation as "the annex to Buckingham Palace" due to its popularity with British and international royalty. During World War II, it served as a haven for exiled heads of state; King Peter II of Yugoslavia stayed here, and Winston Churchill famously declared Suite 212 Yugoslavian territory for a day so that Crown Prince Alexander could be born on his home soil. 
+* **The Modern Experience:** Claridge’s is a breathtaking monument to Art Deco design, which was heavily integrated in the 1920s and 30s. It feels effortlessly glamorous, attracting fashion icons, Hollywood stars, and world leaders alike. A massive underground expansion completed in recent years added a state-of-the-art, 7,000-square-foot subterranean spa.
+* **Don’t Miss:** **Afternoon Tea in the Foyer & Reading Room**, widely regarded as the most elegant tea service in London.
+
+### 3. Brown’s Hotel (Established 1837)
+* **Location:** Mayfair
+* **The Heritage:** Spanning 11 interconnected Georgian townhouses, Brown’s holds the title of London’s oldest continuously operating luxury hotel. It has been at the forefront of several historical milestones: it was home to London's first-ever hotel restaurant, and in 1876, Alexander Graham Bell made the first successful telephone call in the UK from the property. Rudyard Kipling wrote *The Jungle Book* while staying here (celebrated by the hotel's Kipling Suite).
+* **The Modern Experience:** Now part of the Rocco Forte Hotels collection, Brown's offers an intimate, boutique-like residential feel. Designed by Olga Polizzi, the interiors brilliantly mix original wood-paneled walls and historic stained glass with playful, contemporary British art.
+* **Don’t Miss:** A cocktail at **The Donovan Bar**, a stylish lounge themed around the black-and-white photography of 1960s fashion icon Terence Donovan.
+
+### 4. Raffles London at The OWO (Opened 2023 / Building constructed 1906)
+* **Location:** Whitehall
+* **The Heritage:** While Raffles is a newer hotel opening, the building it occupies is one of the most historically significant in the UK. Formerly Britain's **Old War Office (OWO)**, this Edwardian Baroque landmark was the nerve center of British military operations. Winston Churchill worked here during WWII, and Ian Fleming's time working for Naval Intelligence in the building directly inspired his creation of James Bond (the building has featured in several 007 films).
+* **The Modern Experience:** Following an eight-year, multi-billion-pound restoration, the property reopened as a palatial hotel. Hand-laid mosaics, marble staircases, and original oak paneling have been flawlessly restored.
+* **Don’t Miss:** A drink at **The Spy Bar**, a sultry, low-lit cocktail lounge tucked into a subterranean room once used by the British Secret Service.
+
+### 5. The Ritz London (Established 1906)
+* **Location:** Piccadilly
+* **The Heritage:** Opened by César Ritz, the hotel was designed to emulate a Parisian palace, complete with Louis XVI furnishings, massive chandeliers, and heavy gilding. It was the first hotel in London to receive a Royal Warrant (awarded by HRH The Prince of Wales). During WWII, its basement grill room served as a secure meeting point for Winston Churchill, Charles de Gaulle, and Dwight D. Eisenhower.
+* **The Modern Experience:** The Ritz is synonymous with old-world, unapologetic opulence. It is one of the few hotels in the world that rigorously maintains a formal dress code (gentlemen are required to wear a jacket and tie in the restaurants and Palm Court).
+* **Don’t Miss:** **The Rivoli Bar**, an intimate, gold-leaf-decked Art Deco gem that serves some of the finest classic cocktails in the city.
+
+### 6. The Goring (Established 1910)
+* **Location:** Belgravia
+* **The Heritage:** Opened in 1910 by Otto Richard Goring, this is the last grand Edwardian hotel built in London, and remarkably, it remains in the hands of the Goring family to this day. The hotel was the first in the world to offer en-suite bathrooms and central heating in every room. It holds a Royal Warrant from Her Majesty Queen Elizabeth II for hospitality services, and famously served as the headquarters for Kate Middleton (the Princess of Wales) and her family on the eve of her royal wedding in 2011.
+* **The Modern Experience:** Located in a quiet pocket near Buckingham Palace, The Goring feels like a private, grand country house in the middle of the city. It features a large, beautifully manicured private lawn (a rarity in central London) and boasts a warm, whimsical, and highly personalized level of service.
+* **Don’t Miss:** Afternoon tea on the **Veranda**, overlooking the hotel's gorgeous private garden. 
+
+### 7. The Connaught (Established 1897)
+* **Location:** Mayfair
+* **The Heritage:** Originally built as the Coburg Hotel in 1897, it was renamed in 1917 during WWI to honor Prince Arthur, Duke of Connaught (Queen Victoria's third son). It has spent over a century acting as a discreet, high-society refuge for royals, diplomats, and international artists.
+* **The Modern Experience:** The Connaught represents the pinnacle of "quiet luxury." The hotel features a majestic mahogany staircase, an exceptional collection of contemporary art (including works by Damien Hirst), and legendary butler service.
+* **Don’t Miss:** A drink at **The Connaught Bar**, consistently ranked among the absolute best cocktail bars in the world, famous for its theatrical tableside Martini trolley.
+
+---
+
+### Which one should you choose?
+* **For Royal history & Edwardian charm:** *The Goring* or *Claridge's*.
+* **For Literary & Historic "firsts":** *Brown’s Hotel*.
+* **For Grand theatricality & River views:** *The Savoy*.
+* **For Spy history & Palatial scale:** *Raffles London at The OWO*.
+* **For formal, old-school European elegance:** *The Ritz* or *The Connaught*.
