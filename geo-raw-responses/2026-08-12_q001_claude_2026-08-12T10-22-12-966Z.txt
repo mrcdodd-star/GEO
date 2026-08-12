@@ -1,0 +1,16 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://thehoteljournal.com/best-five-star-hotels-london-england/","https://www.londonscout.co.uk/best-5-star-hotels-london","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.hellomagazine.com/travel/20220413137911/best-hotels-london/","https://hotelierschoice.com/guides/london/luxury/","https://www.timeout.com/london/news/4-luxury-london-hotels-are-in-the-worlds-50-best-for-2025-103125","https://www.tripexpert.com/london/hotels/corinthia-hotel-london-vs-shangri-la-hotel-at-the-shard-london"]
+
+--- RAW RESPONSE TEXT ---
+Here is a curated guide to the **best 5-star hotels in London** for 2026:
+
+---
+
+## 🏨 Best 5-Star Hotels in London (2026)
+
