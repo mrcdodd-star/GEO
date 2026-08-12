@@ -1,0 +1,24 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://www.tripadvisor.com/Hotels-g186338-zfc5-London_England-Hotels.html","https://www.tripadvisor.com/Hotels-g186338-oa30-zfc5-London_England-Hotels.html","https://www.expedia.com/5Star-London-Hotels.s50-0-d178279.Travel-Guide-Filter-Hotels","https://thehoteljournal.com/best-five-star-hotels-london-england/","https://www.skyscanner.com/hotels/united-kingdom/london-hotels/five-star/ci-27544008/sr-5","https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london","https://www.luxuryexplorer.com/UK/London","https://www.booking.com/fivestars/city/gb/london.en-gb.html","https://www.trip.com/hotels/star5/city/gb/london.html","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/five-star-hotels-best-and-worst/","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.tablethotels.com/en/london-luxury","https://www.fivestaralliance.com/luxury-hotels/637/europe/united-kingdom/london-england","https://dorsiatravel.com/the-best-luxury-hotels-in-london/","https://www.cntraveler.com/gallery/best-hotels-in-london"]
+
+--- RAW RESPONSE TEXT ---
+Here are some of the **best 5-star hotels in London**, based on multiple recent luxury travel guides and review lists: **Claridge’s**, **The Savoy**, **The Ritz London**, **The Dorchester**, and **Shangri-La The Shard**.[4][6][12][16]
+
+A few standout picks by style:
+- **Most historic/iconic:** **Claridge’s** and **The Ritz London**.[4][6][11]
+- **Best for dining:** **The Dorchester** is especially noted for Michelin-starred restaurants.[6]
+- **Best skyline views:** **Shangri-La The Shard**.[4]
+- **Best overall classic luxury:** **The Savoy**.[4][11][12]
+- **Best modern luxury option:** **1 Hotel Mayfair**.[6]
+
+If you want, I can also narrow this to:
+- **best 5-star hotels for couples**
+- **best 5-star hotels near Hyde Park / Mayfair / Covent Garden**
+- **best value 5-star hotels in London**
+- **best 5-star hotels with spa or family rooms**
