@@ -1,0 +1,38 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_medium=organic&utm_campaign=google_local_the_lanesborough&utm_source=openai","https://www.theritzlondon.com/?utm_source=openai","https://www.maybourne.com/en/hotels/the-emory?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.peninsula.com/en/london?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts a selection of exclusive luxury hotels renowned for their exceptional service, opulent accommodations, and prime locations. Here are some of the most distinguished:
+
+**[Claridge's](https://www.maybourne.com/en/hotels/claridges?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (4167 reviews)**  
+_Brook St, London W1K 4HR, United Kingdom_  
+An Art Deco masterpiece in Mayfair, Claridge's features 197 rooms and suites designed by renowned designers. The hotel is famed for its iconic afternoon tea and the Michelin-starred Davies and Brook restaurant.
+
+**[The Lanesborough](https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_medium=organic&utm_campaign=google_local_the_lanesborough&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1780 reviews)**  
+_Park Corner, Hyde, London SW1X 7TA, United Kingdom_  
+Situated near Hyde Park, The Lanesborough offers 93 luxurious suites and rooms, all with dedicated butler service. The hotel is home to the Michelin-starred Céleste restaurant and the exclusive Lanesborough Club & Spa.
+
+**[The Ritz London](https://www.theritzlondon.com/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (7829 reviews)**  
+_150 Piccadilly, London W1J 9BR, United Kingdom_  
+A symbol of high society and luxury, The Ritz offers classic Edwardian style accommodations and is renowned for its afternoon tea and impeccable service.
+
+**[The Emory](https://www.maybourne.com/en/hotels/the-emory?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (135 reviews)**  
+_Old Barrack Yard, London SW1X 7NP, United Kingdom_  
+A modern masterpiece in Belgravia, The Emory features 61 suites and studios with interiors by leading designers. Guests have access to Surrenne Belgravia, a private members' club for longevity and wellbeing.
+
+**[The Peninsula London](https://www.peninsula.com/en/london?utm_source=openai)**  
+**Closed · Hotel · 4.6 (1012 reviews)**  
+_The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, United Kingdom_  
+Located near Hyde Park Corner, The Peninsula London offers spacious rooms, a complimentary house car service, and several dining venues including the rooftop Brooklands by Claude Bosi.
+
+Each of these hotels provides a unique experience, combining luxury, history, and modern amenities to cater to the most discerning travelers. 
