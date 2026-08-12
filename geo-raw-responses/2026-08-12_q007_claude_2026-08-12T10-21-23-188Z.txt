@@ -1,0 +1,21 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.olivemagazine.com/guides/best-afternoon-tea-london/","https://www.tripadvisor.com/ShowUserReviews-g186338-d6387666-r1035815236-Afternoon_Tea_At_Claridge_s-London_England.html","https://www.arbuturian.com/food/restaurants/london/afternoon-tea-at-the-dorchester-promenade","https://afternoontea.co.uk/uk/london/mayfair/the-dorchester-hotel/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187685-r991950675-Claridge_s-London_England.html","https://www.theinfatuation.com/london/reviews/the-promenade-at-the-dorchester"]
+
+--- RAW RESPONSE TEXT ---
+Here is a detailed, head-to-head comparison of afternoon tea at **Claridge's** vs **The Dorchester** — two of London's most iconic and beloved venues for this quintessentially British tradition:
+
+---
+
+# ☕ Claridge's vs The Dorchester: Afternoon Tea Showdown
+
+---
+
+## 🏛️ The Setting
+
+### Claridge's — The Foyer & Reading Room
