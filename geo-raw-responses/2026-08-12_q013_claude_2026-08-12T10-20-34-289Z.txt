@@ -1,0 +1,17 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: the connaught vs the dorchester location and vibe
+
+CITED URLS:
+["https://en.wikipedia.org/wiki/The_Connaught_(hotel)","https://www.visasignaturehotels.com/hotel-detail/the-connaught-hotel-london","https://www.expedia.com/London-Hotels-The-Connaught.h21364.Hotel-Information","https://www.dorchestercollection.com/london/the-dorchester","https://www.afar.com/hotels/the-dorchester-london","https://www.booking.com/hotel/gb/the-dorchester-london.html","https://www.hotelsabovepar.com/articles/hotels/the-connaught-hotel-review-mayfair-london","https://www.maybourne.com/en/hotels/the-connaught","https://www.thefivestaredit.com/all-hotels/the-dorchester-london","https://guide.michelin.com/en/hotels-stays/london/the-dorchester-194"]
+
+--- RAW RESPONSE TEXT ---
+Here's a detailed breakdown of **The Connaught vs. The Dorchester** across location and vibe:
+
+---
+
+## 📍 Location
+
+### The Connaught
