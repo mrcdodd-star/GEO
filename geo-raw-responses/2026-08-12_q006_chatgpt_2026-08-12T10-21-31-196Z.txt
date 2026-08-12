@@ -1,0 +1,38 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai","https://www.thegoring.com/?utm_medium=local&utm_campaign=hotel-thegoring&utm_source=openai","https://www.theritzlondon.com/?utm_source=openai","https://www.peninsula.com/en/london?utm_source=openai","http://sofitel.accor.com/hotels/3144?merchantid=seo-maps-GB-3144&sourceid=aw-cen&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+London boasts several five-star hotels that house Michelin-starred restaurants, offering guests an exceptional blend of luxury accommodation and world-class dining. Here are some notable establishments:
+
+**[The Connaught](https://www.maybourne.com/en/hotels/the-connaught?utm_medium=organic&utm_campaign=local&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2446 reviews)**  
+_The Connaught, Carlos Pl, London W1K 2AL, United Kingdom_  
+Located in Mayfair, The Connaught features 'Hélène Darroze at The Connaught,' a three-Michelin-starred restaurant offering French cuisine inspired by regional flavors.
+
+**[The Goring](https://www.thegoring.com/?utm_medium=local&utm_campaign=hotel-thegoring&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1563 reviews)**  
+_15 Beeston Pl, London SW1W 0JW, United Kingdom_  
+Situated near Buckingham Palace, The Goring Hotel's 'The Dining Room' holds one Michelin star, serving refined British dishes in an elegant setting.
+
+**[The Ritz London](https://www.theritzlondon.com/?utm_source=openai)**  
+**Closed · Hotel · 4.6 (7830 reviews)**  
+_150 Piccadilly, London W1J 9BR, United Kingdom_  
+The Ritz's restaurant, awarded one Michelin star, offers fine French cuisine with quality British ingredients in a luxurious dining room overlooking Green Park.
+
+**[The Peninsula London](https://www.peninsula.com/en/london?utm_source=openai)**  
+**Closed · Hotel · 4.6 (1012 reviews)**  
+_The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, United Kingdom_  
+The newly launched 'Brooklands by Claude Bosi' at The Peninsula London has been awarded two Michelin stars, offering creative European cuisine with unparalleled hospitality.
+
+**[Sofitel London St James](http://sofitel.accor.com/hotels/3144?merchantid=seo-maps-GB-3144&sourceid=aw-cen&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch&utm_source=openai)**  
+**Closed · Hotel · 4.7 (2781 reviews)**  
+_6 Waterloo Pl, London SW1Y 4AN, United Kingdom_  
+This hotel features 'Wild Honey St James,' a Michelin-starred restaurant serving modern European dishes with seasonal local ingredients in a beautifully preserved Neoclassical building.
+
+These hotels provide a harmonious blend of opulent accommodations and exceptional dining experiences, making them prime choices for travelers seeking luxury and culinary excellence in London. 
