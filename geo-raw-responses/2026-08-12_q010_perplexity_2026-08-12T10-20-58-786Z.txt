@@ -1,0 +1,24 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.marriott.com/en-us/hotels/londt-london-marriott-hotel-grosvenor-square/rooms/","https://www.stjameshotelandclub.com/en/rooms-suites/family-rooms","https://luxerecess.com/best-family-hotels-london-luxury-hotels/","https://www.tripadvisor.in/ShowUserReviews-g186338-d2422212-r998825427-Grosvenor_House_Suites-London_England.html","https://www.fourseasons.com/london/accommodations/","https://www.thebiltmorehotels.com/en/biltmore-mayfair/rooms-details/biltmore-family-suite/","https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/","https://www.fourseasons.com/london/services-and-amenities/family/","https://www.themayfairhotel.co.uk/","https://www.tripadvisor.com/Hotels-g186338-zff4-zfn7235717-London_England-Hotels.html","https://www.timeout.com/london/hotels/the-best-family-friendly-hotels-in-london","https://www.reddit.com/r/uktravel/comments/1f4iw7b/best_familyfriendly_5star_hotels_in_central_london/","https://grosvenorhousesuites.com/suites/","https://chesterfieldmayfair.com/about/families","https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/accommodation/two-bedroom-family-suite/","https://www.marriott.com/en-us/hotels/lonpl-london-marriott-hotel-park-lane/overview/","https://www.themayfairhotel.co.uk/rooms","https://www.cntraveler.com/gallery/best-family-friendly-hotels-london","https://www.luxurytraveldiary.com/2025/04/best-london-hotels-with-family-rooms/"]
+
+--- RAW RESPONSE TEXT ---
+If you want **family-friendly 5-star suites in Mayfair, London**, the strongest matches in your results are **The Biltmore Mayfair**, **Brown’s Hotel**, **Four Seasons Hotel London at Park Lane**, and **London Marriott Hotel Grosvenor Square**.[6][15][5][1]
+
+- **The Biltmore Mayfair** offers a **Biltmore Family Suite** with a separate living room, private bedroom, one king bed and one double bed, and a maximum capacity of **4**.[6]
+- **Brown’s Hotel** has a **Two-Bedroom Family Suite** with two bedrooms, two bathrooms, and space for **4 guests**.[15]
+- **Four Seasons Hotel London at Park Lane** says its **specialty suites** are ideal for families and feature separate living and sleeping areas.[5][8]
+- **London Marriott Hotel Grosvenor Square** explicitly describes its suites as **5-star family-friendly Mayfair suites** overlooking Grosvenor Square.[1]
+- **St. James’s Hotel and Club** is also family-oriented, with **interconnecting rooms** that can expand into larger combinations, including a **2 Bedroom Penthouse Suite**.[2]
+- **The May Fair Hotel** is a 5-star Mayfair option with suites, including a **2-bedroom Penthouse Suite**.[9][17]
+
+If you want the *best fit* by family size:
+- **Up to 4 guests**: The Biltmore Mayfair, Brown’s Hotel, or Four Seasons suite options.[6][15][5]
+- **Larger families or more flexible layouts**: St. James’s Hotel and Club or The May Fair Hotel.[2][9]
+
+If you want, I can narrow these down by **budget, number of bedrooms, or proximity to Hyde Park/Bond Street**.
