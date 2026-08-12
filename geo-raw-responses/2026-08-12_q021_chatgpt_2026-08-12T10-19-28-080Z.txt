@@ -1,0 +1,33 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai","https://www.plumguide.com/homes/3703/hyde-park-suite?utm_source=openai","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester in London offers a selection of signature suites, each providing a unique and luxurious experience. Here are some of the notable options:
+
+**The Mayfair Suite**  
+**Closed · Short term apartment rental agency**  
+_3 Providence Ct, London, W1K 6PR, United Kingdom_  
+Overlooking Mayfair, this 103m² suite offers separate living and dining areas, a guest bathroom, and the option to connect into a five-bedroom suite.
+
+**Royal Suite**  
+**Open now · Travel lounge · 4.8 (24 reviews)**  
+_Longford, Hounslow, TW6, United Kingdom_  
+Occupying a vast corner of the eighth floor, this suite offers panoramic views of Hyde Park and the London skyline. It features a double living room, separate dining room, private study, and a fully equipped kitchen. The suite can connect to accommodate up to four bedrooms.
+
+**[The Dorchester](https://www.dorchestercollection.com/london/the-dorchester?utm_source=openai)**  
+**Closed · Hotel · 4.6 (4582 reviews)**  
+_53 Park Ln, London W1K 1QA, United Kingdom_  
+A spacious 109m² suite with corner views across Park Lane and Hyde Park. It includes separate living and dining areas, a dressing room, and can connect to form a five-bedroom configuration.
+
+**[Hyde Park Suite](https://www.plumguide.com/homes/3703/hyde-park-suite?utm_source=openai)**  
+**Closed · Apartment · 4.63 (2 reviews)**  
+_London, W1K 1QB, United Kingdom_  
+A 106m² suite with views of Hyde Park, offering separate living and dining areas, three Juliet balconies, and the ability to connect for a total of three bedrooms.
+
+To check the availability of these signature suites for your desired dates, it's recommended to contact The Dorchester directly. You can reach their reservations team at +44 (0)20 7898 9880 or via email at reservations.TDL@dorchestercollection.com. Alternatively, you can visit their official website to explore more details and make a reservation. ([dorchestercollection.com](https://www.dorchestercollection.com/london/the-dorchester/rooms-suites?utm_source=openai)) 
