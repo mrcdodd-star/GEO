@@ -1,0 +1,74 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9viaFujCcATt9O-0aD5mhiM0Xx0DGn7JAre-ZP6hJPTbRP19pXp4E4C5adSJkd4HePZ-8uoFnJ0jqIcMcHmG6xXGsJ5eHt0saWGT6oyaF8Np8cLK-kVNkceBcIiDdPS8l37nY3TxJigZ4CXlQVsoGm1EK9yM4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTBUhAZnzRzxokeiC3QMG2_g4yiyJIpQDx4gn3STGDCFX2ls1ibRJ6j_wzPugrHkVi_yUi0Ppt16W98koA8OmVJeg2rLTXr3FykzoqP5PjpWRUwBVxnPj3ap4K1njriRs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1r77sQhA3aBQSi1PRB_YjAM9ay9S2b6FUKzOaBpfnbhmsnRpwEGKLNHMM4ksMxK9Wfhj1BfUq8ap4FH3g4Qx6TMrPxudnXlyMRsuBjbHQ4HzDw4kz38j8MBg5Ie_Ca3kLJy6pX72QnkerPF5OcDVEhVLIdr0GTxsUAuTmT5Mh8GJvhJqSFr6Y4gltjN_T0PR-wnxeUsEWHfkodhVBCglkHTOylGQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE92gJaGPLxnFE2QI0C9Evdl_kuo2yv6-FB2QpRSUJIo-0cdXnobxNIk3QxQU_A75v8WGcZaZg9KBVlO3c_HgK8skaOwKGg1s77PHjEajCnapQMxvoV3gQ5k_nVV5WhjzyTbuUr1fYysHaTwRezoPWmVCmxpv8HqWn5BzlWak4SSaxvHqJnj6Q_SkyVY5kuxlnCkOtTETj0fWrJvTIkcEiDjgkYm_ZjDhYeJ4g=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGuc4jY_aNCG32de0uwXWd5c8-OT_F1c_NaGjvbpPbTRf3dfPVp_G_WHKjmEtQFAgMNgv2RSOmU7LU-8v4Ff8op4PKA3XsCTIzHeSxKUT0zeySNS-ajsrK_5v0CBLotSODKg0ZQ7RC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIpknhC-IxlsZxKlo68eLpnEUV2c8GpHBDPV4pYxdYGB5mWhSDdmxz6PWKA0WAi0YYlCEREP6ciKUd_e1886j2POSuQ-ak7y41dNIzQ26wQMU9PBRrY3hjJTyx6KUWeqm6H01SYnkMYJeNxtHT9cknjA8I7-w5_eb8W7ASZfuc49mMEZlNmTheX3Vpn8DVE6b4GRP2begZ-brWEpjUoh5MmjNV_XY5GT0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJmae8GcO7eS6JIddkvECI_HLG4iIQ1ro3vFogJr2jbS46vwn0wNps5iXrCaRI2SBeZEhQ280-shjCPyISZl3Qn09dgPOzRsQqDh2TvjqtjXC7LvJH_53lNSnpMnV6AmYZsZ1c0hMPCyRtU_DynT8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqf0iMBRQ4sv2QNdRDkdL_IBaZBUFK1RtKQQD5WWbpPs2b58No5KN60wmBtDPAGTpZp3B-9WkNcUpUSUh1tebU62YBNHnbvdbQyHvx_Upfiwfww5-CqGnKsJmyWZUGPaweQV2HS6F","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVZkrUH0StwogF2Akbg5IAeTKlNF3hV2JRpWuRSdYNJIGkWBywGirFokb5_zqngi7ZHbcB5Rj97z8oDG08-TuzAroff0Tw-wrzULzaPtr1BdiG6ejaJXP69G7SuokXx9p1YTrF8HZwqEE24Fps","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGButmsBnfFAyIP2gRFN8gJJ3OGrRuxdJLgKvvak_U_TY2WG4K_OBMcrCBmATdoh7TXZuc_ybTHbiRFTzYs1wdmifnQ_CvfdUEdi-ZphBLvDzr6cYgAwPPYs53jw9Jmev1w99C6m0ZjAgb5cGMRm_8JWc9ukRZiWORG-rIAQCme9Z-07xRllYAlyZU2TMMF1caTJsGiyZDQKMazpgMOgvGDXbJvh69Dx05NaB_K0zUR49ugp8uBCmEV","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRgaUKjf_l9M4tgGkpq6EYdSSr_fCd1ytTSmMuKRda4rteZnGXm0yt6PCngioyRxziXyk5VtSDJETAbZ60VhxaJz9XJzXTa7BvZgPS7CnNLAKd4_CziX0M2yuhFBxIGatWLFlQknnk6eBdQT3mwCvyVyrDV8MyKxcJDpJI8DxiWNHRv0veMjV04wZUOt3C_dtBllkHbIFSEJIVUC-zarCJclD4fRh2jpKkNPbJRpU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3mQJxuN-EgP63sGiviJ7qCovw_zhJOcIaC7fKNmdZGHnIuom0yWlDSgNSSfY4GktP7MbbzXlXbeSKa7mW8LYwiNdutZNeBJL7_Mm8PzDPqfrRikP3l-QOVNXZ2AYLEU1t5T-VcaG5h3hA4i7MYwpec7r__Kk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdz8Rumcigbuf9mFcvrmP_TQlycVUJLXUOB5pR1h6vi5JFEGR_VLDwC54RCflluR3xr9MBNqFlCuP9a-S4xpgen5PPN1bVj4LKhaucpX7TIUkmnPuUZmKMnrp6Dg6kk1eD8cYyt_w-2zJMbjKJyrjc7Sif","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsdH5kOSVJRoQmGZsNPCDSO03jPznxdHtj-TCPtdYdcWS74tk_naCSpL08nPUMmJQ2FgVehjLAUzJew_THjFGKxODQ5C8ZQYZVtcxgNogSlsqDx5wh38dC4rhSHVdb0Wf8KYo2DFERBvqbR_phMuHeTMvOwnIzLJIiP1h3","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXkQboegreDcitRSJirg-0yE41BPJ5xvDtSLCOEHCpTPxf5Xvyix2llv5IRdEyUnXjCbTq4NJmnD9b4KnmlfIwwl7ICol7oBCApgvmjz6mGH7ZWVoPVw_cFnFCVGUQjyJQY3oR5vVrjpdT","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8Rh9OMRUL6ncjZy1EV3nFHGncd3_T5GEH9-7IUYPxdyLCB64f3luFK4I7z7Ii9SeCDrBAVBWhUSdIRuuydM6xDfaN-63cDYZRsa4mZGT5XqxYfpzIkWntC30oT_7KWS-9Nu3dhv9fKR5LgBLZsJ6Sh4L9EHZhoCXLPyJHg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzse5R2Ig0gdnMEEgnb31xb8v6YIxyzhIlNNAr96zL-m_Yy3UJ2xjRUy1U2gSQ_wahvSxOFehIoz75dtfWrZsns22vc_f-U4vuAc4HO-cVn31hKLqQAjy6L3RwT1y12s7z5_g88uPG8T_T_H9H0urgt6xp6w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESg0I2Ti9G4q4GIAmEsMr82HHJoS6NL8W4nDym6JKpY-TCGLSsKxazmyk7X8XsnxHOdA4Z4xkNeZy-Rc7E9AiI-0wKvMMcqGtm_Gp8Bi2QTMiddPduj1xoT-Jx6_wRvg-PBWkGyGGgOLzJl6jsf4Vv3Ud00cUJqYSGkT5ALG4g"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair is London’s most prestigious neighborhood, defined by its elegant Georgian townhouses, world-class galleries, Michelin-starred dining, and legendary shopping along Bond Street and Mount Street. 
+
+Depending on your personal style—whether you prefer "old-world" royal prestige, sleek contemporary design, or intimate boutique charm—Mayfair has a luxury option to match. 
+
+The finest luxury hotels in Mayfair are organized below by style to help you find your perfect stay.
+
+---
+
+### 1. The Grande Dames & Traditional Icons
+*Best for: Timeless British heritage, opulent "old-money" luxury, and legendary service.*
+
+*   **Claridge’s**
+    *   **The Vibe:** Often dubbed the "annex to Buckingham Palace," Claridge’s is a dazzling monument to Art Deco glamour. It has hosted royalty, Hollywood legends, and heads of state for over a century. 
+    *   **Why Stay:** It boasts some of the most beautiful suites in the city, an extraordinary multi-level underground spa, and a world-renowned afternoon tea served in the Foyer & Reading Room. It is the pinnacle of grand, classic London hospitality.
+*   **The Connaught**
+    *   **The Vibe:** Tucked away in the heart of "Mayfair Village" on Mount Street, The Connaught offers a highly discreet, club-like feel. It effortlessly blends traditional British elegance with exceptional contemporary art.
+    *   **Why Stay:** It is home to the legendary **Connaught Bar** (frequently named the best bar in the world), the 3-Michelin-starred *Hélène Darroze at The Connaught*, and a serene Aman Spa. If you want a luxurious neighborhood retreat that feels like a private residence, this is it.
+*   **The Dorchester**
+    *   **The Vibe:** A legendary Park Lane landmark that has recently completed a massive, multi-million-pound refurbishment. It feels grand, theatrical, and exceptionally polished.
+    *   **Why Stay:** The redesign has breathed fresh, modern life into its iconic public spaces, including the glittering Promenade. It features world-class dining from Alain Ducasse (three Michelin stars) and a sleek, subterranean spa. 
+
+---
+
+### 2. The Sleek, Modern & Eco-Conscious
+*Best for: Contemporary aesthetics, younger energy, and vibrant social spaces.*
+
+*   **1 Hotel Mayfair**
+    *   **The Vibe:** Urban luxury meets lush, biophilic design. Situated on Berkeley Street across from Green Park, this hotel brings the outdoors in with living green walls, reclaimed wood, and organic textures.
+    *   **Why Stay:** It is perfect for travelers who want world-class luxury without sacrificing sustainability. Don't miss *Dovetale*, the highly acclaimed restaurant by Michelin-starred chef Tom Sellers, or their holistic Bamford Wellness Spa.
+*   **Mandarin Oriental Mayfair**
+    *   **The Vibe:** A sleeker, more intimate boutique sister to the grand Hyde Park property. Located on historic Hanover Square, it has a chic, Asian-influenced contemporary design.
+    *   **Why Stay:** It offers a more exclusive, private feel. It serves as a major culinary hub with restaurants and bars by award-winning chef Akira Back, complemented by a serene, state-of-the-art wellness sanctuary.
+
+---
+
+### 3. The Grand Openings
+*Best for: Experiencing London’s hottest, most buzzed-about new addresses.*
+
+*   **The Chancery Rosewood**
+    *   **The Vibe:** Opened in late 2025, this is one of London's most spectacular historic transformations. Housed in the monumental, Grade II-listed former U.S. Embassy on Grosvenor Square, the hotel was restored by Sir David Chipperfield with striking, mid-century-inspired interiors by Joseph Dirand.
+    *   **Why Stay:** It is a highly exclusive, **all-suite property** (meaning even entry-level rooms are massive by London standards). It boasts eight restaurants and bars—including the highly anticipated London debut of New York's iconic Italian hotspot, *Carbone*—alongside Rosewood’s signature Asaya Spa. 
+*   **The St. Regis London** *(Opening Autumn 2026)*
+    *   **The Vibe:** Taking over the historic site of the former Westbury Hotel on the corner of Bond Street and Conduit Street, this marks the UK debut of the legendary St. Regis brand. 
+    *   **Why Stay:** If you are booking for late 2026, this will be the most sought-after key in town. It will feature the brand's signature butler service, a stunning collection of over 1,000 artworks curated by the McQueen-established Sarabande Foundation, and *Le Perroquet*, a French brasserie by chef Daniel Rose.
+
+---
+
+### 4. Discreet & Historic Boutique Luxury
+*Best for: Intimate atmospheres, privacy, and cozy British charm.*
+
+*   **Brown’s Hotel (Rocco Forte)**
+    *   **The Vibe:** Operating since 1837, Brown’s is London’s oldest hotel and is steeped in literary history (Rudyard Kipling wrote *The Jungle Book* here). It feels like a very exclusive, incredibly warm English country house in the middle of the city.
+    *   **Why Stay:** It offers a highly personalized boutique experience with whimsical, colorful rooms designed by Olga Polizzi. The *Donovan Bar* is a top-tier spot for cocktails, and their traditional afternoon tea is a favorite among locals.
+*   **The Beaumont**
+    *   **The Vibe:** Tucked away in quiet Brown Hart Gardens, this hotel embraces a sophisticated 1930s Art Deco aesthetic. It is sophisticated, private, and fiercely independent.
+    *   **Why Stay:** It is famous for "ROOM," a massive, habitable sculpture designed by Turner Prize-winner Antony Gormley that functions as a dark, mystical bedroom suite. It also features a fantastic vintage-style American Bar and a stunning Moroccan-inspired hammam.
+
+---
+
+### Quick Recommendation Guide:
+*   **If you want a classic, unforgettable royal experience:** Book **Claridge's**.
+*   **If you want a stylish, eco-conscious hub with great food:** Book **1 Hotel Mayfair**.
+*   **If you want the absolute newest design marvel in London:** Book **The Chancery Rosewood**.
+*   **If you want quiet, artistic, and ultra-private luxury:** Book **The Connaught**.
