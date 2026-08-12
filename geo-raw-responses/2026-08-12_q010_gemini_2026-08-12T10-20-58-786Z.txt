@@ -1,0 +1,64 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7jTKXaw_geNr6vihz7lHRjCVdiDLMBO-6VhzRAKtTB0C9beHFC3YPP0fndaHbI7_cZP77XNpWKJ12IJwItclP19Iuq6IbmZkLnVzyYNat7n7uVbWm51ucBAC6r8z5PYQqN630lM9MGgOs-hWHYlZ4CYw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsmHfpVj5kizabDAqR0stDfMbdxX7FW5Gm7i4YLcXrVIERMZJ0FL028bR8ehXBRGddxZQIXFbDg8QX1oHaR1p4i30E8-sqLbHH1Kznr50wp5aWsQiZpiG9yF1dFvIDKYsqTjfqyMlJkcIfHl2Em12tSwIIzA_kuNAZyIoqhoRmzCRJ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL8cCwwBMvc137SrzWAqw7Rtao0f6ofyhyBpEUcnhexy-4BXYLyfPv9tQXLWN_-wLpUSKa_JGrBTO04KZLHmBtjiU35xSmBtMim1lN2U1QvCrBDBq4vULOmJ0FdmLsZA6hREr-94l1MXmpB6Z4RDasDluJzg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45rhQZVkSKmPoScJM9eCtfw4uyG040Bu5oAMC8CAdVGgQlE03SgTBT4hGntkYnO-MEiYICKmPW35TyuLVjDTEZqIy6h0x2P4HnY0Bt4g26gIbOBIMl_k7FHxWt6c5BCLnF1vT28slKr5CAi04BzH4fSq3gbLyGKH0Z9biNvYOOmohRMrPaJmUJ0y2YXfPLMlp6n8MddXgNcMRUhU7tA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgFWvyupjtVquod9YYRG2LWVzzxJjl-nuAm9lCiE5gk_Rvsc05CyZ-4Fmj85wG6ZmaCERMNc8r8M43PIsHmLw6AJBAM7nMRXRR4LFA--QAzWJFLkbbRu89CUeaB_Fj3k7_JOevkFW9JMfXGKpDIOs65G-FkXXriOY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXs6nTo-BHAthhChbSdi9HaM9gtnAWrk1CcGYy2lwA5WfRIjGvGBae41NkH4449OfC1zRDaXcIqH_fva1BKChw8Y1tduP_B2RsWdVvNniVbKXkIImfV3VFiYHfl7NMONcN5pa6Njg_WZylZ7SQ5iN8MmUAjeUitctysQe8_uVYiHc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMFEWHXVPbdM4AZs5oqYTQmKp-s1tsKYg7OB5hGjhTrFha5MbZtoTlZxBji-2n5s3UVITCDvqQLg13iLiNykJTW6jQbMbeP1MWnXvIpfsKLNcOunVyVzSfg0YrHXDWPRKzjlZnl88qecnqU6XIzu0yJAYJnINUNHTOGg332WTXXV4Wg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiSGDoI3uDPSFF46E4sstHB4cp2pHcnGhvQhFTVQg0TCtIJ1iSKeChVBGz__ZA-R_2taf7ElCKLKsIPk64EvScTP6nLqnRFYM_Qcae0rp2OWbaj9PyX2w1AmyxEyW2yl2OBbyzZuiAaGp-UXYMVVhhDnED88c=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE59VBJCuzk-fJekzmZnr8PPZTrcdOna3iFhrZGd0jPEJxirty6A0MrsesMsNl18bfM9V4xNyDY_Ps4LUWt6LjnCCemJXrfRPFv7yngrg6aVwCMsShXSwnc1nBSZIAGhIJMdMbXNscu_F__5PB2UrV9dCP3idkstb-JDq36ag==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Si22zwrro-kxJVbhbnU-2OhZT7zbHWhxClCHoUNt4NYp4-C578exGw7lKzaCHqdAbFHJvyRjt_lCHLNWHq8OdtQW_WWw_NaeUyl0brhz33AwLixtJxTei9UpSbB0lK1C48_tgeQPnu2eUPc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG35ea6qD2PVi2YRQbfOmh7YJsPhBKv41vcXH4LWzIRR3FgFqtyII7eVMrVVJ7zLX7dSTEH7UUiemKoZWJkKbCs3O8KHueIeDLbg4Dc4h8cfUMFqE7kcD1nmvI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFayuHHA9Ft9d9aeteKkgp4trwzARLSYhkOWrC-7BX9FnV5EBon7l_xkZCDiuqvTsnlmBcpkzD4RFfjriQEHXrSRbWq7CwV3sBLH2rFL0PWKD6NShnWsYjBQiGANE-B5e2aBw-m","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvOhIfkqhSIcdgsveTpgRRX9rMMaXjcQ_3TriltStOu7WXTu7DkyOcZ6b2HcQ5Xa5PWuDYeajIcNeCJpmMEP3Dl4MkIXTEDfIdMHSt-heiZZSIdR86CimvYIdOClTEbaK1Nh2hHCv20o2a35ycroXuDAZNcLOQvHSXoMEKdntjjeaO8XxKqwRuLZfchP1eOoNQH0pS5RexzK8rTnFfFYfxD36LAykJ","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp-qZyj7BQsXjGUhwpbdV1TethlbNMKppZg1rRVZ8zgh0AgXVkXkKoRBp91flDVvYxhcjDUfHHiBIKto89CuJycKiSyty0HaFtdSHk7oH-3tnc-frtP1CTdfD9iGS4AVfYkiXnTy0PycQ2W_S_LhqZDkh2ktdOf6m4z9h7bXiKhSaRld-7MHAfwIjf6iXSEXyfu2unRDDQRFbIdLmfpA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHGkzaSPWeQEHEUgO_Zs9CKC7Ovm0Y9ijWddMsW8Jrm_lGFw3jGuBw_mtX0b1xgg-qN4KN2OBlssDfXGtgNpdRkL2i0v6OVpTths5-8E1nUzMgPIZT8ynY60lffePiDiv5w2MfR6s-yEFjNfzU5JkGorbJ8yuOO6cEAeT6e4Syt2bMftpI31BxYfr6XARr","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbbx_K3YoKMiALk6ibWMPI6-zM56tPOc8eRxisidDFM_lBdeDgLQs6hX8z2f0kOjK4FWzzAvn1nNtkNoCL8Gmr2RvYF4MZhqisrBU2mhNKfRt2wlsJD2IrVHXFqcAVNkfPXEaeG85wPP99-r9ZauRxynBKfYsE24X8U9lUeJVJ7z60ml2_AIvyHWLS2LGxv4vMzgV8GF9mFQmwlP395Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXaKcBl2dtv_XGz1Df1YS_sDSbkbrJIRhtXAHRE68TRMjNqafZ2JV5iwljSGc1N9MIESg-iMk_CbdIIlF2jrSMpasky6betVn1hvCeWbazsXNmpRMqYFCvoe6bIOzENMcukqLNI24bK-8X0GWt4qxdHNijqucOVIcLGaTjuTPJIw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG43pTT3PVUiRyVw9LxLfvCHPEUalaD3wVbyvuoj5eW7979nSGEA0A2yx4F9ikr31UOdLAdxR2li2tBlWnv8Th_PwIP7zbI44WaVZ23WXRH2xtgpP-MzTbYK6yftTHODmmXP2zwwGCAx1j_t4Li9I7jPXe6I-fi_D2oBSCSazZ2KOng7MwUN5qDc6c=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiWSxaOeTQx8yzYnJoeWGq-kExQZXWzQVqZqz_avSgKwKdyxirnwXnRGPdk5lY7MOlz39p6sJLJezpnEFrsl9GXML2pg1EyFy5KdARwv_zKsvrI-h9zgv_h79tKAPJwYHcrnySBBG16kV50-bl7IwIAQXUqSxM","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSsvEQG6bZ38wlGklg1NA1LHyI94jrlrN2aBSuB6o-u3qgTox8DxpytZiebKzjdVAG3jCjGWhKqMjhesxdCRKTzzgN-s0wXke57Pd6HsVskgh2mjvo7LYcLflaRYXt4cJOYCvsOrFVja_-l8JFOqGFI6mxYu6afgPjqG8g","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIvT3jCIGAHuiiKB_N-gOMqY__EI3PCjC2AQMNRg5qQ9dQ8vDlVByBSdgFzYpaW6BIKtQ_1Fy7Gl9O1TK-rPdoTnyVZJ4abt9MprtFdm2WGkAbuJZg9eayNG-FvP7RUEzfZ6kJgln2g_Fm"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair is home to some of the most prestigious 5-star hotels in the world. While known for their elite sophistication, many of these iconic properties are incredibly welcoming to families, offering specialized children's programs, dedicated kid-friendly amenities, and multi-bedroom suites. 
+
+The premier family-friendly 5-star hotels in Mayfair offering exceptional suites and child-focused experiences include:
+
+---
+
+### 1. Brown’s Hotel (A Rocco Forte Hotel)
+* **The Vibe:** Sophisticated, warm, and quintessentially British. As London’s oldest hotel (historically playing host to Rudyard Kipling and Queen Victoria), it feels like a refined country house in the middle of the city.
+* **The Suites:** Brown’s offers dedicated **Two-Bedroom Family Suites** (approx. 105 sq. m / 1,130 sq. ft) specifically configured to give parents and kids their own spaces with interconnecting features.
+* **Family-Friendly Perks:** 
+  * Through the **"Families R Forte"** program, younger guests receive a VIP welcome. 
+  * In-suite setups can include playful teepees/wig-wams, a "teddy bear turndown," and custom books detailing the adventures of Albemarle (the hotel's resident monkey mascot).
+  * Children are gifted pint-sized monogrammed bathrobes, slippers, and specialized Irene Forte skincare products for kids.
+  * Charlie’s (the on-site restaurant) features tailored, high-quality children's dining menus.
+
+### 2. The Connaught
+* **The Vibe:** Discreet, elite luxury on quiet Carlos Place with legendary, highly personalized butler service. 
+* **The Suites & Special Offers:** The Connaught frequently runs **"A Family Story"**—a highly sought-after package where booking a one-bedroom suite for parents provides a *complimentary* interconnecting or nearby second room for children up to 16 years old (including daily family breakfast). 
+* **Family-Friendly Perks:**
+  * Children receive personalized welcome treats and seasonal goodie bags.
+  * The suite can be transformed for the ultimate "hotel sleepover" with select video game consoles and movie setups.
+  * The hotel’s renowned **Aman Spa** (featuring a striking black granite pool) offers dedicated family swim times so children can splash around comfortably.
+  * Excellent, child-friendly dining menus are crafted by chef Jean-Georges Vongerichten.
+
+### 3. Flemings Mayfair
+* **The Vibe:** A stylish boutique hotel converted from 13 Georgian townhouses on Half Moon Street, offering a more intimate, residential feel.
+* **The Suites & Apartments:** For families wanting the comfort of home, Flemings offers **Two- and Three-Bedroom Suites and Serviced Apartments**. These come with private, separate entrances and fully equipped Siemens kitchens (ideal for preparing baby food, warming milk, or managing laundry with kids).
+* **Family-Friendly Perks:**
+  * Kids are greeted with **"Fleming the Frog" travel packs**, which include a storybook, fluffy robes, slippers, and child-safe bubble bath.
+  * Children receive a special card inviting them to order complimentary hot chocolate and cookies directly to their suite before bedtime.
+
+### 4. Claridge’s
+* **The Vibe:** Timeless Art Deco glamour. While it is the pinnacle of high society, the staff is incredibly warm and accommodating to children.
+* **The Suites:** The **Two-Bedroom Mayfair Suites** are highly recommended for families. They feature generous shared living areas, grand marble bathrooms, and **24-hour personal butler service** to assist with anything from warming bottles to unpacking bags. 
+* **Family-Friendly Perks:**
+  * Claridge's offers excellent in-room childcare and babysitting services arranged via the concierge.
+  * Kids can enjoy custom activity books, family hours at the indoor swimming pool, and child-sized amenities.
+  * The legendary Afternoon Tea in the Foyer & Reading Room is adapted for children, featuring kid-friendly treats.
+
+### 5. The Ritz London
+* **The Vibe:** Palatial, ultra-formal, and world-famous. Despite its grand reputation, it has one of London’s most comprehensive kids' clubs.
+* **The Suites:** Children under the age of 12 can stay in their parents' Junior Suite on a complimentary basis.
+* **Family-Friendly Perks:** 
+  * The **"kidz@theritz"** program provides a highly tailored VIP experience.
+  * Upon arrival, children receive specialized welcome gifts, children’s bath amenities, and their own Ritz bathrobes and slippers.
+  * In-room game consoles and DVDs are available on request.
+  * Children receive a complimentary scoop of ice cream when dining in the Two-Michelin-starred Ritz Restaurant or during Afternoon Tea.
+
+---
+
+### Which one should you choose?
+* **Best for Toddlers & Babies:** **Flemings Mayfair**. Having a fully functional kitchen in your multi-bedroom apartment makes managing baby bottles, snacks, and laundry incredibly easy while maintaining 5-star hotel service.
+* **Best for Young Kids (Ages 3–10):** **Brown’s Hotel**. The in-room wig-wams, specialized book gifts, and teddy bear turndown are magical touches that make kids feel genuinely excited about their stay.
+* **Best for Tweens & Teens:** **The Connaught**. The "Family Story" package provides teenagers with their own privacy in a separate room, and the in-room gaming setups and access to the Aman pool keep them thoroughly entertained.
