@@ -1,0 +1,21 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.trivago.com/en-US/oar/hotel-the-dorchester-london?search=100-48161","https://www.booking.com/hotel/gb/the-dorchester-london.html","https://www.tripadvisor.com/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://www.trip.com/hotels/london-hotel-detail-2194717/the-dorchester/?locale=en-US&rankingId=100200273453","https://www.kayak.com/London-Hotels-The-Dorchester---Dorchester-Collection.12532.ksp","https://www.cvent.com/venues/london/hotel/the-dorchester-dorchester-collection/venue-f4e90fc8-0141-46c6-ac1a-a657d8ea4320","https://www.klook.com/en-US/hotels/detail/109407-the-dorchester/","https://www.expedia.com/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information","https://www.skyscanner.net/hotels/united-kingdom/london-hotels/the-dorchester/ht-46982033","https://www.hotels.com/ho477886/the-dorchester-dorchester-collection-london-united-kingdom/","https://www.dorchestercollection.com/london/the-dorchester","https://guide.michelin.com/en/hotels-stays/london/the-dorchester-194","https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://www.americanexpress.com/en-gb/travel/fine-hotels-resorts/property/The-Dorchester","https://www.dorchestercollection.com/london/the-dorchester/exclusive-offers/plan-in-advance","https://www.countryclubuk.com/the-dorchester-london-best-rates/"]
+
+--- RAW RESPONSE TEXT ---
+For **October 2026**, the best available evidence suggests The Dorchester is in its **high season** during that period, and published room-rate ranges are roughly **£450–£1,200 per night** for single or double rooms, with suites also available on the same venue listing.[6] Booking and hotel aggregator results also show wide live-market pricing for the property, with examples in the roughly **$889–$1,763** range on KAYAK and a broader partner-reported standard-room range of **$1,140–$2,159** on TripAdvisor.[5][3]
+
+If you want a more precise October 2026 quote, the hotel and booking sites indicate rates vary by **exact dates, room type, and occupancy**, and you generally need to enter travel dates to see current prices.[2][4] The Dorchester’s official booking pages in the search results do not provide a fixed October 2026 rate, only offer-based pricing such as “rooms from £750” on a now-expired advance-purchase promotion valid only through December 31, 2025.[15]
+
+A practical takeaway for planning is:
+
+- **Budget floor:** around **£450+ per night** for entry-level published venue rates.[6]
+- **Common live market range:** about **$889–$1,763** on KAYAK examples, with some partner listings showing higher standard-room averages.[5][3]
+- **Seasonality:** October is listed as part of **high season** for this property.[6]
+
+If you want, I can help you estimate an **October 2026 total stay cost** for specific dates, room type, and number of guests.
