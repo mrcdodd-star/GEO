@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://www.tripadvisor.com/HotelsList-London-Luxury-Spa-Hotels-zfp8649099.html","https://guide.michelin.com/us/en/article/travel/london-s-best-hotel-spas","https://www.londonyaar.com/blogs/londons-best-luxury-hotels-with-spas-2025-where-to-stay-relax-amp-recharge","https://www.independent.co.uk/travel/uk/england/london/best-spa-hotels-london-a9316181.html","https://www.pocketwanderings.com/best-spa-hotels-in-london/","https://www.mrandmrssmith.com/collections/spa-hotels/london/hotels","https://www.thetimes.com/life-style/luxury/article/the-best-luxury-spas-in-london-times-luxury-zm3b2qgkc","https://www.goodhousekeeping.com/uk/lifestyle/travel/g37472138/spa-hotel-london/","https://www.klook.com/blog/london-best-spa-hotels/","https://www.timeout.com/london/hotels/londons-best-spa-hotels","https://www.designmynight.com/london/best-spa-hotels-in-london","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/","https://www.fourseasons.com/london/spa/","https://www.reddit.com/r/FATTravel/comments/1r2gfco/london_hotel_spa_recommendations/","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.wanderlustchloe.com/spa-hotels-near-london/"]
+
+--- RAW RESPONSE TEXT ---
+If you want a single name, **Corinthia London** is one of the strongest contenders for the **best spa** in London. Multiple travel sources describe its ESPA Life spa as exceptional, with one guide calling it among the city’s best and noting it spans four floors with extensive wellness facilities.[9]
+
+That said, the answer depends on what you mean by “best”:
+
+- **Best overall wellness experience:** **Corinthia London** — repeatedly highlighted for scale and breadth of facilities.[9][14]
+- **Best for luxury prestige:** **Mandarin Oriental Hyde Park** — singled out for “Oriental luxury” and consistently praised in spa-hotel roundups.[4][9]
+- **Best award-recognized spa:** **The Lanesborough** — Good Housekeeping notes it won a “Best Spa in London” award.[8]
+- **Best expert-reviewed spa hotels:** **Raffles London at The OWO**, **Corinthia London**, and **Pan Pacific London** appear near the top of a recent expert ranking.[10]
+
+If you want just one recommendation, I’d pick **Corinthia London** for the strongest all-around spa reputation.[9][14]
