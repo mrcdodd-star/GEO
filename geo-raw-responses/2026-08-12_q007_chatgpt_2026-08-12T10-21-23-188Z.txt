@@ -1,0 +1,29 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.cntraveler.com/restaurants/london/afternoon-tea-at-claridges?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Both Claridge's and The Dorchester are esteemed London hotels renowned for their afternoon tea services, each offering a unique experience steeped in tradition and luxury.
+
+**Claridge's Afternoon Tea:**
+
+Served in the hotel's Art Deco-inspired Foyer, Claridge's afternoon tea has been a celebrated tradition for over 150 years. Guests are treated to a selection of finger sandwiches, warm scones with Cornish clotted cream and jam, and an array of handcrafted pastries. The tea menu is extensive, featuring blends curated by tea connoisseur Henrietta Lovell. Live music, typically from a pianist and cellist, enhances the elegant atmosphere. The service is noted for its attentiveness, ensuring a memorable experience. ([cntraveler.com](https://www.cntraveler.com/restaurants/london/afternoon-tea-at-claridges?utm_source=openai))
+
+**The Dorchester's Afternoon Tea:**
+
+The Dorchester offers its afternoon tea in The Promenade, a setting characterized by opulent décor and a relaxed ambiance. The menu includes a variety of finger sandwiches, freshly baked scones, and a selection of pastries, accompanied by a wide range of teas. Live piano music adds to the refined atmosphere. The service is known for being warm and accommodating, contributing to a delightful experience.
+
+**Comparison:**
+
+- **Ambiance:** Claridge's Foyer exudes Art Deco elegance with live music, creating a sophisticated setting. The Dorchester's Promenade offers a luxurious yet relaxed environment with its lavish décor and live piano performances.
+
+- **Menu:** Both venues provide traditional afternoon tea fare with unique touches. Claridge's is praised for its meticulously prepared sandwiches and exceptional tea selection. The Dorchester is noted for its delightful pastries and the quality of its scones.
+
+- **Service:** Both establishments are renowned for their attentive and professional service, ensuring guests feel valued and well-cared-for.
+
+In conclusion, both Claridge's and The Dorchester offer exceptional afternoon tea experiences. Your choice may depend on personal preferences regarding ambiance and specific menu offerings. For a classic Art Deco setting with an extensive tea selection, Claridge's is an excellent choice. If you prefer a more relaxed yet opulent environment with a focus on pastries and scones, The Dorchester would be ideal. 
