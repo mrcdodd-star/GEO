@@ -1,0 +1,15 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: which luxury london hotel has the best spa
+
+CITED URLS:
+["https://travelandretreat.com/2026/05/11/the-best-hotel-spas-in-london-2026/","https://nottinghillmummy.com/2026/03/24/six-senses-london-hotel-spa/","https://pursuitist.com/hotel-review-six-senses-london/","https://elitetraveler.com/travel/wellness-travel/best-spas-london","https://www.tripadvisor.com/Attraction_Review-g186338-d9821088-Reviews-The_Bulgari_Spa-London_England.html","https://www.designmynight.com/london/best-spa-hotels-in-london","https://www.timeout.com/london/news/this-is-officially-the-best-spa-hotel-in-london-in-2025-081425"]
+
+--- RAW RESPONSE TEXT ---
+There's no single definitive answer, as it depends on what you're looking for — but here's a breakdown of the **top luxury London hotel spas in 2026**, based on expert reviews and awards:
+
+---
+
+### 🏆 1. **Six Senses London** *(Best Overall / Most Ambitious)*
