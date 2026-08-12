@@ -1,0 +1,13 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://www.whatahotel.com/blog/224/Best-Luxury-Hotels-in-London-Historic-Grand-Hotels/","https://luxgetaway.com/best-luxury-hotels-in-london-8-iconic-stays-from-mayfair-to-the-city-2026-guide/","https://hareabouteurope.com/the-10-old-world-luxury-hotels-in-london/","https://resident.com/london/2026/03/06/londons-most-beautiful-historic-hotels","https://elitetraveler.com/travel/news/best-hotels-in-london","https://www.thehotelguru.com/best-hotels/united-kingdom/london-classic-luxury"]
+
+--- RAW RESPONSE TEXT ---
+# 🏨 Best Historic Luxury Hotels in London
+
+London is home to some of the world's most iconic grand hotels, blending centuries of history with world-class luxury. 
