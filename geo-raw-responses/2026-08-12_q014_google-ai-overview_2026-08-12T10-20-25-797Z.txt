@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dzMmFHUXgYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.youtube.com/watch?v=ezZI04O65TY","https://noblemanmagazine.com/london-unlocked-the-four-seasons-experience/","https://bonvivant.co.uk/journal/the-best-luxury-hotels-in-london/","https://www.thegentlemanmagazine.co.uk/news/skyline-spa-at-four-seasons-hotel-london","https://www.forbes.com/sites/lewisnunn/2024/07/16/an-insiders-guide-to-four-seasons-park-lane-london/","https://littleemperors.com/our-hotels/25","https://www.vogue.com.au/vogue-living/travel/in-london-sister-hotels-tell-different-tales/image-gallery/009fec23226daf18a00d96f7dbc4eea8","https://www.dorchestercollection.com/london/the-dorchester","https://hauteliving.com/2024/08/an-inside-look-at-the-dorchesters-massive-renovation/755624/","https://www.luxuryexplorer.com/UK/London/The-Dorchester","https://www.agoda.com/en-gb/the-dorchester/hotel/london-gb.html","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.trivago.co.uk/en-GB/oar/hotel-the-dorchester-london?search=100-48161","https://sheerluxe.com/culture/restaurants-bars/the-glamorous-mayfair-relaunch-everyones-talking-about","https://www.countryclubuk.com/the-dorchester-london-best-rates/","https://www.luxuryrestaurantguide.com/restaurant/the-promenade-at-the-dorchester","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/the-dorchester-hotel-review-whbs5vc57","https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/hyde-park/hotels/the-dorchester-hotel/","https://www.youtube.com/watch?v=jEuDjjJ-mec","https://finest.co.uk/finest-collections-magazine-worthy-homes/"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester offers a quintessential, historic British glamour experience with a legendary tea service, while the Four Seasons Hotel London at Park Lane delivers a sleek, contemporary aesthetic anchored by a dramatic rooftop spa. Both properties sit practically side-by-side in Mayfair overlooking Hyde Park, but they cater to entirely different styles of luxury travelers.
+Side-by-Side Comparison
+
+Four Seasons Park Lane: Modern Elegance
+The Four Seasons appeals directly to travelers who prefer crisp, unpretentious modern design over traditional old-world trimmings.
+
+The Dorchester: Classic British Grandeur
+The Dorchester is an institution of British hospitality, attracting royalty, Hollywood stars, and high society since 1931. Following extensive recent renovations, its public spaces feel fresh while retaining their dramatic art-deco soul.
+
+To help tailor this, what matters most for your stay?
