@@ -1,0 +1,28 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://www.tripadvisor.ca/ShowTopic-g186338-i17-k2370166-Dorchester_or_Mandarin_Oriental_Hyde_Park-London_England.html","https://elitetraveler.com/travel/news/best-hotels-in-london","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.mandarinoriental.com/en/london/hyde-park","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.tripexpert.com/london/hotels/45-park-lane-dorchester-collection-vs-mandarin-oriental-hyde-park-london","https://www.reddit.com/r/chubbytravel/comments/1fviomp/london_hotel/","https://thepointsguy.com/hotel/best-hotels-in-london/","https://www.theluxurytravelagency.com/best-luxury-hotels-london-first-time/","https://www.whatahotel.com/blog/224/Best-Luxury-Hotels-in-London-Historic-Grand-Hotels/","https://www.mandarinoriental.com/en/residences/current/hyde-park-london","https://en.wikipedia.org/wiki/The_Dorchester","https://www.townandcountrymag.com/leisure/travel-guide/g73196304/royal-favorite-hotels/","https://www.forbestravelguide.com/hotels/london-united-kingdom/mandarin-oriental-hyde-park-london","https://en.wikipedia.org/wiki/Mandarin_Oriental_Hyde_Park,_London","https://www.tripadvisor.com/Hotel_Review-g186338-d188963-Reviews-Mandarin_Oriental_Hyde_Park_London-London_England.html","https://dinewithjp.com/mandarin-oriental-hyde-park/","https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://www.thegentlemansjournal.com/article/best-hotels-in-london/","https://www.cntraveler.com/gallery/best-hotels-in-london"]
+
+--- RAW RESPONSE TEXT ---
+If you want the **more classic grand London hotel**, choose **The Dorchester**; if you want the **better Hyde Park-side location, spa, and a slightly calmer feel**, choose **Mandarin Oriental Hyde Park**.[9][10][3]
+
+- **The Dorchester** is on **Park Lane in Mayfair**, directly opposite Hyde Park, and is widely described as the more traditional, iconic grand hotel with a strong food-and-beverage reputation, including **Alain Ducasse at The Dorchester**.[18][10][13]
+- **Mandarin Oriental Hyde Park** is at **66 Knightsbridge**, directly on the park edge, and is described as especially strong for **park views**, **spa**, and a polished luxury experience.[4][3][10][14]
+
+A quick comparison:
+
+| Category | The Dorchester | Mandarin Oriental Hyde Park |
+|---|---|---|
+| **Style** | Classic, formal, iconic grand hotel[10][18] | Modern-luxury, polished, calm[10][2] |
+| **Location** | Park Lane / Mayfair, opposite Hyde Park[18][13] | Knightsbridge, directly by Hyde Park[4][14] |
+| **Best for** | Dining, heritage, classic London atmosphere[3][10] | Spa, park views, quieter luxury[3][10] |
+| **Dining** | Alain Ducasse at The Dorchester is a standout, with three Michelin stars noted in sources[10][18] | Dinner by Heston Blumenthal and Bar Boulud are major draws[10] |
+| **Room count** | About **180 rooms** and **57 suites** are listed in one source[5] | About **168 rooms** and **26 suites** are listed in one source[5] |
+
+If your priority is **afternoon tea, a more ceremonial five-star feel, and top-tier restaurant prestige**, The Dorchester has the edge.[10][18] If your priority is **direct park proximity, spa quality, and a slightly more relaxed stay**, Mandarin Oriental Hyde Park is the stronger pick.[3][10]
+
+If you want, I can also compare them for **couples**, **business travel**, **afternoon tea**, or **best rooms to book**.
