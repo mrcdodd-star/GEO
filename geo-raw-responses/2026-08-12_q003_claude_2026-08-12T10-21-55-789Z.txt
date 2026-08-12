@@ -1,0 +1,16 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://hotelierschoice.com/guides/london/mayfair/","https://hotelradar.co.uk/guides/best-hotel-in-london-uk/","https://www.tripadvisor.com/Hotel_Review-g186338-d187685-Reviews-or50-Claridge_s-London_England.html","https://www.hotels.com/ho172844/claridge-s-london-united-kingdom/","https://www.maybourne.com/en/hotels/the-connaught","https://small-hotels-guide.com/London_mayfair/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a guide to the **best luxury hotels to stay at in Mayfair, London** in 2026:
+
+---
+
+## 🏨 Best Luxury Hotels in Mayfair, London
+
