@@ -1,0 +1,56 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7dURVMQc-7zcgCMTF6DkrYQixJN5UbFxffA9mvSktYU9j-SKcKkr71bOZG9U2d0WWJClUb7RF2DtAAJHkp3O8r3WkABGzBKmkpEVRyUHNlVM7E6BJfG6yXZEuh7VD0YdN9zm3QfX3lWoCnZYOrJES","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDPoPkS5RqLZFMKzJlBQ4KHMp-Q8mXGozpPRDnFr1oYNQV81NsXBDOMMN27HxYqexATbJmqcRxYyBwTpDy-Ysdb62nTbPLlkBDuLaHFrCI4p2rqzhuRzGd7MVHor8ynsiJJGdMmymKksfawo2a9AHvBG__1GIr3Z7hhM7XfjCoJCjkuwHw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG5YszkFT8hXwfVo5YWllkN4-ZnOJ1wkoasR20tD_F5p6-KtjMeOV-52YxTuvniDTNob-c7p9rWeHJjuhIZjp8sgUxUizYScTuIU5AWzvSJWzeLgtJLYSSKB8PaBAj-jYcMR8jAGxXFT5zkCaCMWJJDyPY7BWxzydCv1_8vw_ToQX50rKw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3F4lSHER5FHUept8yvnt30uZ0EwRZYf3xhYyvvSm2anAHafFZRZxeNji_lW0j3JKWplU2FW37KLQnhCQiQkvbTltJE7LBGfEwBsN2Zkbicfjk-gTV5W0Vs9CsXGgS_GnDKqNh2ic=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2A9ZZKZUMOOc6wuo6awDU6VnpJDModIG0dsSkRvX65Ol9dLFCzBEIFZYNnWDRGXqo6BE5CYWxy6MecdY_J8q45KrTh2kN6ZxudyaPwberA3fp7ix_rV32p4_ar_r7A7Y-VjswKprTkUJqxmWgoVWguWSn6EjtQD_TVNYcZRgw6jqrE9UtFfcwbLwdHA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBB8HoXOxY2Sxvtmm0nSJx4_-sAs5bMDAz_CCyZvPzVi9-D9oHVlhT8vpXkRSd8Hhl0b9Gyr21KJ0KzyU6Jgi_aaUUfB6dUajR3TVjSFIHI_ikABEh8Jr46ny5jtkQXfqEibQdeIg2koHDVlkqpamBMdvqd5KLIRe0X35drY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpUHIhNuRcrBoEwXuThCo3Uojw6-57X6hmRC5vkoME9wYuYq31s7Sv_yaq01GyBzAKHrfbszZ9ygrvoHR336DIrDXYiNSEiYwpUrb0zSv2iP4rUWvzn34-ZtaoN2rkD_8_YLudSKuWvEGp2tap","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV6X1--rofvMjb9DhUUTQujIo2g_Bd5C3_MmHIH1CyTqQfF-I39Q0YGeDgoGGRWqRZQ2KbgKM0nbitYoH6XB2SzZZxkxHkUEEY7HhuX3Y3H9nlFSzUrQS1MC6pYQl3cMrazyCa15iNNv8K9DS9PVJ55FVl4PRO-3IREsMA5jg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ZVXQKdedqUFZDl_0Oa_KnKcGO7i14rrS0nIPVMQnA7jk6q3GUJv8V-oSMR_q52DZVnIAtEQ1OmofFr1AcF-yPQ58L4jezZTeCKSqLu-eBizgz0WB4q1xa2WzSu1R-kXxEio6X58GZRBn2HwtK41yGWTC4e1uBRY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX6M1ydKwaRhwCmZK7mA0SdmjHTkldqQG5MHNcJP3UICjxIROrO3syTwpbyAPb_XQSr_x-hEv5maVMJ94kDtPQItlAUOdtjniW50Z4SrKktSFT41Z1gUM0Ym66RiCc-mFVTvWCJqZXXJEzyvNg9fc7hu2Nh2QKrUSJ_F9Q","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-JVusHRp7Ym_oKE5Rbl6PBWozKjGcgxAwexgIiUhx-GivYgNVmldqW60kNm0dHSppFtrJTnVF7tDre561uB9US4Lu6bzmJ-h2q8KDE05VanqmeGdXFEqY6tmq8NmxRE4dE5xfQtnQ0nQchdNcA03BVA=="]
+
+--- RAW RESPONSE TEXT ---
+The **Dorchester Collection Diamond Club** is an invitation-only preferred partner program reserved for an elite tier of luxury travel agencies. Because the Dorchester Collection does not offer a public, guest-facing loyalty program, the Diamond Club acts as the "loyalty layer" for the brand. 
+
+When analyzing "travel agent benefits," they fall into two categories: **the exclusive perks agents can pass on to their clients** (which is the primary reason clients book through them) and **the business/operational advantages for the travel agents themselves**. 
+
+---
+
+### 1. Benefits for Clients (Passed on by Diamond Club Advisors)
+When a traveler books a Dorchester Collection property through an authorized Diamond Club advisor, they receive premium, VIP amenities at no extra cost (usually based on the best available flexible rate). These include:
+
+*   **Guaranteed Room Upgrade at Booking:** One of the most competitive benefits of the program is a guaranteed one-category room upgrade *confirmed at the time of booking* (subject to availability). 
+    *   *Note:* This applies to guest rooms and junior suites. For full suites, upgrades are generally offered on arrival (subject to availability). This is a major advantage over programs like Virtuoso or Amex FHR, where upgrades are only determined at check-in.
+*   **Complimentary Daily Breakfast:** Daily full breakfast for two guests, which can be enjoyed in the hotel restaurant or through in-room dining (room service).
+*   **Generous Hotel Credits:**
+    *   **Rooms & Junior Suites:** 100 units of local currency (e.g., $100 USD, £100 GBP, €100 EUR, or 100 AED) credited to the final bill *per stay*.
+    *   **Full Suites:** 100 units of local currency credited *per day* of the stay (available at almost all properties, making longer suite bookings highly lucrative).
+*   **VIP Recognition & Status:** On-property hotel management is notified of the stay. Guests often receive a personal welcome amenity, a personal greeting, and an escort to their room. 
+*   **Dedicated On-Property Support:** Access to a 24/7 on-property Diamond Club Ambassador team to handle any on-stay requests.
+*   **Flexible Check-in and Check-out:** Early check-in and late check-out are prioritized, subject to availability.
+*   **Free Unlimited Wi-Fi:** Complimentary highest-speed internet for an unlimited number of devices.
+*   **No-Walk Policy:** Diamond Club bookings are protected by a strict "no-walk" policy, ensuring guests are never relocated due to overbooking.
+
+---
+
+### 2. Benefits for the Travel Agents/Advisors
+For travel advisors, being a member of the Dorchester Collection Diamond Club provides a major competitive edge in the luxury travel market:
+
+*   **Priority Over Other Booking Channels:** When hotels assign room upgrades and VIP treatment, Diamond Club reservations receive priority over other luxury consortia (like Virtuoso, Select, or American Express Fine Hotels & Resorts). 
+*   **Direct Access to On-Property Contacts:** Advisors gain direct, dedicated communication lines with General Managers, Sales Directors, and on-property Diamond Club Ambassadors. This allows agents to seamlessly coordinate highly personalized requests (e.g., dietary restrictions, milestone anniversaries, specific room preferences, and arrival/departure times).
+*   **Client Retention & Value-Add:** Because these rates match the hotel's public flexible rates but layer on hundreds of dollars in added value (guaranteed upgrades, daily breakfast, daily credits for suites), advisors can offer deals that clients cannot replicate on their own. This drastically improves client loyalty.
+*   **Full Commissions:** Agents earn full standard industry commission (typically 10%) on Diamond Club bookings.
+*   **Advisor Rates & FAM Opportunities:** Diamond Club agencies are frequently invited to exclusive familiarization (FAM) trips and receive preferred travel agent rates to experience Dorchester Collection properties firsthand.
+
+---
+
+### Participating Dorchester Collection Hotels
+These benefits are applicable across the entire global portfolio of Dorchester Collection ultra-luxury properties:
+*   **The Dorchester** (London)
+*   **45 Park Lane** (London)
+*   **Coworth Park** (Ascot, UK)
+*   **Le Meurice** (Paris)
+*   **Hôtel Plaza Athénée** (Paris)
+*   **Hotel Eden** (Rome)
+*   **Hotel Principe di Savoia** (Milan)
+*   **The Beverly Hills Hotel** (Los Angeles)
+*   **Hotel Bel-Air** (Los Angeles)
+*   **The Lana** (Dubai)
