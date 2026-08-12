@@ -1,0 +1,23 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://guide.michelin.com/gb/en/article/travel/london-s-most-luxurious-hotels","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TWpkNWNHeGYYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://elitetraveler.com/travel/news/best-hotels-in-london","https://www.youtube.com/watch?v=1J5U6t5l_aU","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdzMU5qSnhPVFl5GAo","https://chiswickherald.co.uk/the-peninsula-london-a-billionpound-masterclass-in-modern-hospitality-p27564-326.htm","https://www.capitalalist.com/best-luxury-hotels-in-london/","https://www.artisansofleisure.com/luxury-travel-blog/2025/01/must-stay-claridges-a-legendary-luxury-hotel-in-london/","https://www.bbc.co.uk/programmes/m0014t71","https://beaumondetraveler.com/content/londons-mayfair-where-the-well-to-do-stay-and-play/"]
+
+--- RAW RESPONSE TEXT ---
+London’s ultra-luxury hotel scene is defined by historical "Grand Dames" and hyper-exclusive modern sanctuaries that cater to heads of state, celebrities, and discerning travelers. The most exclusive luxury hotels in London are Claridge’s, The Lanesborough, The Ritz London, The Emory, and Raffles London at The OWO.
+A side-by-side comparison reveals distinct areas of exclusivity, unique amenities, and estimated starting prices across these top-tier properties.
+Luxury Profile Comparison
+
+The Elite Icons of London
+CallDirectionsWebsiteKnown historically as the "annexe to Buckingham Palace," Claridge’s is an Art Deco masterpiece. Impeccably groomed staff deliver incredibly discreet service, and the property holds a flawless reputation among global elites.
+CallDirectionsWebsiteOperating like a grand private mansion, The Lanesborough stands out as the only London hotel providing a private butler for all guests, regardless of the room tier. It features a world-class thermal spa circuit and bespoke Regency-era design seamlessly integrated with top-tier technology.
+CallDirectionsWebsiteThe epitome of timeless British hospitality, The Ritz London enforces a strict formal jacket-and-tie dress code to maintain its ceremonial atmosphere. The hotel is currently executing a £300 million transformation, adding highly anticipated new suites to its historic wing.
+CallDirectionsWebsiteLondon's newest definition of quiet luxury. This cutting-edge, all-suite "bolthole" bypasses the public fanfare of older grand hotels. It features private entrances and custom interiors curated by architectural masters, ensuring ultimate security and isolation for high-profile VVIPs.
+CallDirectionsWebsiteOccupying Britain’s former Old War Office, Raffles London blends monumental military history with high-end luxury. Guests can book heritage suites once used by Winston Churchill, access a sprawling underground wellness sanctuary, and secure reservations at the hyper-exclusive Spy Bar.
+If you are planning an upcoming trip, let me know your preferences:
+
+I can provide a highly tailored recommendation based on your criteria.
