@@ -1,0 +1,25 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: oetker collection lanesborough vs dorchester collection london
+
+CITED URLS:
+["https://kktww.com/lanesborough-hotel-oetker-collection/","https://en.wikipedia.org/wiki/Dorchester_Collection","https://www.americanexpress.com/en-au/travel/discover/property/England/London/The-Lanesborough-Oetker-Collection","https://www.oetkerhotels.com/hotels/the-lanesborough/","https://www.dorchestercollection.com/london/the-dorchester","https://www.expedia.com/London-Hotels-The-Lanesborough.h13518.Hotel-Information","https://thelanesboroughoetkercollection.uk-london.website/","https://www.alainducasse-dorchester.com/about/","https://www.spabreaks.com/venues/the-dorchester-spa","https://uk-london.us/hotel/dorchester"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive side-by-side comparison of **The Lanesborough, Oetker Collection** and **The Dorchester, Dorchester Collection** — two of London's most celebrated ultra-luxury hotels:
+
+---
+
+# 🏨 The Lanesborough, Oetker Collection vs. The Dorchester, Dorchester Collection
+
+---
+
+## 🏛️ Brand & Ownership
+
+| | The Lanesborough | The Dorchester |
+|---|---|---|
+| **Collection** | Oetker Collection | Dorchester Collection |
+| **Owner** | Private (Oetker family) | Brunei Investment Agency (BIA) |
+
