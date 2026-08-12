@@ -1,0 +1,23 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: mandarin oriental hyde park vs the dorchester
+
+CITED URLS:
+["https://www.tripadvisor.co.uk","https://luxurylondon.co.uk","https://www.forbestravelguide.com","https://www.reddit.com","https://www.escape.com.au","https://www.outthere.travel","https://www.booking.com","https://dinewithjp.com","https://www.fivestaralliance.com","https://santorinidave.com","https://www.gastrotravelogue.com","https://www.businesstravelnews.com","https://www.capitalalist.com","https://www.aglaiamagazine.com"]
+
+--- RAW RESPONSE TEXT ---
+Choosing between Mandarin Oriental Hyde Park and The Dorchester depends on whether you prefer contemporary luxury with direct park access or classic British grandeur in Mayfair. Both are iconic five-star London hotels, but they offer distinct vibes, dining scenes, and locations.
+Quick Comparison
+
+Location and Vibe
+CallDirectionsWebsiteSituated in upscale Knightsbridge, it is the only hotel with direct, private access into Hyde Park. Following an extensive multi-million-pound redesign, the interior feels bright, modern, and stylish. It sits directly opposite luxury shopping hubs like Harvey Nichols and Harrods.
+CallDirectionsWebsiteLocated on iconic Park Lane in Mayfair, this hotel embodies traditional British opulence. While it has undergone major recent refurbishments to refresh its public areas and rooms, it retains its historic, theatrical, and deep-rooted high-society atmosphere.
+Food and Beverage
+CallDirectionsWebsiteOffers a dynamic culinary lineup headlined by Dinner by Heston Blumenthal, which serves experimental, historically inspired British cuisine. It also features The Aubrey—a lively Japanese izakaya—and elegant afternoon tea at The Rosebery.
+CallDirectionsWebsiteHouses the culinary powerhouse Alain Ducasse at The Dorchester, boasting three Michelin stars. It is also famous for The Promenade (a legendary spot for afternoon tea and people-watching) and the intimate, glamorous Vesper Bar.
+Spa and Wellness
+CallDirectionsWebsiteWidely considered to have one of the best hotel spas in London. It features a world-class subterranean wellness center, 13 treatment rooms, and a prominent 17-metre twin-lane indoor swimming pool.
+CallDirectionsWebsiteOffers The Dorchester Spa, which is beautifully designed with an Art Deco flair and focuses on premium, bespoke facials and holistic treatments, though it lacks a full-sized lap pool.
+If you are trying to decide for an upcoming trip, let me know:
