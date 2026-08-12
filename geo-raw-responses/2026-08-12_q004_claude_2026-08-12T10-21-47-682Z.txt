@@ -1,0 +1,15 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://www.luxurytravelmagazine.com/property/mandarin-oriental-hyde-park","https://www.forbestravelguide.com/hotels/london-united-kingdom/mandarin-oriental-hyde-park-london","https://www.booking.com/hotel/gb/mandarin-oriental-hyde-park-london.html","https://theluxuryeditor.com/best-luxury-hotels-near-hyde-park/","https://yonder-society.com/tops/hotels-tops/london-the-finest-hotels-in-and-around-hyde-park/","https://en.wikipedia.org/wiki/Four_Seasons_Hotel_London_at_Park_Lane","https://www.booking.com/district/gb/london/hydepark.en-gb.html","https://www.hotels.com/de1410/hotels-near-hyde-park-london-united-kingdom/","https://boutiquehotels.org/destinations/hyde-park/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a roundup of the **top luxury hotels near Hyde Park, London**:
+
+---
+
+### 🏨 1. **Mandarin Oriental Hyde Park**
