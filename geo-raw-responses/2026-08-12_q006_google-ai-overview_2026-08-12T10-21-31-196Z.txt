@@ -1,0 +1,25 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: 5 star hotels in london with michelin star restaurants
+
+CITED URLS:
+["https://www.squaremeal.co.uk/restaurants/best-for/best-hotels-michelin-star-restaurants-london-uk_10809","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3WTJNeGEzWRgK","https://guide.michelin.com/gb/en/article/travel/guide-to-all-star-restaurants-in-key-hotels-london-uk","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.timeout.com/london/news/4-london-hotels-have-just-been-awarded-prestigious-michelin-key-ratings-101325","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://guide.michelin.com/ie/en/article/travel/guide-to-all-star-restaurants-in-key-hotels-london-uk","https://guide.michelin.com/gb/en/article/michelin-guide-ceremony/every-michelin-star-restaurant-in-london-full-list","https://www.thecaterer.com/indepth/london-hotels-michelin-star-restaurants","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TWpJeU1HURgK","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3MFkzWTRhRE5tGAo","https://guide.michelin.com/ae-az/en/article/travel/london-s-most-luxurious-hotels","https://www.landmarklondon.co.uk/results/hotel-and-dinner-deals-london/","https://casheltravel.com/dmc-england/luxury-travel-in-england/","https://www.lastminute.com/5-star/gb_united-kingdom/london-d19141660","https://theincidentaltourist.com/london-is-calling/","https://www.shutterstock.com/search/5-star-hotel-london","https://loveandlondon.com/most-luxurious-hotels-in-london/","https://www.luxuryrestaurantguide.com/blog/lets-get-dressed-for-dinner-the-10-grandest-dining-rooms-in-the-uk/","https://www.youtube.com/watch?v=IOETRLZGRPA","https://www.scmp.com/magazines/style/lifestyle/travel-hotels/article/3286767/peninsula-london-luxurious-british-details-combine-subtle-asian-accents-create-experience-recalling","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/londons-luxury-hotels-p2rq96zvv","https://luxuryescapes.com/gb/offer/mandarin-oriental-hyde-park-london-united-kingdom-europe/0062y000009DMIqAAO?srsltid=AfmBOoq6ajhK4j75kt0ENHzzhjyWW6sIqonnR_rdZbO35YHRzyuDu0iL","https://www.businessclass.com/en-us/hotel/review/Mandarin-Oriental-Hyde-Park-London","https://www.travelassociates.com/travel-inspiration/blog/top-12-london-hotels-michelin-starred-restaurants","https://www.opentable.co.uk/lists/best-fine-dining-restaurants-london","https://www.atsloane.com/en/5-star-hotel-london","https://meraki-restaurant.com/top-luxury-dining-experiences-in-london/","https://www.designmynight.com/london/blog/michelin-star-breakfasts-london","https://www.squaremeal.co.uk/restaurants/the-english-grill-at-the-rubens-at-the-palace_11794","https://www.forbes.com/sites/rachel-dube/2025/07/28/this-luxury-historic-london-hotel-is-known-as-a-culinary-destination/","https://www.youtube.com/watch?v=SpyIkATExVg"]
+
+--- RAW RESPONSE TEXT ---
+London is home to an extraordinary concentration of luxury accommodation paired with world-class gastronomy. The premier 5-star hotels in London that feature in-house Michelin-starred restaurants are categorized below by their restaurant's Michelin star rating.
+Comparison of Top Culinary Hotels
+
+Three Michelin Stars (Ultimate Fine Dining)
+
+
+
+
+Two Michelin Stars (Exceptional Gastronomy)
+
+One Michelin Star (Outstanding Quality)
+
+If you are planning a trip, let me know:
+
+I can help check restaurant table availability or compare specific room amenities for you.
