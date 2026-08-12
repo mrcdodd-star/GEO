@@ -1,0 +1,22 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: four seasons park lane vs the dorchester
+
+CITED URLS:
+["https://expedia.com/affiliate/B76dFov","https://www.fourseasons.com/london/","https://www.countryandtownhouse.com/travel/the-dorchester-london-hotel-review/","https://travel.usnews.com/hotels/review-four_seasons_hotel_london_at_park_lane-london-england-118005/","https://www.tripadvisor.com/ShowUserReviews-g186338-d187993-r1031184102-Four_Seasons_Hotel_London_at_Park_Lane-London_England.html","https://tohotel.com/hotel/fourseasonslondon","https://www.dorchestercollection.com/london/the-dorchester","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html","https://www.spabreaks.com/venues/the-dorchester-spa","https://www.expedia.com/cn/London-Hotels-Four-Seasons-Hotel-London-At-Park-Lane.h20098.Hotel-Information"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive comparison of **Four Seasons Hotel London at Park Lane** vs **The Dorchester** — two of London's finest five-star hotels, both located on Park Lane in Mayfair:
+
+---
+
+## 🏨 Four Seasons Hotel London at Park Lane vs. The Dorchester
+
+---
+
+### 📍 Location
+Both hotels share an enviable address on Park Lane in Mayfair.
+
+- **Four Seasons Park Lane:** 
