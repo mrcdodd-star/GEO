@@ -1,0 +1,26 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://www.londonmuseum.org.uk/collections/london-stories/london-historic-hotels/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxaU1ITjRNbXhtGAo","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3Tm1ObmEzRRgK","https://www.historichotels.org/destinations/london","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TWpkNWNHeGYYCg","https://www.theluxevoyager.com/luxe-hotels/united-kingdom/the-savoy-hotel-london/","https://www.bahighlife.com/hotels/hot-hotels-london"]
+
+--- RAW RESPONSE TEXT ---
+London’s premier historic luxury hotels are The Savoy, Brown's Hotel, Claridge's, The Ritz, and the newly transformed Raffles London at The OWO. These properties seamlessly blend centuries of British political, literary, and royal heritage with world-class five-star amenities.
+The Grand Icons
+CallDirectionsWebsiteOpened in 1889 as the UK's first luxury hotel. It features iconic Art Deco and Edwardian rooms overlooking the River Thames. It is also home to the legendary American Bar.
+CallDirectionsWebsiteEstablished in 1832 in Mayfair, it is celebrated as London's oldest operating luxury hotel. Alexander Graham Bell made the first successful UK telephone call from here in 1876.
+CallDirectionsWebsiteFounded in 1856, this Art Deco masterpiece is often referred to as the "annexe to Buckingham Palace" due to its deep connections with global royalty.
+CallDirectionsWebsiteOpened by César Ritz in 1906, this landmark is famous for its opulent Louis XVI style and world-renowned afternoon tea in the Palm Court.
+Architectural & State Marvels
+CallDirectionsWebsiteHoused in the Grade II* listed Old War Office building from 1906. This massive development includes a subterranean Guerlain Spa. It is famously where Ian Fleming conceived James Bond.
+CallDirectionsWebsiteA stunning 19th-century Regency-style landmark located at Hyde Park Corner. It uniquely offers 24-hour dedicated butler service to every single guest room.
+CallDirectionsWebsiteOccupying the spectacular 1873 Gothic Revival train station building designed by Sir George Gilbert Scott, offering sweeping grand staircases and high ceilings.
+Strategic Comparison
+
+Take a tour of London's historic lodging heritage inside the city's oldest operating luxury hotel:
+If you are looking to book a stay, let me know:
+
+I can narrow down these properties to find your perfect match.
