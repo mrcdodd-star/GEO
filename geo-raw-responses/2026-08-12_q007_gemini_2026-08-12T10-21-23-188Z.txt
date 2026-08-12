@@ -1,0 +1,53 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeY-AjifwpiseFKkFtjn2EoY7NRNuP_iNtTLbpFllCJ13607orKI-tVBUm7CvFYVrGalszEcnTGpwBYRrLCrILgotGpaqy9N3loUa9Nx0pYULUeIjwRziYaT4EKUYZN0I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq-iB-tGkNnSJcw0vjyWgxZ-NkcW27x-le-ahZqr0QSHwue2bVyoDM43d0C6mHTIk5xVAjeEoD5BjR2CWV3xsRntr11KWTTBFK4XoWSjN9QEzFNbWBLZanRlEJ5q9iVlIe0EAwihwEo60XxwTdIv9GsVM0hxCwdf6dAHui2GcOhwI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEECHHGdIPZEUVnon-AusNqHhSYU8tDIbg0kbiYFutR9tErEHtPYuSe6A0mUvGZ_12FbJdp7cMfxxW6sBAOqQccZFWFdpG4nq6JLfHYSTHVnVBry9R81KabxRsbd3ajXrE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZt0OSbB9YnUhN8PrLo0H5uvnKf2ghW-P3cc6whXCTg7gP4IETopOu_z_D29XlgTV9FqqX-S6DGzTwzscRRp8pywhY6YWFio68nN3BQ87QsxQkizlzn2OAzoBUUhxJMLFPkXNuayhVlQ6OqNZ0dFMYiwHrg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNpi3FMgQeGVDDCef1gcReCWI_J8wC1NqHfkxwuwaNCTURASqUlkHVn4vNquqTONVDiK18lkpspj4LbM7PXP4l5qJC0uYQil-Fr1clUy4gKFkZrim1Lmuj0Z0TcfhZUSeuf8yqWlOeTYdD_pih8XdXjktb-6Viq-ZpAhIovSaozoZWNq4aRfH3cLJbrS6_SCbnnxszbx_i9GLCseVc9kz7qb7DEhhGg3iH-mpXgKX19rkDmtRjN4kRQjWQDE85JJJIDQKpPHPrf5KJvoibFXVNHQU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEussiWBTpHAsk0YdR_KNmjQCvH7mYuFECPkCyZYePtNWLMZmV_IX_iwenC2Ag81aAzOaUTPJkIin_sK-31swsM6hGAWq7BHFB1IZDm03kLrP7DIyPOx0lOLsoVvu7NFS6HtgGQ0v_M2XGNPBOEUbW5S5Nt0RFDJ68g9-c=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFRNA0ezDB8KjpTXXXhD5EAwOIcUFBdrGKphAFHR4rucwppLSInF1KrNgNtdkoX9Da2mUbkFjoMFwkz4cWl5suK8GMn5vg3l2NoD0FKx8G0jXxN4d8xqiE9UgBKz1nZRnomb5Tmj2lkLMSYWcsEBM6DjWG_BEoV7nMGWpo01gWnBfBUP72BKk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkYlSE1DFGhNlDoh36p4hE12js2w-NXNOM43po09p8O5maq1qFFBt3HeQROfOo_ilXhAr-E_4scqJCS31A343sShFOQ6yWEVhQzaJtHaCJc4VSZXygrWjjNXC1PGVHm997Mfw3HPALvKvLRoWmUoZI7rNo8pqCoALbT2BjNrfAnHGB_pKMCw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL28chCCXFR0R1K0QMdgqdgjx6NLqKa6nUwxIiPDc8DyjczsMhoIQh-GvHmWTPnYmx-swWM9zhluHqY7t2q-UmlXPaueZua4pJiRqNk1nqUC62rKLeS19qTMygDxv0-av9JE8o7YdmRE6jXuAOE92sMMaaSOcwxw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzILy0TRxAyVo1YPNZKF2aRr5P0YzRPqRu0DnJWQbmkc7K8dNo4e8FHp1EPaBVae_8OqcHow8_qSow1qvtMLersHhqTLF0hIcbwfXHyW3humcRMcQKPhZmSka-klqHzAcR6EUij2DOrh1Mvqlj","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPhTouvsZ2AI_XHIAxQutfH2gLE_Wkqsub6TajpsUrIOm4ZUk9YiiJxS3qAnMO8GuLbsu4gqtvpL-C6ykA1kx4b-GnI0o81QnwIhQP9O_hKNs91x3fFGmF3uqlUxP5zYDNYqD4AJd6IYTwBKe3Ef3HQiFlQjx29BpBgc612tXSCBs9feqU_JCga1v45BGb6P-ReTriv7Oxa1YJ1i6XOA4dRCMyct_d3RDsoCkoVA4e0FtD_eHS5zu6E-SoIVYsSbah08VHHFzlXYJzMRLVyulRAXtAmnZ9K8JDfFvyi-4nYwW39LX5vxBGqE8K18UrduUzIgLLxV0m9bqbAsTMuW4-","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqv2_5ERssxhMq66IMUtjyq07mtdlav2_x6mHQ_Vgjij626aPt9yuG2nT3G5NiO0IiaC_zN9l_p7aGmCTXnLYZqhhhG16inwVkLvci0pDZlRIQwV9ArA-roSWmjhUreaz0fZX0AfAkDZlenydNdMbsmj1cXz78RnT0FnD-ieBC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCdEUhvR9BoMktYUUp6LW2WqfIENGilZ5V2rVUHS87ZSdmEJNYdesVFSl_SmvzflcZl9zTYLVhAMvxNPyUr_st7pqWxq3u1E7QJoEDWj3AjBpSyKtyw3PA3rlSlpAIEje4eeFXqLaYeOB9qD4ZaW4bEKKbl3TASwu-AKdyEPjDxcGPXcWXvpHlQd3roSA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI19PdWBgC7p_zlaWYKMYVGpukVu0xOsToRVKfYXvcdpkGjjmPHq0ebJWS1n0eoD1hxDV_IrL-OP3WNQgGMHGMcLVrJz5pXbC1eb-Jsnkh36xYpAvA4HGB76ee1R0kMR8T77Z-KXZZtqURba4fS88EF14uvIaL_qversVOnLekc8w_MQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA8XLqqzPM2hU4M2_F8IVCAmuvTm_mZWKHv0VjPIrWyHPsx_EuK8_AhxlBwhJ9qvo-X0VQabJJN5hIb__zNKuoy0DeljXoMf5oWIfjnfeCV7YSI4Qay-V5nAsX5enzDxFVEQV-vGUoWZx-2MlUyH72dW0RnQfY","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1_p5NtSkhnwq6YfBzElCPkiVRFWGKcVxU1rBLFqtzXL5k4VfF9G2P2_-o1Y71Wekidi1jt85yFTWCfOjR4U5So9PUjBki1P7jDhGeNeb5IenXUCtAgLXb5zawrgh2Rw4Qb3LLLtZCrxgavh8H2cAE3VREA9EjOA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLCccZzMfGn7WgmCnR70IzHgrOmaI5njLlRvbf1jBiI-MiZwj307IhAIasat9_atIBHn2plhW_Wvz3CGQBOy_ZqmQ6cuLXpks9QGiI5G_WJnJ_gCDXmE0Q9e29LVPIaGshCeFyvy4zvZVKlv5IErnwDUqlWZR_DzUxlg7ybDDAH1Ms21Vl3EoP0Zky2LSapQpzSK-7czomG9UlRB2BuUpCCFY08yhKgYLb_g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-c9-xx0A9sospI00sKKBdzQEY2LH7Jc6ep-AQ8TzJCD-qfiRxUvFEpBWc0PZBZWPJuAUa0kG8btIghBzRNP7RgLL05xKhwZrz8ZpaI2Stcz6rZzdjXDWoza-tpMPlbpPVqYtM5GGdxocCLo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEKkS3tss0foyOntQbkXisWWzsDcm8VzO7VFyGTEpk706Xl1fS7zBUpISkNDr2UgtN9_2CyOFsaRe20cWePM7kbKT6aEPAK4JHRaPhWuWqoJ28-AL_-5XuHF7l6BUGiAh_CGib5mTMY7rn1e7iCoMcSk0Up-tu4qkOCsJXJPm3R3G-c-feX5bD"]
+
+--- RAW RESPONSE TEXT ---
+Choosing between afternoon tea at **Claridge’s** and **The Dorchester** is a delightful dilemma. Both are iconic Mayfair landmarks, and both charge premium prices (starting at **around £95 per person**). However, they offer distinctly different experiences in terms of atmosphere, food, and style. 
+
+---
+
+### 1. Claridge’s: The Ultimate Art Deco Showstopper
+If you are looking for the quintessential, "bucket-list" London afternoon tea experience, Claridge’s is the gold standard. 
+
+*   **The Setting (The Foyer & Reading Room):** Claridge’s afternoon tea is served in its spectacular, light-filled Art Deco lobby. Live music—usually a pianist and a harpist or cellist—floats through the room. The centerpiece of the table setting is the hotel’s famous **jade-and-white striped Limoges bone china**. 
+*   **The Vibe:** High-society, buzzy, and glamorous. Because of its legendary reputation, the atmosphere is electric and feels like a true grand event. 
+*   **The Food:** Deeply traditional and flawlessly executed. You will get classic finger sandwiches (such as English cucumber with lemon crème fraîche, egg mayonnaise, and smoked salmon) served on artisan bread. Scones are incredibly light, served warm with Cornish clotted cream and a proprietary, secret-recipe jam. Pastries are highly refined, delicate, and visual works of art.
+*   **The Clever Detail:** Claridge's serves its afternoon tea on a **vertical floor stand** that sits *next* to your table, rather than on it. This leaves your table entirely clear of clutter so you can enjoy your tea, champagne, and conversation without playing "table Tetris".
+*   **Booking Tip:** Claridge's is notoriously difficult to book; reservations often sell out months in advance within minutes of being released. 
+
+---
+
+### 2. The Dorchester: The Opulent, Cozy Haven
+While Claridge’s is a sparkling Art Deco monument, The Dorchester offers a warmer, more palatial, and intensely comforting brand of luxury.
+
+*   **The Setting (The Promenade):** Served in the recently renovated, long, grand hallway known as "The Promenade," this setting is defined by towering marble columns, plush overstuffed sofas, and massive, dramatic floral installations curated by their in-house florist.
+*   **The Vibe:** Indulgent, intimate, and relaxing. While Claridge’s is "see-and-be-seen," The Promenade feels like a private, ultra-luxe drawing room where you can sink back into the cushions and lose track of time.
+*   **The Food:** Food critics and tea enthusiasts often give **The Dorchester the slight culinary edge**, particularly for its creativity and pastries. Alongside traditional finger sandwiches, they frequently introduce playful seasonal touches. Scones are prepared using a recipe unchanged for over half a century. Pastries—crafted by their award-winning pastry team—often push boundaries with modern, rich flavor profiles like yuzu, passionfruit, and clementines. 
+*   **The Extra Touch:** The Dorchester often features a tableside trolley service, such as a seasonal pre-dessert (like an Eton Mess) prepared live at your table. 
+*   **The Service:** Impeccable and exceptionally warm. Waiters in tailored tailcoats provide formal yet incredibly friendly, attentive service. 
+
+---
+
+### Head-to-Head Comparison
+
+| Feature | Claridge's | The Dorchester |
+| :--- | :--- | :--- |
+| **Aesthetic** | Art Deco, geometric, chic jade-and-white. | Opulent, floral, cozy, plush, and grand. |
+| **Vibe** | High-energy, iconic, "buzzy". | Warm, relaxed, intimate. |
+| **Savoury Food** | Flawless, textbook classic sandwiches. | Classic with gourmet twists, incredibly fresh. |
+| **Pastries** | Ultra-refined, delicate, traditional. | Highly creative, complex flavors, generous. |
+| **Tea Curation** | Sourced via *The Rare Tea Company* (meticulously brewed). | Exceptional house blends (the *Dorchester Blend* is famous). |
+| **Booking Difficulty** | Extremely high (must book months out). | High, but usually easier to secure than Claridge’s. |
+
+---
+
+### The Verdict: Which should you choose?
+
+*   **Choose Claridge's if:** You want a quintessential, grand "London bucket list" experience. It is perfect for a major milestone (like a landmark birthday or a first-time trip to London) where you want to dress up, soak in historical British glamour, and snap photos of the most famous green-and-white teacups in the world. 
+*   **Choose The Dorchester if:** You are a serious foodie who prioritizes rich, creative pastries and top-tier comfort. It is the better choice if you want to sink into incredibly comfortable couches, enjoy highly personalized, warm service, and relax in a stunningly lush, floral atmosphere.
