@@ -1,0 +1,26 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://www.glion.edu/magazine/exclusive-hotels-in-london/","https://dorsiatravel.com/the-best-luxury-hotels-in-london/","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/londons-luxury-hotels-p2rq96zvv","https://www.timeout.com/london/hotels/luxury-hotels-in-london","https://www.executivetraveller.com/best-luxury-hotels-london","https://www.businessclass.com/hotels/toplists/the-best-luxury-hotels-in-london","https://guide.michelin.com/us/en/article/travel/london-s-most-luxurious-hotels","https://www.independent.co.uk/travel/uk/england/london/best-luxury-london-hotels-b2946947.html","https://www.tripadvisor.com/Hotels-g186338-zff12-London_England-Hotels.html","https://www.elle.com/uk/life-and-culture/travel/g23050000/the-best-luxury-london-hotels/","https://www.redonline.co.uk/travel/g504810/luxury-hotels-london/","https://www.tablethotels.com/en/london-luxury","https://www.tripadvisor.com/Hotels-g186338-oa90-zff12-London_England-Hotels.html","https://www.visitlondon.com/where-to-stay/hotel/luxury-hotels","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://www.hotels.com/de549499-qu4/luxury-hotels-london-united-kingdom/","https://www.cntraveler.com/gallery/best-hotels-in-london","https://www.reddit.com/r/LuxuryTravel/comments/1kbl6rj/best_luxury_hotel_london/"]
+
+--- RAW RESPONSE TEXT ---
+The **most exclusive luxury hotels in London** are typically the grand, heritage-rich five-star properties in **Mayfair, Piccadilly, Knightsbridge, and Whitehall**—with names like **The Ritz, The Connaught, Claridge’s, The Savoy, The Dorchester, 45 Park Lane, and The Lanesborough** appearing repeatedly across luxury-travel lists.[1][3][5][12][14][16]
+
+A concise shortlist of the best-known *exclusive* options:
+
+- **The Ritz London** — often described as the pinnacle of London luxury and a timeless icon on Piccadilly.[1][14]
+- **The Connaught** — widely praised for refined, discreet luxury in Mayfair.[1][6][12]
+- **Claridge’s** — one of London’s most famous grand hotels, frequently ranked among the city’s most luxurious.[5][8][12][16]
+- **The Savoy** — a classic choice for high-end stays, especially known for its prestige and river/Strand location.[3][5][12][14]
+- **The Dorchester** — a major Park Lane luxury landmark and a regular feature on elite hotel lists.[5][14][16]
+- **45 Park Lane** — a more contemporary, ultra-luxury Dorchester Collection property that appears on top luxury rankings.[3][12][16]
+- **The Lanesborough** — repeatedly listed among the top luxury hotels, known for very high-end service and polished interiors.[13][16]
+- **The Cadogan** — a boutique-style luxury hotel in Chelsea that appears on premium London hotel guides.[1][3]
+- **Mandarin Oriental Hyde Park** — a top Knightsbridge luxury hotel often included in best-of lists.[3][12][16]
+- **Raffles London at The OWO** — one of the newer ultra-luxury openings, highlighted for spa and high-end experience.[5][8]
+
+If you want, I can turn this into a **ranked top 10**, or narrow it to the **most exclusive for couples, celebrity-style privacy, or classic old-world luxury**.
