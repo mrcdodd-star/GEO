@@ -1,0 +1,17 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: 45 park lane vs the dorchester difference
+
+CITED URLS:
+["https://www.forbestravelguide.com/hotels/london-united-kingdom/45-park-lane","https://www.tripexpert.com/london/hotels/45-park-lane-dorchester-collection-vs-the-dorchester","https://www.forbestravelguide.com/hotels/london-united-kingdom/the-dorchester","https://theweek.com/arts-life/travel/953955/the-dorchester-hotel-review-london","https://www.dorchestercollection.com/london/45-park-lane","https://www.tripadvisor.com/Hotel_Review-g186338-d187992-Reviews-The_Dorchester-London_England.html","https://www.ratedtrips.com/hotels/england/london/london-w1/45-park-lane-w1k1pn","https://www.theluxevoyager.com/luxe-hotels/united-kingdom/45-park-lane-london-dorchester-collection/","https://www.dorchestercollection.com/london/the-dorchester","https://www.alainducasse-dorchester.com/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a comprehensive comparison of **45 Park Lane** vs **The Dorchester** — two sister hotels that are literally across the street from each other in Mayfair, London, yet offer quite distinct experiences:
+
+---
+
+## 🏨 45 Park Lane vs The Dorchester — Key Differences
+
+### 🔗 Relationship
