@@ -1,0 +1,31 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: the dorchester london rates October 2026
+
+CITED URLS:
+["https://www.timeout.com/london/news/this-iconic-central-london-hotel-has-been-named-the-best-in-the-capital-by-the-aa-092624?utm_source=openai","https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai","https://www.agoda.com/dorchester-hotel/hotel/london-gb.html?utm_source=openai","https://www.expedia.com/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+[The Dorchester: Iconic Central London Hotel Named Best in the Capital by the AA](https://www.timeout.com/london/news/this-iconic-central-london-hotel-has-been-named-the-best-in-the-capital-by-the-aa-092624?utm_source=openai)The Dorchester, a prestigious five-star hotel located on Park Lane in London's Mayfair district, offers a range of luxurious accommodations. For October 2026, room rates vary depending on the room type and booking platform.
+
+**Room Types and Approximate Rates:**
+
+- **Classic Room:** Approximately 34 m² (366 ft²) with city views. Rates start around $5,305 per night, including taxes and charges. ([booking.com](https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai))
+
+- **Deluxe King Room:** Approximately 43 m² (463 ft²) with garden or city views. Rates start around $5,891 per night, including taxes and charges. ([booking.com](https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai))
+
+- **Dorchester Suite:** Approximately 109 m² (1,173 ft²) overlooking Hyde Park, featuring a four-poster bed, a large sitting room, and a separate dining area. Rates start around $24,500 per night, including taxes and charges. ([booking.com](https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai))
+
+- **Regal Suite:** Approximately 146 m² (1,572 ft²) with spacious living areas. Rates start around $28,500 per night, including taxes and charges. ([booking.com](https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai))
+
+**Booking Platforms:**
+
+- **Booking.com:** Offers various room types with options for breakfast inclusion and flexible cancellation policies. ([booking.com](https://www.booking.com/hotel/gb/the-dorchester-london.en-gb.html?msockid=10d8c119135d643a11a1d7e6122c65e8&utm_source=openai))
+
+- **Agoda:** Provides detailed room descriptions and amenities, with rates varying based on room selection and booking dates. ([agoda.com](https://www.agoda.com/dorchester-hotel/hotel/london-gb.html?utm_source=openai))
+
+- **Expedia:** Features a range of rooms and suites, with prices available upon entering specific travel dates. ([expedia.com](https://www.expedia.com/London-Hotels-The-Dorchester-Dorchester-Collection.h21208.Hotel-Information?utm_source=openai))
+
+Please note that these rates are approximate and subject to change. For the most accurate and up-to-date pricing, it's recommended to check the hotel's official website or contact them directly. 
