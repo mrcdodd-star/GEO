@@ -1,0 +1,71 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: the dorchester vs the peninsula london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeV1UJe9-EEfSIdsoTmTfKi2L1MjSvKave6D6OTe_5zfvKs5PDBMdilJNj-yMGLMV9G4NapksNpSl2xghicfkIoYCq9moMZgpdGp2up8O41jL63U8ScfRJ6WOjZjlu2KAy6Mpjup3tF53K","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1lJ4TGnMutYJzSr-2MJWV_RAi5ae9uBkD7IhBZyM8rX90sRHlS6dWqVfM0tBUXaZC_kguC-1Ve8lCBKBSpXlpMKEwuYGC7ZqWKZ2NJs-KS0VEW3VbP9_VfTQ3vyyJs6lD","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWamkExEWPG3l3JiiHzDTxb7QOnBhR8RH_XCAM9fWSEEWD33Jf6dWFl-Q1B-YJZaNFMwvDb0sIAkdKyIpcjreYq9cGcFP1vZyShU-WjIZvEhVWa7l95JnyD0G-RqUDZRzvdF06Ec-Bby_vO8W2dmICjbyHgwvCIIlG0LkBBggZ9Fv2AIRyntyrZqE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHagZ_UVXpFVhhjk75islpmnOt8mQ5a-BgHgcANtjO2LfLPn7yZnew0p4RQy61VXmKSCoVOmjVXESyX3OrZCrmQpaEZx0nyMj_pT3KoflLI3GVM-enMd83hvNzG_FHkFAH_2WfqATomC-m7kF7T94smWXEtWqFR2IwUpFOp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA85T_TE8J5EmTxEuKk-rlWpyR2PiIXeM256K1C3e0Ucr42Qn6XlnmMbATJa47xeGBZDNJBNbRMcysmXQxMd7P3ww6NjuFxh4dyBSVtL5OYq4G5HM2ng61oCxL03t0QCCgihTPvQwIKkgPjb1qodgOWVXNgeEAXOn8MzYfAAD5xp8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaYmzOFR86AW81Ym2HcHotrXI8N6S41HIUDoiCIoqSCsDohbkXx-0NNTKKMTNw-521UysULIduD6eJZCPyMrzt4tKNuj64LH3ZFvoM0X1NpLSAG1QFc8Dw_5EOCvORIBhxzNlGyW7r8ikifxxv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWCDIQ6Zj_1BGnMvK4WrijEM3gMiypMDdNd2JnHgPoc9yGb6eNpxcNM_mJRtQJ7KuMH0Dlwo8qux0wFiMU6KN1BsI5AJr7Gws3LF4IY6RHEsVON6QDgYZFz8H1pK8OS76oew_SShvb","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSEsJhr5j7LGCot3a5RVvHwHktnMHdtaknHz3Zjdxm7dtUI0mc96UmE4UO5BhOG42qo9gmW-dCTy-6_Cev3_nXtpXo_4JjLQ3gIE_ux0iloggNDeslJuanSGLwV-w3Ujb2fQQwh43boIaMrM45zy3ZQWslTY8KIyngLA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPxnCOQjdYEBoSjmE-Qn9nOEY9k-q70XBoOgCk48d8WDVVcz7RshG8WYGTLqhA4VsefweLZx1fzTchYKGvGZJnW9eCkydSu2a1iVQW7Uhkl55hlWb4vPHhdoU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuRoEHR7MmEUtLB8RZHQ-aQ6vvt5ShiMaSG1ppIrp32TsEpiT5eHskI5iPbofa4azG85xxTA99OAmCk60F3UImT8Vqg4cb5lboMzkYvCHfVwcmgOzfkERovl_FDunpkiM-KLslryLobFdNwtjKPa-KE9UVsXRqupg3V-M76EhXtqcx3nkBAbj8g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPEXrjj6TLiqYUuoD08JOj5oTFJ0iG7WTsGuseg94IgAIRIvWvl86ouxaTvEGnecrvZlW2cmljVR5k_UerQvXDRgFtse4a0eQnz5tJjJrlyHv74WbyLouhM13iXgk8Yp0oL3Of","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ZN-duu4lvlGHGa1M20LjwB4MQ3Mn0dW9T-dsE9f4vpVfPbZvLL5uc16d86IyVg2crm2ceAig8AoSd8QO9baoSybQAF80bitnddyLpWSNV7tVhyISmqx81OEqZetBkCebTSa4AZWH4yRthS0I92Wf9rvcVk7WVVSBzKRVEuN5NTjfGa1dozezHuuAjdf-3xt5","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV0UVhRVvW9LUMsMit1zHfPWeehGrd6Vn6jtEWjY_AjNaBiSCvRH8-iHB_ODFlp-NO8Ca7gL7t95noP4R2rvP56SbpZaOpxtHifQEDEPfU6NLDI70odXbzyqhb2qLNWNczu7TUp1XM7mN74Wwpc2bFxXwBhKs4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdkBlLrI7cKAYNQYm9vzvLBkvRN657b6HBc7KtDB45KNUbjJGsxT5_l1Uzz9FrZBWRio8eXC_mPF_DJ2bpUKdDJlWusCYSNGFqB7Peu6HsAYCKuNMmeXY_ASEQK3Yg6qCrgbAeDjjM4sg-vPFE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgHybIVn-ZKrwf8t1l20AfLnAtDI9Jfl4uz37VaOPf3H-tAchPM7lb0ibTy2NjLTrcszwVmCA8u2ZosIwMNN21l4pBWaBiJA7zspg4GlSAGYRkR3yKBlF02RizUnT8LA3INVjFg6UNsQcm_PbTCMlwwDd6zL2IaWETbMCs_zH08lORGlL6ztM2gTro2TLfvqHPlzcHW5bMVyWxON8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpJloSROn9AeKwKVi6CsWoDBFJnNmYHGYWRo_8oqZTf7fw8nfJ5yuDwZWhQiXByNUabnO1J9OUUJ7tB8H3YNOBu3DQig9hlQPMuo_iDduCDbeQMdhCZ9DehGARsk4BVOqV1IH53sleokKoyywQPhCzXgk4XMf7MQZzSCkePxgzOmmcbh5pExsDDg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWo6GdDnuHtJ2kB5tDmg_T3frl6q5DXGHRZPqSSAj-RgLvhOuhVmBicxrVBc7aQeJklq4UY-YWR8FxNHYCRn3I-JjrSN3C9fTRNIi_Fk9T9m-UXG-GUDpDBpt-07KhhjdnJUqg1S8v5wQoNeJL4Xzu3t6Rx2fE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmYL2zgEj3ri6G5F4IKtD1rBqVcQKd7vKr--DhgftnsDJd9D76ciXUuYsmEwTh9QTJhqbcxPLFIT9nHvZzFCW0AEvvFoF_y9O2ROHtNUulKPA9jx-vkA6TEwsxsBnszM_dDP85gSGB2OpxhjlHqtkzKx87mJJ0Lv8-5N1KdY16YyTb9A=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETtjKBm3s6an0Xi1YHgKm-DTZ5v0FdAEsEUb2t8GTTqI8b7l20Zoev4_OyZYXuqiWBUkfnqmW9NhCFtR_armu8DQ5K8YvuSr6VmDADG0EQ-Xba86XSTqBAgPs-RklVvVFSmLDyZfWPRn8oJm1QbvS7GY0LUA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpV_eczi5zB5Bel7bwvWS5RC48cPkkTPxqADRE4-VjaUYtGG9CAYVg_uIFx9KlcISnl8ZbruuhqWDH0qnmY57vhCrCtJNXl-PoRe_2Plcbxys9TFSKcphqutuergKW_kcGvHm2ro3k8eZdjDhiZbEQRA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKAVbHytohmyRqwkXbGwvQzoe8KU1vB1Iptv6dFbkTSraT8oMam5oX2cyfNqKSkuicsTANWHCqcMjWan4UHrJCunRMOHAaBGRHxRqCTZ570CTto8MQ6TOB25GlcVdD--v3EjfEV7aiZPZG7PutKfNuvx112987PMdmzCs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiwTzvbBUcCrJrQST2Ck_EahU9ODVd9rApyU9TbNgfIKRYegtfX_sDZIlGy-jhqiQWPLbiAx3ise4ouxHyXCq2QDLDXcrRuYF7CliWa_4SZb6x-x665FLW4SqoIziEhlnTdlpJ2Cst9hrNiZhxx4hL0MPDJ7mQ7uMtFI4vkWaL7Rsj-K9uoKdGyaYZ9GBm0zJmUGq4kuFbO435ZiIh2re1","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjot7rqV1BmY0hwgyxG_d_M2S6wFvK9pJwP5cqo45HmT-53TG31pRkJnQTcRBbQaVtkBiaMDQJm7LSCdo2Qxm_K-y63AUI1CoCPlOoX3dg0kR5PXT4slc="]
+
+--- RAW RESPONSE TEXT ---
+When comparing **The Dorchester** and **The Peninsula London**, you are looking at a classic showdown of **historic soul versus modern perfection**. Both are ultra-luxury properties sitting at the absolute pinnacle of London’s hotel scene, yet they offer completely different atmospheres, design philosophies, and guest experiences. 
+
+Here is how these two iconic hotels compare across key categories to help you decide which is right for your stay.
+
+---
+
+### 1. Vibe, Heritage & Location
+*   **The Dorchester (Mayfair):** 
+    *   **The Vibe:** Energetic, glamorous, and deeply social. First opened in 1931, "The Dorch" has hosted royalty, rockstars, and Hollywood legends. Following a massive, multi-year top-to-bottom renovation, it has shed any stuffiness and feels like a vibrant, highly exclusive private members' club. The public areas are always buzzing with chic locals and international travelers.
+    *   **The Location:** Situated directly on Park Lane in Mayfair, it is ideally positioned for those who want to step out and immediately access the premier boutiques, art galleries, and restaurants of Mayfair (such as Mount Street and Bond Street).
+*   **The Peninsula London (Belgravia):** 
+    *   **The Vibe:** Flawlessly polished, peaceful, and understatedly grand. Built from the ground up and opened in late 2023 (at a reported cost of over £1 billion), it exudes the precision of an Asian-heritage luxury brand blended with British craft. The entrance is remarkably discreet—guests arrive through a cobblestone central courtyard lined with 120-year-old Japanese maples. 
+    *   **The Location:** Positioned at Hyde Park Corner at the gateway to Belgravia. It is slightly more removed from the commercial bustle, offering a peaceful sanctuary close to Buckingham Palace Gardens, Green Park, and Knightsbridge shopping (Harrods).
+
+---
+
+### 2. Rooms & Suites (Hardware vs. Aesthetics)
+*   **The Dorchester (English Garden Glamour):**
+    *   **Design:** Reimagined by famed designer Pierre-Yves Rochon. The rooms feel like light-filled, residential sanctuaries inspired by an English garden, featuring custom Colefax & Fowler floral fabrics, pastel tones (heather blue, pale pink, sage green), and hand-painted de Gournay headboards in select suites. 
+    *   **The Feel:** Warm, romantic, and distinctly British. The hotel completed its final phase of room renovations in mid-2026 with the debut of its spectacular new Royal Suite. If you value character, heritage, and classic aesthetics, The Dorchester wins hands down.
+*   **The Peninsula London (Unrivaled Modern Craftsmanship):**
+    *   **Design:** Designed by legendary architect Peter Marino, these are widely considered some of the best-constructed hotel rooms in the world. 
+    *   **The Feel:** Sleek, incredibly spacious, and highly technical. Rooms feature deep mahogany paneling, massive soundproof floor-to-ceiling windows, and walk-in dressing rooms. The technology is seamlessly integrated: bedside tablet controls, silent valet boxes (for laundry/shoe-shines), in-room printers, and magnificent honey-onyx marble bathrooms with deep soaking tubs, built-in TVs, and Japanese toilets. For sheer room comfort and hardware, The Peninsula is unmatched.
+
+---
+
+### 3. Dining & Bars
+*   **The Dorchester:**
+    *   **Alain Ducasse at The Dorchester:** The jewel in the crown, boasting **three Michelin stars** for world-class, contemporary French haute cuisine.
+    *   **The Grill by Tom Booton:** A modern, creative take on traditional British dining with a highly energetic atmosphere.
+    *   **China Tang:** A legendary, opulent basement destination for upscale Cantonese dining.
+    *   **Vesper Bar & Artists' Bar:** Designed by Martin Brudnizki, Vesper Bar is one of Mayfair's trendiest spots for a martini, while the Artists' Bar features Liberace’s legendary mirrored piano. 
+*   **The Peninsula:**
+    *   **Brooklands by Claude Bosi:** A spectacular rooftop restaurant that was awarded **two Michelin stars** shortly after opening (and has firmly retained them). The restaurant pays homage to classic British aviation and motorsport (complete with a scale model of the Concorde suspended from the ceiling) and offers stunning, panoramic views over the London skyline.
+    *   **Canton Blue:** An atmospheric, multi-room, fine-dining Cantonese restaurant designed around the key elements of the maritime silk road.
+    *   **The Lobby:** The perfect setting for the classic, world-renowned Peninsula Afternoon Tea, accompanied by live musicians on a balcony under triple-height ceilings.
+
+---
+
+### 4. Spa & Wellness
+*   **The Dorchester:** The Dorchester Spa is a plush, indulgent, and highly cocooning space. It is elegant and offers top-tier treatments, but because it is housed within a historic building, its leisure facilities (like the relaxation areas) are more classic and traditional. 
+*   **The Peninsula:** A sprawling, state-of-the-art wellness sanctuary designed by Peter Marino. It features a dramatic 25-meter subterranean swimming pool adorned with mosaic tiling and overhead projections, a state-of-the-art fitness center, and cutting-edge thermal facilities. If a comprehensive, world-class spa day is a priority, The Peninsula takes the lead.
+
+---
+
+### Comparison Summary: Which Should You Choose?
+
+| Feature | The Dorchester | The Peninsula London |
+| :--- | :--- | :--- |
+| **Neighborhood** | Mayfair (Central, shopping, dining) | Belgravia / Hyde Park Corner (Grand, residential, quiet) |
+| **Room Style** | English garden, residential, classic-glam | Ultra-modern, high-tech, spacious luxury |
+| **Vibe** | Lively, social, feels like a private club | Calm, highly polished, formal, and private |
+| **Top Dining** | Alain Ducasse (3 Michelin Stars) | Brooklands by Claude Bosi (2 Michelin Stars) |
+| **Views** | Front rooms have direct, leafy Hyde Park views | Rooms/Rooftop view Wellington Arch and Belgravia |
+| **Spa & Pool** | Excellent treatments; cozy boutique spa | Spectacular 25m pool, state-of-the-art oasis |
+
+#### **Choose The Dorchester if:**
+You want to feel the energy of London. You prefer a hotel with a rich history, a lively bar scene where locals actually hang out, and classic, beautiful British decor. It is the perfect base if you want to walk straight out into Mayfair's best dining and shopping.
+
+#### **Choose The Peninsula if:**
+You want absolute perfection in room hardware and technology. If you prioritize massive bedrooms, whisper-quiet soundproofing, a world-class wellness center/pool, and dining on a spectacular rooftop with skyline views. It is ideal for travelers looking for a highly polished, serene retreat.
