@@ -1,0 +1,13 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite","https://www.theluxurytravelagency.com/the-dorchester-london-hotel-booking/"]
+
+--- RAW RESPONSE TEXT ---
+I'm not able to make bookings for you — I don't have the ability to access external websites, fill out forms, or complete transactions on your behalf.
+
+However, I can help you find the best way to book **The Dorchester's Hyde Park Suite** with direct booking perks! Let me look that up for you.
