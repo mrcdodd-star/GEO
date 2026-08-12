@@ -1,0 +1,25 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+["https://www.riiiich.me/articles/stay/claridges-london-review-2026/?utm_source=openai","https://www.maybourne.com/en/hotels/claridges/suites-rooms/royal-suite?utm_source=openai","https://www.claridges.co.uk/special-offers/life-is-suite/?infinity=mac~M_B%3A+ME+-+Claridges+-+Exact~Claridges+Hotel~~~claridge+hotel+uk~&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Claridge's, located in London's Mayfair district, offers a range of luxurious suites with rates that vary based on suite type, booking dates, and available promotions. As of August 2026, here are some indicative rates:
+
+- **Deluxe King Room**: $1,200–$1,800 per night
+- **Deluxe Suite**: $2,200–$3,500 per night
+- **Junior Suite**: $2,500–$4,000 per night
+- **Mayfair Suite**: $4,500–$7,000 per night
+- **Grand Piano Suite**: $8,000+ per night
+
+These rates are sourced from a 2026 review and may vary. ([riiiich.me](https://www.riiiich.me/articles/stay/claridges-london-review-2026/?utm_source=openai))
+
+For more exclusive accommodations, the **Royal Suite** and **Georgian Suite** offer expansive spaces and unique amenities. Specific rates for these suites are not publicly listed and can be obtained by contacting Claridge's directly. ([maybourne.com](https://www.maybourne.com/en/hotels/claridges/suites-rooms/royal-suite?utm_source=openai))
+
+Claridge's occasionally offers promotions, such as the "Life Is Suite" package, which includes a 15% discount on select suites, daily full English breakfast for two, and a welcome bottle of champagne. This offer was valid for stays until April 30, 2026, and similar promotions may be available in the future. ([claridges.co.uk](https://www.claridges.co.uk/special-offers/life-is-suite/?infinity=mac~M_B%3A+ME+-+Claridges+-+Exact~Claridges+Hotel~~~claridge+hotel+uk~&utm_source=openai))
+
+Please note that rates are subject to change and may vary based on factors such as booking dates and availability. For the most accurate and up-to-date information, it's recommended to contact Claridge's directly or visit their official website. 
