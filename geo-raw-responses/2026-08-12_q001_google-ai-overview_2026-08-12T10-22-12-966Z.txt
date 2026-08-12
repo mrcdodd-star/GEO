@@ -1,0 +1,21 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best 5 star hotels in london
+
+CITED URLS:
+["https://thehoteljournal.com/best-five-star-hotels-london-england/","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://www.theritzlondon.com/about-the-ritz/","https://www.travelmyth.co.uk/London/Hotels/five_star","https://www.theluxuryspaedit.com/spa/mandarin-oriental-london/"]
+
+--- RAW RESPONSE TEXT ---
+The best five-star hotels in London are The Savoy, The Ritz London, Claridge's, Mandarin Oriental Hyde Park, and Shangri-La The Shard. These iconic properties offer world-renowned service, exceptional fine dining, and prime locations across the capital's most prestigious neighbourhoods.
+Traditional & Heritage Luxury
+CallDirectionsWebsiteFamed for its neoclassic Louis XVI style, tableside Michelin-starred dining, and its ceremonial Afternoon Tea in the Palm Court. Nightly rates typically start around £1,575.
+CallDirectionsWebsiteLondon's first grand luxury hotel features stunning Art Deco design, two Gordon Ramsay restaurants, and views overlooking the River Thames. Nightly rates start around £731.
+CallDirectionsWebsiteAn art deco masterpiece favored by royalty for centuries, highly praised for its flawless British hospitality and lavish, historic suites.
+Contemporary & View-Focused Luxury
+CallDirectionsWebsiteSpanning floors 34 to 52 of the UK's tallest building, this hotel boasts floor-to-ceiling city views and Western Europe's highest infinity pool.
+CallDirectionsWebsitePerfectly positioned between parkland and designer boutiques, it features a contemporary redesign, a massive spa, and the two-Michelin-starred Dinner by Heston Blumenthal. Nightly rates start around £701.
+Comparison of Top Properties
+
+Are you looking for a hotel with a specific amenity, such as a world-class spa or a Michelin-starred restaurant?
