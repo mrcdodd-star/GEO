@@ -1,0 +1,19 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: most exclusive luxury hotels in london
+
+CITED URLS:
+["https://www.timeout.com/london/news/4-luxury-london-hotels-are-in-the-worlds-50-best-for-2025-103125","https://www.theluxurytravelagency.com/luxury-hotels-in-london/","https://www.theritzlondon.com/","https://essfeed.com/claridges-remains-the-most-prestigious-hotel-in-the-heart-of-london/","https://www.timeout.com/london/news/two-london-luxury-hotels-are-the-best-in-the-world-in-2025-according-to-forbes-travel-guide-021425","https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/","https://hauteliving.com/2025/04/the-9-hottest-new-london-hotels/766337/"]
+
+--- RAW RESPONSE TEXT ---
+Here is a curated guide to the **most exclusive luxury hotels in London**, spanning legendary historic institutions and stunning modern icons:
+
+---
+
+## 🏆 Most Exclusive Luxury Hotels in London
+
+---
+
+### 1. 🥇 Claridge's — *Mayfair*
