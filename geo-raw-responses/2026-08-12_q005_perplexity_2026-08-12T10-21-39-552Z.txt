@@ -1,0 +1,28 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best historic luxury hotels london
+
+CITED URLS:
+["https://evanevanstours.com/blog/7-historic-hotels-to-visit-in-london/","https://www.whatahotel.com/blog/224/Best-Luxury-Hotels-in-London-Historic-Grand-Hotels/","https://www.bitvoya.com/london/historic_luxury_hotels","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.thehotelguru.com/best-hotels/united-kingdom/london-character","https://dinewithjp.com/best-luxury-hotels-london-guide/","https://www.harpersbazaar.com/uk/travel/g34577114/luxury-hotels-london/","https://destinia.com/guides/en/10-best-historic-hotels-in-london/","https://www.dotwnews.com/city-guides/five-must-visit-historic-london-hotels","https://www.londonmuseum.org.uk/collections/london-stories/london-historic-hotels/","https://www.tripadvisor.com/HotelsList-London-Historic-Hotels-o30-zfp3439.html","https://www.londonscout.co.uk/best-heritage-hotels-london","https://www.historichotels.org/destinations/london.php/1000","https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/londons-luxury-hotels-p2rq96zvv","https://www.historic-uk.com/England/LondonHomeCounties/","https://www.expedia.com/London-Hotels-Historic-Hotel.0-0-d178279-tHistoricHotel.Travel-Guide-Filter-Hotels","https://www.reddit.com/r/LondonTravel/comments/1ke1gp6/looking_for_victorianhistoric_hotel/","https://www.sterminshotel.co.uk/about/our-history","https://en.wikipedia.org/wiki/Hotels_in_London","https://www.cntraveler.com/gallery/best-hotels-in-london"]
+
+--- RAW RESPONSE TEXT ---
+If you want **historic luxury hotels in London**, the strongest classic choices are **The Ritz London**, **Claridge’s**, **The Savoy**, and **St. Ermin’s Hotel**; these are repeatedly cited as London’s most iconic heritage properties and are known for long-running grand-hotel traditions and landmark architecture.[2][10][12][18]
+
+A practical shortlist:
+
+- **The Ritz London** — opened in **1906** and described as London’s oldest surviving luxury grand hotel, with a name that became synonymous with luxury.[2]
+- **Claridge’s** — a Mayfair icon with roughly **130 years** of grand-hotel heritage and strong Art Deco character.[2]
+- **The Savoy** — one of London’s most famous historic luxury hotels and a frequent top pick for heritage and luxury.[10][12][14]
+- **St. Ermin’s Hotel** — a historic Westminster hotel with a clearly documented heritage identity.[12][18]
+- **Rosewood London** — a luxury option in a **Grade II listed Victorian building**, if you want historic architecture with a modern luxury experience.[6]
+- **The Bloomsbury Hotel** — often recommended for heritage atmosphere and central location.[12]
+
+If you want the “best” one depends on what you value most:
+- **Most iconic luxury:** The Ritz London[2]
+- **Most classic grand-hotel feel:** Claridge’s or The Savoy[2][12]
+- **Best historic atmosphere:** St. Ermin’s Hotel[12][18]
+- **Best historic building with modern polish:** Rosewood London[6]
+
+If you want, I can also rank these by **best for couples, afternoon tea, central location, or old-world atmosphere**.
