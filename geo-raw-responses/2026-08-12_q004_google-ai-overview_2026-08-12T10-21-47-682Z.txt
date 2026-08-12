@@ -1,0 +1,14 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoNlkyaHllRjl5GAo","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TjJ0cWJtUmoYCg","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZiUzh3TVRNMFoyeHJiZxgK","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TlRVMlkzZxgK","https://www.spabreaks.com/venues/the-dorchester-spa?srsltid=AfmBOorSGSO0OFocILz_yIhgTlsyiHJiMX4FtDVDL1JKeOsXxV5he-rQ","https://www.fcchauffeurs.co.uk/hotel-booking/hotels-in-hyde-park-corner/mandarin-oriental-hyde-park","https://www.comohotels.com/london/como-metropolitan-london","https://neweuropeaneconomy.com/spend-it/one-hyde-park-what-londons-most-expensive-flat-looks-like/","https://www.theluxuryspaedit.com/spa/mandarin-oriental-london/","https://www.mandarinoriental.com/en/london/hyde-park/about","https://www.55management.co.uk/knightsbridge-and-belgravia","https://www.forbes.com/sites/yjeanmundelsalle/2016/08/01/45-park-lane-the-dorchesters-younger-sister-lights-up-mayfair-with-its-art-deco-splendor/","https://www.luxuryexplorer.com/UK/London/The-Dorchester","https://wota.co/en/hotel/detail/jw-marriott-grosvenor-house-london/london-gb","https://www.trivago.co.uk/en-GB/oar/hotel-the-chesterfield-mayfair-london?search=100-47200","https://www.expedia.ie/Hyde-Park-Corner-Hotels.0-l508408-0.Travel-Guide-Filter-Hotels","https://www.privateupgrades.com/united-kingdom/the-peninsula-london-hotel-london","https://theweek.com/culture-life/travel/the-peninsula-londons-first-billion-pound-hotel","https://www.doitinparis.com/en/the-most-beautiful-hotels-in-london-27411","https://www.instagram.com/reel/DYoPgSTII96/"]
+
+--- RAW RESPONSE TEXT ---
+The best luxury options directly overlooking or within steps of Hyde Park include Mandarin Oriental Hyde Park, The Dorchester, and The Peninsula London. These world-class 5-star properties deliver exceptional service, iconic dining, and premier locations spanning Knightsbridge and Mayfair.
+Luxury Hotel Overview
+
+Top Picks by Neighborhood
