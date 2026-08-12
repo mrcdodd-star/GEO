@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: claridges suite booking rates
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Booking suite rates at Claridge's London start at £1,785 per night for a Deluxe Junior Suite and scale up to £5,217 per night for premier multi-bedroom options.
+The breakdown below lists the starting nightly prices across major booking platforms for various suites:
+Suite Price Comparison
+
+Standard Room Alternatives
+If you are looking for non-suite options, entry-level rooms offer lower rates:
+
+If you want to look into booking, let me know:
+
+I can then track down exact availability and look for any dynamic package deals.
