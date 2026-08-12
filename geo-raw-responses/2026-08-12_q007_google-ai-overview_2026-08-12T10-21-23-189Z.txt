@@ -1,0 +1,22 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best hotel afternoon tea in london claridges vs dorchester
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3T0RZd2VqSRgK","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM05XWmpkRzF5GAo","https://www.facebook.com/groups/traveltipslondon/posts/1366369195654350/","https://highteasociety.com/reviews/afternoon-tea-dorchester-london/","https://thesaucemag.com/best-london-afternoon-teas/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhGeGNHaHliWGR1GAo","https://www.reddit.com/r/chubbytravel/comments/1m1t8q2/favorite_afternoon_tea_in_london/","https://www.instagram.com/reel/DOe2XBjjmsm/?hl=en","https://www.afternoonteareviews.eu/2022/03/afternoon-tea-claridges-london/","https://www.maybourne.com/en/hotels/claridges/restaurants-bars/afternoon-tea","https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d6387666-Reviews-Afternoon_Tea_At_Claridge_s-London_England.html","https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1071328-Reviews-The_Promenade_at_The_Dorchester-London_England.html","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TkhSdGVXcDYYCg","https://www.youtube.com/watch?v=HYkcz1__yko","https://www.dorchestercollection.com/london/the-dorchester/dining/afternoon-tea","https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d6788105-Reviews-Afternoon_Tea_at_The_Promenade-London_England.html","https://www.hardens.com/az/restaurants/london/w1/the-promenade-at-the-dorchester.htm","https://www.tripadvisor.com/Restaurant_Review-g186338-d6788105-Reviews-or30-Afternoon_Tea_at_The_Promenade-London_England.html","https://thebritishtravellist.substack.com/p/londons-best-afternoon-teas-for-2025","https://highteasociety.com/reviews/afternoon-tea-claridges-london/","https://claridges.wearegifted.co.uk/champagne-afternoon-tea","https://www.instagram.com/reel/DSSIfqWDOOJ/","https://moverevolution.com/blog/our-favourite-afternoon-teas/","https://bonvivant.co.uk/journal/londons-best-afternoon-tea-venues/","https://www.maybourne.com/en/hotels/claridges/restaurants-bars/the-foyer-reading-room","https://www.theluxurytravelagency.com/luxury-hotels-in-london/"]
+
+--- RAW RESPONSE TEXT ---
+Claridge's offers the ultimate quintessentially British, food-first afternoon tea, while The Dorchester wins for its spacious, newly renovated palatial room design and creative culinary touches. Both are elite five-star icons located in Mayfair, but they deliver distinctly different atmospheres and dining experiences.
+Quick Comparison
+
+The Case for Claridge's: The Traditionalist's Dream
+Served in the stunning Art Deco Foyer & Reading Room, Claridge's afternoon tea feels like a masterclass in classic British heritage.
+
+The Case for The Dorchester: Opulence and Innovation
+Served in The Promenade, which underwent a massive multi-year renovation, The Dorchester offers a grand, palatial, and slightly more relaxed setting.
+
+Which Should You Choose?
+
+To help me tailor this comparison, are you celebrating a special occasion, or do you have any dietary preferences? Let me know if you want to look into reservation availability for your dates!
