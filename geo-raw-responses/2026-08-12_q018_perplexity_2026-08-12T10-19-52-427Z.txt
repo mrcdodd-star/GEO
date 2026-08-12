@@ -1,0 +1,20 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: book the dorchester hyde park suite direct perks
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/hyde-park-suite","https://www.theluxurytravelagency.com/the-dorchester-london-hotel-booking/","https://www.dorchestercollection.com/london/the-dorchester/event-spaces/park-suite","https://www.privateupgrades.com/united-kingdom/the-dorchester-hotel-london","https://www.vandentravel.com/hotel/the-dorchester-dorchester-collection","https://www.dorchestercollection.com/london/45-park-lane/rooms-suites/three-bedroom-park-lane-suite","https://www.dorchestercollection.com/media/e2elgxga/the-dorchester-groups-brochure.pdf","https://www.businessclass.com/en-us/hotel/review/The-Dorchester-Dorchester-Collection","https://www.dorchestercollection.com/london/the-dorchester/occasions","https://dreamescape.co.uk/accommodation-collection/the-dorchester/","https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/executive-room","https://www.dorchestercollection.com/media/gb3lewgx/tdl_0624_factsheet.pdf","https://explorelondon.co.uk/hotels/the-dorchester.php","https://dinewithjp.com/the-dorchester-london-luxury-hotel/","https://thepointsguy.com/hotel/reviews/dorchester-hotel-london-review/","https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/"]
+
+--- RAW RESPONSE TEXT ---
+If you book the **Hyde Park Suite** direct with The Dorchester, the published perks are **round-the-clock butler service**, **complimentary round-trip transfers**, use of a **chauffeur-driven car subject to availability**, and a **complimentary “speed nap experience” in The Dorchester Spa once per stay, per person**.[1]
+
+For this suite, the room features also include **Hyde Park view**, a **separate living and dining area**, **three Juliet balconies**, and the ability to connect for a total of **three bedrooms**.[1]
+
+If by “direct perks” you mean *booking-channel benefits* rather than *suite-included benefits*, the official suite page does not list extra direct-booking bonuses beyond the suite inclusions above.[1] By contrast, third-party luxury advisors advertise added benefits such as breakfast, hotel credit, and upgrades, but those are tied to their programs rather than direct booking with the hotel.[2][16]
+
+If you want, I can also compare:
+- **direct booking vs. luxury advisor booking**
+- **Hyde Park Suite vs. other Dorchester suites**
+- the **best likely perk stack** for this room category
