@@ -1,0 +1,24 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://biirdee.com/guides/dorchester-diamond-club-guide","https://www.brownelltravel.com/preferred-partners/diamond-club-dorchester-collection/","https://www.foratravel.com/partners/dorchester-diamond-club","https://www.flyertalk.com/forum/luxury-hotels-travel/1475727-diamond-club-dorchester-collection-preferred-partner-program.html","https://bonvivant.co.uk/partners/dorchester-diamond-club/","https://biirdee.com/guides/dorchester-collection-guide","https://www.foratravel.com/partners/dorchester-diamond-club/isam-tabani","https://www.liveluxetravelco.com/dorchester-diamond-club","https://www.dcdiamondclub.com/","https://www.reddit.com/r/chubbytravel/comments/1kjb3qc/dorchester_collection_diamond_agents/","https://theprivatetraveller.com/dorchester-collection-diamond-club"]
+
+--- RAW RESPONSE TEXT ---
+Dorchester Collection **Diamond Club** is an invitation-only program for selected **travel agencies**, and when you book through an eligible advisor it typically includes a **confirmed room upgrade at booking**, **daily breakfast for two**, and a **hotel credit** of about **100 units of local currency** per stay, plus VIP-style service and sometimes early check-in/late check-out depending on the property and booking terms.[1][2][3][6]
+
+The most consistently reported **travel agent benefits** are:
+
+- **Confirmed one-category upgrade at the time of booking** rather than “subject to availability” at check-in.[1][2][5][6]
+- **Breakfast for two daily**.[2][5][6]
+- **Property credit** of roughly **100 local currency units** per stay, though some agency pages describe it in USD-equivalent terms and property rules can vary.[2][5][8]
+- **VIP treatment / ambassador support**, with hotel management aware of the stay and assistance from a Diamond Club team.[2][7]
+- **Early check-in / late check-out** may be available, but this is often listed as *subject to availability* rather than guaranteed.[5][8]
+- **Unlimited internet access** is mentioned in some program descriptions.[2][4]
+
+A key point is that **guests cannot enroll directly**; the benefits are accessed through an **invited agency or advisor** that is part of the Diamond Club network.[1][3][6][7]
+
+There is some variation across sources on details like the exact credit amount and whether upgrades are “guaranteed” versus “subject to availability,” but the strongest common theme is that **Diamond Club is more generous than standard preferred-partner perks and is designed for bookings through select luxury travel advisors**.[1][2][4][7]
