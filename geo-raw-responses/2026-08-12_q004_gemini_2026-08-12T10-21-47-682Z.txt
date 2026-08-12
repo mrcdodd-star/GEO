@@ -1,0 +1,56 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqk3RWK-6K1lelo_0jUHkqmYJ9QSA7EO70CD1K-R7Z3gNoeGNiFxCcfwSgkkj6mzKG4RpOdtdZgTlhjdkQW3rTTsQUuw9yIg344AfK2azLy-OPHMWdw2DsJajVa_rNsNge6Q7bgifNqpYCdxNTpjw-vbKcFHU2Wj5KyEP8SmfL4QWUxdkkW3dqLxlYv2KDSyg19w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo97Qgr7Wd0N6zrfcsHped0x0OhlyenJfZoLC1zAYdPr8-BhLVCDaObAFakKPtcoxXKfUwlxVenVYmGlz9KbCEUgKMJvfZY0ACiSlY1KBXZlVf_2phfKDRZ45fCK-_Wl4eyn_bNVFc9LekXbBOKmOH14tL","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMaT0Ik4rrobOoyJdsd2nam8YY5AJJ3gsRSL0uOw3iRscWdlK814H_hLTbbU4ZPhS9l4weIHQ81BYhMLxmdWjhLTufcW-mnPV7qqu4AmLL9967bgSOaTG0el5lZv-mGSxU9miku9gbsXwPWWnKXtTIFuzBl8cl7s0MA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8p45COzdIk7_-DxI-Ry0t9nKcO8NNW1gItT4UzmVVr_QXJ9AJde66xtjH0yrqnWQrPkJjnomHsaxawrJZmhu_76HqzWyb7YPB8XBfjaRZ5GBiwHxm5U9WUW3Zo66F4fWThm3f7g38iiif5oohlvZN0K3Gv-g7cQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi13ReAl9DkWya5-VeaELnLSPKaOv_ZhDkvBlv055m_68EFxlk1_qzfToSRslQ1pzKFXYMZEYlKTLoq42RCQGFVQjCpDvv0Hi4RouJhU4EBQEkixYkCcsN3Meu","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl1mXzzy5IWk51Qwc_jCj5EjyNkEp3uo7Eeed_3cLVXMC_f0xZbtUVzDX4j8En3mSLYPlbrdhU_MUaxOpaf5nA36tuHGNQxVkpyso17MYfm8v2AsptsNvqfQeJ9lZxUJIW1IbzfvZ7gHSbzQiubku7PGHR8Z2tKJZRr2s=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4oFm27DD61qrspVorrOU4uIwaaN0xCIwGNjpW9M7kOylByFD7p1W_HjX92s9Nz-FBCw2OFcWhfkqi-T0PPbeC7GcYLpu6s9kNeBadd4kFNIuTi78piOjQcb1oJI73cvM35qAJJqyodwK2e7N4orK","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElS7UU-NxhzDxiP84duTYpE9oNlgkatY3ZP3m1dWcSEhPS5gGaFR7-ku9IdcyywpqeFkyIYsWGMqG2_3yVvsQfXbstgUduXja8oehA32ZVO9chzNjJnpiouKLbEq3UIcvhhix1zB-uMxYk0MLf2oVlSpoQ_HwifXjQjFUZSCV3iJsnzWfsxQQr18UQomE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhJLsOYSceY3MR9jfgPxweQdevtfMP0c7Z51vCiSjK3rgQzwIGVxcmmRIvGcUaixgqE0V4pwf5V8t_xPqVc8rKSJz4mE8TwOaJZG96Y5Y1nj-C9NZtyfvUiFhD3WhSo04FbkCnpeUaWho7hqBuJsl_jv0T29OOcvPt3iZ31RQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfPmfbvPfDpwLfS-VkGTfaixIFS7BhxFMHpKEBn0s1ArksRl8fEiWncN4euW-WJ3ue2InvZcf8ijSyvPqqnJkPpRaluVU9qP28W2-OlBvLTw6-xcHqNiyrrr8UHwjeC3ep_kvq8M4y8Z9dB6sRRUTwUl_wpKK92nLPWA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhhx3Z8v5nLzQ5zCanHh94y_GiD5tCdjqFGCjHSsII5KB-FJzVVCBlXgIcltlpRPqnMxtg2AMk19ReShyzHEhfMUr92B67tCOynKVx6XLZTmzoUz8gWeFJ1bCyrlSuycGGX17R3eg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLoOaMJNwjo05Fk7TS7L4NoGSnFTavDG8mi9J63TicaTqeoHpFM3CbaNwVVRo4NDxTZK4JfgqzUbzQ1TM8IfrfsylxixSskOzyC2KqCb40v6KnOGK3FHG0FEsQZUAuijUq3i78zvlZL6BOd8ngdlqiGWIbYQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbzPAiYZ0Jj4RZQGJW0JJW6pZxLITHOznKR2GZ0ksrlSaUncawq0QbciRqDzFYDmDfnzTWBk86VzXcMVeo66Os2clvxgu7CEgVZIuiBYbLbbnk8SGl9g9YxPk5CilMDKO-bt5-T6Tv-XLD","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYL-unSREbajlpGAMvpI4RynyAargIs2WGwsI_RzUcWnGFjKzmZdBDmMtsrOaxY1Z0nuhOEJOfFuSJwOQTOd1SEB2amECLzVLAcyLKxwDsofubX7rZ-go-IjNosyQez20M_UsTtx8UlHbAvHnaEWWU62Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZeH5CQiQX2cc7q58ubu7k1m30z0brMcPLzylBHZboYIxqsGWoKQ2X28dmBmyGi6293L7I_5WJueEPdoV5ZG6wWJKeMEP35WCtfydO39sAmdkvTcc5wY9-kNxYLjbPQUflq4FhsBGzGA7aXobCV5Zq6_oo-EVlT-p8J4xnB4swxzYOCTqlfaKuoUGUQevsuOsTGI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7fLsyjUTvtR9BQp41tCACyyomCXtB8rxYJK5_PG-3KXl_ytV6nmCmVgMPYR3PMKlF-Jh3inD6svK1ugmwqS246mmjcL4fg6PzFzWw_fcmvdtqBFY3CF6Uv0t993pBK7TQGS_ZkcPuxO8sTLVk61y1nDLOza1xQhG6E3OGQlfl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZJczyzSzVhzwyoX5tSvtHXPmRPNhHknm1kgf7j_hIQsaMImLTCG9EFJ7qwoD5A6PWF6pRKnpoEf-L2y4_lCczenW6Et2PK77t698GcJiZhmcWb10m0rtiYGUmBpj6mu8VrbhWD7delse6FyBWw7-EB20v4oE87-8gVn-3KDT67JfD-neMV5k4tQ=="]
+
+--- RAW RESPONSE TEXT ---
+Hyde Park is bordered by some of London’s most affluent and desirable neighborhoods—Mayfair to the east, Knightsbridge and Belgravia to the south, and Kensington to the west. This prime real estate is home to several of the world’s most prestigious luxury hotels. 
+
+The top luxury hotels near Hyde Park range from historic Edwardian legends to cutting-edge contemporary sanctuaries:
+
+---
+
+### 1. The Grand Classics (Directly Bordering the Park)
+*   **Mandarin Oriental Hyde Park, London (Knightsbridge)**
+    *   **The Vibe:** Edwardian grandeur meets world-class Asian hospitality.
+    *   **Why stay:** This hotel has its own entrance directly into Hyde Park (originally built so the royal family could enter privately). Many of the stunning, light-filled rooms offer completely unobstructed views of the park’s leafy treetops. It is also home to the two-Michelin-starred restaurant *Dinner by Heston Blumenthal* and a world-renowned subterranean spa.
+*   **The Lanesborough (Hyde Park Corner)**
+    *   **The Vibe:** Regal, palatial, and classically British.
+    *   **Why stay:** Housed in a magnificent, meticulously restored Neoclassical landmark overlooking Hyde Park Corner, staying here feels like residing in a private royal estate. The hotel is famous for its impeccable service, which includes a dedicated 24-hour butler for every single room and suite. It also boasts a Michelin-starred restaurant and one of London’s most exclusive private fitness and wellness clubs.
+*   **The Dorchester (Park Lane, Mayfair)**
+    *   **The Vibe:** Iconic, glamorous, and deeply historic.
+    *   **Why stay:** One of the world’s most legendary hotels, The Dorchester is located directly on Park Lane overlooking the park. It underwent a massive, stunning multi-year renovation that has refreshed its public spaces and rooms with breathtaking modern-classic design. Foodies will love the three-Michelin-starred *Alain Ducasse at The Dorchester*.
+
+---
+
+### 2. The New Icons of Ultra-Luxury
+*   **The Peninsula London (Hyde Park Corner)**
+    *   **The Vibe:** Grand, opulent, and technologically seamless.
+    *   **Why stay:** Located directly at Hyde Park Corner and overlooking Wellington Arch, this hotel offers some of the largest guest rooms in London. Designed by Peter Marino, it features bespoke British craftsmanship, a fleet of signature British racing green Rolls-Royces, and a sweeping 25-meter indoor pool. The rooftop is crowned by *Brooklands* by Claude Bosi, a two-Michelin-starred restaurant paying homage to British aviation and motorsport history.
+*   **The Emory (Belgravia / Knightsbridge)**
+    *   **The Vibe:** Quiet, ultra-private, and highly design-forward.
+    *   **Why stay:** Sister to the legendary Claridge's and The Connaught, The Emory is London’s first all-suite hotel. Designed by architectural legends Richard Rogers and Ivan Harbour, it sits just steps from the park and offers an incredibly exclusive atmosphere. Every stay includes a personal butler, a complimentary customized in-room bar, access to the ultra-exclusive *Surrenne* wellness club, and dining from world-famous chef Jean-Georges Vongerichten.
+
+---
+
+### 3. Sleek, Modern, and Fashion-Forward
+*   **Bvlgari Hotel London (Knightsbridge)**
+    *   **The Vibe:** Sexy, contemporary, and incredibly sleek.
+    *   **Why stay:** Tucked just a block away from Hyde Park and Harrods, this hotel is a haven of Italian craftsmanship, featuring rich mahogany woods and silver accents. It is highly regarded for its ultra-luxurious, award-winning spa (complete with a 25-meter pool lined in green and gold mosaic tiles), a private 47-seat cinema, and an ultra-exclusive bar. 
+*   **The Berkeley (Knightsbridge)**
+    *   **The Vibe:** Chic, fashionable, and lively.
+    *   **Why stay:** Renowned for its fashion-forward afternoon tea (*Prêt-à-Portea*, featuring pastries shaped like runway looks) and its legendary Blue Bar. The crown jewel is its rooftop pool, which offers spectacular, panoramic views of Hyde Park and central London.
+*   **45 Park Lane (Park Lane, Mayfair)**
+    *   **The Vibe:** Contemporary Art Deco boutique.
+    *   **Why stay:** The sister hotel to the neighboring Dorchester, 45 Park Lane acts as a more intimate, modern, and private alternative. It features striking contemporary art throughout, a state-of-the-art wellness space, and *CUT*—Wolfgang Puck’s acclaimed American steakhouse.
+
+---
+
+### 4. Best on the North Side of the Park
+*   **Royal Lancaster London (Lancaster Gate)**
+    *   **The Vibe:** Mid-century chic with unparalleled vistas.
+    *   **Why stay:** If you want a luxury experience on the northern side of the park, this is your best option. Standing as a mid-century architectural icon, its guest rooms feature giant, floor-to-ceiling windows that offer some of the most sweeping, dramatic, and completely unobstructed views of the Hyde Park greenery and the London skyline beyond.
