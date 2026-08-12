@@ -1,0 +1,25 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: where to stay in Mayfair london luxury
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkRkNmNuWRgK","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkhaMGEyYxgK","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dzMmFHUXgYCg","https://sothebysrealty.co.uk/the-journal/5-star-hotels-in-mayfair/","https://sothebysrealty.co.uk/rent/london/flats-for-rent-mayfair/","https://www.mayfair-london.co.uk/five-star-hotels-mayfair-guest-type/","https://www.spabreaks.com/blog/spotlight-on-the-spa-at-mandarin-oriental-mayfair-london?srsltid=AfmBOoqRAxu9MjIeGKYHdhJRG3yQoOgu38qzrPl5F1xGQVoh7NfhGE9h","https://www.theritzlondon.com/the-ultimate-new-years-in-london-the-ritz-exclusive-events-and-dining-experiences/","https://www.plumguide.com/journal/top-8-luxury-airbnbs-in-london","https://www.mayfair-london.co.uk/luxury-date-night-mayfair-dining-guide/","https://www.livetheworld.com/activities/jersey/the-mayfair-hotel-jersey","https://www.hiphideouts.com/resort/mbl/meribel"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair hosts some of the world's most prestigious 5-star properties, each tailoring to distinct preferences from historic opulence to sleek modern wellness.
+Distinctive Luxury Properties in Mayfair
+
+Best for Edwardian opulence and iconic heritage.
+
+
+Best for Art Deco glamour and royal-tier hospitality.
+
+
+Best for contemporary luxury and premium wellness.
+
+Quick Comparison Matrix
+The table below outlines the core differences to help you select the ideal property based on your personal travel style:
+
+To help narrow down your choice, please let me know:
