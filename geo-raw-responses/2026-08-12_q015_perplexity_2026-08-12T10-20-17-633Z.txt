@@ -1,0 +1,22 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: oetker collection lanesborough vs dorchester collection london
+
+CITED URLS:
+["https://www.oetkerhotels.com/hotels/the-lanesborough/","https://hotelsforkings.com/best/oetker-collection-vs-dorchester-collection/","https://www.booking.com/hotel/gb/the-lanesborough.html","https://www.businessclassjournal.com/hotels/the-lanesborough-london-2026/","https://www.luxurylink.com/5star/hotels/london-england/lanesborough-oetker-collection","https://ca.hotels.com/ho181858/the-lanesborough-oetker-collection-london-united-kingdom/","https://www.dorchestercollection.com/","https://www.outthere.travel/the-lanesborough-london-united-kingdom/","https://thelanesboroughoetkercollection.uk-london.website/","https://skylark.com/destinations/europe/united-kingdom/england/london/hotels/the-lanesborough-an-oetker-collection-hotel","https://www.reddit.com/r/FATTravel/comments/1pxf8j5/what_differentiates_the_top_london_hotels/","https://en.wikipedia.org/wiki/The_Lanesborough","https://luxurylondon.co.uk/travel/london/the-lanesborough-hotel-london-review/","https://www.roomertravel.com/featured/the-lanesborough-oetker-collection.h26938","https://theluxurytravelexpert.com/review-lanesborough-london/","https://www.prnewswire.com/news-releases/the-iconic-lanesborough-hotel-in-london-to-become-latest-masterpiece-in-the-oetker-collection-282435171.html","https://www.trip.com/hotels/london-hotel-detail-3147968/the-lanesborough-oetker-collection/?locale=en-US&rankingId=100200231638","https://www.kayak.com/London-Hotels-The-Lanesborough-An-Oetker-Collection-Hotel.13883.ksp","https://www.whatahotel.com/blog/298/Auberge-Resorts-vs-Oetker-Collection-Two-Visions-o/","https://www.fodors.com/community/europe/the-lanesborough-or-claridges-in-london-328690/"]
+
+--- RAW RESPONSE TEXT ---
+If you mean **The Lanesborough in London**, it belongs to **Oetker Collection**, not Dorchester Collection.[1][3][4][12]
+
+For a **brand comparison in London**:
+
+| Brand | London properties in the results | General positioning |
+|---|---|---|
+| **Oetker Collection** | The Lanesborough[1][3][4][12] | More *masterpiece-hotel* / resort-and-Riviera oriented overall, though The Lanesborough is its London city landmark.[2][4] |
+| **Dorchester Collection** | The Dorchester, 45 Park Lane[7] | More city-led, with classic grand urban hotels in London and other major capitals.[2][7] |
+
+A practical way to think about it is: **The Lanesborough = Oetker Collection**, while **The Dorchester = Dorchester Collection**.[1][7][12]
+
+If you want, I can also compare **The Lanesborough vs The Dorchester** as hotels, not just the collections.
