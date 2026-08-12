@@ -1,0 +1,21 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://wanderwildtravel.com/dorchester-collection-diamond-club-preferred-hotel-program","https://thesuitesojourn.com/partners/dorchester-diamond-club/","https://www.brownelltravel.com/preferred-partners/diamond-club-dorchester-collection/","https://biirdee.com/guides/dorchester-diamond-club-guide","https://www.whatahotel.com/collection/37/The_Dorchester_Collection.html","https://www.starsdesk.com/dorchester-diamond-club","https://bellandblytravel.com/partners/dorchester-collection-diamond-club/","https://bonvivant.co.uk/partners/dorchester-diamond-club/","https://propellertravel.com/dorchester-collection-diamond-club/","https://www.kristennixtravel.com/dorchester-collection-diamond-club","https://princeoftravel.com/prince-collection/dorchester-collection-diamond-club/","https://www.liveluxetravelco.com/dorchester-diamond-club","https://www.foratravel.com/partners/dorchester-diamond-club"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester Collection Diamond Club is an invitation-only program reserved for elite luxury travel agencies, offering clients exclusive, high-value perks that cannot be accessed by booking directly or through standard travel sites.
+The most valuable asset of this program is its guaranteed room upgrade confirmed at the time of booking, which removes the standard "subject to availability upon arrival" gamble found in most luxury hotel programs.
+Core Guest Benefits
+When a travel agent books a flexible standard rate through the Diamond Club, their clients receive the following standard benefits:
+
+Participating Iconic Properties
+These benefits are honored globally across nine legendary Dorchester Collection houses:
+
+Important Rules & Eligibility
+
+If you are planning an upcoming trip, I can help you maximize your stay. Would you like to know which specific travel agencies have Diamond Club access, or do you want to see how these benefits compare to Amex Fine Hotels + Resorts?
