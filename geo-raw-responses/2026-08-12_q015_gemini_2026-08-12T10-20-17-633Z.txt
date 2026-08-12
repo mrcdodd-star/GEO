@@ -1,0 +1,83 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: oetker collection lanesborough vs dorchester collection london
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJOPPwgRZqb0wdyWB2KbiGeCfh1DzPXFbA6ohg4QDlqjFKv_BkyoswcBW1BNu8nRIdzkzuIyVf8o_0tVPXnvOoq8SEBZ7PMTjlpl7rf8g5gmnkMLSSqUqoHh7HQFMutu1qk81AQpeusBlCsjTomZirDsqmTCqM","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkeVFPiyKRi9grDksEZo1k1bdMWtC5_duf7g2zKOYuskT8XfdzdEgSzokaKrd-51dUnkEna4m6wP0qy6OhB13Uv2TVERjkpUgGwaNdvhxhSPCMDFZncf_-2TFmttosUhBefoHsv8deiEMrqaeEMwVK8PKYgOBoD9LQx3sfk9-Wg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyugN218fEUPS2KIh-7DQ1ro1BjfhOYy4IY8B6tvXKD9lI3QsMQNdCEBJzcHpel6RVRJKyP_Ew0A5xUSgw_NvdXzEleoL8iQv8Bf1SkU7_SJ4mlisvKmigS9G2jhflGtnT2DfpQI1OPCP6fwpyojJbZ4n220uB3FxyrqBuF_OBEw8Xc6k7Z1p2A4L-phMTA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt1PQs1KN7KqDiDVZDyijkUy7f1sO9822KFv_T9x8lQBUREgvYfMj0cq0VR0mC5dtfh-al7M6IgQBUXSgCnMeIKUHEgPr1y2Zt0pRzLPN9QvttwfCPzChHZNILMxqkqbm5WIT7zvyNFu8nBuXvQN9BubGBuRhYrsp5OtaxukY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI0FZ6j_iFWPEPY3cVllfDRgDrRC9N94apkbnIyG2VCjOgZQ1F29A2s-iSKkxKxRIwqIjypmr6DPi2YQKVfgLaTdrKpRpOoVVMq9mj4pX67M-ULeVwx7Trg52kJwqcnzjBIyc8atL4T9dd253OBHTClxVMcII6CqKyhIUsvBIqv4XgnGcf1Ks1","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm7EJNZb0vzXq2F6BUbq0td6GPQWYYu28H64Z-dYI6joBRcPGJFBOQk-vDPtQLTSIu71S3M4LDJrVh-V1Pn7VGzIAAHJ-bMNlmEedqyRNZf1iq0pmky9syGXWWsVZyeGXHqf3SUBLQkCuP","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Oz7J3AEnazaRPBcKbuGMolqw0VUc8uJE3gcJqHrq3YO5RaCedFKHi1WRKSkLFp_fosr7CzWS-9TcAxd0xsfv4qldf8aDZd2ALgudHoK60kCIz6hgVxkYIQ9zXfI-65CguF0HJb461HOEP7uwQ74Qswb2hxT6Foc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYs97v3wFppynrb4rl421uPu9EFlB6BfABmV0BpRH_bJCMUSTfiw4BjYyZTE3kjlTDJAlsj49e4qOaulDo7V9ZOWsklyVu6Eur8VSkLepOTjnkGRrbkrUoKhBpgF8n39DDaga3vNX1ZfOtBWxogDNXSkBCXofsXgQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrAmObXya2VgDYyB806X0BI8Q8nnPXlu0zptZ6br6Q4rkR5_wCylPfaUKcy0doh8BOsUpJKOqJ9npvb6t--LpmkXMN6LF-j8bGrN4AgalQas-XxSoPUkR6W7-SVetSAuN1rcTG_pEknxGWKdQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY6SCcKFySDM63T42_jRk1B60Rj_gNVDmTdEqfJCLh6HIRaMBSzPs7E7bjiZZ4MWz-a9Pe3jJrP297JQP71AUUF_v3kYC_oeNmmgyxjpIe6XTBTp5oCEEiFDEWcg-sgPY40LMjVu1-z77FuqdLYMX7uKy1E4qAYL5xVm2SqekCHIqQhHF19row_c6jzV80ctpcheeL4wnX1UV8HooP","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExpa6AP9vN7PP-AgsovEK8AMMW9b14s328JEQg2ZrlXOVSclktQXqlBoyl3QyA3kw15g0ukk49NICV7o51U4HGV9BstQOHhVxAXWLSWUVYegZ0yc5BdxL0PKvWx7MUBVRyHouO8li_ifX3-68we80=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsBAqD7qnYEo-c327oQvFceZHmp7Jot8h27k-nRdmqxFjk4h-OTihysoNd0Y7gELUUY-eJXhDByzQcNF3rJ-vu00JRLOgf1jiJu64I99BgzeWqZPJilXDdtozymgiPc2eeLDse","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEKtmW_-tvp7XAKGyso4AIfkHVABM_OeMJhKoq-VaUxMk64pST4eem67jxoLjGrja5bt5Du3vpgAexSDUahTZokuzZMSt_wHYT03yM_amaqjjJF4gu4om7dVaxtUmMR8Qmw6i-VkIqYluc3OIH4i3XTcwgROume7Be65o7LP4Z-JtAVK5cB9H9aawoEE1U3NqRL8q1hZwZ6A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH4BWJmhPZ0dDAKPTfAacsIimc5_ELF2ESl-iAmNs97xnRi9EBdAhOz9GwOCwUR5O3LdnbKFqWS1toJ1CX_V1v1y4KNJsKGM9K6cuttKCUuCaGTDi2fo_1AVODimWQVVMxI_eyGhVZqRsEVPNBXTP8z2XZ_7uvsH230Nh5k0_FMQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHouCq1nl1bhl_QeMYzme9EEyRASiPUo5pVzyNyRHo_vuBT62DGVY9tXwscu3Sxk8XHft1LwfI8p_1TPimmDBW5mC8zP14TKQ2JLt8uWoyeuYMNNEONDtPJ2FJ59o2oVmpiumY5cLKjTA44151DMN4W_U1L9bKwXTw_Po7FMdYEa8e3IDsTiw_jDZa5uwZc7w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgjffVARjxqhy2golGTxhsxebGYA12i0WALuQViGGXpYaAPgcyxANzFXHAloNt7yMjQMLvYJacuI9ZCvSN4sc51rD-qwV9VRnJiaPkZEX2CJbvhAV1nQqKVCG9-ENqKRZ-S6vf4D4wO138LW4it2TJcWCXGEtEmLC5l7Re","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_qZH5eMY7ss83_XZqZ262oxiAaEacEkGsR1CPn4vdGhWrDqIPXBWHVvf9n_dHMt8jdZdE8jdrgc3F2uPq2bUZ0t6oWXBnGtjPdSgMDBRTwBpwWdXVtIGuX7zC6wuFiqtceqjWbfol2aEUwEH1G80tSKNhQ4L980-roIM6-PYhfauE4Z6qlXieUP78rbXAp5cWIto=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7cSbCEpYViVUcV9UEuE5kDIHj9QtEz7MKlxaq7JJhPHVV-wi7olYpA_s-N2meFm18GRmeHVQRxnbmber800uGzczL2yFZN9SVeRUmaiJYsMUUtz0lSyiX4HnuVwpPxCjuzfIeZnOM4rLDYfEoYdMZVKGJGPBFQJQ8luuJOa5NczqVQ8qdxpvI2ppIj5IhYC-","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2m6326btvA9isnd-QFZusHqLJSCk2Khr-RI-XDrltKUfRPJBzdXk605diOYKf0p2POlzLk0Ij4KmpIjjEDSiQ2jO2mNVLsgiaIsvFmEJQKKY8oiL4DfcwuLEI-DNhvuXucB6dcY4VF3W8uzzKlmejkO7YHtG0uuH07XGLC1Fm7rw7OdO3T-IhawnvKhs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6d5G4v6mMHdXIX8ixyWogpZKqLN5HivTKhm7Ip1QmGN5h7f56xkSzWdDaE7NP_mEzgFgVqqfNCwR9Q4ByYYd5sOkQl88u8tKJqf7zE7bEa0H2ayP-Kx5-Mv6h4D6xZzmJmdR3EwQWURZbyebLViko_85oOVqzCjD_NOilr-Iy3AXmMvIw08Vw9w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHekMK-uMCmSm4E5e78AWq4UbgB0ZJx4y87I7naKyZ8mkGTsPp6RvFkIN_SMvECBJMDE-PPY8SYsgVr82NiIYMIYZBTrSnGHIhf3HLMRwgG_PvMj97bfqixRla1IJcCweun5pEYDZT4kBCCPLtU-mw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo71i5eOovdTKaBgblXOU07Tyi3in2tlI5t0Wmx29gtEuRZHjT9l8mOqzcQ3GH-qfe2X6tj5YxmBa3eotmIWtbZ5RlgwpvQwIEzJdwuZT5MtODzIX0ugmFMSfc3UW3cDUBbExMjvmWIMSXyoJgeoeymG4gxa8JlxBVaAbRLmpFrPaAh2hhAx0tkurzMQCUm0ljRvQjp8lJAEQ6oPeEDCEE1A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYz-JNNsuCkJB3cDaQdM3mo_fcTIc_uYyTgxzjvUbfUQevGKbpZ4-vuDInb3PF3TtPc1uEpYYeMegQBaVlme25XQISHF1RbPcj_c7DdHPbEcXOytD6m2WLbw-ZFZNINC5siOg0rhVJNpQeo3T4QoIavt7OfQ=="]
+
+--- RAW RESPONSE TEXT ---
+Both the **Oetker Collection** and the **Dorchester Collection** represent the absolute pinnacle of luxury hospitality in London, with properties positioned along the borders of Hyde Park. 
+
+To compare them accurately, it helps to look at **The Lanesborough** (Oetker Collection’s sole London property) against the Dorchester Collection’s footprint, which includes its legendary flagship **The Dorchester** and its sleek, boutique sister property, **45 Park Lane**. 
+
+---
+
+### 1. Vibe, Design, and Atmosphere
+
+*   **The Lanesborough (Oetker Collection):** 
+    Housed in a grand, Grade II-listed Regency landmark at Hyde Park Corner, The Lanesborough feels like an elite, private British aristocratic home. Meticulously redesigned by Alberto Pinto, the interiors are a masterclass in classic English Regency design—rich wood, hand-painted gold leaf, crystal chandeliers, and period-correct artwork. It is exceptionally formal, deeply traditional, and prioritizes absolute privacy and residential-style discretion.
+*   **The Dorchester (Dorchester Collection):** 
+    A legendary, high-society Park Lane landmark since 1931. The Dorchester has a distinctly grand, glamorous, and "see-and-be-seen" social energy. Having recently completed its most extensive multi-year renovation in decades (led by Pierre-Yves Rochon and Martin Brudnizki), the hotel has successfully modernized its historic Art Deco and English heritage style. The guest rooms are lighter and brighter, using pastel schemes inspired by English gardens.
+*   **45 Park Lane (Dorchester Collection):** 
+    For those who find classic hotels too stuffy, this sister property is a sleek, contemporary, and art-focused boutique alternative with just 46 rooms. It offers a sharp contrast to the traditionalism of both The Lanesborough and The Dorchester.
+
+---
+
+### 2. Service & Guest Experience
+
+*   **The Lanesborough's Trump Card – Butler Service:** 
+    The defining differentiator of The Lanesborough is its **24-hour dedicated butler service, which is complimentary for every single room category**, not just suites. Whether you are staying in an entry-level room or the Royal Suite, your butler will unpack your bags, press your clothes, arrange your tea, and cater to any request with unmatched Oetker Collection polish.
+*   **The Dorchester’s Service:** 
+    Service here is legendary, highly professional, and deeply personalized, but it is tailored more traditionally. 24-hour butler service is reserved for suite guests rather than entry-level rooms. It operates on a grand-hotel scale, meaning the lobby is bustling and highly animated compared to the quieter, residential corridors of The Lanesborough.
+
+---
+
+### 3. Food, Beverage, and Nightlife
+
+*   **The Dorchester (A Culinary Powerhouse):** 
+    The Dorchester is a heavy hitter in London's culinary scene, boasting a collection of world-class dining destinations:
+    *   **Alain Ducasse at The Dorchester:** Holding 3 Michelin stars, offering world-class contemporary French fine dining.
+    *   **The Grill at The Dorchester:** Recently refreshed under culinary director Martyn Nail, serving theatrical, top-tier British grill classics and tableside service.
+    *   **China Tang:** A lavish, subterranean Art Deco space offering exceptional Cantonese cuisine and dim sum.
+    *   **The Vesper Bar & Artists' Bar:** Vibrant, stylish cocktail spots (the Artists' Bar features Liberace’s famous mirrored piano).
+    *   *Note:* Guests can also easily wander across to **45 Park Lane** to dine at Wolfgang Puck's famous steakhouse, **CUT**, or the Michelin-starred **Sushi Kanesaka**.
+*   **The Lanesborough (Refined and Intimate):**
+    Dining at The Lanesborough focuses on quiet sophistication and clubby exclusivity:
+    *   **The Lanesborough Grill:** Helmed by Executive Chef Shay Cooper, serving modern British cuisine in a breathtakingly beautiful room with a domed glass ceiling and crystal chandeliers. 
+    *   **The Library Bar:** A dark, moody, "liquid museum" famed for its collection of pre-French Revolution cognacs and quiet, intimate cocktail hours.
+    *   **The Garden Room:** One of London’s finest covered cigar and cognac lounges, equipped with a state-of-the-art air filtration system.
+
+---
+
+### 4. Spa and Wellness
+
+*   **The Lanesborough:** 
+    Home to **The Lanesborough Club & Spa**, widely regarded as one of the finest luxury health and fitness clubs in London. It is incredibly spacious, featuring a beautiful hydrotherapy pool, thermal suites, an elite gym, and even dedicated "spa butlers" to tend to you between treatments. 
+*   **The Dorchester Collection:** 
+    *   **The Dorchester Spa** is a serene, elegant space decorated in soothing cream and pink tones, offering world-class aesthetic and holistic treatments. However, it lacks a proper swimming pool.
+    *   To compensate, guests can utilize the wellness facilities at **45 Park Lane**, which includes a striking 20-meter indoor lap pool.
+
+---
+
+### 5. Location
+
+*   **The Lanesborough:** Located precisely at **Hyde Park Corner** (where Mayfair, Belgravia, and Knightsbridge meet). It is incredibly convenient if you plan to walk to Knightsbridge for high-end shopping (Harrods and Harvey Nichols are minutes away) or stroll down into historic Belgravia.
+*   **The Dorchester / 45 Park Lane:** Situated further north along **Park Lane in the heart of Mayfair**. This location is perfect if you want immediate access to Mayfair’s world-famous private clubs, art galleries, and upscale dining.
+
+---
+
+### Summary Verdict: Which should you choose?
+
+| Feature | The Lanesborough (Oetker) | The Dorchester (Dorchester Collection) |
+| :--- | :--- | :--- |
+| **Vibe** | Aristocratic British mansion, highly private, formal. | Glamorous, social, historic, lively. |
+| **Interior Style** | Strictly traditional Regency-era elegance. | Newly refreshed (2024), light English garden & Art Deco. |
+| **Service highlight** | **24/7 Butler service** for *all* rooms. | Outstanding service; butlers reserved for suites. |
+| **Dining** | Intimate, clubby (celebrated cigar lounge). | Powerhouse (3-star Michelin, iconic bars, China Tang). |
+| **Wellness** | Exceptional, massive health club & hydro pool. | Beautiful treatment-focused spa (no pool). |
+
+*   **Choose The Lanesborough** if you want to feel like a coddled guest in a private palace. It is perfect if you highly value dedicated butler service, want a quieter and more residential atmosphere, plan to do heavy shopping in Knightsbridge, and want access to one of the best hotel spas in the city.
+*   **Choose The Dorchester** if you love a buzzing, high-energy luxury atmosphere with top-tier dining. It is perfect if you want to be in the social heart of Mayfair, want immediate access to multiple world-class bars and restaurants under one roof, and want to experience the fresh, multi-million-dollar modern updates to a historic landmark. 
+*   **Choose 45 Park Lane** if you love the Dorchester Collection’s service standards but prefer a small, intimate boutique hotel with a modern, art-forward aesthetic.
