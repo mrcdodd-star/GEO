@@ -1,0 +1,43 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: family friendly 5 star suites london mayfair
+
+CITED URLS:
+["https://www.stjameshotelandclub.com/en/?utm_medium=organic&utm_source=openai","https://www.thebeaumont.com/?utm_source=openai","https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai","https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai","https://www.marriott.com/en-us/hotels/lonmm-montcalm-mayfair-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai","https://www.marriott.com/en-us/hotels/longh-jw-marriott-grosvenor-house-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Mayfair, London, offers a selection of luxurious 5-star hotels with family-friendly suites. Here are some options to consider:
+
+**[Althoff St. James's Hotel & Club - Mayfair London](https://www.stjameshotelandclub.com/en/?utm_medium=organic&utm_source=openai)**  
+**Closed · Hotel · 4.3 (570 reviews)**  
+_7-8 Park Pl, London SW1A 1LS, United Kingdom_  
+Located in the heart of Mayfair, this hotel offers interconnecting rooms that can expand to three or four bedrooms, ideal for families. Options include combinations of Deluxe and Superior rooms, as well as Junior and Deluxe suites.
+
+**[The Beaumont Mayfair](https://www.thebeaumont.com/?utm_source=openai)**  
+**Closed · Hotel · 4.7 (796 reviews)**  
+_8 Balderton St, Brown Hart Gardens, London W1K 6TF, United Kingdom_  
+This hotel provides spacious suites suitable for families. The Classic Suites, measuring 61 sq. m, feature separate sitting rooms and some include luxurious sofa beds. The Mayfair Suites, ranging from 81 to 87 sq. m, offer expansive one-bedroom accommodations with unique layouts.
+
+**[The Biltmore Mayfair](https://www.thebiltmorehotels.com/biltmore-mayfair?utm_medium=organic&utm_campaign=travelclick-localconnect&utm_source=openai)**  
+**Closed · Hotel · 4.4 (924 reviews)**  
+_44 Grosvenor Sq, London W1K 2HP, United Kingdom_  
+The Biltmore Family Suite boasts a separate living room and private bedroom, with one king bed and one double bed, accommodating up to four guests. For larger families, the Lord Harrowby Suite offers two bedrooms, a living room with a dining table for six, and overlooks Grosvenor Square.
+
+**[Four Seasons Hotel London at Park Lane](https://www.fourseasons.com/london/?utm_medium=organicsearch&utm_campaign=tor-lon-hre-mid-seo-na&utm_content=na-na&utm_term=na&utm_source=openai)**  
+**Closed · Hotel · 4.7 (1916 reviews)**  
+_Hamilton Pl, Park Ln, London W1J 7DR, United Kingdom_  
+Recently renovated, this hotel offers suites with a refined residential feel. The Presidential Suite features three bedrooms, marble bathrooms, and panoramic views of Hyde Park, while the Park Suite can connect to a Mayfair Suite for a larger two-bedroom arrangement.
+
+**[Montcalm Mayfair, Autograph Collection](https://www.marriott.com/en-us/hotels/lonmm-montcalm-mayfair-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai)**  
+**Closed · Hotel · 4.2 (1165 reviews)**  
+_2 Wallenberg Pl, London W1H 7TN, United Kingdom_  
+This 5-star luxury boutique hotel offers a range of suites with a fresh, holistic approach to hospitality, seamlessly blending timeless elegance with contemporary sophistication.
+
+**[JW Marriott Grosvenor House London](https://www.marriott.com/en-us/hotels/longh-jw-marriott-grosvenor-house-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0&utm_source=openai)**  
+**Closed · Hotel · 4.5 (5827 reviews)**  
+_86-90 Park Ln, London W1K 7TN, United Kingdom_  
+Located on Park Lane, this hotel offers exceptional accommodation with family hotel rooms and suites complete with plush pillowtop beds and elegant marble bathrooms.
+
+These hotels provide a blend of luxury and family-friendly accommodations in Mayfair, ensuring a comfortable and memorable stay for you and your family. 
