@@ -1,0 +1,17 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: the dorchester london signature suites availability
+
+CITED URLS:
+["https://www.dorchestercollection.com/london/the-dorchester/rooms-suites","https://www.americanexpress.com/en-au/travel/discover/property/England/London/The-Londoner"]
+
+--- RAW RESPONSE TEXT ---
+The Dorchester London has widespread availability for its Signature Suites and Junior Suites, with standard nightly rates starting at £1,800 and premium Signature tier suites ranging from £2,864 to £7,995 per night depending on your booking partner and room selection.
+Nightly Pricing & Suite Selection
+Below is the verified price breakdown for the entry-level suites and top-tier Signature Suites at The Dorchester, compiled from real-time luxury travel partner listings like Booking.com and Hotels.com:
+
+Where to Book
+
+To help narrow down your options, could you share your intended check-in and check-out dates, the number of guests traveling, or if you require a specific view (such as a park view)?
