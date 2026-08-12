@@ -1,0 +1,18 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: dorchester collection diamond club travel agent benefits
+
+CITED URLS:
+["https://www.foratravel.com/partners/dorchester-diamond-club","https://www.theluxurytravelgroup.com/offer/dorchester-collection-diamond-club","https://www.denisealevy.com/dorchester-diamond-club","https://propellertravel.com/dorchester-collection-diamond-club/","https://www.clements.travel/travel-guide/dorchester-collection-enhances-diamond-club-suite-transfers","https://clements.travel/partners/dorchester-diamond-club-guide-2026/","https://www.brownelltravel.com/brownell-advantage/diamond-club-dorchester-collection/","https://www.bestetravel.com/dorchesterdiamond"]
+
+--- RAW RESPONSE TEXT ---
+# Dorchester Collection Diamond Club — Travel Agent Benefits
+
+Here is a comprehensive overview of the **Dorchester Collection Diamond Club** program and the benefits it provides to clients who book through a Diamond Club member travel agency:
+
+---
+
+## 🔷 What Is the Diamond Club?
+
