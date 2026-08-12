@@ -1,0 +1,23 @@
+RUN DATE: 2026-08-12
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: top luxury hotels near hyde park
+
+CITED URLS:
+["https://theluxuryeditor.com/best-luxury-hotels-near-hyde-park/","https://www.vio.com/p/166165/en/united-kingdom/london/hyde-park/f/luxury","https://www.fivestaralliance.com/best/hotels/901/the-best-london-luxury-hotels-around-hyde-park","https://us.trip.com/hotels/london-hyde-park/hotels-c338m9542911/","https://luxuryandhotel.com/hotels/hyde-park-london","https://luxuryhotel.guide/london_hyde-park/","https://santorinidave.com/hyde-park-hotels","https://www.fourseasons.com/london/hotel-near-hyde-park/","https://www.touristengland.com/hotels-near-hyde-park/","https://www.tripadvisor.com/HotelsNear-g186338-d189030-Hyde_Park-London_England.html","https://yonder-society.com/tops/hotels-tops/london-the-finest-hotels-in-and-around-hyde-park/","https://luxuryhotel.guru/london_hyde-park/","https://www.myboutiquehotel.com/en/boutique-hotels-london/hyde-park/","https://www.royallancaster.com/results/5-star-hotels-near-hyde-park-lancaster-gate/","https://www.booking.com/district/gb/london/hydepark.html","https://www.expedia.com/Hyde-Park-Hotels-Luxury-Hotel.0-0-d117834-tLuxuryHotel.Travel-Guide-Filter-Hotels","https://www.expedia.com/Hyde-Park-Hotels.0-l507738-0.Travel-Guide-Filter-Hotels","https://www.forbestravelguide.com/destinations/london-united-kingdom","https://www.tripadvisor.com/Hotels-g60801-Hyde_Park_New_York-Hotels.html","https://www.cntraveler.com/gallery/best-hotels-in-london"]
+
+--- RAW RESPONSE TEXT ---
+If you mean **luxury hotels near Hyde Park in London**, the standout names are **Mandarin Oriental Hyde Park**, **Four Seasons Hotel London at Park Lane**, **The Berkeley**, **The Connaught**, **Claridge’s**, and **The Dorchester**.[3][7][8]
+
+A practical short list:
+- **Mandarin Oriental Hyde Park, London** — directly by Hyde Park; known for a spa, indoor pool, and multiple restaurants.[3][15]
+- **Four Seasons Hotel London at Park Lane** — on the edge of Hyde Park in Mayfair; positioned for both park access and a quieter setting.[8]
+- **The Berkeley** — a high-end option in Knightsbridge, close to Hyde Park and Harrods.[2][7]
+- **The Connaught** — in Mayfair and widely cited among the finest luxury bases near Hyde Park.[7][13]
+- **Claridge’s** — a classic luxury London hotel often included in top Hyde Park-area lists.[7]
+- **The Dorchester** — an iconic luxury hotel located next to Hyde Park.[7][9]
+- **The Park Tower Knightsbridge, a Luxury Collection Hotel, London** — luxury stay in Knightsbridge near Hyde Park and Harrods.[2][12]
+- **Royal Lancaster London** — near Lancaster Gate with views over Hyde Park.[14]
+
+If you want, I can narrow this to the **best luxury hotel for park views, spa, classic British style, or best value**.
