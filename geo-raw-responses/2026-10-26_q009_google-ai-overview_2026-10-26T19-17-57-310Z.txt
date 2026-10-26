@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: fully catered villas Mediterranean
+
+CITED URLS:
+["https://www.villasinluxury.com/luxury-catered-villas","https://www.firefly-collection.com/luxury-villa-holidays/luxury-mediterranean-villas/"]
+
+--- RAW RESPONSE TEXT ---
+A fully catered villa in the Mediterranean offers the ultimate private holiday experience—combining the exclusivity of your own home, stunning sea views, and private chefs or full hospitality staff taking care of every meal and housekeeping detail.
+Top destinations and collections for fully catered Mediterranean villas include:
+
+To help narrow down the ideal villa for you, please let me know:
+
+I can then provide specific property recommendations and tailored options.
