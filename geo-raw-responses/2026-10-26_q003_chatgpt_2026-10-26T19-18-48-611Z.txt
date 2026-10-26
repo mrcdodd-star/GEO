@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: stay in a castle UK
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Hey — I saw your message "{{ $json.query_text }}", but it looks like there's no specific content or question filled in there. If you want me to help with something involving JSON queries, paths, or similar, just send:
+
+- The JSON data you're working with  
+- The type of information you're trying to extract  
+
+Then I can help write the query (or explain how to do it). What JSON are you working with and what do you want to get out of it?
