@@ -1,0 +1,57 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: private villa for 12 guests Algarve August
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG10MhZfqboHcueWdsxW08SB0ymrqVCQYNVQjLdJl10zn-KffpXJvM6TBiXrleDIVwhNK1I0rmPz69cLvZ6JK0Dkx8IJ9AU7x9E-m38mWHczdvKlULisVxsXffJFc5FWuZ7jfI-Xeszh1C4HOvlkUY9UG0zpq6GDzv52rxCo97mi-09emvo","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhCKAO-rMgnwS8EZlQGREpydgleTK7srko1hYTizYmYyzuAFEG60WiInRnrY2zy7L9iJle0PF1IcIP2miL6V7ebAtiUEIQY3ty7gbqRwqNx1TOkk-F","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEns-oIlRdhJND99MRZNl1Sl3NBsssTxzF12c25ecdargKJlVAibtgMy5fymdoDJ-L8IFLvTYoDwp9VYgubJuj5-z4Adw-T6aMxKJkzp_LroCpwPKoFKmGfS0rz7Izhi643S9G1U7JTEhROXA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErSiVO8FPLB6HGoq5GKd3ES9t4BZ0dMj0yHUU1_nf_28pwXLxtE3IPf8LbsW5mnTTloPnpt5CkKQ2coz8izGkCDhIVglLROlKvnWSWoQnudErXXw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8W1oVFdg8Ngjb9EfCoVmyOKZcRYkC1cEdUmW0Kby6QwzJOniC_Nus7tPvLsHG-0iY8Jp61FBqq67uZV0t-o95asD0WBpNFfGJE_140UfctR1Onr3hrGvbkDS2lxGb7MB1lheno9DRH6Mr","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP53aEKlTFMSxQ9lA6UGLRAyE7IDz5kQVSgjQH-jUq7NzvCO-1SA38ZuRtPD9S4eVOw6-ncR3X6VKDcGxn4N5F5C-zwt8mqW_W6TNKCfUZ4cy0NhB3NisgNWAtdqvSBNAbcRaFgyXTuGUi_gDl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEApoD6E6NMXvgq2pZfoqZEUy8fjSFaJm2fGqdOikBD165-k75JJvO1vZl67h5xhgFiDzoB261-HdfaVGI6Q2PhwC8sY-NbcBxBednJM7IthbneUbczz9BxsFaIG5jh3fWAkN-BQkBeD5c31n0u9E5uTBft-w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHei3hEVYYtGAUZ4cWrvHLQzXStnK7b9xQikT3nKHOGq_LXlAit652G4ElY7yXhrhHnp_Feg1kWunKhNhJmqHUtrncwInYfxuBNgHK5xZB4RQk4VA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7CaQ5D-YEWxITysLqLJx4rpN_o0fnrp5xbKLFCkw9kgptuQ6fT1XaHl6t_ctn3Tx01D68OaMvbUVJFeWDLMQbmh6ZZZycZsKbFOWhCy9BjZHOuc793UZ0X5o5byWkXIqVHBsnoQ0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc9r5CRiEjQuH8Pq3RSXVo5ypRNf5gnqHV4LVRA8XEjuKLnWtjN7qL01gBCbqPhW3XcB8VpIMWK7K2KW_gqqUnf2D99wt51U-DGARYpTJR-_lxUQpbYkbXsmQsQvbMZGBtJnw="]
+
+--- RAW RESPONSE TEXT ---
+Finding a private villa for **12 guests in the Algarve during August** requires advance planning, as August is peak summer season and large-capacity properties (typically requiring 6+ bedrooms) sell out quickly.
+
+---
+
+### 1. Key Regions in the Algarve for Large Groups
+
+| Region | Vibe & Ideal For | Highlights |
+| :--- | :--- | :--- |
+| **Golden Triangle** *(Quinta do Lago, Vale do Lobo, Almancil)* | **Luxury & Exclusive** | Ultra-luxury 6- to 8-bedroom villas, manicured golf courses, high-end beach clubs, ~20 mins from Faro Airport. |
+| **Vilamoura** | **Golf & Marina Life** | Large modern villas, active nightlife, upscale marina, proximity to watersports and dining. |
+| **Lagos & Western Algarve** | **Scenery & History** | Historic town, stunning rock formations (Ponta da Piedade), wide sandy beaches like Meia Praia. Great mix of culture and coast. |
+| **Carvoeiro & Ferragudo** | **Coastal Charm** | Dramatic cliff views, family-friendly atmosphere, relaxed seaside dining, secluded headland villas. |
+| **Albufeira (Galé / Olhos de Água)** | **Nightlife & Beaches** | Central location, close to major beaches, nightlife, and waterparks. Highly accessible for mixed-age groups. |
+
+---
+
+### 2. Crucial Features to Look For (12-Guest Requirements)
+
+* **Bedroom Configuration:** Look for **6 bedrooms** (or 5 bedrooms with flexible twin/bunk setups). 
+* **En-suite Bathrooms:** Aim for at least 4–5 bathrooms to avoid morning bottlenecks.
+* **Air Conditioning:** **Essential in August**, when temperatures frequently exceed 30°C–35°C (86°F–95°F). Confirm A/C is in *all* bedrooms, not just the living room.
+* **Outdoor Space:** Ensure the villa has shaded outdoor dining (pergola/gazebo) large enough to seat 12 people comfortably, along with enough sun loungers around the pool.
+* **Parking:** Space for at least 2 minivans or 3–4 cars, as rental cars or group vans are generally necessary for exploring the Algarve.
+
+---
+
+### 3. Recommended Villa Rental Platforms & Agencies
+
+If you are looking for verified properties with dedicated guest services:
+
+* **Specialist Regional Agencies:**
+  * **SandyBlue** (Specializes in Quinta do Lago & Vale do Lobo)
+  * **Sun-hat Villas & Resorts** (Extensive coverage of central & eastern Algarve)
+  * **SpringVillas** (Selection of luxury large villas in Lagos, Albufeira, and Vilamoura)
+  * **Villanovo / Oliver's Travels** (Handpicked curated luxury properties across Portugal)
+* **General Platforms:**
+  * **VRBO & Airbnb** (Filter by 6+ bedrooms, private pool, and air conditioning)
+  * **Plum Guide** (Vetted high-end inventory)
+
+---
+
+### 4. Important August Booking Considerations
+
+1. **Saturday-to-Saturday Rules:** In August, almost all large Algarve villas operate on strict 7-night minimum stays running **Saturday to Saturday** (or occasionally Sunday to Sunday).
+2. **Pricing Expectations:** August commands peak rates. High-end 6-bedroom villas generally range between **€6,000 and €25,000+ per week**, depending on the level of luxury, proximity to the beach, and amenities.
+3. **Airport Transfers & Car Hire:** Book cars/minivans early. Faro Airport (FAO) is very busy in August; pre-booking transfers or vehicle rentals for a party of 12 is critical.
+4. **Additional Services:** Many large villas offer optional private chefs, daily housekeeping, or pool heating (though pool heating is rarely necessary in peak August).
