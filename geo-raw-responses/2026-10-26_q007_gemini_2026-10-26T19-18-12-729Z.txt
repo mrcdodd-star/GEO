@@ -1,0 +1,54 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: large party houses to rent for 20 guests
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi2atezqsrUDqoo1H7q8CZL2y5zemYd5hp1ngvu4p0ZOjA0BUCkYNkdMRuZLr4Cl2H820Tcf7aOulFq56LQ-RaJaxiYtnihUpW2nD_gtc95nAdsaFfMEzljpxU-pAQbsSn7Qtk6mBe","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6CHHUWkQ-RQ58wwhrRnYnSZEyKzsjiZzv2bU65POKl4ANeWAAQ2DvhcJ9OQmfSnGc584KJJvtSlWvuaZuUSrsBo8IiUwCFfvk-n2NxgbKKqOOq3R7TNfVGrijjsLfNrSx68HBCKFO7OkzFxI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ZLJgs-_z5kd9azwF9uG-7n8pouUZdNqdn9WZ034b5OvSyBRpfm_ZrHmlSJKUxvQ-UeA0h1HuBfpwMIHShIlHzGjONnDP5TI8z6inSQktrZRS4CqD_OdWdPo5WgPuyWA8ArlqyR1hRAUfQOpHdGGiPgxQkDnUO597LB0WfANcsHtPYM2ivuY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMCRB4sO7bZIT8FhZmbPRQSEqGdRpOBrAlkJ5XLMfXmfrwerepp5drYcSr_SSBvsjrSjQ_YQl9zn0N70qPjWsCtF7QyNWMN6KLR45NAg0DVrlb0I-tuTw8ty4HfW_Pfz_IUoYeLlWMCzLwb-0FnFhpCjKQzg7LGOnd959F","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ygKeXUpBxLCMLa5YPy6frz2mVQrk5f1WU5g5cylU7zCgs_h0q1tddHd3BhavMtJaUehllFFkBzg9sr1E6YtljxgBVL4nYOb_kaMXYuAnHbRJYl8FdNgRLYU8HAFp3oUHlSOM81qguPJxW5Rf5Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbgoUoXV-pl98cAMChZPC6EHQ0a-kGRVkhxWgLx0xdXOZ3UOJNCLJ7q2tbZ2uS1kMV7baQ3zROLw_sJkMgEOVx-Sza4FOPvRFNVPmcCSv75108u0gBgUtXRUZ2PwWKQbdYs8a5jfhLWc9jSX_J9Ntf2w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLVDXPLJJf-B3HF6I_9tyI2NGftzVI-cVPb53G0SD1ZDAiNT6VZ69QRuVMIvcEdYu2M1EPXjaedhJ6eH_vYQA-BYzAH8WKkF8LmTGyrMKbe3uantFuEd9Y_FyoAE9959POZYOVnS9cpYSo_sS4qg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8p6pZYwupbHao1WS-5MZND5H8TAD8jFPpMgBKDllh4f084E7UO6s1oGykrdgbbjqf90_iZLFi1tl2UdAVyhbkNjhj8GpdRshD8r10qUlan0t83x2-03_gdM7aKrDUEsm3iPcX1POcGGap5q5z4gPWpFpF_AM-KsYDkRnDguI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh28DMdOJV77Gr2-9BPnVryvPAzBRCD_HucwdorAueucE__c_yI1KJwTc79eq_BhQeTJO9kzFFCZnty7X1NDE_ra8RPWQKMBcqa9I7c70qcbPVElAbR8aGVv7BNx77UxBqCvIx9PM5Wc33ImkuWe-5HEbBMO6uiHNP3dBrXg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI25QsnSkFebG5GADi3M66mHfl8flODVV_9YsvtGjPuFz17GWSR4w9V7hKmQS7i9PfhmvHJLjAD-RVgwhHXh4bk57Dy7zJOTsUB7L_Y7Xyz_VnrYNm9A5O9APMcqFHXNlcYQ_V43d8FFY="]
+
+--- RAW RESPONSE TEXT ---
+When looking to rent a **large party house for 20 guests**, the approach depends on whether you are planning a relaxed family gathering, a milestone birthday, a hen/stag weekend, or a lively celebration. 
+
+Because standard rental platforms (like Airbnb) enforce strict party bans, booking through **specialist group accommodation sites** or directly contacting hosts is usually the best approach.
+
+---
+
+### 1. Best Platforms to Find Large Party Houses (20+ Guests)
+
+#### **Specialist Group & Party Rental Sites**
+* **[GroupAccommodation.com](https://www.groupaccommodation.com):** Excellent for large properties across Europe and the UK that cater specifically to groups of 20 to 50+ guests.
+* **[Party Houses UK](https://partyhouses.co.uk):** Specializes in properties designed for events, birthdays, and celebrations equipped with bars, hot tubs, and large dining spaces.
+* **[Kate & Tom's](https://kateandtoms.com):** Focuses on luxury countryside manors, estates, and houses designed for large celebrations.
+* **[Coolstays](https://www.coolstays.com):** Features unique large party venues, converted barns, mansions, and historic houses built for big groups.
+* **[Oliver’s Travels](https://www.oliverstravels.com) / [The Thinking Traveller](https://www.thethinkingtraveller.com):** Premium choice for luxury group villas in Europe (Spain, Italy, France, Greece).
+
+#### **Mainstream Platforms (with caveats)**
+* **Vrbo:** Allows filtering for properties sleeping 20+ guests. Many rural property owners permit events if arranged beforehand.
+* **Airbnb:** Great for large houses, but **note:** Airbnb has a strict global party policy. If you book via Airbnb, ensure the gathering fits within standard house rules, or message the host before booking to confirm event permissions.
+
+---
+
+### 2. Essential Features to Look For (for 20 Guests)
+
+* **Bedrooms & Bathrooms:** Aim for at least **8 to 10 bedrooms** and **6+ bathrooms** so everyone has space and privacy.
+* **Dining Capacity:** Check that the dining room table seats **20 people in one space**.
+* **Entertainment & Amenities:** Look for homes with hot tubs, heated pools, games rooms (pool/ping pong), cinema rooms, and dedicated outdoor seating/BBQ areas.
+* **Secluded/Rural Location:** If your party involves music or late-night social activity, look for detached, rural estates with no immediate neighbours to avoid noise complaints.
+
+---
+
+### 3. Key Tips for Booking
+
+1. **Be Transparent About the Event:** Always inform the host in advance if it’s a birthday, hen/stag party, or wedding celebration. Hosts appreciate honesty, and unapproved parties can lead to lost security deposits or mid-stay evictions.
+2. **Check Noise Curfews:** Many properties allow loud celebrations inside, but require outdoor quiet hours after 10:00 PM / 11:00 PM.
+3. **Security Deposits:** Large group properties usually require a refundable security deposit to cover potential damage. 
+4. **Book Early:** Large houses accommodating 20+ guests with high-end amenities often book out **6 to 12 months in advance**, especially for summer weekends and holidays.
+
+---
+
+### Need Specific Suggestions?
+To narrow down specific properties or regions, share your target details:
+* **Location:** (e.g., UK countryside, Southern Europe/Mediterranean villa, Scandinavia, North America?)
+* **Occasion:** (e.g., quiet retreat, milestone birthday party, stag/hen party, family reunion)
+* **Budget per night / total?**
