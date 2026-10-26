@@ -1,0 +1,39 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels discount code
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-RfC8Vt9mRTAm75HKjP8XO9WJ5OlD6wmIrSoEkTvIY5vqd_53o_I8qh_nK2Kf496cCSoWj9CD-KhocXrYFPCAlzbEhhHxYVVA7icsqdkyrOaED1iOCbU2j0STie-zVOZCP6c1TTuNdeyBiImL6A_5T51x0ikw6khsjLY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_pZErQchSu4qJVyFt7CJmKwsbDBzoH5ZL5DAXuEIe2Jol1rKnFXDtzhxVTsmNoX6_i5_jI_IbRLcg-_Hr5d4tqdJZFjmc45qRbFPSfiLnaDt8I9EVuoBmlTrfjGd495q90oI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3qP8aDs6q-wvBf-F8IANvcgaM0R2hkaN21GzBCL-Q1YxqMhRi2xApsyonqFbxfiwRe0tX2cONcQ7Y7MoUeaLQAQfaXWNXK88B2we7Y8s2ix6yRy7yul6VGRbCkYrHGNT5CB58in-s8mGi9eJzwzXbxBQTdztv8bajOYkmDTRYoEiE_IVPoYgdNSUFNw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrnwHxpNCg-Y5PKZhawK7gXt2X3bWv1N6mV4BDHfkjFTA1lHxMs5WuhrZi6K7nvTOVZKvM2CWDO6wH51116qUBuCJqI-u2cReRYo1MNTp-f-FgRSjVEnF426ALAREoC37bxqc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6Cj3ExYHLXWO35vQ9eiOnMknNMOxv9AZSX5k2Bx1jZ9FSvNXH0uKud_ZR-eTJMzOXtb-h1E-U38vQ-vHeadQk7H04X5RJt3F_vj9sC2ZW5s9UIMm64lIcMKRgpkF_hsX-hmlSw_NfDhdt","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2MIJYdmtmIgG3EJKhXO2c5jDFwh27LOwqlRhWn5Tmfpk1KC8dLSu7FHVEcXsoD_9I_CF38qPkTqj-kJJfCZjuCRUVn0qRd4feNae09k3OMdOm7kL-nu1lsYMVa-rtMw7lozs7RCaqqjmGdFpMR5b8rfss","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu1HmNfiuJVkTv4jEHc2JY3MPxcCTZS-0AHH2uzDoAfcQrvKgbry2JDSmO2WPE9F5PfmXkzCIU1g9SNEjNcp-BBWmjjvJ8Sa87IfM2VAQBF-Xdml9gTNcWDRMLQt561uA5DUpQ3XNEmYMwTQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW1S0SqCzCqj7bRtofjyDH5e6BSSUORb58T0bJFFLYlG9-3NXYFsSqbwAOy78_YcDfSFIkKnCRZgfCZ0lfTzSUKgjtCAam1uCA3Org35PMqKNuwqKaX8zaR_ysBBZjuhVIoxVFgv3C1cH2DUxg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGHACeVeEYYwSEOCXXFXK985oMVZlIx935SK0Buk7LsRiKzOY6g9LD-UtAZYm4sNDTsDWamfSNYvqmR7XGOQ99gXLw5cQCtTlvcy8B8nUp1dFqg6R9WVSG30A-_4TaJ67dBb38L92NPDbYS63z9w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqcpH5aM5ydlFfP6bDa5MXIBl7XVi6JQBxIUwesou0WijqCj3G9hbJ3jGRlI-dempFoiErQbQSTRuCDvNcbJ8KGT7Gir23AZSEicgjvcwebcyjhcy2CGbKviIsG734GRN2g1t6SzwbVJcC"]
+
+--- RAW RESPONSE TEXT ---
+Here are the best ways to get discounts and promo codes for **Oliver’s Travels**:
+
+---
+
+### **1. Current Discount & Promotional Codes**
+* **`28DAYS`** – **Bonus VIP Credit:** Quote this code when making a repeat booking within 28 days of your previous check-out date to earn an extra **£100 VIP Credit** (for bookings over £3,500) or **£50 VIP Credit** (for bookings under £3,500).
+* **`OLIVERSTRAVELS20`** – Often listed on voucher sites for up to **20% off** select bookings or partner experiences.
+* **`OLIVERS24`** – Gives **5% off** Italian tours and local experiences booked through Oliver’s Travels Concierge.
+
+---
+
+### **2. Official Ways to Save**
+
+* **Oliver’s VIP Loyalty Credit (5% Back):** 
+  Returning customers automatically earn **5% of their booking value** in VIP credit to spend on future stays. You can enter your VIP credit request in the booking notes or speak to an agent over the phone.
+* **Newsletter Sign-Up:**
+  Signing up for the email newsletter on [oliverstravels.com](https://www.oliverstravels.com) frequently grants introductory discount codes (often £50–£100 off or 5% off) along with access to flash sales.
+* **Special Offers & Last-Minute Deals:**
+  Oliver’s Travels maintains a dedicated **Special Offers** section on their website, featuring seasonal discounts (up to 20%–30% off) on villas across Spain, France, Italy, Greece, the UK, and the Caribbean.
+* **Military / NHS / Key Worker Discounts:**
+  If eligible, check verified platforms like **Blue Light Card**, **NHS Discounts**, or **TroopScout**, as Oliver's Travels frequently partners with them for exclusive booking vouchers.
+
+---
+
+### **How to Apply a Code at Checkout**
+1. Select your villa/destination and dates on the website.
+2. Proceed to the booking screen.
+3. Look for the **Promo Code / Voucher Code / Booking Notes** box prior to entering your payment details.
+4. Enter your code and click apply.
