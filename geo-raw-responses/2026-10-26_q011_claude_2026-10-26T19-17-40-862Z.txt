@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com","https://www.feefo.com/en-GB/reviews/olivers-travels?page=241","https://nz.trustpilot.com/review/oliverstravels.com","https://au.trustpilot.com/review/oliverstravels.com","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://ie.trustpilot.com/review/oliverstravels.com","https://www.trustpilot.com/review/oliverstravels.com?page=2","https://www.feefo.com/en-US/reviews/olivers-travels","https://www.imdb.com/title/tt0112109/"]
+
+--- RAW RESPONSE TEXT ---
+I assumed you meant Oliver's Travels, the luxury villa rental company. Reviews are mostly positive but mixed.
+
+**Overall ratings**
+- 
