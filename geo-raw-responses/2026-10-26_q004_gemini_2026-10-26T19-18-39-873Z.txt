@@ -1,0 +1,63 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: luxury villa holidays 2027
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuLF-jBMLYpWVddl0vgWyb4g9Ys0uV4W6rGNkgDkviIdEiJH-kFQ71RFHrLe8uur_-fKRJqTtLORpJDmT-9E5z9j322o-HKW_mSngL6MHJjG4mmLrt_p_p5mLOkLzrwzheNswvtZyaSexiNcJk5RO46iel5G9--QT9","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTFg4sJ5MwUqGMOPiVB4CPgxtWJH9XPI578cYKgx5Ynfz8fDncb4tsBrqXp1cN-PFDB9tRtjU5V5WOqRGCAkVJmB-U7wGJXhYf48G6Vc1NrJ3xGjv2vv_Ungtofg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCJhg2UezRMxUaxaWSL9VvW8XwyuaQPI_V_B0KS89Xr7UffoU2r5iWQkEJygfh3DmpPlJKkqkd9I8IGW7B2YLVOZ0V8ctnfQKaDjpQGGBK1_XrqmNE4idPpr4sm48M8hlwOOYxsvTdUi2gPZtK4Br6ElAJOSyEal2Z","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Pq8_hZnGuVk7sYAB-x1OdBWGvGdr4X3mOlf5-i3Rze9lQw2M1VfJNzyIyDu-y93PFCfmnnoukEOb5abZPA0TX21HTzA91iQxkU7ytC08IFzAzlsFUaOKG1eqcpaQj8MdTiN3ykAScjSbI2ysAwwUcqg7EYjmN7VCcewemORkbN6oHGAioaeyBOW2IOtkfIzrT2DMzNQ10Y8KARYZ72IGJA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb12D6sc3xZkNeEO9zl5UXhyZ2jtwtKR6Kf2UdgitguqNd0zzIEFukhF9JRK2HtGtdyAlCyewsUUB4bo1fPc5mOwk51QqhlW5WjIL3TFTIjeutDC8-10u5Uwoc0jbpgJaDB7PJ1Dey_7pQCI9j6HVIHLfm","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgrTlwG5_KHgdmfKkVDF77x_OninvcCzSYQt-b05GAE8CuSF_OGV8bYIKiZR2HwxV1tEXjqaoLYGNPGD-oJq_JLzqFYqgfTrOPoUHudLnpRzWT3lf4VfRbVlgNrL1w2XtikDkzCwIEkXgX_L1Gn-Zs3Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTOV6PWhqSlIOEJMLSnSg0uv5hj9wyJeEDdZY4rgeCgolsyuR3XX6kKSYMRJLwF6cFzdrnaqgCFmY5MdKcsNo3E6raIUhGB1W8gT52_XqqExVBoVW_u5Ksl5jblmNzfc2Fi5asM_aV","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpZ-8rt4Oj-dxXwa47d7cQdfWx1oMEGriInz1osJyEFqBH2Vdwb5aTlw0zobeaqEWjHUoG7rAmAe83mIL_ZlPzjj1f4c1ipQOKBoGZCc129X3je-c=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhI7aIuckLr9nmqeuSJaayq8Ky1bdsSHJFKZjj9CVdGJx3n67u-fBtkdUXV1Tc0nHwDTMQkxPS38opwWo1YEcaOoORwDoBhIGplPxt4jIhCSRF9g_2alEGcDw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ9ZV0GbWFMfNNiQOEZ-7ryo9PqNIKhlZso8kovr8LTJnT0tSbKCY0P1K7vNKpooZb6EckP0jopm2vcHDzv4MWiKUMI7Iyqw5sXhQijqV9Gy1TpGyRWf4fKoTJLTlzYoHqczQulHkLd1wkh7m3s6y0Jy7aOeUlgbDo2w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGShMAbT01C4GMzpZWR7qggb2y8HUGHDp46XutDfyCMqfyHsUQe5qfov1rO1Ko35d4JmMyLWRYMjOLOn8G4FEhkX9LZGOudJc4Uc_ID1Bo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtalVe_dUhp8kXO5o8FVa40tbPSRzztZf8FpFuRyT3AhxajLxuPctCA3yRuHN_sq6JZj1IBTeoWlMCSDH9H2h31tea9U0XtkoBi9BZb9O5aDX2pa-5w-WCU3Q=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8LbE5hrYGIrm0yw3mHiTIgNxdk56-6qy4qDsd_G5OodUGmmgt5_d3TNHFPxo5hXgDmCgUu58dWIij5O0wS4m8g5ZN5aYo-JcqebVCH62sb2z8e_laXRKJTT5Upo_MGZLvL7xJ9MH4CAjYfg9ieGh68_rDhzuLOcjw4BcylDalwV_h9p8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd5gl4PDhRTjDz334_qmrnGhUYM4xr-qXOH8TpWVahW-0zxsMofylE-IqsAEKouD-D_Pl7Cf5qB6qbL0q5YIwSmCze2lLq_pLUi_NGViTO"]
+
+--- RAW RESPONSE TEXT ---
+Planning a **luxury villa holiday for 2027** offers prime access to the world’s most sought-after private estates, signature beachfront compounds, and rural retreats. High-end travelers are locking in peak dates 9 to 14 months in advance to secure top-tier properties, complete with dedicated household staff, private chefs, and custom concierges.
+
+---
+
+### Key Trends Shaping Luxury Villa Holidays in 2027
+
+1. **Multigenerational & Group Retreats:** Rather than booking multiple hotel suites, extended families and groups of friends are opting for fully staffed private estates that function as personal mini-resorts—offering unified space, privacy, and tailored activities.
+2. **The Rise of "Coolcations":** While the Mediterranean remains a favorite, there is surging interest in cooler climates such as Finnish Lapland, the Scottish Highlands, and Norway for summer and winter breaks.
+3. **Shoulder Season Popularity ("Autumn is the New Summer"):** September, October, and early November are seeing elevated demand in Southern Europe as guests seek milder weather and quieter coastal towns away from mid-summer crowds.
+4. **"Slow Travel" & Wellness:** Itineraries in 2027 are focusing less on packed tourist schedules and more on unhurried, restorative stays—think private infinity pools, in-villa spa therapies, and farm-to-table dining prepared by private chefs.
+
+---
+
+### Top Destinations for 2027 Luxury Villa Stays
+
+#### **1. Mediterranean & Southern Europe (Summer / Shoulder Season)**
+* **Italy (Tuscany, Amalfi Coast, Puglia & Sicily):** Classic olive-grove estates, cliffside Amalfi mansions, or traditional Puglian *trulli* updated with modern luxury amenities.
+* **France (Côte d'Azur & Provence):** Riviera châteaux and secluded lavender-field mas in Provence offering proximity to fine dining, private beach clubs, and yacht charters.
+* **Greece (Mykonos, Santorini, Crete, Corfu):** Cycladic architectural gems featuring dramatic sea views, private helipads, and cliffside infinity pools.
+* **Spain (Balearics & Marbella):** Ultra-modern architectural villas in Ibiza and Mallorca with sunset views, private boat docks, and full-service staff.
+
+#### **2. Caribbean & Tropical Escapes (Winter 2026/2027 & Spring)**
+* **St. Barts & Turks and Caicos:** Beachfront sanctuaries with dedicated concierges, personal water sports, and butler service.
+* **Barbados & Jamaica:** Heritage estates offering lush gardens, private tennis courts, and full culinary teams.
+* **Mexico (Los Cabos & Punta Mita):** Cliffside Pacific villas pairing private infinity pools with oceanfront living.
+
+#### **3. Asia-Pacific & Indian Ocean**
+* **Thailand (Phuket & Koh Samui):** Hillside luxury compounds overlooking the Andaman Sea, featuring traditional Thai service, private wellness pavilions, and private boat excursions.
+* **Bali (Indonesia):** Open-concept luxury compounds nestled in Ubud’s jungles or along the coast of Uluwatu.
+
+#### **4. Winter Ski & Arctic Sanctuaries**
+* **European Alps (Courchevel, Verbier, Zermatt):** Ski-in/ski-out chalets with private indoor pools, saunas, ski valets, and Michelin-trained chefs.
+* **Nordic Retreats:** Architect-designed glass-and-timber wilderness villas in Finnish Lapland and Svalbard for Northern Lights viewing and arctic wellness.
+
+---
+
+### Trusted Luxury Villa Specialists & Operators
+
+* **The Thinking Traveller:** Renowned for hand-picked, exclusive Mediterranean properties paired with local, personalized experiences.
+* **Onefinestay:** Backed by high hospitality standards, featuring rigorous property inspections and hotel-grade concierge services.
+* **Le Collectionist:** Highly curated, stylish properties across Europe, the Caribbean, and Alpine regions with tailored lifestyle itineraries.
+* **Oliver's Travels:** Known for exceptional luxury estates, castles, and large group holiday properties.
+* **Scott Dunn & Abercrombie & Kent Villas:** Ideal for fully bespoke, end-to-end luxury travel planning that combines villa stays with private jet access or yacht charters.
+* **Haute Retreats:** Specialists in high-end mansions and fully staffed private compounds globally.
+
+---
+
+### Tips for Booking Your 2027 Villa Holiday
+
+1. **Book Early for Peak Dates:** For July/August in Europe or festive weeks (Christmas/New Year) in the Caribbean, aim to book **8 to 12 months in advance** to secure the best properties.
+2. **Specify Staffing Needs:** Decide upfront whether you prefer a **fully staffed stay** (chef, butler, daily maid, driver) or a **self-catered experience** with on-demand concierge services.
+3. **Lock in Preferential Terms:** Many providers allow early 2027 bookings with small initial deposits, giving you time to finalize group travel logistics and flights later.
+4. **Custom Add-Ons:** Communicate special requests—such as yacht charters, private wine tastings, child-friendly security fencing around pools, or specific fitness equipment—well in advance.
