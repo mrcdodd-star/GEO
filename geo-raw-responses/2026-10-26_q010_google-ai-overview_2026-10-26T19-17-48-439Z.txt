@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: multigenerational luxury holiday homes
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZMk5qSXhjVzF3GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaNU5qYzBOVGx0GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd0b2ExODNOWHB4GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhGdU9EWm1OVEpxGAo","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhsNWQycHVjURgK"]
+
+--- RAW RESPONSE TEXT ---
+Multigenerational luxury holiday homes blend high-end design, hotel-grade amenities, and expansive layouts to comfortably house grandparents, parents, children, and extended family members under one roof without feeling crowded.
+Key Features of Multigenerational Luxury Properties
+
+Top Curated Options & Specialists
+
+What to Look For When Booking
+
+If you'd like to narrow down the search, tell me:
