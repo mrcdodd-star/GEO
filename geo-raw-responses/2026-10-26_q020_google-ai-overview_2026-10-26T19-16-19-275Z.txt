@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Oliver's Travels booking terms and conditions
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/","https://forums.moneysavingexpert.com/discussion/6388432/olivers-travels-owner-cancellation","https://www.oliverstravels.com/faq/"]
+
+--- RAW RESPONSE TEXT ---
+Oliver’s Travels operates strictly as a booking agent, meaning the actual rental contract is formed directly between you (the client) and the individual property owner, while Oliver's Travels handles the reservation and administration process.
+Key Booking & Payment Terms
+
+Guest Requirements & Property Rules
+
+You can review the complete, legally binding text directly on the Oliver's Travels Agency Terms and Conditions page.
+Are you looking at a specific property or trying to figure out a cancellation/refund scenario? Let me know and I can help break down the relevant policy.
