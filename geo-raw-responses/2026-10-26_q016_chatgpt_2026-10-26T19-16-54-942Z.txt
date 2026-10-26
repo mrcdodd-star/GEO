@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: book Villa Saint-Cyr Provence
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like your message was the raw placeholder `{{ $json.query_text }}`, so I don’t have enough context to know exactly what you were asking about. Could you provide a bit more detail or paste the full text of the query or question you're referring to?  
+
+In the meantime, here are some possible clarifications:  
+
+- If by `json.query_text` you meant a JSON query or JSONPath expression, you can share the JSON you're working with plus what you're trying to extract.  
+- If you meant something else (a programming error, or a template variable in a framework), let me know the environment (e.g. JavaScript, Python, Cloud Platform, etc.).  
+
+Whenever you’re ready, just send over the full info and I’ll help you sort it out!
