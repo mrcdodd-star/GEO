@@ -1,0 +1,59 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels booking terms and conditions
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-HkaDQsGyeKdzNSm_RwOZ631HcRXS-fgo_j-anLhMYxkUOZmdGQiQwSjB0roPr01ft5j68D8ht-HwfKqI6MH2YEbzJgzl9ii3XmbEbpVgT8ft-gxxfmCvA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5dx28bJAF_pZIz57ZVefjzLGoqVbaSteeL_jo9SAqOnghmeUIfV3tLjZHcsGC5aF5NlChBYbcL0TUNIKB2nB4cnepCcQ6OQhO89cC_yZ-ETX5ryrUdjL8PfVx3aLSH3KqZrpN1k8Gkj8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR47vMD0fyQ1WLP1SnWx8HCTz-30pucp0Ab2-jeN1k5f9dSqwjzfwL5Uzx_iAR7nf5_84O8wXkM0qE-OOp9SrOUkHUAYP7CjQTcIb0lsWr2ElxdsUbvNPT","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG45OERP7IMnGTw4LCmB7JZTP2UF7UWvH2WPvChl-Iobs4mZXdDQQFMuFsRAuY8mpj3kr1JH9ArzuqBC-lG-sAE74xBNtmOwAE3--iVDXZGbSQE9dgIXlnbtJPVIiCp4I90WQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElZEJjGK9PQabNO6xrI2dgeOm6KsnincIPN5swK_tVnOJVG55YqF2kpqeCpsMJR1CzZw4I9IcQENIlXf4G-juS7-rCnob-DC7gfuiEKEmoT6xRjRidGYZrry6Bx0K5tbM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQAb9VR4CZ8Ig0P0Xrssa4f4-xQCgWF9g9GTz7JayyzoOUIILguCTxfNyIG4WPhqqcKNcVUafK2i5MnmkN-g9186wyQpP7MDsyY8YfHg044pXytOhyLQOz7h8KsykSXz1cz9GMhnN0gKbU","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzWZhet7eydlAUfNLVJyJEmz04jAlrG0Uor_S1Zz3vFhpAaJjtAF9wTzcvz0Fm9LuJEtEu6r0xuT4FjV6KsydVA2sq5mrBmXgnYh9tDATOfhVpRwk7V5U1KX4SeT0Kpu1Ab3TEI4vL3jQWZvmjTAB4uy-Kh7QkbYL93QsBdJjtMg26hwWS9VIiO39kfd6r4lQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVx2BTmsFcrvqPQiInDw0zazz74T36VPpgoC68JJE7z-38Y4D-I1JKuAUF7s95pLPZpmjKVttKjB-kAPMTpeM_h2mEKfJK8KGF_TaZSJxQJSjht_oFrfs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2ULqDzrWrba1VcfFb6oQWQiQmZIDfVKoKO2DdUACMqr0SLX-sd6CBc6Yd9sAc-1AXU0ndJ2_v600_VQfQuRtZgejMXN5M4p2nsBGYfk0pSSmPlKhvIcaZiTTEyVaw-CfUQxLB0iQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjXE71X-nz_bUwpL8L-PP-26tjciVVxyDiFnhl81gx3S1EFORmc2fWSyKTBqnhraPpYZn7Hihyk-5N8CbLu6OMZ_siagbkSzN4N7ju1F16JuEmvRiii0-niRKFVRdALWhyD4g=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAK7ucYDZ2yql-cFpmNCTSM7XtE98-cBGxdk23hbDxkY6TPrpD51e6JWQT8-vSJz-NcYqo6QrO4IytxkRtvYwKdIL4N7Utgg6wotBHUz95F3M9XQiGnejnc2nwd27eyqRAO03qRNjnyqrC5t0szOw6OmtlMz8="]
+
+--- RAW RESPONSE TEXT ---
+Here is a summary of the key booking terms and conditions for **Oliver's Travels**:
+
+---
+
+### 1. Agency Role & Contractual Relationship
+* **Agent Status:** Oliver’s Travels Ltd acts as an **agent** on behalf of individual property owners/suppliers. 
+* **Contract:** When you make a booking, your legal contract for accommodation is directly between you and the **Property Owner**, governed by Oliver’s Travels Agency Terms as well as the specific property owner's terms and conditions listed on each property's advert page.
+
+---
+
+### 2. Payments & Booking Schedule
+* **Deposit:** A non-refundable deposit of **35% to 37.5%** of the total rental price is required at the time of booking to secure the reservation. 
+* **Balance Payment:** The remaining balance is due **12 weeks (84 days) prior to your arrival date**. 
+* **Late/Short-Notice Bookings:** If booking within 12 weeks of arrival, the full rental amount is payable immediately upon booking.
+* **Currency & FX:** Prices for many properties are quoted in Euros or local currencies. Estimates provided in British Pounds (GBP) or other currencies may fluctuate according to exchange rates up until payment is taken.
+
+---
+
+### 3. Cancellation Policy
+* **Cancellation by You (Guest):**
+  * **More than 12 weeks before arrival:** The deposit remains non-refundable, but any balance paid is refundable.
+  * **Within 12 weeks of arrival:** All monies paid (deposit and final balance) are strictly non-refundable.
+* **Cancellation by the Owner:** If the owner cancels the booking and no acceptable alternative accommodation can be provided, a full refund of all payments made will be issued.
+* **Travel Insurance:** Oliver’s Travels strongly recommends taking out full travel insurance at the time of booking to cover potential cancellation, injury, or loss.
+
+---
+
+### 4. Security Deposit
+* **Requirement:** Most properties require a security deposit to cover potential damages, excessive cleaning/trash removal, or additional unpaid charges (e.g., heating, pool heating, concierge services).
+* **Payment/Hold:** Usually processed via credit card pre-authorisation about 1–2 weeks prior to arrival.
+* **Return:** Returned/released shortly after departure, provided the property is left clean, tidy, and without damage.
+
+---
+
+### 5. House Rules & Restrictions
+* **Lead Booker Age:** The lead passenger must be at least **18 years old** (some individual property rules require the lead guest to be at least 21 or 25).
+* **Occupancy Limits:** Maximum guest numbers strictly apply and cannot be exceeded without explicit written permission.
+* **Events & Parties:** Events, weddings, or commercial activities are not allowed unless pre-approved and explicitly stated in the booking confirmation.
+* **House Rules:** Smoking/vaping prohibitions, noise restrictions, and pet policies vary by property and must be adhered to.
+
+---
+
+### 6. Loyalty Program (VIP Credit)
+* **Earning:** Bookings earn 5% of the booking value in VIP Credit (valid for 365 days).
+* **Redemption:** Credit can be applied toward balance payments on future bookings (once you reach a minimum threshold of £50 in credit, covering up to 50% of the new booking value).
+
+---
+
+*Note: Because specific property owners may have their own additional rules (such as local tourist taxes, pool heating fees, or check-in times), always review the specific property terms on the Oliver's Travels listing page prior to confirming your booking.*
