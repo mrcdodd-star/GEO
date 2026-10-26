@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://www.feefo.com/en-GB/reviews/olivers-travels","https://www.trustpilot.com/review/oliverstravels.com?page=2"]
+
+--- RAW RESPONSE TEXT ---
+I'm assuming you mean Oliver's Travels, the villa and chateau rental agency. Based on what I found, it's reliable for booking but less so if the property turns out to be poor.
+
+**What's good**
+- 
