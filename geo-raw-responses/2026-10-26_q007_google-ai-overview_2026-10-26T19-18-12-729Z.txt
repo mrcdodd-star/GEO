@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: large party houses to rent for 20 guests
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZMGJHc3pNelJxGAo","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVdkZmF6TTJaSE0YCg","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW5aMGFteHlOakUYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkamNUTnphM1JtGAo"]
+
+--- RAW RESPONSE TEXT ---
+Top specialized agencies and large party houses to rent for 20 guests include dedicated group-accommodation providers and specific properties designed with large dining areas, game rooms, and en-suite bedrooms.
+Top Agencies & Platforms for 20-Guest Properties
+
+Comparison of Popular 20-Guest Options
+
+If you let me know your preferred region or part of the country, your dates, and the occasion (e.g., family reunion, birthday, hen/stag do), I can narrow down specific available properties for your group.
