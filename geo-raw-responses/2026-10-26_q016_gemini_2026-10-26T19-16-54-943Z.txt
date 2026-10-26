@@ -1,0 +1,39 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: book Villa Saint-Cyr Provence
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBk67wDh_m9pzrSqUjHbqbZoNeMFjQBwhntDoBVupMeSAodY2Vr8oemmiqLTqVXA7TsOKtGUT2nxbEmmXn3kiskg3GKonWSZlpJgNS4dPuHv9gwbya_BzgasljK9DaiQrQ3b4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBS0V9WgZvnoGiZzeR3PQUGe5fr-jLIJcvQeuh9O23wx-Hhhhcr_nBgw-Q9Vmp1kLArQgFcbyaW-cIy_CiDm6BdDAv77eyyHOkhrxcxxiQVLUe-6GwzouwS-olMQ9R9W1WXyJ6lgQfaJcslNB7qJEhCkvMiVOlZcQ9SYisLJnhqc83LqAUGpHlWJc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJqenVLvypO6gfS_vfkNc4Ceb--R78YeHyJYNUSpCT7fBW_YM2MLQe49rDRRCrgvGfS8NOHIDi4vT7e2OSG7t2jEq2Nx0fuwT3NNOCk5FcbN-HUJ-ljdkhBVK_qdfxuSzcwb1TyL7lrmGDYQXOqS48BmhJbSlz6xs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5uXOfZt2W7dcIqxOiFeCBUQhR5OXyOFJIW1MWMaGytvcYkwCvyGQ9NfUk1hpKykuTcZA2YkqJ63t3Z7LjbIvq3JartLhWBUzHCdhD_0bCCdiAdU3uIHfQOJe6o4m4dxp1AccxtOe1-k5cqZPsHYx8i9X5jETdBWbDXCatwOfMNx1icaUupIXuRl1uxB2scrjYnbOObhuIanw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFVTI18MROAHsBgyNtoSnF60xfz5RN_tRtftfy00Nw_swLXNCDlgxxMsqak9NzTgXSvRT0rRwMSiqQpjrxe9bEU8fludRcwVyvr2EBgpsa51rh4SKQPknKANamtfIvKbw24PqR29E7BS4Z0Pbl2NHxig==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRJj8phgJX1CGql60h8zAe-RlQprAUOOIhsMispOXD7BcXrcXCR2eFzUt95ypp4jaLOVjv7KyqmFzfC5S0vbjs0A2Cj04NfvAl0Lud15LWzeZmbF5QI78kgbiiObPkKHHL6BVrzS2FR3mSNd07b2ccO-4xvru_j6FvqE1ec9FOKElw9ze1","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLAxIJtA7584dqfqUs-XOwd_shtR0J0X1qNlhkRWv_oKdXSIp2nCtqkRhyQMQy_POpN_b6HVbBGN8LCLSkthzIGeNtiXhHoDot7aJ_dp52FUPCkREScruXRlZgOks="]
+
+--- RAW RESPONSE TEXT ---
+To help you book **Villa Saint-Cyr** in Provence, there are two common possibilities based on your search:
+
+---
+
+### 1. Booking the specific holiday home: **Villa Saint-Cyr (Seillans, Provence)**
+If you are looking for the dedicated luxury rental property named **Villa Saint-Cyr**:
+* **Location:** Seillans (Var, Provence-Alpes-Côte d'Azur) — near Lake Saint-Cassien and ~45 minutes from Cannes.
+* **Capacity:** 5 bedrooms, 5 ensuite bathrooms (sleeps up to 10 guests).
+* **Features:** 12m × 5m private swimming pool, 3-acre garden/woodland, panoramic roof terrace, and shaded outdoor dining.
+* **Where to Book:**
+  * **[Pure France](https://www.purefrance.com/)** (Search for *Property ID 487 / Villa Saint-Cyr in Seillans*)
+  * **[Oliver’s Travels](https://www.oliverstravels.com/)** (Search for *Villa Saint-Cyr*)
+
+---
+
+### 2. Booking a villa in **Saint-Cyr-sur-Mer (Provence-Alpes-Côte d'Azur)**
+If you meant finding a private villa rental in the coastal town of **Saint-Cyr-sur-Mer** (near Bandol, Toulon, and Plage des Lecques):
+* **Where to Book:**
+  * **[Booking.com](https://www.booking.com/)** or **[Vrbo](https://www.vrbo.com/)**: Filter by *Saint-Cyr-sur-Mer* + *Villas* for Instant Booking options.
+  * **[Airbnb](https://www.airbnb.com/)**: Select *Saint-Cyr-sur-Mer* to explore beachfront and countryside villas.
+  * **Local Luxury Agencies:** Emile Garcin or *Les Domaines de Provence* for high-end luxury estates.
+
+---
+
+### Next Steps
+If you need help checking real-time availability, pricing, or recommendations for a specific set of travel dates and guest numbers, please share:
+1. Your travel dates (check-in / check-out).
+2. Number of guests.
+3. Whether you intended to book the **Seillans villa property** or a villa in the **town of Saint-Cyr-sur-Mer**.
