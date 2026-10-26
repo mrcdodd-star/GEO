@@ -1,0 +1,37 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpraYHZtHH6iV4t25QKRaYK5wYyhaR30uYJZR_j5ZmDNEeWK7cfAm-O-yqzOt88eJFwP1mqXxQg08DHLa8MspjJuqNXqHBq8_t3BmaF4GKAXZseQ8VkULDkTKj_qS0DUDUOf4nFBBO0kcnAWx7RpeXh_iy98WrZkMic-b_JyfS69qkVv7jev7ruQJDVpHpIPDyuBpPamowqwQx9-kUoopwKIYa","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjtGOPsU1_YDQaffo94_zCrxEDThG8lZ0QdpiO2JE8XB5m8Avsfnhey8l-YMrwx_Jcg8J8abvC_DrUx_-vXUfnocmYhqiRyFvPBq0gV9itu7Sh3VBMRSp6vz4rxH2RAG1QSmul8MqmMe0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjyyjGMLL0Nhi1wRm8NmXS9cPWl4_g_qRkae4h19Ctla_RmF9z9sF4tcB1w3d962rrvVb_FC8Ou6lR_O7dH--sYcEtN76nW88OUsJsoJhdW5P0YyrpFXEym0CNOpq71D1agnstHy1-8MYVWqnH1ydxP5qfvxIJxFYgBnnpz5uCkMI_urqqYHPuFb3n","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY90m_uWpQa2Ija-lMByrZCBaLVUHETTxCQRs6Mo_d9aSfAm2_dAk5oCNuP9iNZxfvNBRLXxf5skcEbAQfPyMKaPw39Ml9g_UJOgBM7exZBwiwpvWOIaO9VH8YG7FBikqa","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmWVG9CAUlk9PvQxpIiH96DkuJEoil3oe0YnSpGu3vgZpTgbeDHRyQh4pCt7vyx9hWTy9Se8E3q0ROotVISZQ3gYJlApcgiY9vXpyTX69K8HtAg6Bb1AT0tXqi_Wj8nFs_u7qt5YTftB-A4w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWt5Ao5He21wEXg0kfFv9hIVnI9HIlVG3BRzwZk2nvep_84QgFxpCphC-mjO56cmchUQadOMkne8iiL3aVGL7hqlAQIVLZylw9jLLAylSMM-q6q7O76SNSvps9sbe5OvkSRlXfLohC_G7IvwTdx7E=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsyxoqI9GsLK3rY__xMkElJ1lhxgiVNWCetZialynOYmTVp3hWqGDVTI-a6Xxh4ICtW4IGct2SzgvPhFU9fBRYR2RQoD-8KKeMmRcPEyNfjqsM_pwnP3nWMirZaLm7pgJyj7wpb5Xc0S4xq6TDc3-2vy2zFVlo6XuRZip5qO67LC7WYLqjfSR6N-_7jf6f_692MAiI7w5Trt4="]
+
+--- RAW RESPONSE TEXT ---
+Overall, **Oliver's Travels** enjoys a strong reputation for luxury villa and châteaux rentals, holding consistently high ratings across major review platforms:
+
+* **Trustpilot:** ~4.5 to 4.7 out of 5 stars ("Excellent") based on over 3,600 reviews.
+* **Feefo:** ~4.7 out of 5 stars ("Exceptional") with thousands of customer reviews.
+* **Industry Awards:** Recognized repeatedly by *Condé Nast Traveller* Readers’ Choice Awards and *The Times Travel Awards* as a top villa rental company.
+
+---
+
+### Key Takeaways from Reviews
+
+#### **What Customers Praise (Pros)**
+* **Seamless Booking & Customer Support:** Reviewers frequently praise the friendly, prompt, and helpful booking staff and free concierge service.
+* **High-Quality, Vetted Properties:** Travelers love the hand-picked, unique inventory—ranging from historic French châteaux to luxury beachfront Mediterranean villas.
+* **Accurate Descriptions:** Many guests note that properties closely match the website photos and specifications.
+* **Add-On Concierge Services:** Oliver's Travels can arrange private chefs, airport transfers, day tours, and child-care services, which receives positive feedback from large family or group bookings.
+
+#### **Common Complaints (Cons)**
+* **Third-Party/Owner Disconnect:** Because Oliver’s Travels acts as an agency connecting travelers with independent villa owners, miscommunications can occasionally happen between the booking company, property owner, and local keyholders.
+* **Inconsistent On-Site Amenities:** A minority of negative reviews mention local maintenance issues or minor details missing (e.g., dated furniture, shortage of kitchenware, or small starter packs).
+* **Response to On-Site Issues:** If an issue arises during a stay (like pool heating or Wi-Fi outages), resolution speed can depend heavily on local property managers rather than Oliver's Travels direct staff.
+
+---
+
+### Bottom Line
+Oliver's Travels is considered a **reliable and reputable company** for luxury and group vacation rentals. While property maintenance and local hospitality can vary slightly depending on the specific villa owner, the booking experience and customer service from the company itself are widely praised. 
+
+**Tip:** Before booking, read the specific guest reviews for the exact villa or property you are considering, and confirm details regarding local check-in contacts and included amenities.
