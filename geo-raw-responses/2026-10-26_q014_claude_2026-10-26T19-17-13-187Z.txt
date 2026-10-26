@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Plum Guide alternatives
+
+CITED URLS:
+["https://www.houfy.com/blog/15-best-airbnb-alternatives-in-2026-0-fee-options","https://www.justluxe.com/community/best-10-airbnb-alternatives-for-luxury-vacation-rental-hosts-in-2026-920049193/","https://www.tiltedmap.com/airbnb-alternatives-vacation-rentals-homestays/","https://rentalsunited.com/blog/luxury-vacation-rental-websites/","https://www.pacaso.com/blog/plum-guide-alternatives","http://www.saashub.com/plum-guide-alternatives","https://culturedvoyages.com/plum-guide-review/"]
+
+--- RAW RESPONSE TEXT ---
+Here are the main Plum Guide alternatives, grouped by what you might want.
+
+## Closest to Plum Guide (curated or vetted luxury)
+- **Onefinestay**: 
