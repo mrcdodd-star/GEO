@@ -1,0 +1,29 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: luxury villa holidays 2027
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like you submitted the literal template `{{ $json.query_text }}` without replacing the placeholder.  
+
+**Here’s what that means:**
+
+- `{{ ... }}` typically denotes a placeholder that should be replaced with some value.
+- `$json.query_text` refers to the field `query_text` inside a JSON object named `json`.
+- Together, `{{ $json.query_text }}` is meant to refer to that value (i.e. the user’s query text) in a template, message, or code—but you left it as-is, so I’m not seeing an actual question.
+
+---
+
+**What to do next:**
+
+Could you replace that placeholder with your actual question or prompt? For example:
+
+- “What is the capital of France?”
+- “Tell me the steps to bake sourdough bread.”
+- Whatever you want to know or do.
+
+Once you provide the real query, I’ll jump right in!
