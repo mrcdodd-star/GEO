@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best luxury villa rental companies
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like your message was `{{ $json.query_text }}` — that appears to be a placeholder token, possibly from a template or system using variables. To help out, I need a bit more clarity:
+
+1. What output are you looking for? Are you asking me to evaluate or interpret a query in JSON format, or to retrieve some specific content from JSON?
+2. If you can, share the actual JSON you're working with and what `query_text` is supposed to represent (like a JSONPath, JMESPath, or similar).
+3. Let me know what you want to do with it—filter, transform, extract certain values, etc.
+
+If you provide those details, I can help you write the correct query or process the JSON accordingly.
