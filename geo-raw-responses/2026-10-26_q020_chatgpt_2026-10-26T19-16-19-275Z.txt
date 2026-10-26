@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Oliver's Travels booking terms and conditions
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Looks like you’ve typed in a placeholder: `{{ $json.query_text }}` — that usually means something is trying to insert JSON data into a template or code, but whatever it was referencing didn’t fill in properly.  
+
+If you tell me what JSON data or query you want to use, I can help you correct the placeholder or write the query. Do you want to try again?
