@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: multigenerational luxury holiday homes
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Hey — just checking: do you mean the literal text `{{ $json.query_text }}`, or is that a placeholder for something else you wanted me to work with?  
+
+If you tell me what “$json.query_text” represents (is it your note, a code snippet, a prompt), I can help you craft or improve it — whether for formatting, extracting info, or something else.
