@@ -1,0 +1,96 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: unique places to stay for milestone birthdays
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a milestone birthday (whether it’s a 30th, 40th, 50th, 60th, or beyond) calls for a stay that feels extraordinary, memorable, and far beyond a standard hotel room. 
+
+Here is a curated list of unique places to stay around the world, broken down by vibe and experience type.
+
+---
+
+### 1. Bucket-List & Wildlife Encounters
+
+* **Giraffe Manor (Nairobi, Kenya)**
+  * **The Vibe:** Safari glamour meets historic elegance.
+  * **Why it’s special:** Famous for its resident herd of Rothschild’s giraffes that frequently poke their long necks into the top-floor windows and breakfast room looking for treats. It’s an unforgettable way to kick off a new decade.
+  * **Best for:** Animal lovers, romantic milestone trips, or small intimate family groups.
+
+* **The Muraka at Conrad Maldives (Rangali Island, Maldives)**
+  * **The Vibe:** Ultimate ultra-luxury ocean sanctuary.
+  * **Why it’s special:** A two-story villa where the master bedroom is submerged over 16 feet below the surface of the Indian Ocean. You fall asleep surrounded by marine life and wake up to fish swimming overhead through panoramic acrylic domes.
+  * **Best for:** A once-in-a-lifetime solo or couple’s splurge trip.
+
+---
+
+### 2. Private Castles & Estates (Great for Groups)
+
+* **Ashford Castle (County Mayo, Ireland)**
+  * **The Vibe:** 800-year-old royal grandeur.
+  * **Why it’s special:** Once home to the Guinness family, this castle features opulent rooms, falconry on the grounds, high tea, spa treatments, and private dining. 
+  * **Best for:** Bringing family together for a regal, pampering celebration.
+
+* **Château de Tourreau (Provence, France)**
+  * **The Vibe:** Quintessential French luxury surrounded by lavender fields and olive groves.
+  * **Why it’s special:** A restored 18th-century private estate with sprawling gardens, a pool, tennis courts, and private chef services. Renting out an entire castle allows your closest friends and family to stay together under one roof.
+  * **Best for:** Large group milestone celebrations (30th, 40th, or 50th group trips).
+
+---
+
+### 3. Glass Cabins & Northern Lights
+
+* **Treehotel (Harads, Sweden)**
+  * **The Vibe:** Avant-garde architectural design deep in the Boreal forest.
+  * **Why it’s special:** Suspended in the treetops, rooms include *The Mirrorcube* (reflecting the surrounding trees), *The Bird’s Nest*, and *The 7th Room* (with a net terrace over the canopy). Depending on the season, you can watch the Midnight Sun or the Northern Lights right from bed.
+  * **Best for:** Architecture fans, design enthusiasts, and nature lovers.
+
+* **Levin Iglut (Levi, Finland)**
+  * **The Vibe:** Cozy Arctic magic high above the treeline.
+  * **Why it’s special:** Heated glass igloos positioned on a fell in Finnish Lapland. You can lay in a motorized adjustable bed under glass ceilings, gazing out at snow-covered landscapes or the Aurora Borealis.
+  * **Best for:** Romantic winter milestone trips.
+
+---
+
+### 4. Remote & Architectural Marvels
+
+* **Amangiri (Canyon Point, Utah, USA)**
+  * **The Vibe:** High-desert minimalist luxury seamlessly integrated into the landscape.
+  * **Why it’s special:** Tucked into a protected valley with dramatic red-rock canyons, Amangiri surrounds a central pool built directly around a massive stone monolith. It offers supreme privacy, private hot tubs, stargazing, and guided hikes into nearby slot canyons.
+  * **Best for:** Wellness lovers, privacy seekers, and luxury design lovers.
+
+* **Fogo Island Inn (Newfoundland, Canada)**
+  * **The Vibe:** Dramatic, rugged coastal isolation on the edge of the Atlantic Ocean.
+  * **Why it’s special:** Sitting on stilts over sharp coastal rock, this hotel combines modern design with local traditional craftsmanship. Features include floor-to-ceiling windows facing wild Atlantic storms, rooftop hot tubs, and community-guided island walks.
+  * **Best for:** Solitude, reflective milestone trips, and epic coastal views.
+
+* **Deplar Farm (Troll Peninsula, Iceland)**
+  * **The Vibe:** Off-grid, ultra-exclusive adventure hideaway.
+  * **Why it’s special:** A converted sheep farm with a turf roof nestled in a remote fjord. It features an indoor/outdoor geothermal pool with a swim-up bar, heli-skiing, snowmobiling, and private chefs.
+  * **Best for:** Group adventure trips, active milestone seekers.
+
+---
+
+### 5. High-Altitude Thrills & Desert Glamping
+
+* **Skylodge Adventure Suites (Sacred Valley, Peru)**
+  * **The Vibe:** Pure adrenaline overnight experience.
+  * **Why it’s special:** Transparent luxury capsules hanging from the side of a mountain 1,200 feet above the Sacred Valley. To reach your room, you either climb a via ferrata or hike a zipline trail. Dinner and wine are served inside the pod high above the valley floor.
+  * **Best for:** Thrill-seekers looking for an unforgettable story to tell.
+
+* **Scarabeo Camp (Agafay Desert, Morocco)**
+  * **The Vibe:** Bohemian, vintage orient-express style desert glamping.
+  * **Why it’s special:** Oriental rugs, antique travel trunks, fire pits, and lantern-lit dining under the stars with the snow-capped Atlas Mountains in the background. 
+  * **Best for:** Intimate group gatherings, romantic celebrations, and unique atmosphere.
+
+---
+
+### Tips for Planning a Milestone Birthday Stay
+
+1. **Book Well in Advance:** Unique, boutique properties (like Giraffe Manor or individual Treehotel suites) often book out **6 to 12 months** ahead.
+2. **Mention the Milestone:** Always inform the property when booking. Many luxury or unique stays will include complimentary champagne, custom dining menus, room upgrades, or unique local activities for major birthdays.
+3. **Match the Group Size:** If traveling with a large group of friends or multi-generational family, renting private estates (like a villa in Tuscany or a château in France) often delivers a far richer experience per person than booking individual rooms in a hotel.
