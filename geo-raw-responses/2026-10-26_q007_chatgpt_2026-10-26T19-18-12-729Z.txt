@@ -1,0 +1,19 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: large party houses to rent for 20 guests
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like you sent `{{ $json.query_text }}`—this appears to be a placeholder or templated variable, probably intended to hold some JSON query or text, but as-is it doesn’t carry any actual content.  
+
+Can you clarify what you meant by that? For example:
+
+- Did you mean to paste in a specific JSON query?
+- Are you asking about how to use a variable like `$json.query_text` in a template or in some JSON / templating system?
+- Or did something go wrong and the actual query wasn’t included?
+
+Just send me the actual query text or explain what you're trying to accomplish, and I’ll help you out.
