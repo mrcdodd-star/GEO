@@ -1,0 +1,37 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJlMKzXI0jbg6SFvIW8vE4tK9s-W0LGLX3bOnyckldGmpgSiYv7K8wKscdn2U1JHQQlMVQODH_iVxujKDKvlFA7ogyHAJtHLKMMQ8HnK_IShrCcOfJJ08BRICqvaPGbmPRJ3GXweC7_2zEorZzrGo2Xzf6Fz2LTPKcKNPD4UpBWhbsLSB9PlwL4XrxV8wkzhuLZoxRTTFSTUGq9W4XeK8y-A4Rwg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6f_DZgBmxLsZ3sX8eaVYqYLeVTr3kj230D-V42C-_nqILs-Fxeu_6GwgcRcqVThHv67O7VHRiJ6CnUd5GUCIkX9r9ZwLJALxd9IbhXEX4EUgMzIwBl7mWHTi1RlsZxbW9aXcunYDpUtFj","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB7dWIldI-peoUT3yA5Bxw7tElAS_MUUXByolajUKvmSID-v7oLKMCx1n4cJ103uuxpd2awu78T3ESZ0j2-eKpBad7mGhh4eS3r6IXaVVcCseZAtB6a3zX2_65VlSrjkSjb8hxBAqLP5_D0Ig=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVZhx1jwhqZY_eoirpRo8pC77W4Ka3RkgFSnebJRI6epDIzKOfS0VpcLn-3gsr00Hk62ElRoF0FfyWps9Q7FlYyx7YGch0NV2HPIaGwHRZmoIahrWrBV7ZDQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBqKznSStAPZ2sFr-sLxpQR0xqzOBKAqICOhpW7uxLzXvM1vzkFqo5PkQ_UzTjvG8flSCl_whN4vdfcUP0pu9kcbjgoyfJdRffusukjWMMRLkAV6hCr8mBpvejls4ASijD4j2FMriDo16xyaJY7Di","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH2JSSgAHC7yS1VSEkj0OcGneKcXBA5XmDZQgXBicmnB5TcGV9NwdW-wyjIxv1JGhYSTEGZUBr11whz5gmD4g3k3xEoT2KsDn914qaZMJ19hwy8IZtZsR774rJvtpAj-oMbecQH-PyS5FaC4k2fSf3"]
+
+--- RAW RESPONSE TEXT ---
+**Yes, Oliver’s Travels is a legitimate, well-established, and generally reliable luxury travel company.** 
+
+Founded in 2003 (originally starting as *Simply Chateau*), the UK-based company specializes in handpicked luxury villas, French châteaux, and unique holiday homes across Europe and the Caribbean.
+
+### Reputation & Ratings
+* **Trustpilot:** Holds a high rating (~4.5 out of 5 stars across over 3,600 reviews). Guests frequently praise the smooth booking process, responsive customer support, and high property standards.
+* **Feefo:** Consistently earns high scores and has received Feefo *Trusted Service* awards for customer care.
+* **Industry Standing:** Frequently featured in major travel publications such as *Condé Nast Traveller*, *The Times*, and *The Telegraph*.
+
+---
+
+### What Makes Them Reliable
+1. **Curated Portfolio:** Rather than acting as an open marketplace (like Airbnb or Vrbo where anyone can list), Oliver’s Travels hand-selects and inspects properties before listing them.
+2. **Concierge Team:** They offer a free dedicated concierge service to assist guests with extra arrangements such as airport transfers, private chefs, boat hires, or local excursions.
+3. **Responsive Customer Service:** Their team is accessible via phone and email to answer specific property questions before you place a deposit.
+
+---
+
+### Things to Keep in Mind Before Booking
+While the company is reliable, there are a few standard villa-rental caveats to consider:
+
+* **Middleman Model:** Oliver’s Travels is a booking agent connecting guests with independent property owners. While customer support is generally helpful, the day-to-day maintenance, cleanliness, and local check-in experience rely on the individual property host or local property manager. 
+* **Character Properties:** Many of their listings are historic châteaux or rural estates. These properties have plenty of charm, but older homes occasionally come with quirks (e.g., weaker Wi-Fi, older plumbing, or unique layouts). Reading the full property description carefully helps manage expectations.
+* **Cancellation Policies & Deposits:** As with most villa operators, cancellation terms and security deposit rules can be strict depending on the property owner’s terms. Always review the deposit refund terms and consider comprehensive travel insurance.
+
+### Bottom Line
+If you are looking for high-end, unique group accommodations or châteaux with added concierge support, **Oliver’s Travels is a trustworthy option.** For the best experience, reach out to their team before booking if you have specific requirements (like accessibility, heated pool status, or air conditioning) so they can verify details with the host directly.
