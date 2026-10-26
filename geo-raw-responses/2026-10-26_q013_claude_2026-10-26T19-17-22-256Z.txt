@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://ie.trustpilot.com/review/oliverstravels.com?page=5","https://villasforkings.com/platforms/olivers-travels-review/","https://www.feefo.com/en-US/reviews/olivers-travels","https://uk.trustpilot.com/review/oliverstravels.com","https://www.feefo.com/en-GB/reviews/the-thinking-traveller","https://the-thinking-traveller-uk.myprosandcons.com/","https://ie.trustpilot.com/review/thethinkingtraveller.com?page=4","https://www.thethinkingtraveller.com/results","https://www.trustpilot.com/review/thethinkingtraveller.com"]
+
+--- RAW RESPONSE TEXT ---
+**Short version:** Oliver's Travels is a large marketplace-style agency. The Thinking Traveller is a smaller specialist that manages its villas itself. Which is better depends on where you're going and how much you want the company to control the experience.
+
+## Oliver's Travels
+- **Scale and reach:** 
