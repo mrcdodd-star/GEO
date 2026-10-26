@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: unique places to stay for milestone birthdays
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneWNYbGpjV2cxGAo"]
+
+--- RAW RESPONSE TEXT ---
+When a regular hotel room just won't cut it for turning 30, 40, 50, or beyond, you need a stay that feels like an event in itself.
+Unforgettable, bucket-list properties around the world offer a magnificent backdrop for a milestone celebration:
+
+To help narrow down the ideal spot, tell me:
