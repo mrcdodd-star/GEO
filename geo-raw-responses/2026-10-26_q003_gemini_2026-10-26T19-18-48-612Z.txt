@@ -1,0 +1,83 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: stay in a castle UK
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS8lmCkBtL9v6vaAxMGnPJg7n0bOCfUl__sDwjl7xKDqKWIqxKPSj-_2Y2gBRSBC3U8hjPXToqAPQJtCWw8s1UJ-ev4vH6mk7P2twBTPFXw5heHj0g7K4jGFzhGBe2QZ7cuWb8dDRlo4usCDDbliSmMi2Ze_1GXPvxhjcYHtbuU0NqaGv9OQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1WT45ViNScI3zQiFGxXBqBiZ1pMOBRkswZ23ZyETmgFFAox0V6EA-BdQkL2R4Q-7wAUHQX9gTvESFT8KYTy81UBcUciz3VX42tgCFzDfIR6eKUVWNsm_uhj6l6e6kawNGZ-i_oQl1CuCwHCE=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU3hR_LBuvXIvxNRWqr5gaMql44ZW24QcUHQEdDhdVnMTq7Nnq97HLdEpdGT4aB5p_3Zo2kBEwVCDzjTKNUp3Tyzcwl0ps43zltvFyaU9W8zpOGbafFsgVOcd83Cxp7v-RwHpfpSVOwVXI6bdzZ-yWYb6ZU3kw","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkHdbr--bgPNxENQHaRmELp64gdqe3u7PpHuNw7zXzdHGwDrtYfSlkaj5CpF-uIGDDSjd3oVotalJ012frqCPSlG1Kc2NbOxxvZdcoDFKl2ug5av8crJYU67UgdUN0otjwv0rMumXz_FmEkd_R7zEwa6R_Ccuclyn5Vg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdoQteKbyIVol8JnNpL2hW-siNK29yafDo-lhKIsuRzA1ECP-fFxQ9vQCMNtSxLMlOE7YSkxg2KJOqjM7FG3L7s4_c_fiJ_d0edTZGVdn2J1JIIaJzVx_iHu47suYpOrOd5jS_8eFAkfc9y2rMYE2uyzcaFGed","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzGVHYDfZwRTUuHz6En8nvgYtQPgCFvN3iVWKhpvC9-sKlJOqZ5uviXvwjZH65BEsUDr2f5eNKfKWZmzXDEg0TLOUCVqoSRLYErW8daXZrlKTVuEHhja5zLoplQVjG2ADcbIufYvsc082Wxh4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPeW6fUfR3__1NbFOAXvoprUbZ-ZtnYtKpY9nQJuG_gBfYDXYTH8Sv9PjUmDvnIYdMxJTvHy2UK7ujshcQsfsZN-KXekcgTGcvwk5cO-b7clg6VHip1q3pR7_NADacktlUk0p5KXUF3xmiZcXb6MSA7M3lHR5aGcgI4mWSoyw_s6bWpSzBfRHvrpNzYM84ims=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTRNlgrLU9Wa1jpJZMK93mUZj7cXHB5Qql54MZHk8Kyvq5Y7vCz8psNo1ZpGJ4VzV3rX0gfvieW6r5diw_QvYkhgCD-01qdyc02K2Pzly114v67uaHBmrLHmTSjkW0iQpkrXXzPaytBAUKLr7DO8KwzskdO6s34SxRv-di","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDcMYgGsdjcyKqC6gxeZEI2NeSlTxdSuOeqVM3_vY8xnynkN333VMit9JZg64TmJNlxnUPku2Va4baj1v72DWMFvzx-10KFpv6EESgarHPpfY-KnUjPwDjh1W_pCRF-NNnj_0BzZZLy1fpR5aP6Vr8DDiuM4rwN9aU","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAs-zuOoYj6Om53Q2eEjpWC3Aj0ERFgpejQveNWFa8a4vZFLWjYRH3I5AC1oqns_9LO9ObBCLRId-VTIx-nA_eyoq3zi560ENa-ghS0aopb8fWifBfONIOe4aSat6NHH7zJffjr5u3SvVUgni1uVntR59DXi0jgYtRvL-8GnZMZlsTGzqeJznyOFYiqcKmITLkNpitKh32","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHUNMTRdfo1wAo14uJMnPjlBhmTKOPe8ubCgSgupw0PkzxjFylprUpnIi65ORiwZ6QiRH2HHtOFHuLPOs6hgBAsGwqhNhhXBSuKy7Fnr5E5nxwgASFr6XiKhKbeUnxun7gjszOaee67OPAkWpehg3YUuKgaCEwXWknKZ2Ky1nvgjSoiNJsxDZG8ZnIsiANvQ0-eg=="]
+
+--- RAW RESPONSE TEXT ---
+Staying in a castle in the UK is one of the most popular historic travel experiences, ranging from luxury 5-star castle hotels to self-catering medieval towers and gatehouses. 
+
+The top options across England, Scotland, and Wales, along with how to book them, include:
+
+---
+
+### **Top Castle Hotels in England**
+
+* **Thornbury Castle (Gloucestershire)**  
+  * **Highlights:** The only Tudor castle operating as a luxury hotel in England. King Henry VIII and Anne Boleyn famously stayed here in 1535.  
+  * **Experience:** Four-poster beds, stone fireplaces, grand dining rooms, and manicured gardens.
+* **Amberley Castle (West Sussex)**  
+  * **Highlights:** A 900-year-old medieval castle set within a curtain wall and a dry moat.  
+  * **Experience:** Pure romance—complete with a portcullis that lowers at night, fine dining, and peaceful gardens.
+* **Langley Castle (Northumberland)**  
+  * **Highlights:** A genuine 14th-century fortified medieval castle with 7-foot-thick walls.  
+  * **Experience:** Rooms inside the original keep feature four-poster beds, sauna suites, and window seats set into ancient stonework.
+* **Hever Castle (Kent)**  
+  * **Highlights:** The childhood home of Anne Boleyn.  
+  * **Experience:** Stay in luxury Bed & Breakfast rooms in the Edwardian wing adjacent to the castle, with access to the estate grounds and maze after hours.
+
+---
+
+### **Top Castle Hotels in Scotland**
+
+* **Inverlochy Castle (Highlands)**  
+  * **Highlights:** Nestled at the foot of Ben Nevis, Queen Victoria once stayed here and claimed she "never saw a lovelier or more romantic spot."  
+  * **Experience:** Ultra-luxurious 5-star country house castle with fine dining and stunning lake/mountain views.
+* **Glenapp Castle (Ayrshire)**  
+  * **Highlights:** A 19th-century Scots Baronial castle hidden in lush coastal woodland.  
+  * **Experience:** Opulent suites, sea views over Ailsa Craig, falconry, private sea-safari boat trips, and fine dining.
+* **Dalhousie Castle (Near Edinburgh)**  
+  * **Highlights:** Scotland’s oldest continually inhabited castle (13th century).  
+  * **Experience:** Features an on-site falconry center, a subterranean spa, and romantic dungeon dining.
+* **Mingary Castle (Ardnamurchan Peninsula)**  
+  * **Highlights:** A 13th-century coastal fortress sitting dramatically over the sea.  
+  * **Experience:** Carefully restored with only four exclusive suites, offering an intimate and remote luxury stay.
+
+---
+
+### **Top Castle Hotels in Wales**
+
+* **Château Rhianfa (Anglesey)**  
+  * **Highlights:** A French-château-style fairytale castle built in 1849 overlooking the Menai Strait.  
+  * **Experience:** Whimsical architecture, turret suites, and private sea-view gardens.
+* **Roch Castle (Pembrokeshire)**  
+  * **Highlights:** A 12th-century Norman castle standing high on a rocky footprint.  
+  * **Experience:** Striking contrast of historic stone exteriors with sleek, modern luxury interiors and panoramic coastal views.
+* **Ruthin Castle (Denbighshire)**  
+  * **Highlights:** A medieval castle steeped in Welsh history, surrounded by woodland and peacocks.  
+  * **Experience:** Known for hosting authentic historic medieval banquets alongside spa facilities.
+
+---
+
+### **Alternative Ways to Stay in a UK Castle**
+
+If you prefer self-catering or more unusual options:
+
+1. **The Landmark Trust ([landmarktrust.org.uk](https://www.landmarktrust.org.uk/))**  
+   * **What it is:** A charity that restores historic buildings and rents them out as self-catering accommodation.  
+   * **Examples:** You can rent entire gatehouses, iron-age stone towers, or fortresses like *Astley Castle* (Warwickshire) or *Clavell Tower* (Dorset).
+2. **English Heritage & National Trust**  
+   * Both organizations offer historic holiday cottages located right on castle grounds, such as *Peverell’s Tower at Dover Castle* or *Pendennis Castle Cottages* in Cornwall.
+3. **Family-Friendly Themed Stays (Warwick Castle)**  
+   * Offers glamping in the **Knight’s Village** or booking one of the luxurious **Tower Suites** inside the castle main building for a family adventure.
+
+---
+
+### **Booking Tips**
+
+* **Book Castle Rooms vs. Grounds Cottages:** Always check whether your room is located *inside* the main castle keep or in an adjacent estate building/lodge. 
+* **Book via Specialist Agencies:** Sites like **[Celtic Castles](https://www.celticcastles.com/)** specialize specifically in castle bookings across the UK and offer advice on room selection.
+* **Reserve Far in Advance:** Popular castle hotels (especially for weekend getaways and weddings) book out 6 to 12 months in advance.
