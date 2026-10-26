@@ -1,0 +1,20 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: luxury family holiday ideas Europe
+
+CITED URLS:
+["https://silverspoonlondon.co.uk/2026/01/the-best-luxury-family-hotels-in-europe.html","https://www.cntraveller.com/gallery/best-family-hotels-europe","https://www.sovereign.com/holiday-types/family-holidays/europe/","https://thetravelexpert.ie/europe/the-best-family-resorts-in-europe/","https://tinytravelship.com/hidden-gem-family-holidays/"]
+
+--- RAW RESPONSE TEXT ---
+Luxury family holidays in Europe combine five-star relaxation for adults with world-class, engaging activities for children and teens.
+1. The Mediterranean Beach & All-Inclusive Escape
+
+2. Alpine Adventure & Nature Retreats
+
+3. Culture, Castles & Countryside Estates
+
+Comparison of Top Luxury Family Styles
+
+If you tell me the ages of your children, your preferred season or month, and whether you prefer beach, mountains, or culture/city, I can narrow down the exact resort and itinerary for you.
