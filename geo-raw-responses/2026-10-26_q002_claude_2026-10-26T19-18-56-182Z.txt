@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best destinations for large group holidays
+
+CITED URLS:
+["https://www.allatsea.co.uk/news/the-20-best-destinations-in-the-world-for-family-and-group-travel-in-2026/","https://www.sunsail.com/uk/blog/best-family-and-group-holiday-destinations","https://monkeytravel.app/blog/best-group-trip-destinations-2026","https://ca.news.yahoo.com/travelling-friends-most-popular-cities-050002448.html","https://travelscape.ai/blog/best-group-travel-destinations-2026","https://www.squadtrip.com/guides/best-group-travel-destinations-in-for-friends-teams-and-retreats/","https://traveleosolo.com/group-vacation-ideas/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some strong options, grouped by the kind of trip.
+
+## Beach and island holidays (Europe)
+- **Sardinia, Ibiza and Lake Garda:** 
