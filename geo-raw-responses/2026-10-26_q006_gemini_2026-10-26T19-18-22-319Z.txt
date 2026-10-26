@@ -1,0 +1,75 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: chateau rental south of france
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Renting a château in the South of France is one of the ultimate luxury vacation experiences—whether you are planning a family reunion, a destination wedding, a milestone celebration, or a relaxing retreat among vineyards.
+
+Here is a guide to the **best regions**, **what to expect**, **top booking platforms**, and **tips for booking**.
+
+---
+
+### 1. Popular Regions in the South of France
+
+* **Provence & Luberon**
+  * **Vibe:** Lavender fields, olive groves, sunny stone architecture, historic wine estates.
+  * **Best For:** Wine lovers, foodies, market lovers, and scenic countryside retreats.
+  * **Popular Towns Nearby:** Avignon, Gordes, Aix-en-Provence, Saint-Rémy-de-Provence.
+
+* **French Riviera (Côte d'Azur)**
+  * **Vibe:** Coastal elegance, Belle Époque grandeur, cliffside views, high-end nightlife.
+  * **Best For:** Luxury seekers, yachting, coastal views, proximity to Cannes, Monaco, and Saint-Tropez.
+  * **Popular Locations:** Cap Ferrat, Mougins, Grasse, Saint-Tropez hinterland.
+
+* **Occitanie / Languedoc-Roussillon**
+  * **Vibe:** Ancient Cathar history, massive wine estates, rustic medieval charm.
+  * **Best For:** Great value luxury, large group gatherings, peaceful vineyard stays near the Mediterranean.
+  * **Popular Locations:** Near Carcassonne, Montpellier, Béziers, Uzès.
+
+* **Dordogne & Lot (Southwest France)**
+  * **Vibe:** Turreted fairy-tale castles, river valleys, lush greenery, pre-historic caves.
+  * **Best For:** Classic historic castles, canoeing on the Dordogne, truffle hunting, relaxed countryside living.
+
+---
+
+### 2. Recommended Booking Platforms & Agencies
+
+Depending on your budget and desired level of service, several specialized platforms cater to château rentals:
+
+* **Ultra-Luxury & Full Service:**
+  * **[Le Collectionist](https://www.lecollectionist.com):** Specializes in high-end, fully staffed luxury châteaux and villas in Provence, the Riviera, and Southwest France.
+  * **[Oliver’s Travels](https://www.oliverstravels.com):** One of the largest curated collections of handpicked châteaux in France, categorized by group size, pools, and weddings.
+* **Direct-with-Owner & Boutique:**
+  * **[Château Rental / Pure France](https://www.purefrance.com):** Long-standing agency focused specifically on French countryside properties and châteaux with private pools.
+  * **[French Chateau](https://www.frenchchateau.com):** Direct listing portal connecting renters with château owners.
+* **General Luxury Outlets:**
+  * **Airbnb Luxe** & **Vrbo** (filter by "Castle / Château" property type).
+
+---
+
+### 3. Key Considerations Before Renting
+
+* **Event vs. Standard Holiday:**
+  * If hosting a wedding, party, or corporate retreat, confirm the property allows **events**. Many châteaux charge an additional *event fee* or require using preferred caterers.
+* **Staffing & Services:**
+  * Some châteaux are **self-catering** (you rent the keys and cook/clean yourself), while others offer **full service** (private chef, daily housekeeping, butler, concierge).
+* **Air Conditioning:**
+  * Summers in the South of France can be very warm (July–August). Many historic châteaux have thick stone walls that stay naturally cool, but not all have modern central A/C in every bedroom. Check bedroom specifications carefully.
+* **Seasonality & Pricing:**
+  * **Peak Season (July – August):** Highest rates, Saturday-to-Saturday minimum stays (often 7 nights).
+  * **Shoulder Season (May, June, September, October):** Excellent weather, lower rates, and more flexible stay durations.
+
+---
+
+### How to Narrow Down Your Search
+
+If you'd like tailored recommendations, let me know:
+1. **Group Size:** How many guests / bedrooms do you need?
+2. **Purpose:** Is this a vacation, a wedding/event, or a wine tour?
+3. **Preferred Region:** Coastal (Riviera), Countryside/Vineyards (Provence), or Historic/Forest (Dordogne)?
+4. **Estimated Budget:** Per night or per week?
