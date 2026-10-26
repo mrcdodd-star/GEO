@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com","https://www.trustpilot.com/review/oliverstravels.com?page=10"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels generally maintains a strong reputation among travelers looking for luxury villas, chateaux, and unique group accommodations.
+The Overall Consensus
+
+Common Themes in Reviews
+
+If you're planning a trip, let me know:
+
+I can help give you a better idea of what to look out for or suggest specific destination guides!
