@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best luxury villa rental companies
+
+CITED URLS:
+["https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://hauteretreats.com/the-best-luxury-villa-rental-company/","https://azbigmedia.com/lifestyle/travel/the-best-luxury-villa-rental-companies-in-mykonos-2026-guide/","https://www.luxurytravelmagazine.com/news-articles/best-luxury-vacation-rental-companies-2026","https://en.wikipedia.org/wiki/Onefinestay","https://rentalsunited.com/blog/luxury-vacation-rental-websites/"]
+
+--- RAW RESPONSE TEXT ---
+Different rankings favor different companies, and some of the sources are promotional. Here are the names that come up most often, grouped by type.
+
+**Global luxury villa specialists**
+- **Icon Private Collection**: Spear's ranks it "Top Recommended." 
