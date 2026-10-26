@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best luxury villa rental companies
+
+CITED URLS:
+["https://www.cntraveller.com/article/best-villa-rental-companies-2026","https://www.thethinkingtraveller.com/conde-nast-traveller-readers-travel-awards","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RZeVkzbGZOWG8YCg"]
+
+--- RAW RESPONSE TEXT ---
+When looking for the finest high-end holiday home experiences, top-tier villa rental specialists stand out by offering rigorously inspected properties, bespoke local concierge support, and tailor-made itineraries.
+The industry's leading luxury villa rental companies, highly regarded by travel authorities and discerning travelers alike, include:
+
+If you have a specific destination (e.g., Greece, Italy, Caribbean) or group size in mind, I can narrow down which of these companies is the best fit for your trip.
