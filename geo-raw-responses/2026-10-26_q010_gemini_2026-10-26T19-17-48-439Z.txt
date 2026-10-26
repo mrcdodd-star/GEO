@@ -1,0 +1,67 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: multigenerational luxury holiday homes
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv4SddCnlGDBi8a0PhhJ6UvMuGiqHkivnO5vwKaL4lbUE8zxTqL2Gfs43b6AxuURMbVOwD37J4eTELFZhF26EctXHjeBRR49BJE_ALCSp51cpp8W6V0z2LUIyoaC3ALO288LD6_Cy1b8vfyFm87H9--o8IVLLS2DmCOhocG7ml4gpX4-PctKQHsyQ44BiMyHIs8eX9-dRlt7ClWBkQwynXQVyZWQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeSfaP2H_7wQ9Z9EVdZxCO0rShmWXjMAIPfzcxhGIx_kZ-lahpYKcyhmlTQIeLbjl6JRyiu1XxRocmjjlMu9TsxieUn3WXIH8lreY4WB8NBtf8nomYuonOKfeTjN5E8hIXYWJ3xuZZip8U0PJ3EkL4u2rvlw5T4HiuDQ5_lMdsUQRW4sqR4dUSB3i_4r8iQu1AN6JsupzsaxvULZ_JQHCCkA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qfQyqr2m85WGqFS5i6P26u_Vdh58N_sCw1lhJhy7T3yaE1j6tOk8M9wyTzoOABKw9GspE8JEGkkCD6KoFzF2h4OoPdqhAiVED0Rr23rhuYD3jbAkqbFjQSU8iCIjomKkB1p6_9Sn7KhFwzpNekhHNUJuMHTuVLB33XdD_uOAv3QRUE51qCtR2FPcaBvFKCxkBotZh2kJvmOVHMPjvrA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRuQ8f5r3h7byYdkTFlXXozzkY0hWM03VmojWP55ycCnDtyvGQj3ykzPDZPHn1CURf9-mSId5A9rd327t1ebiVEepNmle2EHMUAF2BVMBBoss5FAtp3couWevaVxjUtQorHaV2Af9fgitk8Ei82bRyimSQBVI1hwZiXBZ0670HlQbbuo07sN_Btm2xKCCD-icdSr40l0S5PHbgOcjeiRGDSP2nWqVii7I=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJCN2XPjiQUV78S_Pz0jSpLRPJJSJg6c0W2X_8nkR_51cfm-duIhc0XkIx6FweVt93wUVbLNC_hbi3D9eV_7pREJ9fR_8Qp2z19tfRxGbBSTcirGx2nqWgSDjt3Y4hLOauYxlHlsSJ7LJxKwJ1bidQA4WiTPEGRHrjehpNizF3xHfMELZoI7o1eCos-g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUNG6XZOj45ZI6vmYeJ1WTm9EHiw7BwdkmITNzLaHkeIubxzpggKEQpNYFGbz-IYYHC1Qtl_fZsTm8lFHSfwuOJdc_2EMzbpOpU-2mKhZpWv8wrrjtgmWf88q2K8ZqaH-Tyz4Mq6YfaLaS38GInfeaSj9kPfsmugVDb24QWvCnrW5XFCoYhdNFO5HxcwZuxL0v4XzOPviu8M-eTQiCLK8fdNsP9_htAq6BPJvUcPlwaYfMfj-DsfPz0MPr","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2lg5weanBqY3b_cWXQOipHuJUnylQ6h02UqDakqNa9kBSOmMjM07m_FBCX0phbrfEVYjxqgNW5PdARm1xHjrMNFq43YImwokrATSqHyiZo7HIYb6akNwe7tM4OURiGyWWdfrlCDurd-8SALmt8eiXqC_iVdM4xYsTrBCWprEv2KYnEzQlXt7wiGxG69UKALa838wIcG6A_sFh8N-Tiqj1aMwLzoDHGMDa_JRvewkEdAzfe_M=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE23x03yCwhVlFrbfAojtV0k0Ahr4RRnrcPGM_imevcAcFOFa6wSxIxRp0D1dDdwatUMSvtBrB6_VrqEUPOHJrM476e-ayC7D_lVcEIN1v23Je7DfxgVL8lgYrW-hLDg8mzdqne-u6aaq0ZTMPsvXTMwaFtPUB1ubo9CGhbvRn_Vs9yruMNvDWXwrQEtUKhgyp4To081Tu_rdOA","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61zs4Hfgb_MrsIAdHwKRb66io72XHaj9K0SHONrZh6rBbHaU8YBZOLh308c4wXB_FpjH9UYpLi92HbPt_ls2EvEiTpxlc4vMIROPjTtvXQJekw62mxkkSLB4kVDTMD1jrhPdvyEM6pqWto318M5L_2jkl4HwUfZmn5TeBBaCkQMCoQhCRGMrdqQwROGCFigzM3JHFZmdHAtG4chiyhOBErZrdB4SQPjVG7sXIoffl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT59baYzg_jjQrTvPMH0OHJFcDp2OYqb21yjSy8HrS5EquA0ZbwNIcO0S11LXi0eR6TTCJnpbBfJtdWkqul_XGd0y-La03rKNoeoYhsAyGPupyvn0kg2Oiar8FsplZjuYAK5HS3lWPdQP7imV2wN6y7Om1Ks5IX7Cg_eRt23Vx44ZfsS6gY9HGrk5yzkGoAvlgbGqiJYCDR-H4tQxhKZhB2uYObbit","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5nRvxm6l4vg59Hsv5q_SLJdBnRMRfU8VlXohqB5k5J_Ywcwn1SiIHDk3Jl7Vp8isSsE_FW0hL2RVP3oYtJsOrWIM6rYRa6CGvvvuphuwTGvuYRRrEF06x5uOWOoUIo-j9PpPIT3XIl9CvT4M2OWZi6wN1AiAxcy01WziuUKr-l2gr"]
+
+--- RAW RESPONSE TEXT ---
+**Multigenerational luxury holiday homes** (often referred to as *destination family compounds* or *3G retreats*) have become one of the fastest-growing segments in high-end real estate and travel. Driven by a shift toward creating shared family legacies and meaningful connection ("inheritourism"), families increasingly opt for expansive, private estates rather than traditional hotels.
+
+Whether you are looking to **rent for a family holiday**, **buy a legacy estate**, or **design a multi-family property**, key considerations define a modern multigenerational luxury home.
+
+---
+
+### 1. Essential Architectural & Design Features
+The primary design challenge of a multigenerational home is balancing **togetherness with independent privacy**. A great estate allows grandparents, parents, teens, and young children to coexist without crowding each other.
+
+* **Zoned Living Wings & ADUs:** Rather than a single massive house, top estates feature main residences paired with detached guest houses, pool houses, or self-contained suites (ADUs). This allows separate families or couples to retreat to their own private domain.
+* **Dual (or Multi) Primary Suites:** Providing multiple ground-floor primary suites ensures that grandparents and adult siblings don’t have to compete for the best bedroom.
+* **Tiered Bedroom Configurations:**
+  * *Grandparents:* Accessible ground-floor suites with walk-in showers, zero-threshold entry, and quiet garden or ocean views.
+  * *Parents:* Spacious en-suite king bedrooms.
+  * *Kids & Teens:* Custom built-in bunk rooms with dedicated media lounges or gaming snugs.
+* **Expansive Dining & Social Hubs:** A dining table that comfortably seats 12–20+ people indoors and outdoors, alongside oversized open-concept chef's kitchens where the family can gather.
+* **Universal Accessibility:** Step-free entries, elevators, wide doorways, and gradual pool entries make the home comfortable for mobility-impaired guests and toddlers alike.
+
+---
+
+### 2. High-Demand Amenities & Facilities
+Modern luxury travel trends highlight that traditional amenities like standard hot tubs are giving way to niche, active, and wellness-focused additions:
+
+* **Wellness & Recreation:** Private padel or pickleball courts, saunas, cold-plunge pools, yoga pavilions, and private gyms.
+* **Entertainment Zones:** Private screening rooms/cinemas, bowling alleys, game lounges, and outdoor fire pits for evening gatherings.
+* **Resort-Style Grounds:** Infinity pools with shallow splash zones for children, outdoor kitchens with pizza ovens, and quiet shade cabanas for reading.
+
+---
+
+### 3. Top Global Destinations & Property Styles
+
+| Destination | Property Type | Why It Works for Multigenerational Stays |
+| :--- | :--- | :--- |
+| **Tuscany & Umbria, Italy** | Historic Restored Estates / Villas | Spread across acres of land with separate guest annexes, vineyard views, and slow-paced living. |
+| **Caribbean & Hawaii** | Oceanfront Beachfront Compounds | Direct beach access, water sports for younger generations, flat terrain, and open-air pavilions. |
+| **Aspen, Vail, & Swiss Alps** | Ski-in / Ski-out Alpine Lodges | Multi-level lodges with fireplaces, ski rooms, private spas, and proximity to non-skiing winter activities. |
+| **UK Countryside (Cotswolds, Cornwall)** | Stately Manor Houses & Farmsteads | Large dining halls, sprawling gardens, and easy accessibility for European-based families. |
+
+---
+
+### 4. Full-Service & Concierge Expectations
+For true high-end multigenerational holidays, management services are critical to avoid putting the burden of host duties onto family members:
+
+* **Private Chef & Catering:** Custom meals that accommodate multi-generational dietary needs (from toddler picky-eaters to fine dining for adults).
+* **On-Demand Staffing:** Daily housekeeping, private butler service, and dedicated estate managers.
+* **Tailored Itineraries:** Concierge-curated activities, such as hands-on local cooking classes, boat charters, private wine tastings, and guided nature tours suitable for all fitness levels.
+
+---
+
+### 5. Key Planning Advice
+
+* **If Renting:**
+  * **Book Early:** Properties with 6–10+ en-suite bedrooms and accessible layouts are in high demand and limited supply; secure them **9 to 12 months in advance**.
+  * **Verify Floor Plans:** Confirm door closures (for sound control), elevator access, and actual bedding counts (ensuring beds are real kings/twins, not sofa beds).
+
+* **If Investing/Buying:**
+  * **Look for Contiguous Lots:** Buying adjacent land to build out a multi-structure compound provides long-term legacy value and high resale appeal in the luxury real estate market.
