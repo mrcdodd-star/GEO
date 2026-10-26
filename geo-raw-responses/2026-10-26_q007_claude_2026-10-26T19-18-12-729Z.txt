@@ -1,0 +1,11 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: large party houses to rent for 20 guests
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+[EMPTY_OR_UNPARSED_RESPONSE]
