@@ -1,0 +1,11 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels discount code
+
+CITED URLS:
+["https://www.oliverstravels.com/italian-tours/","https://www.dontpayfull.com/at/oliverstravels.com"]
+
+--- RAW RESPONSE TEXT ---
+The only code Oliver's Travels itself publishes is **OLIVERS24**, which takes 5% off the total price. 
