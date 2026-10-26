@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: unique places to stay for milestone birthdays
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It seems like your last message came through as `{{ $json.query_text }}` — possibly you meant to send a different query but it got encoded by mistake.  
+
+Could you re-type your question or tell me what you’d like help with?
