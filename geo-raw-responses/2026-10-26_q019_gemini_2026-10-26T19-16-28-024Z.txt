@@ -1,0 +1,36 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels concierge team
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOgkqtNuZuM5DOOR9DpJo4XfkMgeCY5xTr1xMQV7P1OtU693-5imla2mLGez8W0h-ieum9HS66EjhvMlY1gdetkpC72G0cSXgiMfkUvOSUSHPCljA8rcJqK8TVu5CqjuKlAm5SkhJEsQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyx203h34yA8zG8wLwDPa5KNuLXvLL2CGfr0npJIbrqJsuzRQdiAF9mujKdy9OLfE9JdswMy1oVvcmzAZQylOUUjjri6u3byuepL76EsqlZBahdRGiOeFyIyFHIQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyc8c2zwI_vcjheXh51AKbbjqUdhKw48sSi6oNKrgvFfx4VYBNXfFgWZS80XuRJ5_FtiPzz6rqpeLMSV0NfRjqmrD3vK5C0XSpr6mh9SS8_jt2ygSF0DLN7mrcqgbbVIZFIOUNkHhYoZ_2t8pDyQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOtoKlGgC7_j3R_Qog0doHhUwaHUfDh8BKNsKI3pdLXk9-vjPdWx4w2VnY-0GPnn8b7mxNjF6Z87sjcrj8Xp5QAwe1VI8_6jGOg3Zwh4_OwYBc-QDs1kTvyakBGmZVv0GwpuIA67A87VISSUN7mEoFAXKvVFYH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLYcYMY1SCtTqCeslPr4EpjxVKfoKgT7hADytsnu3sGAnMvyePSt-pVlraywEfC-qzotGLipDhkvPzvUz1z5ng0DV4LDEK-2jzqyMb5sJAT9OD0FY8zPfdV7YAy4E="]
+
+--- RAW RESPONSE TEXT ---
+**Oliver’s Travels** offers a complimentary pre-arrival concierge service for guests booking luxury villas, châteaux, or holiday homes. 
+
+---
+
+### Key Services Offered
+The concierge team helps customize your trip before you arrive:
+
+* **Private Chefs & Catering:** Arrange local private chefs, caterers, or special event meals tailored to dietary requirements.
+* **Fridge Stocking:** Have groceries, fresh local produce, and essential food/drinks delivered before you arrive.
+* **Tours & Experiences:** Book local wine tastings, cooking classes, guided tours, or custom event packages.
+* **Transport & Travel Extras:** Coordinate airport transfers, car rentals, taxi bookings, or ski passes/ski hire.
+* **Housekeeping:** Schedule extra mid-week cleans, towel/linen changes, or daily housekeeping services.
+
+---
+
+### How to Use the Concierge Service
+1. **Timing:** Requests should ideally be submitted **at least 6 weeks prior** to your holiday start date.
+2. **Submit a Request Form:** Once a booking is confirmed, complete the **Concierge Request Form** on the Oliver’s Travels website using your **6 or 7-digit booking number** and lead booker email address.
+3. **Costs:** The concierge planning service itself is included with your stay, but the underlying third-party services (e.g., groceries, private chef fees, car rentals) incur separate charges.
+
+---
+
+### Contact Information
+* **UK Phone:** `0333 888 0205` or `0333 058 8342`
+* **General Email:** `info@oliverstravels.com`
+* **Website:** [Oliver's Travels Concierge Service](https://www.oliverstravels.com/concierge/)
