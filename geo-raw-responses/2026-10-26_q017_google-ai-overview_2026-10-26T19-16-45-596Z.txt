@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Oliver's Travels discount code
+
+CITED URLS:
+["https://oliverstravels.promopro.co.uk/","https://www.nhsdiscounts.org.uk/oliverstravels.com","https://www.oliverstravels.com/owner-signup/"]
+
+--- RAW RESPONSE TEXT ---
+Official, sitewide promo codes for Oliver's Travels are rarely published as static text codes, and most third-party coupon aggregator codes have expired or are restricted to specific member accounts.
+To secure the best price for your villa booking, use these reliable alternatives:
+
+If you share your destination, preferred travel dates, or the number of guests, I can help you look for properties that currently feature special perks or package deals on the Oliver's Travels Official Website.
