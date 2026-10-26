@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels concierge team
+
+CITED URLS:
+["https://www.oliverstravels.com/concierge-services/","https://grifcopr.com/client/kempinski-hotel-muscat-2/","https://www.oliverstravels.com/concierge/travel-services-2/","https://www.oliverstravels.com/about/why-book-with-us/","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://villasforkings.com/platforms/olivers-travels-review/"]
+
+--- RAW RESPONSE TEXT ---
+Your message was just the name of the team, so I'm not sure what you need. Here is an overview of the Oliver's Travels concierge team. Tell me if you wanted something else, such as contact details, a draft enquiry, or a comparison with other villa companies.
+
+**What they do**
+- 
