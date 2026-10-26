@@ -1,0 +1,23 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: private villa for 12 guests Algarve August
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like you submitted a template placeholder (`{{ $json.query_text }}`) rather than a concrete query. If you’re working with JSON data and want to extract or format something, I can definitely help—but I’ll need more detail.
+
+Here are a few clarifying questions to get started:
+
+1. What’s the JSON structure you’re working with (a sample would be great)?
+2. What exactly are you trying to get out of that JSON? Examples:  
+   • extract all names from nested records  
+   • filter items based on a condition (e.g. price < 100)  
+   • sum up or aggregate values  
+   • transform parts of the data  
+3. How are you performing this query/tooling: code (Python, JavaScript, SQL?), an app/web tool, etc.?
+
+If you share a real example, I can walk you through the query syntax (e.g. JSONPath, JMESPath, or a custom format) and build the exact expression you need.
