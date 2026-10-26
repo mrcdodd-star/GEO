@@ -1,0 +1,11 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: chateau rental south of france
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Looks like your input came through as a template placeholder (`{{ $json.query_text }}`), so I don’t have the actual query text to work with. Could you send me the real query or the JSON it refers to? Once I’ve got that, I can help you run it, correct it, or explain how it works.
