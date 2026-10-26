@@ -1,0 +1,15 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: luxury villa holidays 2027
+
+CITED URLS:
+["https://www.travelandtourworld.com/news/article/ejg24m3f1dx9/","https://www.cvvillas.com/2027/","https://impactwealth.org/luxury-travel-destinations-2027/","https://ikh.villas/beach-holidays-2027-the-ultimate-guide-to-the-worlds-most-beautiful-seaside-destinations/","https://www.homeinitaly.com/magazine/post.php?post_id=424","https://ikh.villas/ikh-villas-2027-the-ultimate-luxury-villa-rental-experience-in-europe-and-beyond/","https://www.thetopvillas.com/collections/future-stays","https://hauteretreats.com/","https://www.styleessentials.in/post/luxury-travel-trends-2027-affluent-travellers","https://pulserevops.com/living/lv127"]
+
+--- RAW RESPONSE TEXT ---
+# Luxury villa holidays in 2027
+
+## Where to go
+
+**Greece:** 
