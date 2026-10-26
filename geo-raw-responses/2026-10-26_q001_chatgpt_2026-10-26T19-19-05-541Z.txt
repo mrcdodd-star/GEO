@@ -1,0 +1,24 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: luxury family holiday ideas Europe
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like your message `"{{ $json.query_text }}"` is a placeholder or template variable — I’m not seeing any actual query text or content to work with. Could you paste in what you meant by `{{ $json.query_text }}`? 
+
+If you're trying to run a JSON query (or a JSONPath/JMESPath/JSON Query Language expression), it’d help if I had:
+
+1. The JSON data you're working with  
+2. The query you want to use (or what you're trying to extract)  
+
+Once you share those, I can help you:
+
+- Construct the correct query syntax  
+- Pick the right query language (JSONPath, JMESPath, JSON Query Language, etc.)  
+- Extract the right data  
+
+Feel free to drop that in!
