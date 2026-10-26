@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: chateau rental south of france
+
+CITED URLS:
+["https://www.southfrancevillas.com/french-chateaux-for-rent","https://www.classic-french-escapes.com/our-properties/chateaux-and-manoirs/","https://www.oliverstravels.com/rent-chateau-france/","https://www.chicvillas.com/castles-for-rent-dordogne-south-west-france-th-37.html"]
+
+--- RAW RESPONSE TEXT ---
+Renting a château in the South of France costs anywhere from £1,700 (€2,000) to over €17,000 per week, depending on the size, location, and luxury level of the estate.
+Top Châteaux and Domains in the South of France
+
+Key Regions for South of France Châteaux
+
+What to Consider Before Booking
+
+To help narrow down the best options, let me know:
