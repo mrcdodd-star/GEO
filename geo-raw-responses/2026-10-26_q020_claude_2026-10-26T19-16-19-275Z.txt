@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels booking terms and conditions
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/","https://oliverstravels.com/terms/?j=757977&jb=243&l=163_HTML&mid=7234958&sfmc_sub=99062510&u=20659344","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://www.oliverstravels.com/faq/"]
+
+--- RAW RESPONSE TEXT ---
+Here are the main points from the Oliver's Travels (oliverstravels.com) Agency Terms and Conditions. The full text is at oliverstravels.com/terms-and-conditions/. Check it before you book, because the terms may change.
+
+**Who your contract is with**
+- Oliver's Travels 
