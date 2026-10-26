@@ -1,0 +1,41 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: luxury villas in Tuscany with private pool and chef
+
+CITED URLS:
+["https://book.pasv.us/en/working-with-data/expressions/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Looks like you've entered the placeholder `{{ $json.query_text }}`—that’s typical of templating or scripting systems, especially in tools like n8n.
+
+Here’s what it means and how it works:
+
+---
+
+## ✅ What It Means
+
+- The double curly braces `{{ … }}` denote an **expression** in tools like n8n (a workflow automation platform) and similar low-/no-code tools. It tells the system to evaluate what's inside them dynamically when the workflow runs. ([book.pasv.us](https://book.pasv.us/en/working-with-data/expressions/?utm_source=openai))  
+- Inside those braces, `$json.query_text` refers to a field named `query_text` from the JSON data flowing through the workflow. `$json` points to the current item's JSON payload. That might come from a webhook, a previous node, a form input, etc. ([book.pasv.us](https://book.pasv.us/en/working-with-data/expressions/?utm_source=openai))
+
+So, `{{ $json.query_text }}` basically means: “Replace this with whatever the current item's `query_text` value is when the workflow executes.”
+
+---
+
+## ⚙️ How It Gets Used
+
+- **Filling dynamic content**: For example, if you’re sending an email or message and want to repeat or reference something the user said, you’d use this placeholder. If `query_text` was “Hello World,” it would output “Hello World.”  
+- **Routing or filtering**: You might use it in conditions to decide what happens next based on what the user entered.  
+- **Logging or passing data along**: You might forward `query_text` somewhere else via API, or store it based on user input.
+
+---
+
+## 🔍 Why It's Useful
+
+- Lets workflows be **dynamic** and **context-aware**—they can adapt based on prior steps or data that came in.  
+- Keeps things DRY (Don’t Repeat Yourself): You don’t need to hard-code messages or values; you just reference the field you need.  
+
+---
+
+If you want, I can help you see some examples of using this in real workflows (n8n, Aimylogic, whatever you're using). Interested?
