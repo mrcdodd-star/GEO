@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Oliver's Travels concierge team
+
+CITED URLS:
+["https://www.oliverstravels.com/concierge-services/","https://www.oliverstravels.com/about/why-book-with-us/","https://uk.linkedin.com/company/olivers-travels","https://www.oliverstravels.com/contact/"]
+
+--- RAW RESPONSE TEXT ---
+The Oliver's Travels Concierge Team provides a complimentary holiday planning and bespoke service to help guests customize their stay at any of their luxury villas, châteaux, or unique properties.
+Core Concierge Services
+
+How to Contact the Team
+You can reach out to Oliver’s Travels or their concierge services via their official channels:
+
+If you have a specific villa booking or destination in mind, let me know what kind of arrangements (such as a private chef, airport transfer, or fridge stocking) you are looking to set up.
