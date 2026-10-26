@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: stay in a castle UK
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSFxIVCgNwdnESDkNnZ3ZiUzh3T1hjM2VBGAo","https://www.google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TkdOeGVHdxgK","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3WXpOMk9UazQYCg","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3T1dkcWFuUTQYCg","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3Tm5jMVlqSm0YCg"]
+
+--- RAW RESPONSE TEXT ---
+Staying in a UK castle offers a mix of historic charm, opulent four-poster beds, and dramatic countryside grounds. Outstanding castle properties across England, Scotland, and Wales cater to different travel styles:
+
+To help narrow down the ideal castle for your trip, let me know:
