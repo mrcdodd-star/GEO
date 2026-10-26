@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: book Villa Saint-Cyr Provence
+
+CITED URLS:
+["https://www.oliverstravels.com/france/south-of-france/provence-alpes/villa-saint-cyr/","https://www.purefrance.com/83068/holiday-villa","https://big-cottages.com/properties/france/provence/var/arrondissement-of-draguignan/seillans/villa-saint-cyr"]
+
+--- RAW RESPONSE TEXT ---
+Villa Saint-Cyr in Provence is located on the edge of Seillans (one of France's official "plus beaux villages") in the Var department. Because it is a private rental property rather than a traditional hotel, it is featured across major specialized villa rental platforms.
+You can review availability, property details, and booking options directly through these primary listing agents:
+
+If you share your intended travel dates and the number of guests, I can help provide more details on the property layout, nearby travel logistics from Nice or Toulon airports, or alternative options in the area!
