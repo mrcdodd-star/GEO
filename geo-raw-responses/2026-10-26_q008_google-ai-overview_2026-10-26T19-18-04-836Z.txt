@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: luxury villas in Tuscany with private pool and chef
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaemRqWmtabDluGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKdGNYQXlaek0xGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM2NURjROV3BzGAo"]
+
+--- RAW RESPONSE TEXT ---
+Tenuta Schifanoia, Villa Ardore, and Villa Le Colline are premier luxury villas in Tuscany that feature private pools, historic charm, and dedicated private chefs or culinary services.
+Top Luxury Tuscan Villas with Private Pool & Chef
+
+Key Planning Considerations
+
+If you can share your preferred travel dates, number of guests, and target area (such as Chianti, Florence countryside, or Val d'Orcia), I can narrow down availability and specific package details.
