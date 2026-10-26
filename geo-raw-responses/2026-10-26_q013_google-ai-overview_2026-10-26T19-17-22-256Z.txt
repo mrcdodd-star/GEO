@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://www.cntraveller.com/article/best-villa-rental-companies-2026","https://www.thethinkingtraveller.com/","https://www.telegraph.co.uk/travel/advice/trick-finding-perfect-italian-holiday-villa/","https://www.oliverstravels.com/","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/"]
+
+--- RAW RESPONSE TEXT ---
+Both The Thinking Traveller and Oliver's Travels are top-ranked European luxury villa rental agencies—holding the #1 and #2 spots respectively in the Condé Nast Traveller Readers’ Choice Awards—but they differ significantly in portfolio size, curation style, and geographic focus.
+
+The Thinking Traveller
+
+Oliver’s Travels
+
+Are you planning a trip to a specific country or region (like Italy or Greece), or looking for a villa for a particular occasion (like a wedding or family reunion)? Tell me what you have in mind and I can help you choose the right fit.
