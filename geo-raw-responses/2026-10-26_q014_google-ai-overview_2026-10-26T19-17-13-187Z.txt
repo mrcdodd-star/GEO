@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Plum Guide alternatives
+
+CITED URLS:
+["https://bridgesandballoons.com/airbnb-alternatives/","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhsNWQycHVjURgK","https://www.plumguide.com/"]
+
+--- RAW RESPONSE TEXT ---
+Top alternatives to Plum Guide include curated, high-end vacation rental platforms like Airbnb Luxe, OneFineStay, VRBO (Premier Hosts), and Unique Homestays.
+Comparison of Plum Guide Alternatives
+
+Detailed Breakdown of Top Alternatives
+
+If you share where you are planning to travel and your group size or budget, I can recommend which specific platform or property style fits your trip best.
