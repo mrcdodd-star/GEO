@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Oliver's Travels discount code
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Hey! It looks like you entered `{{ $json.query_text }}` — this appears to be a placeholder variable, likely from a templating or chatbot system. It suggests you want the text of a JSON object's `query_text` field.  
+
+Here are a couple of questions to better help:
+
+ • Were you trying to show me what you meant — or did you intend to ask something using that variable?  
+ • Can you paste or describe the contents of `query_text` so I can see what you’re asking about?
+
+If you tell me what’s in `query_text`, I’ll be able to respond properly.
