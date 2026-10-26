@@ -1,0 +1,19 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+It looks like the string `{{ $json.query_text }}` is probably a template placeholder—not an actual question. It’s often used in templating systems or automation tools like n8n or other JSON-based workflows to insert the content of the `query_text` field from a JSON variable.
+
+Can you tell me how you'd like to use it? For example:
+
+- Are you trying to parse or extract data using that placeholder?
+- Are you writing a template or script that uses JSON inputs?
+- Do you want help understanding how to use or replace `{{ $json.query_text }}` in a specific context?
+
+If you give me a bit more detail (what system you’re using, what your goals are, what data you have), I can help turn that placeholder into something useful.
