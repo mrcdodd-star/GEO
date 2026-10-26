@@ -1,0 +1,78 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: luxury villas in Tuscany with private pool and chef
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgcAkTO6IQ6S348YxB1c6dCHYCJFFLjJE-NjR--HT4zAxuFXVKbHHLEvbH3FPEuLeSzyjbwgLi6V0kAkAkpAZyj6p-KLOeorsniFFaUDnxAxYUhIB8EFEmS1XQGf-vCH6p3h9-rv0aXBqOSsf9bbvKNIEHF-UP8xNkRi-AGyMtZ06alPcpOgG4qM5fNdNMtq1806vNOGZ5CfRu6jyRlrVjOtOhT6ZxkRhtZ8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElY9URjKiIV30NMrPMq9G_dHKTPgtFY25COjC7-Mv_SbzF228WySx8gFgEMljLOYa9UzNVXihwwkuagh1_Z2hCWfsnUNJvQ1zYAc8EJf9k4RJnp4uOlUH8sej6zwy6Vh-E4Bk_u4i3lA_ytSQVfrnyR3dDaWQ57_jMBsMsUG7VQ2T2Hd7DhC7y2ipyUg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZpUjYxPYd6XDUAelaf7hVfTmUrOvbhJeYiFSHTo0I1ROVDX1j2z0BhpCyvwvs_2Xw48TYLoHzCJA2pTwf8N1cOLWBpeRDypQ4DRhvKFl9aPzDhO-i5EAJXoBl7ul2LJG6KPJ2mY0SjaB2y1zmZw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQyKzed-tgT3s43aLpyBPz0f1fA9SyZhJi0jTYYQvUEBRuK3R5G2N0sPTcHjVdu9DzAadkpzINMEJXqGH3oJYJ6yLHrRmTB95njmcL0MfDVZLNSYOGOJcBrC9D7T51N4MoPy4tqp_Outz0dnHA2tlUFuvMB-tcHZdhyT8ZpOpEQYcMx1yfetWxDkhH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-iNXJ45lmJQ6c0pT23eXxgkC5yAYZkBFFItw4dzRwxngs3fvjhW9Ox-hGfU8L0wikbUNcj2rk3R2uL9fUYHfoLU1WhmsGjB93CDHN1f7Fl5WvjJdB6xxAk1i8IdsrkMihdIzuML-7","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUE_7znHnekssFS0vvINVltL9lscp8pXyZkI0rdJzPRem8KDMx1pEKk_EUuyaFKT79TbHYoUf1PDrb_ZeE06LO2yitJM7nYJtwxtTtbH-61Ty0ySXXdWbhlIe6LR370U_T7U8PfIQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZcvGTGrWrXKzdU6cbYQmcXPsw3lcSWaJF_22jve41Tv-2MgmhOvATTuH8rLOsJchTdBhw8za7N99W4oSc7U2cDoyYENzGW9mHWOMvmZWtxrTQ4wFgmGQsbWcToyhMVzFLzpnpnmYrzr9ptrNa-GjhhCPaIw0z6Y5KQFY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVLnwgF2DXMzAvrfvDOHIC7AidAj_TsO-n2nzxubUpQ3iIdCawgzh_6RPpDmtIOvQrmTD8qHi2X85g9Nus0s17uQ_vp_hSOHFsdrQDS3VJ5kguG02JS2-JMWoBQpqMa91n"]
+
+--- RAW RESPONSE TEXT ---
+Renting a luxury villa in Tuscany with a private pool and a dedicated chef offers an effortless, authentic Italian experience—combining fine wine, local gastronomy, and classic Tuscan landscapes. 
+
+Below is a guide to some of the **top iconic villas**, **popular regions**, **how chef services work**, and **reputable luxury rental agencies** specializing in staffed Tuscan estates.
+
+---
+
+### **1. Highlighted Luxury Villas in Tuscany with Chef & Pool**
+
+* **Villa Cetinale (Near Siena)**  
+  * **Highlights:** A world-renowned 17th-century Roman Baroque estate once owned by Pope Alexander VII. Famed for its manicured gardens, cypress alleys, heated pool, and antique-filled interior.
+  * **Staffing:** Full estate staff included—head chef, butler, and daily housekeeping. 
+
+* **Villa Lenka / Coselli Collection (Lucca Region)**  
+  * **Highlights:** An 18th-century noble estate surrounded by tranquility, small lakes, and lemon gardens with a private pool. 
+  * **Staffing:** Dedicated private chef and waitstaff who prepare breakfasts, poolside lunches, and multi-course Tuscan dinners.
+
+* **Villa Olivia (Greve in Chianti)**  
+  * **Highlights:** A restored 11th-century stone manor house in the heart of Chianti wine country. Features private gated grounds, olive groves, a private pool with a lounge area, and a gym.
+  * **Staffing:** On-site chef and estate staff providing light poolside snacks, daily breakfasts, and regional dinners.
+
+* **Villa Machiavelli / Villa Mangiacane (San Casciano in Val di Pesa)**  
+  * **Highlights:** Renaissance palace near Florence with infinity pools overlooking vineyards and olive groves. 
+  * **Staffing:** In-house culinary team specializing in Chianti Classico wine pairings and fine dining.
+
+---
+
+### **2. Best Tuscan Sub-Regions for Villa Stays**
+
+* **Chianti Classico (Between Florence & Siena):** Ideal for wine lovers and foodies. Expect rolling vineyards, historic wineries, and easy access to top restaurants and cooking classes.
+* **Val d'Orcia (Pienza, Montalcino, Montepulciano):** Famous for UNESCO World Heritage landscapes, thermal hot springs, Brunello wine, and iconic cypress-lined roads.
+* **Lucca & Northern Tuscany:** Offers close proximity to medieval city walls, the Tuscan coast (Forte dei Marmi), and greener, shadier countryside estates.
+* **Maremma (Southern Tuscan Coast):** Great for a mix of countryside luxury, private coastal beaches, and wilder natural parks.
+
+---
+
+### **3. How Chef & Staffed Villa Services Work**
+
+When booking a villa with chef services, it typically falls into two categories:
+
+1. **Fully Staffed Villas (Included in Rental):**  
+   * **Included:** Chef labor for breakfast and evening meals (or 3 meals daily).
+   * **Extra:** *Food and beverage costs (groceries)* are usually billed separately based on receipts, plus a small fee for shopping service.
+2. **Chef on Request / Flexible Catering:**  
+   * **Included:** Villa base rate.
+   * **Extra:** You can hire a chef for specific nights (e.g., a welcome arrival dinner, a special celebration, or a 3-night dining package).
+
+**Popular Culinary Experiences Available:**
+* **Authentic Tuscan Menus:** Fresh handmade pasta (*pici*, *pappardelle*), *Bistecca alla Fiorentina*, truffle dishes, and local gelatos.
+* **In-Villa Cooking Classes:** Chefs can guide your group through pasta or pizza-making using wood-fired outdoor ovens.
+* **Sommelier / Wine Pairing:** Local sommeliers brought in to pair regional Chianti or Brunello wines with your meals.
+
+---
+
+### **4. Recommended Luxury Villa Agencies & Specialists**
+
+If you want to browse curated catalogues with verified private chefs and concierge services, these companies specialize in Tuscany:
+
+* **Tuscany Now & More:** Offers an exclusive collection of fully staffed Tuscan villas with private chefs, pools, and local concierges.
+* **Haute Retreats:** High-end luxury agency offering ultra-exclusive villas in Siena, Lucca, and Florence with private chefs, spa treatments, and butler service.
+* **Salogi Villas:** Long-established specialist in Tuscan estates, with a focus on historical properties equipped with gourmet private cooks.
+* **Red Savannah / Oliver's Travels:** Tailored luxury travel operators offering full itinerary planning, pre-stocked fridges, private chefs, and transfer arrangements.
+
+---
+
+### **Booking Tips**
+* **Pool Season & Heating:** Unheated outdoor pools are typically open from **May to October**. If traveling in spring (April/May) or autumn (September/October), ensure the pool is heated or heatable (usually an optional extra charge).
+* **Dietary Needs:** Share any allergies or dietary preferences (gluten-free, vegan, kosher-style) in advance so the chef can tailor menus prior to arrival.
+* **Pre-Arrival Grocery Pre-Stocking:** Ask the agency's concierge to stock the kitchen with arrival essentials, wine, cheeses, and breakfast foods for the first morning.
