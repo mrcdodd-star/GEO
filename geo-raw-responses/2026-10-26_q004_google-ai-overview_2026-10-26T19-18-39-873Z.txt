@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: luxury villa holidays 2027
+
+CITED URLS:
+["https://www.villaplus.com/best-villa-holidays/2027-villa-holidays","https://www.oliverstravels.com/villa-holidays/villa-holidays-2027/","https://www.gt-holidays.com/blog/top-5-luxury-destinations-2027","https://www.solmarvillas.com/offers/2027-villa-holidays"]
+
+--- RAW RESPONSE TEXT ---
+Planning a luxury villa holiday for 2027 is a fantastic way to secure the best properties—especially since prime locations, peak summer weeks, and high-end features (like heated infinity pools or private chefs) tend to book up well in advance.
+Top Destinations for 2027 Luxury Villas
+
+Popular Specialist Providers to Explore
+
+If you'd like, let me know:
+
+I can help narrow down the ideal locations and specific luxury portfolios for your 2027 trip.
