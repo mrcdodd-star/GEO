@@ -1,0 +1,76 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best destinations for large group holidays
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Planning a trip for a large group—whether it’s a milestone birthday, family reunion, bachelor/bachelorette party, or multi-family vacation—requires destinations with spacious accommodation options (like large villas, chalets, or all-inclusive resorts), diverse activities to suit different interests, and seamless group logistics.
+
+Here are the best destinations for large group holidays, broken down by trip vibe:
+
+---
+
+### 1. Villa & Countryside Retreats (Best for Relaxation & Dining)
+
+*   **Tuscany & Umbria, Italy**
+    *   **Why it works:** Perfect for slow-paced, luxury group holidays. The region is packed with converted *agriturismos* (farmhouses) and sprawling estates that can easily house 15 to 30+ guests.
+    *   **Best activities:** Private wine tastings, hiring a local chef to host cooking classes at the villa, day trips to Florence or Siena, and poolside lounging.
+*   **The Algarve, Portugal**
+    *   **Why it works:** Known for its dramatic coastal cliffs, world-class golf, and great value for money compared to Southern France or Italy.
+    *   **Best activities:** Large villa rentals in areas like Quinta do Lago or Albufeira, coastal boat charters to see the Benagil Caves, beach days, and lively seafood dinners.
+
+---
+
+### 2. Tropical Luxury & Budget-Friendly Pampering
+
+*   **Bali, Indonesia**
+    *   **Why it works:** Unbeatable value for luxury villa rentals. You can rent massive 6-to-10-bedroom private luxury villas in Seminyak, Canggu, or Uluwatu complete with full staff (private chefs, drivers, housekeepers, and security) at a fraction of Western prices.
+    *   **Best activities:** Pool parties, group surf lessons, beach club days (e.g., Potato Head, Finns), and day trips to temples or waterfalls.
+*   **Riviera Maya / Tulum, Mexico**
+    *   **Why it works:** Exceptional accessibility with wide-ranging lodging options, from beachfront mega-villas in Akumal/Tulum to high-capacity all-inclusive resorts in Puerto Aventuras and Playa del Carmen.
+    *   **Best activities:** Swimming in private cenotes, chartering a catamaran to Cozumel, exploring Mayan ruins, and beachside dining.
+
+---
+
+### 3. Ski & Mountain Chalets (Best for Winter & Summer Outdoor Groups)
+
+*   **The French Alps (Morzine, Chamonix, or Les Gets)**
+    *   **Why it works:** "Catered chalets" are custom-built for large groups. A team cooks breakfast, afternoon tea, and multi-course dinners for your group, eliminating the stress of group meal planning.
+    *   **Best activities:** Skiing/snowboarding in winter; hiking, mountain biking, white-water rafting, and alpine lakes in summer.
+*   **Whistler, Canada / Breckenridge, Colorado**
+    *   **Why it works:** Massive mountain lodges with hot tubs, game rooms, and multiple en-suite bedrooms tailored specifically for multi-family or large friend groups.
+    *   **Best activities:** Skiing, snowmobiling, lively après-ski scenes, ziplining, and mountain dining.
+
+---
+
+### 4. Big Lodging & Theme Parks (Best for Multi-Generational Families)
+
+*   **Kissimmee / Orlando, Florida**
+    *   **Why it works:** Kissimmee is the "Vacation Home Capital of the World." You can rent custom-built mansions with 10 to 18 bedrooms featuring home movie theaters, bowling alleys, indoor pools, and themed kids' rooms.
+    *   **Best activities:** Walt Disney World, Universal Studios, group golf outings, and spending whole days relaxing in the resort-style rental homes.
+
+---
+
+### 5. Vibrant City Breaks & Nightlife (Best for Celebrations & Culture)
+
+*   **Barcelona, Spain**
+    *   **Why it works:** Combines a beach holiday with a world-class city break. It offers broad pedestrian avenues, easy public transit, and plenty of large apartments or nearby coastal villa rentals (like in Sitges, 30 minutes away).
+    *   **Best activities:** Group tapas crawls, catamaran sunset cruises, visiting Park Güell/Sagrada Família, and lively nightlife.
+*   **Edinburgh, Scotland**
+    *   **Why it works:** Compact and extremely walkable with large historic apartments and nearby Scottish castles available for group rentals.
+    *   **Best activities:** Ghost tours, whisky tastings, hiking Arthur’s Seat, and pub crawls with live traditional music.
+*   **Nashville, Tennessee, USA**
+    *   **Why it works:** A top destination for bachelorette, bachelor, and milestone birthday trips. High concentration of large-format townhomes designed specifically for groups.
+    *   **Best activities:** Live music on Broadway, pedal taverns, distillery tours along the Tennessee Whiskey Trail, and southern BBQ feasts.
+
+---
+
+### Tips for Successful Large Group Planning:
+1. **Designate One or Two Leaders:** Too many decision-makers cause planning gridlock. Use polls (like Doodle) to vote on dates and locations.
+2. **Book Accommodations with Private/En-Suite Bathrooms:** Having enough bathrooms keeps morning prep stress-free.
+3. **Plan "Opt-In" Activities:** Don't force everyone to stay together 24/7. Schedule 1–2 main group activities per day and let people explore on their own in between.
+4. **Simplify Finances:** Use group expense apps like **Splitwise** or **Tricount** to track who pays for groceries, transport, and dinners.
