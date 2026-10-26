@@ -1,0 +1,11 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: book Villa Saint-Cyr Provence
+
+CITED URLS:
+["https://provence-alpes-cotedazur.com/en/plan-your-stay/accommodation/all-accommodation/gites-and-rentals/charming-provencal-villa-saint-cyr-sur-mer-en-4709274/","https://www.booking.com/villas/city/fr/saint-cyr-sur-mer.en-gb.html","https://www.booking.com/hotel/fr/villa-saint-cyr-sur-mer-5-pieces-6-personnes-fr-1-770-31.html","https://www.vrbo.com/en-gb/holiday-rentals/villas/france/paca/var/sud-sainte-baume/saint-cyr-sur-mer","https://www.houfy.com/d/saint-cyr-sur-mer-france","https://en.saintcyrsurmer.com/staying/accommodation/holiday-rental/"]
+
+--- RAW RESPONSE TEXT ---
+I can't make reservations myself, and I couldn't find one specific property called "Villa Saint-Cyr Provence". Searching turned up many villas in Saint-Cyr-sur-Mer, a seaside town in the Var department of Provence. It sits 
