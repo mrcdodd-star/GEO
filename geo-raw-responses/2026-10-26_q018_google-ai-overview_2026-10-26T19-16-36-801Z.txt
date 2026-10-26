@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: private villa for 12 guests Algarve August
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdadGVUUm1jREJmGAo","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZGw5emNHaG9NURgK","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvM1pHNDNlV1prGAo"]
+
+--- RAW RESPONSE TEXT ---
+LUX MARE Exclusive Luxury Villas in Lagos is a prime option accommodating 12 guests across six bedrooms per individual villa (Casa L or Casa M, or combined for larger groups), featuring heated infinity pools, Atlantic Ocean views, and concierge services.
+Top Private Villa Options for 12 Guests in the Algarve
+
+Tips for Booking an Algarve Villa in August
+
+If you'd like to narrow this down, let me know:
