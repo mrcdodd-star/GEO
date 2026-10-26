@@ -1,0 +1,15 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Oliver's Travels concierge team
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Looks like you used a template placeholder `{{ $json.query_text }}`, which in a real environment would be replaced with a specific string of text from your JSON input. 
+
+Since I don’t have the actual text, I’m not sure what content or query you meant.  
+
+Would you mind sending the actual text you intended for `query_text`? Once I have that, I can help with summarizing, analyzing, rewriting, or whatever else you need.
