@@ -1,0 +1,80 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: fully catered villas Mediterranean
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo9x5iqQcEzxMoC5KFWON30sOINuCb8IcCoX-UsNVi6JiLxe5X1TffGHIqRslcfj2wnEMxv1TVhP20aCIZHUt2eDlNhB7gPz91bgrZZ8MvJNRNVYbGl1iUgXafNTaws7aDAlKeZvhy6_uU1pZOq9I9R2j4MOG0RQy7uxzb-kti-o00uoWDCpyXaGL7mtmsZrE_v_3OS3FDGyzY25tc4U8dA7bdy7k=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3JO61YX5BPQu8WaD_xNpJcZUxBL-l0yoDs9jHpSeXIv_Js9G7Cf-fwQdJ5m2S8twK0yjKJD9pZkhZ87lLoyrRrYh3qzcXE70xD9N-05k6-SHa7CCag9lS2rOh8nNAsbo1z_doCfu23MjXOsXNt5Aelbf2ybOl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHsvduqVR7tAUK7a8zYZ2RoHXrVbFZmHnR0Jrh9rc4gCodqvjInpIFxyha5H0mEjYfaOdpdDrH-O8Lh55n26Mo_LtmiZxcPtalm2TITWlnNGvg4S3YZzocOtEvKNCQgli-Dac=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0Oztsw72XCsdvNihEaO8UJ-LWNcCV3WNlMXAF48cdJsnRDs2gUJ0-_h_ditmiOBGlRrluF-DDTP7jRP7x511CWgxn-Tx6ctzSRBegYVm","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2xrT_wrmDmerlsZXT9LnGx5E2NaaRaJhmcaVoxPtGNei9yUQ16Iv5VGWkjxuJHgtefLrBhp8YQhsIbEFl7ldvnCNI0pJa4ulOnX51xIKj5vEwvWcIIuKvq-YhMc6s2Xcv7TIZ7vQfbJQuiMTYc8n1j6ivwxncA5YGaGs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiufUowlJjdKruHeYu9Oop_bIyd_0tUklgzZXak5OGlaJVvSwfvaPnMaHrC8z4jf6Cu0rSPNj4VVTdERjWyMOmTpLoQ7UGPT95G8NAluzfHdNJln3TB-8Ms8zVc6TkYfYb8ullcxG_Hoo1jGCT3VWg7_ucdZFGM6aNrQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4qi4Mk9M-3mCh0z6ndy8MopIYI3qOORP5phRFcjkjJ8Q7nJ68J9EfhyvJrPiKPa3Av7YdarKL08WAeBswfGYxF91y-JpV2V63x2OhopBvYkAVoOtrt0171-Azahe-pBtznedr-jLg25-TuN4kZ8GitMWr","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjdQ2Ywz61Ul7K_xRqwUqZuHB_K4yxubRrKW9ZK1a1NlH5Q5-Ca5nKrOvB-4E5HUh5IYPyD66A3p-DNEYhjiqz0lxC470kBDY_zbSvjC-FA6jWX52SKgOAwTdzCIjKiUhd8_Ra-PCPDfZFBYVx_BIm5BLle_mKFn7KmyrcguuH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5n_tR-dfW1z9mIvr2YmjaTl8awW9CIGeJEQ5dtJ0G5pgLjzBmBGdouA3Ahox22ucnIW4W9h4h1StjXygMwgOrMBnCAYZ2q3EAU8KCvpFgAFRo8NhFl2kEuQkPxIyA0K-AQIudGewRb2k-ZLAmhH6YrDtXPkk85CEr2wAfntc2LiIvmd5KYhTMkFM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZLeiTvZ8xNB5XKn2CnmWCP75qlULZTVXQ8i9okJsr_RXPCoQgV9LRiuPmc6ag0GwmUAGt6KYt8DABkWUVsSThIhuHzw0ebrbXrcg_GkGa"]
+
+--- RAW RESPONSE TEXT ---
+Renting a **fully catered luxury villa in the Mediterranean** combines the privacy and space of a personal estate with the 5-star service of a luxury resort. Whether you are planning a multi-generational family vacation, a celebration with friends, or a quiet coastal retreat, catered villas eliminate the stress of cooking, shopping, and housekeeping.
+
+---
+
+### What a "Fully Catered" Villa Experience Includes
+
+While level of service varies by property, a fully catered Mediterranean villa standardly includes:
+
+1. **Private Chef & Kitchen Team:** 
+   * Pre-arrival menu planning tailored to your dietary preferences.
+   * Daily breakfast, lunch, and multi-course dinners using local, seasonal Mediterranean ingredients.
+   * Afternoon teas, pool-side snacks, and wine pairings.
+2. **Housekeeping & Butler Service:**
+   * Daily housekeeping, turndown service, and linen changes.
+   * Dedicated villa hosts/butlers to serve meals, mix cocktails, and manage daily requests.
+3. **Dedicated Local Concierge:**
+   * Airport transfers, private yacht charters, helicopter transfers, winery tours, and spa treatments organized on-demand.
+4. **Pre-Arrival Provisioning:**
+   * The fridge and bar are fully stocked before you arrive with your favorite wines, spirits, soft drinks, and snacks.
+
+---
+
+### Top Mediterranean Destinations for Catered Villas
+
+#### 1. Spain: Ibiza & Mallorca (Balearic Islands)
+* **Vibe:** Chic, design-forward estates, ocean views, and farm-to-table Balearic gastronomy.
+* **Best For:** Sunset dinners, poolside lounge vibes, and proximity to private beach clubs.
+* **Highlight:** Hillside fincas or clifftop contemporary villas with expansive outdoor dining terraces.
+
+#### 2. Italy: Amalfi Coast, Tuscany, & Sardinia
+* **Vibe:** Historic coastal palazzos, cliffside infinity pools, and authentic regional Italian cooking.
+* **Best For:** Food and wine lovers who want authentic homemade pastas, fresh seafood, and local wine pairings prepared in-house.
+* **Highlight:** Terraced lemon grove estates on the Amalfi Coast or grand beachfront compounds in Costa Smeralda (Sardinia).
+
+#### 3. Greece: Mykonos, Santorini, Corfu, & Crete
+* **Vibe:** White-washed Cycladic architecture, turquoise sea views, and fresh Ionian/Aegean seafood banquets.
+* **Best For:** Island hopping, cliffside views, and relaxed outdoor dining setups under the stars.
+* **Highlight:** Ultra-private cliffside compounds with private jetties or helipads.
+
+#### 4. France: Côte d’Azur & Provence
+* **Vibe:** High-end French Riviera elegance, Michelin-level private chefs, and historic châteaux.
+* **Best For:** Discerning guests seeking top-tier culinary standards, vintage champagne cellars, and proximity to Saint-Tropez or Cannes.
+
+#### 5. Croatia: Dalmatian Coast (Hvar, Dubrovnik, Korčula)
+* **Vibe:** Secluded waterfront stone villas, private boat access, and Mediterranean-Adriatic fusion dining.
+* **Best For:** Travelers wanting crystal-clear water, privacy away from larger crowds, and easy access to private yacht excursions.
+
+---
+
+### Top Villa Companies & Specialists
+
+If you want a guaranteed high standard of catering and concierge service, book through boutique agencies specializing in luxury, staffed rentals:
+
+* **The Thinking Traveller:** Renowned for high-end Mediterranean villas with option-rich private chef packages across Greece, Italy, and Spain.
+* **Firefly Collection:** Specialists in luxury catered villas across Europe with personalized concierge services.
+* **SopranoVillas:** Premier boutique specialist for high-end, fully serviced private estates and historic villas in Italy (Amalfi, Tuscany, Sardinia).
+* **Le Collectionist / Villanovo:** Offers curated luxury homes across the French Riviera, Balearics, and Greece, complete with tailored in-villa staffing.
+* **Oliver’s Travels (Luxe Collection):** Features grand estates and villas with full-staff packages, private chefs, and concierge support.
+
+---
+
+### Key Questions to Ask Before Booking
+
+1. **How is food billing structured?** 
+   * *Full Board / Inclusive:* Chef labor, groceries, and beverages are bundled into the rental cost.
+   * *Chef-Only + Cost of Ingredients (APA):* The chef’s service fee is included in the rent, but food/beverages are billed at cost based on local supermarket receipts or an Advance Provisioning Allowance (APA).
+2. **What are the chef's working hours?** 
+   * Clarify if the chef prepares 3 meals a day, or 2 meals (e.g., breakfast + lunch or dinner) to give guests flexibility to dine out on occasion.
+3. **Is staff accommodation on-site?**
+   * Some large estates have separate staff quarters, while others have live-in staff or staff that commute daily. Check which setup fits your privacy preference.
