@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Plum Guide alternatives
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Hey! It looks like your message contains a placeholder (`{{ $json.query_text }}`), which usually means the actual content or query text didn't come through.  
+
+Could you resend what you meant to ask or share (e.g., a JSON query, some JSON data, or the query text)? Then I’ll be able to help you properly.
