@@ -1,0 +1,57 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: best destinations for large group holidays
+
+CITED URLS:
+["https://learn.microsoft.com/en-us/sql/t-sql/functions/json-query-transact-sql?view=sql-server-ver17&utm_source=openai","https://github.com/n8n-io/n8n-docs/blob/main/docs/build/work-with-data/handle-special-data-types/query-json-data.md?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Looks like you’ve used a placeholder (`{{ $json.query_text }}`); was that intentional? If you tell me what JSON query text or JSON path you're using (or what you're trying to extract), I can help clarify or fix it.  
+
+In the meantime, here are some common interpretations and tips:
+
+---
+
+### 📋 What this probably refers to
+
+- **Template variables / markers** – In many templating systems (e.g. web frameworks, workflows), `{{ $json.query_text }}` would be replaced by some JSON-based value — likely, the user-provided query text for querying JSON data.
+- **Workflow / automation tools** – Tools like n8n use `$json` to refer to a JSON object input/output. So `$json.query_text` means a property in that JSON called `query_text`.
+
+---
+
+### ⚠️ Why it might not be working
+
+- If `query_text` doesn’t exist in the JSON input, it resolves to `null` or empty.
+- Syntax errors: missing braces, wrong variable name.
+- Using the wrong context: maybe `$json` isn’t what you think it is in that part of your system.
+- Encoding/escaping issues, especially if `query_text` itself contains quotes or special characters.
+
+---
+
+### ✅ What to try doing instead
+
+1. **Check your input JSON**  
+   Ensure it has something like:
+   ```json
+   {
+     "query_text": "some JSONPath expression or something"
+   }
+   ```
+   And that `$json` in your system refers to that object.
+
+2. **Escape/format properly**  
+   If `query_text` contains JSONPath or another expression (with quotes, etc.), you might need to escape it correctly for your system.
+
+3. **Print or log the value**  
+   Insert a debug step where you output what `{{ $json.query_text }}` actually becomes, to see what it resolves to.
+
+4. **Use proper querying tools/libraries**  
+   Depending on what you're trying to do — use JSONPath, JMESPath, SQL/JSON functions like `JSON_QUERY`, etc. Tools have their own syntax. For example:
+   - SQL Server’s `JSON_QUERY` to extract JSON arrays or objects ([learn.microsoft.com](https://learn.microsoft.com/en-us/sql/t-sql/functions/json-query-transact-sql?view=sql-server-ver17&utm_source=openai))  
+   - n8n’s `jmespath()` for querying JSON data in workflows ([github.com](https://github.com/n8n-io/n8n-docs/blob/main/docs/build/work-with-data/handle-special-data-types/query-json-data.md?utm_source=openai))
+
+---
+
+If you tell me which tool/platform you’re using (e.g. JavaScript, n8n, server-side templating, SQL etc.) and what the `query_text` is supposed to do (or some sample JSON + desired output), I can give you a specific working version. Want to go that route?
