@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best destinations for large group holidays
+
+CITED URLS:
+["https://www.lonelyplanet.com/articles/group-trip-destinations"]
+
+--- RAW RESPONSE TEXT ---
+When planning a holiday for a large group—whether it’s a multi-generational family reunion, a milestone birthday, or a getaway with friends—the secret is choosing a destination with easy logistics, flexible accommodation options (like large villas or central apartments), and a mix of activities so everyone can do as much or as little as they want.
+The top destinations for large group holidays are categorized by vibe below:
+
+To help narrow down the ideal spot, tell me:
