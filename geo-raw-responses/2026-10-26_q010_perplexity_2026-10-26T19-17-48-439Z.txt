@@ -1,0 +1,11 @@
+RUN DATE: 2026-10-26
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: multigenerational luxury holiday homes
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+[EMPTY_OR_UNPARSED_RESPONSE]
