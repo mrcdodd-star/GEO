@@ -1,0 +1,27 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q025
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: renting a villa in Europe for a large family - which companies are best?
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOc1gyaHVPR3htGAo","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hBeWRHZHhhREkYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJMllubHlOR2cxGAo"]
+
+--- RAW RESPONSE TEXT ---
+Renting a villa in Europe for a large family requires a balance of ample bedrooms/bathrooms, communal living space, child-friendly features (like gated pools), and reliable local support in case something goes wrong.
+The top villa rental companies and agencies specializing in Europe and large group travel span different styles and budgets:
+1. Best for Curated Luxury & Family Support: CV Villas
+
+2. Best for Unique, Character-Rich Properties: Oliver's Travels
+
+3. Best Regional Specialists (Italy): Tuscany Now & More
+
+4. Best for High-End Concierge & Ultra-Luxury: Le Collectionist
+
+5. Best for Scale and Broad Selection: Top Villas
+
+Quick Tips for Booking a Large Family Villa in Europe:
+
+If you'd like to narrow this down, tell me:
+
+I can suggest specific properties or the best regional operator for your trip.
