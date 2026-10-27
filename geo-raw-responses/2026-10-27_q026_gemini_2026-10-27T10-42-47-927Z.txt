@@ -1,0 +1,65 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: gemini
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiirG1ETmc2Oe4DqSKd6C_x5L8I1YI7U6dbrU6_ZvUV_Pl-liLtcKR6SkCP4twYjzNU7tqJ3t6gjKeCFlA9OrEuRYQaHoEv10Vwd-yTIGaZOaFXcHVcu76ECkuD2FQbIREQTxARpcPIFIiFIJ4wQ_wRMS4hGoiYeo=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPpUCejDMTnfZ7z9SFLGecJ9-x7I1tHtfgCrlO-gZeziittNEICm-sGdWVJTmAg1FVQi1pHNJJDv3egCgd8Ti1Sx6nuR_BMRaUC68prDo5OoU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL9oMoImmg0UBLx85coODIvO0hlSvkRdQtykhzpjFnm1z9NohewOwglyd2fLCmvagju1Lp8pUw2VrGKYred6Efdpji7lwbWTARVYG-te44ekS8UtmlOmOnnWaQ83mkhoxzD1sXCUWPGl4PEuzakMKlojayYIWng_4qEAQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw8qvaebrpkLLglupCWtGX0ugdnfZ-8Xg0NWqU1oJQdBHJlSjgTh7DK6y5OMJqrVv-0FUcZAqh8u9_jpBZBs9cuSGRp2LikeHc_bR_3WP_XHWfjlJJwSLzqPUtDFm_d1Y=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4g3W2_bfq1isocqb2pnraUndqai0WNbwKhPJDTYxQjif6h8Z9bI7Ku4MyFP5Uqs32iK_ITE7RLX6SjtLN15-ahKziXGrf1CthAxngxRXCN180tELZDZyHuy20I_PDlYa8ZJafoU-Q54yOhg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoOM3d51ePkTYDw1HRLUSx_nqx0i2iz51-WpHd0tsBM-kWV6RHs4QfxDZM9TL0MqYv83wtXEiiqFszCqr2KyemXnxlo_ntsXLlblKJUd4Mt8YWk-1SpTLo2WMMgfAmPsU3cEqvResQUkTEtkBdE-4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGESL8cc9rcdNWrgpRdSCa1qQjaOQzhyuGDgsmD9fSxlYrrFAXDntITq9-tu4Sdu57GSiOLevc62w4rPujSvcp2aZNUJ_O6xQOCk1f4vl24X75CquQZ5Cq7-JGuv4089iaclDLU0cIv_6ZDG1F0GZNpW1-SVb5kIOL4Jw50CZUXBsu_","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS7D8Sg-O0AOKXhTnWvlel8Qiz_epdgonrFeW_OSE1JUPffOPck1TogIghZOJLr_bhyg0G3b4_yYwsg5vtx3VWjgSUEGzG6T0s7zDtA7S5sA=="]
+
+--- RAW RESPONSE TEXT ---
+When renting a villa in Italy as an American traveler, choosing an agency that offers **vetted properties, English-speaking local support, transparent pricing (often in USD), and dedicated concierge services** makes a major difference. 
+
+---
+
+### 1. Best US-Based Agencies (Easiest Booking & US Support)
+
+* **Italy Perfect (Part of Vacation Perfect)**
+  * **Best For:** Families and multi-generational groups looking for high-quality villas and apartment-villas in popular regions (Tuscany, Amalfi Coast, Florence, Rome, Venice).
+  * **Why Americans Love It:** Based in the US with direct US phone support. They meticulously vet every property to ensure American-standard amenities (functioning AC, reliable Wi-Fi, updated plumbing) and offer seamless guidance on local transport and neighborhood highlights.
+* **Doorways (villavacations.com)**
+  * **Best For:** Personalized, boutique service for Tuscan farmhouses, Amalfi coastlines, and Lake Como estates.
+  * **Why Americans Love It:** A US-based, IATA-accredited specialist operating for decades. You get a dedicated US travel advisor who matches your group size, budget, and mobility needs with hand-inspected homes.
+
+---
+
+### 2. Best Specialized Italian Villa Experts
+
+* **Tuscany Now & More**
+  * **Best For:** Tuscany and Umbria countryside estates.
+  * **Why Americans Love It:** They offer **USD price-locking** so you aren't subject to currency fluctuations before your trip. Every booking includes a complimentary 24/7 local English-speaking concierge who can organize private chefs, wine tours, cooking classes, or grocery stocking prior to arrival.
+* **The Thinking Traveller**
+  * **Best For:** Exclusive, high-end properties in **Sicily, Puglia, Tuscany, and the Italian Islands**.
+  * **Why Americans Love It:** Consistently rated the #1 villa rental company in the world by *Condé Nast Traveler*. They hold exclusive rights to all their properties—meaning you won't find these villas listed on generic platforms like VRBO or Airbnb—and maintain a 24/7 local field team for absolute peace of mind.
+
+---
+
+### 3. Best Ultra-Luxury & White-Glove Services
+
+* **Abercrombie & Kent Villas (A&K)**
+  * **Best For:** Ultra-luxury, fully-staffed estates (Lake Como, Amalfi, Chianti).
+  * **Why Americans Love It:** As one of the most trusted names in American luxury travel, A&K handles everything end-to-end: private jet transfers, in-villa staff (private chef, butler, housekeeper), and exclusive access to private vineyards or historical sites.
+* **Home in Italy**
+  * **Best For:** Modern luxury, restored historical palazzos, and luxury Alpine chalets.
+  * **Why Americans Love It:** Features an incredible portfolio of high-end estates. They excel at handling complex logistics for large events, intimate weddings, or extended family reunions.
+
+---
+
+### 4. Best Curated & Tech-Forward Platforms
+
+* **A.M.A Selections**
+  * **Best For:** High-end, design-forward villas with an easy-to-use digital experience.
+  * **Why Americans Love It:** Pairs a high-touch luxury concierge service with a sleek mobile guest app. You can manage day trips, driver bookings, and in-villa requests right from your phone while in Italy.
+* **Plum Guide**
+  * **Best For:** Travelers wanting the variety of Airbnb but with strict quality control.
+  * **Why Americans Love It:** Dubbed the "Michelin Guide for Vacation Rentals," Plum Guide tests for critical features like water pressure, bed comfort, real Wi-Fi speed, and accurate noise levels before listing a home.
+
+---
+
+### Important Tips for Americans Renting Villas in Italy
+
+1. **Saturday-to-Saturday Stays:** Many traditional countryside villas in Italy (especially Tuscany and Umbria) only accept bookings from Saturday to Saturday during peak season (May through October).
+2. **Confirm Air Conditioning:** Unlike in the US, AC is not guaranteed in historical Italian villas due to local historic preservation laws. If traveling in July or August, explicitly ask the agency if bedrooms are individually air-conditioned.
+3. **Hire an Arrival-Night Chef:** On check-in day, driving from the airport and navigating Italian rental cars or grocery stores can be overwhelming. Asking the villa agency to arrange a private chef for your first evening is a cost-effective way to kick off the trip stress-free.
+4. **Be Aware of Local Cash Fees:** Be prepared for local tourist taxes (*tassa di soggiorno*) or heating/electricity surcharges, which are often legally required to be paid in cash (Euros) directly to the key-holder upon check-out.
+5. **Driving Constraints:** If renting in countryside regions, ensure you're comfortable with manual vs. automatic rental cars and narrow roads. If staying in historic town centers (Florence, Siena, Lucca), ask your agency about **ZTL zones** (restricted traffic zones) so you don't incur heavy traffic fines.
