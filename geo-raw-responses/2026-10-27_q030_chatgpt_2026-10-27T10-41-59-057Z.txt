@@ -1,0 +1,55 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: chatgpt
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.domizile.de/luxusvilla-frankreich-cote-dazur-rossignol-2814.html?utm_source=openai","https://st-tropezvillas.fr/rentals/the-little-paradise/?utm_source=openai","https://www.charles-ulysse.com/en/seasonal-rental?utm_source=openai","https://www.southfrancevillas.com/villas-with-chef-services?utm_source=openai","https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai","https://www.operaprestige.com/luxury-villa-rental-french-riviera/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Ich habe einige hervorragende Luxusvillen an der Südfrankreichr (Côte d’Azur, Provence, Saint-Tropez etc.) recherchiert, die deine Kriterien erfüllen: persönlichem Service inklusive Koch, HaushälterInnen, Concierge und oft weiterer Extras. Hier sind Angebote und Tipps, wie du eine passende Villa findest – plus Beispiele mit Preisen, Ausstattung und Buchungshinweise.
+
+---
+
+## 🎯 Was bietet sich an – Beispiele für Luxusvillen mit Koch & Personal
+
+| Villa | Ort | Ausstattung & Service | Kosten / Kapazität |
+|---|---|---|---|
+| **Villa Rossignol, St. Tropez** | Côte d'Azur | Personal mit privatem Koch, 2 Haushälterinnen und Concierge inklusive; beheizter Pool, mediterraner Garten, große Privatsphäre ([domizile.de](https://www.domizile.de/luxusvilla-frankreich-cote-dazur-rossignol-2814.html?utm_source=openai)) | Für 6–12 Personen; ab etwa **€4.000 bis €7.995 pro Tag** (je nach Saison und genauer Ausstattung) ([domizile.de](https://www.domizile.de/luxusvilla-frankreich-cote-dazur-rossignol-2814.html?utm_source=openai)) |
+| **“The ‘Little’ Paradise”, Ramatuelle (bei St. Tropez)** | Provence | Voll ausgestattet: privater Koch, tägliche Haushaltsführung, Hosts & Concierge inklusive; Infinity-Pool, Sommerküche, Pizzaofen, Garten mit Aussicht ([st-tropezvillas.fr](https://st-tropezvillas.fr/rentals/the-little-paradise/?utm_source=openai)) | 8 Schlafzimmer, Platz für etwa 16 Gäste; Preise von ca. **€25.000–65.000/Woche** je nach Saison ([st-tropezvillas.fr](https://st-tropezvillas.fr/rentals/the-little-paradise/?utm_source=openai)) |
+| **Charles & Ulysse Luxury Rentals – Villa Pure, St. Tropez** | Saint-Tropez | Villa Manager, Concierge, täglicher Kochservice (alle Mahlzeiten auf Wunsch), Butler, Hauspersonal, Sicherheitsdienst, Privatfahrer etc. umfangreiche Ausstattung wie Pools, Gartenanlage, Spa etc. ([charles-ulysse.com](https://www.charles-ulysse.com/en/seasonal-rental?utm_source=openai)) | Größenordnung über **€100.000/Woche**, je nach Villa und Zeitpunkt ([charles-ulysse.com](https://www.charles-ulysse.com/en/seasonal-rental?utm_source=openai)) |
+| **SouthFranceVillas – “villas with chef services”** | Versch. Orte Côte d’Azur / Provence | Private Kochdienste, oft inklusive Servicepersonal auf Anfrage, gutes Preis-Leistungs-Verhältnis bei kleineren Gruppen ([southfrancevillas.com](https://www.southfrancevillas.com/villas-with-chef-services?utm_source=openai)) | Zum Beispiel: Villen für 2 Personen ab ca. **€1.100/Woche**, für größere Villen deutlich mehr ([southfrancevillas.com](https://www.southfrancevillas.com/villas-with-chef-services?utm_source=openai)) |
+
+---
+
+## 🛠 Worauf du bei Auswahl & Buchung achten solltest
+
+### 1. Saison & Buchungszeitpunkt  
+In der Hochsaison (Juli–August) sind die besten Villen früh weg. Frühzeitige Reservierung (häufig schon ab Herbst des Vorjahres) sichert Auswahl und gute Preise. ([polariusrealestate.com](https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai))
+
+### 2. Mindestdauer  
+Viele Luxusvillen haben Mindestmietzeiten: oft **eine Woche** im Sommer. Außerhalb der Hochsaison gibt’s auch Buchungen für weniger Tage. ([domizile.de](https://www.domizile.de/luxusvilla-frankreich-cote-dazur-rossignol-2814.html?utm_source=openai))
+
+### 3. Inklusivleistungen genau prüfen  
+Personal & Koch sind teilweise im Basispreis enthalten, manchmal aber extra. Steuern, Servicegebühren und „F&B auf Anfrage“ können zusätzliche Kosten verursachen. ([charles-ulysse.com](https://www.charles-ulysse.com/en/seasonal-rental?utm_source=openai))
+
+### 4. Zusatzoptionen & Logistik  
+Transfer vom/zum Flughafen, Einkauf/Catering vor Ankunft, Concierge-Service, Sicherheitspersonal etc. sollten vorher geklärt sein. ([charles-ulysse.com](https://www.charles-ulysse.com/en/seasonal-rental?utm_source=openai))
+
+### 5. Lage & Privatsphäre  
+Wenn du Ruhe suchst: Villen etwas außerhalb oder in geschützten Domains („Les Parcs“, abgelegene Hügel etc.) bieten größeren Abstand zum Nachbarn und mehr Exklusivität. ([operaprestige.com](https://www.operaprestige.com/luxury-villa-rental-french-riviera/?utm_source=openai))
+
+---
+
+## ✅ Empfehlungen je nach Budget & Wunsch
+
+| Szenario | Empfehlung |
+|---|---|
+| **Top-Luxus, große Gruppe (10+ Gäste), exklusivster Service** | „Villa Pure“ oder Charles & Ulysse Villen + Angebote von Opera Prestige in Saint-Tropez oder Les Parcs de Saint-Tropez. Budget oft €80.000–100.000+/Woche. |
+| **Mittelklasse-Luxus (6–12 Personen), alles inklusive** | Villa Rossignol bietet viel Service zu relativ fairen Tarifen. Auch SouthFranceVillas-Kataloge haben Optionen, die alles oder weitesgehende Leistungen inkludieren. |
+| **Romantischer Kurztrip / kleinere Gruppe** | Kleinere Villen mit Chef auf Anfrage von Anbietern wie SouthFranceVillas oder Conciergerie Cannes; kurze Aufenthalte möglich außerhalb der Hochsaison. |
+
+---
+
+Wenn du möchtest, kann ich direkt ein paar Villa-Vorschläge zuschicken, die deinem Budget, Reisezeitpunkt und den gewünschten Leistungen entsprechen. Möchtest du das? Wenn ja: welchen Zeitraum und wie viele Gäste sind geplant?
