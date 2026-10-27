@@ -1,0 +1,21 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q022
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026","https://www.trustpilot.com/review/oliverstravels.com","https://www.trustpilot.com/review/thethinkingtraveller.com","https://nz.trustpilot.com/review/oliverstravels.com?page=4","https://www.trustpilot.com/review/oliverstravels.com?page=3","https://uk.trustpilot.com/review/oliverstravels.com?page=5","https://uk.trustpilot.com/review/oliverstravels.com?page=8","https://sheerluxe.com/culture/travel/holiday-villa-rentals"]
+
+--- RAW RESPONSE TEXT ---
+If you’re choosing from the UK, **Oliver’s Travels is the better fit for breadth and variety; The Thinking Traveller is stronger for a carefully curated Mediterranean villa holiday with local support.** Both have UK offices and strong Trustpilot ratings, so the destination and the specific villa are likely to matter more than the small difference in overall scores.[2][3]
+
+| | Oliver’s Travels | The Thinking Traveller |
+|---|---|---|
+| **Best for** | More destinations and a broad range of distinctive homes, including châteaux, family villas and properties for two.[8][9] | A focused Mediterranean trip, especially Sicily, Puglia, Sardinia, Tuscany, Corsica and the Greek islands.[1][8] |
+| **Collection** | Much larger, with listings across the UK, Europe and farther afield.[1][9] | Smaller and more selective; its appeal is specialist knowledge rather than scale.[1][8] |
+| **Support** | Offers destination experts and concierge help; the comparison source notes no local offices or 24-hour line.[1][9] | Offers a local specialist and 24/7 emergency support, according to the comparison source.[1] |
+| **Booking terms** | The comparison source describes Oliver’s Travels as an agent, with a 37.5% deposit and balance due 12 weeks before arrival; check the terms for your particular villa before paying.[1] | The comparison source says it contracts as principal, takes a 30% deposit and requires the balance nine weeks before arrival.[1] |
+| **Reviews** | Trustpilot: 4.7/5 from about 3,600 reviews.[2] | Trustpilot: 4.7/5 from about 1,300 reviews.[3] |
+
+**My rule of thumb:** choose Oliver’s Travels if you’re flexible on destination, want more choice, or are looking beyond the Mediterranean. Choose The Thinking Traveller if you’ve settled on its core regions and value a specialist who can help locally. Compare the actual villa’s cancellation terms, total price and included services before booking—company-wide terms may not describe every property.[1]
