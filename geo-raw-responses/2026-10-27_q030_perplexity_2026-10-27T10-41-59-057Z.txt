@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: perplexity
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://mademoiselleconciergerie.com/de/","https://www.villasud.de/","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich","https://hermitageriviera.com/de/rental/villa/south-of-france/","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/les-marins","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/c%C3%B4te-d-azur","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/c%C3%B4te-d-azur/la-londe-les-maures","https://www.cdvillas.de/ferienvillen-sudfrankreich/?rd=1&location=59986&soc=&sod=&nights=0"]
+
+--- RAW RESPONSE TEXT ---
+Ja – Sie können eine Luxusvilla in Südfrankreich buchen und Personal sowie einen Koch dazubuchen. Für die Suche aus Deutschland sind diese Anbieter ein guter Start:
+
+- **VillaSud**: deutschsprachiger Anbieter mit Beratung und deutscher Telefonnummer. Vermittelt Villen vor allem an der Côte d’Azur, in der Provence und im Vaucluse; Zusatzleistungen können je nach Haus organisiert werden. Fragen Sie ausdrücklich nach **Villa-Team, täglicher Reinigung und Privatkoch**. Tel. **+49 39292 678 227**.[2][3]
+- **CV Villas**: bietet Villen in Südfrankreich und kann einen Privatkoch für einzelne Abende oder den gesamten Urlaub arrangieren.[9]
+- **CD Villas**: große Auswahl an Villen an der Côte d’Azur und in der Provence; einige haben ein Team vor Ort, Concierge-Leistungen sind auf Anfrage verfügbar.[8][10]
+- **Mademoiselle Conciergerie**: im Languedoc; bietet Privatkoch in der Villa sowie Concierge-Services wie Reinigung und Frühstückslieferung.[1]
+
+**Damit Sie passende Angebote bekommen**, nennen Sie bei der Anfrage Reisezeitraum, Gästezahl, Budget und gewünschte Betreuung. Klären Sie schriftlich, ob Koch, Personal und Reinigung im Mietpreis enthalten sind oder extra berechnet werden, wie viele Stunden Personal vor Ort ist und ob Einkaufskosten, Anfahrt und Endreinigung hinzukommen. Preise und Verfügbarkeit hängen stark von Saison und Villa ab.
