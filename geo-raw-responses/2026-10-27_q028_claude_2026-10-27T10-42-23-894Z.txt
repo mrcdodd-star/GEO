@@ -1,0 +1,15 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: claude
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://www.sunlocation.com/blog/50-meilleurs-sites-de-locations-de-vacances","https://investissement-locatif-avis.fr/meilleure-conciergerie-de-luxe/","https://www.villanovo.com/","https://www.revfine.com/best-luxury-villa-rental-companies-in-europe/","https://www.rentalscaleup.com/fr/la-liste-ultime-des-sites-de-location-de-vacances-de-luxe/","https://plumetravels.com/en/maison-de-luxe-notre-selection-des-meilleures-agences-de-location/","https://www.prestigevillarental.com/","https://www.chicvillas.com/"]
+
+--- RAW RESPONSE TEXT ---
+Voici une sélection d'agences de location de villas de luxe en Europe, qui travaillent toutes avec la clientèle française.
+
+## Les généralistes du luxe (plusieurs pays d'Europe)
+
+- **Le Collectionist** : c'est une agence française. 
