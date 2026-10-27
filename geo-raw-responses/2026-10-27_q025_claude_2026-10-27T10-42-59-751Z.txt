@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q025
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: claude
+QUERY TEXT: renting a villa in Europe for a large family - which companies are best?
+
+CITED URLS:
+["https://www.vrbo.com/vacation-rentals/villas/europe","https://beyondbaggage.com/2025/07/22/best-villa-rentals-for-group-trips/","https://www.yahoo.com/lifestyle/travel-leisure-readers-5-favorite-113000059.html","https://www.rentalescapes.com/rentals/luxury-vacation-rentals-europe","https://www.homanieluxuryrentals.com/magazine/best-luxury-villas-family-vacation-rental"]
+
+--- RAW RESPONSE TEXT ---
+The best company depends on your budget and how much service you want. Here are the options, grouped by type.
+
+**Marketplaces (widest choice, best for budget and mid-range)**
+- **Vrbo** has a lot of large-group inventory. 
