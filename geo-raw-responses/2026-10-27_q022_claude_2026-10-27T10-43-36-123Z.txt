@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q022
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://villasforkings.com/platforms/olivers-travels-review/","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://au.trustpilot.com/review/oliverstravels.com?page=2","https://www.trustpilot.com/review/oliverstravels.com?page=4","https://ie.trustpilot.com/review/thethinkingtraveller.com?page=4","https://the-thinking-traveller-uk.myprosandcons.com/","https://www.thethinkingtraveller.com/results","https://ca.trustpilot.com/review/thethinkingtraveller.com"]
+
+--- RAW RESPONSE TEXT ---
+Both are London-based villa specialists, but they work in different ways.
+
+## Oliver's Travels
+- **Model:** 
