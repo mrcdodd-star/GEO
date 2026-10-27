@@ -1,0 +1,59 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: chatgpt
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://excellence-en-provence.com/en/homes/villa-exception-provence/?utm_source=openai","https://villa-amour.fr/?utm_source=openai","https://lavilladeslys.fr/en/tarifs.html?utm_source=openai","https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai","https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai","https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Voici quelques idées et adresses pour louer une villa de luxe avec chef privé en Provence, ainsi que des conseils pour bien choisir selon vos envies et votre budget.
+
+---
+
+## 🏡 Sélections de villas avec chef privé
+
+1. **Villa Horizon – Excellence en Provence**  
+   Située près d’Aix‐en‐Provence entre Alpilles et Luberon, cette villa contemporaine de 400 m² peut accueillir jusqu’à 8 personnes. Elle dispose d’une piscine à débordement, d’un jardin méditerranéen et d’une option “chef privé à domicile”. ([excellence-en-provence.com](https://excellence-en-provence.com/en/homes/villa-exception-provence/?utm_source=openai))
+
+2. **Villa Amour**  
+   Dans les Alpilles, une ferme provençale restaurée de 450 m² avec 5 suites pour 10 personnes. Elle offre un service « concierge 24h », transferts privés, kitchen pro + chef personnel. Parfait pour un séjour haut de gamme. ([villa-amour.fr](https://villa-amour.fr/?utm_source=openai))
+
+3. **Villa des Lys (Puyricard, Aix‐en‐Provence)**  
+   Propriété de caractère pour 8 personnes, avec jardin, hébergement de charme. Le chef privé est proposé à la demande (~120 €/personne pour un dîner), selon la période. ([lavilladeslys.fr](https://lavilladeslys.fr/en/tarifs.html?utm_source=openai))
+
+4. **Le Collectionist – Villas de luxe en Provence**  
+   Plateforme haut de gamme avec des mas en Luberon, Alpilles, Gordes, etc. On y prévoit souvent des chefs locaux pour repas sur place, aux produits frais. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai))
+
+5. **Villanovo – Villas avec chef cuisinier**  
+   Agence spécialisée avec une catégorie “villas avec chef cuisinier” : hébergements haut de gamme selon les occupants (nombre, localisation, style) et inclus la possibilité d’un chef. ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai))
+
+6. **Belles Villas – Villas avec service de conciergerie**  
+   Tous les séjours comprennent accueil, linge, ménage, avec possibilité de service de chef privé selon les demandes. 14 villas disponibles en Provence et Côte d’Azur. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai))
+
+---
+
+## 💶 Tarifs indicatifs
+
+| Type de villa / service                   | Prix par semaine ou par nuit estimé*           |
+|------------------------------------------|--------------------------------------------------|
+| Villa Horizon (8 pers., chef en option)  | ≈ 12 950 €/semaine                              ([excellence-en-provence.com](https://excellence-en-provence.com/en/homes/villa-exception-provence/?utm_source=openai)) |
+| Villa des Lys                           | 2 800 à 5 600 €/semaine selon saison, chef en supplément ≈ 120 €/pers. pour dîner ([lavilladeslys.fr](https://lavilladeslys.fr/en/tarifs.html?utm_source=openai)) |
+| Villas Villanovo                        | De ~1 000 à ~15 000 €/nuit selon taille & période ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai)) |
+
+\*Tarifs susceptibles de varier selon la saison (haute saison juillet/août, fêtes, etc.).
+
+---
+
+## 🔍 Ce à quoi faire attention
+
+- **La saison** : en juillet‐août les prix grimpent, les réservations doivent être faites très en avance.
+- **Capacité d’accueil** : nombre de chambres, salles de bains, espaces communs.
+- **Prestations incluses ou en option** : chef privé, ménage quotidien, linge, concierge, transferts.
+- **Localisation** : Alpilles, Luberon, autour d’Aix, etc. Certaines zones plus touristiques sont plus chères.
+- **Conditions** : durée minimum de séjour, caution, frais de nettoyage et services additionnels.
+
+---
+
+Si vous voulez, je peux vous faire une **liste personnalisée** selon votre budget, le nombre de personnes, les dates envisagées… souhaitez-vous ça ?
