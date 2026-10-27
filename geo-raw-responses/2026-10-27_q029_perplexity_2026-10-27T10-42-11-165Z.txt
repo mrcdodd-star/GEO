@@ -1,0 +1,19 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: perplexity
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://exclusivetuscany.com/villas/luxury","https://www.villanovo.es/alquiler-villas/europa/italia/toscana/","https://www.airbnb.co.cr/tuscany-italy/stays/luxury","https://emmavillas.com/it/county/toscana","https://www.lionard.com/it/villa-toscana-mare-villa-in-vendita.html","https://www.anitavillas.it/r-105/case-vacanze-ville-toscana","https://www.casa.it/affitto/ville/toscana/con-piscina/","https://www.firenzemadeintuscany.com/it/articolo/ville-con-i-servizi-piu-esclusivi-da-affittare-in-toscana/"]
+
+--- RAW RESPONSE TEXT ---
+Per una **villa di lusso in Toscana con piscina privata e chef**, queste sono buone piste da valutare:
+
+- **Antica Villa Merelli — Monte San Savino, Arezzo**: 4 camere, fino a 8 ospiti; Emma Villas segnala un’offerta per soggiorni 2027 con servizio chef e cameriere incluso. Verifica date, condizioni e disponibilità della piscina privata al momento della richiesta.[4]
+- **Villa San Bartolomeo — Montepulciano**: 6 camere, 12 ospiti, piscina a sfioro riscaldata; è indicata tra le proprietà dove si può organizzare uno chef privato.[1]
+- **Villa Il Cellese — Chianti**: 10 camere, 19 ospiti, piscina riscaldata e chef privato; adatta a gruppi numerosi.[1]
+- **Dimora Ghirlandaio — zona Firenze**: grande tenuta con chef privato e piscina esterna; è una soluzione di fascia molto alta per gruppi o occasioni speciali.[1][8]
+- **Ville Salogi vicino a Lucca**: la selezione comprende ville con piscina privata e servizi di cucina su richiesta; chiedi quali proprietà offrono chef in esclusiva per le date desiderate.[10]
+
+I prezzi pubblicati possono riferirsi a periodi specifici: per confrontare le opzioni servono **date, numero di ospiti e budget**. Prima di prenotare, chiedi se piscina e chef sono inclusi o a pagamento, quanti pasti copre il servizio, e se sono previsti costi extra per spesa, pulizie o riscaldamento della piscina.
