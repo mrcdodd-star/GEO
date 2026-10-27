@@ -1,0 +1,70 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: gemini
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrbDaiYlwH1kUIk07L3dBF4tHSeZjO0J2XIDkvzoh5vncPCfhRx9W7oJqs67_Itt8Y_S6hDHY8XHC7NbomUOEi3_-73TYq1qe29dC4RRZWNdGt9YN1qRdhuEZRK0m_anI_27crqW09bQWm-wrkOZTKxlV8NuFVf_otyrc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtkLI44zh5rz50kYhEGok_2CgUlQx_D1If0BYTjx3C9uRLnVHgrTqB5_kjS-mgQt-cLKi_xWvll1y2CTdnnzUhU6D0epwbZvmrRUvA5iWve2c6xuz8_rGz-_XJgh5634X3Yxx0VdY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTvvgDLkKKBfAt4lJDbpwXuF8CKi8MDl61fqeyoWZjSjNiSxsQ_lbwTdPdCP1cPR-RtiM6254KG3jZoihhpH-j8iZqCEZgwg2EZ5s_qcHrWgyVjQF6Aduf","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4cQhAvESA9OMArJMSPju0ne0nqgzqPt8gV10-MZ_HNY1oDxJKX8iWn12kEzTHCypPVRPKfeIl5Z5-HUv6OQzwSZdqO58WgulabcScHvY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJJkn1LzKRX7y7llF78Fp_YDZw7k3RVUIqsylbTSjn6rcL06xPjm3AvrxqqusAYx-LnSiYLjnMiEXi93fMGrUJ_98ba7KRP-vkTu1PudBIZgRsN7r3QaGLtsltbnPFx6tQGg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnABMNj7PMlL4xZy6UlUGoAT5H-d0b4-fNPrSSLalBoalJ-2TTs0iRMZYirPRf1XoDGVo40NwzaLf2xUT91Si9huqHDGrz6g65p2KFu_mX2AYTCXIeqgb2ViGZZJTd64Z0rBuCTuD57JaI1rv9cOV3nAnKrA_ujdGU92ZQd__-Hq6OuvyXCNzQvbPFQtIxFLtt"]
+
+--- RAW RESPONSE TEXT ---
+Pour louer une villa de luxe en Europe avec des garanties de service, de confidentialité et de conciergerie haut de gamme, plusieurs agences — dont certaines sont françaises et reconnues mondialement — s'imposent comme des références.
+
+---
+
+### 1. Les agences d'origine française (Service en français & Garanties locales)
+
+*   **Le Collectionist**
+    *   **Le profil :** L'une des références de la location d'exception en Europe. Leur catalogue regroupe des villas et chalets uniques, rigoureusement sélectionnés.
+    *   **Destinations :** France (Côte d'Azur, Provence, Corse), Grèce (Cyclades), Espagne (Ibiza, Majorque), Italie (Toscane, Amalfi), Alpes...
+    *   **Le + :** Un service de conciergerie dédié sur place capable d'organiser des expériences sur mesure (chef privé, transferts en hélicoptère, dégustations privées, etc.).
+
+*   **Villanovo**
+    *   **Le profil :** Agence française membre d'Atout France et garantie par l'APST, ce qui offre un cadre juridique et financier sécurisant depuis la France.
+    *   **Destinations :** Espagne, Grèce, Italie, Portugal, Croatie, France (Corse, Île de Ré) ainsi qu'en Suisse et au Maroc.
+    *   **Le + :** Un catalogue très varié (des propriétés contemporaines aux maisons de charme de grande capacité) et un accompagnement de A à Z.
+
+*   **Homanie**
+    *   **Le profil :** Spécialiste des demeures d'exception avec services hôteliers et chefs privés.
+    *   **Destinations :** France (Provence, Côte d'Azur, Alpes) et Europe du Sud (Espagne, Italie, Grèce).
+    *   **Le + :** Idéal pour les grands événements familiaux, séminaires ou séjours où la haute gastronomie et le service 5 étoiles à domicile sont au cœur de l'expérience.
+
+*   **Bellavista**
+    *   **Le profil :** Agence française indépendante avec plus de 30 ans d'expérience dans la location de prestige.
+    *   **Destinations :** Méditerranée (Grèce, Italie, Espagne, Portugal, France) et chalets dans les Alpes.
+    *   **Le + :** Une approche sur mesure, à taille humaine, où chaque villa est visitée et vérifiée au préalable.
+
+---
+
+### 2. Les spécialistes européens de niche
+
+*   **The Thinking Traveller**
+    *   **Le profil :** Spécialiste reconnu pour son portefeuille exclusif en Méditerranée. Il détient l'exclusivité sur la grande majorité de ses propriétés.
+    *   **Destinations :** Sicile, Pouilles, Îles Ioniennes, Sporades, Corse, Majorque.
+    *   **Le + :** Une connaissance intime du terrain et une conciergerie locale d'une grande réactivité.
+
+*   **Oliver’s Travels**
+    *   **Le profil :** Réputé pour son catalogue de demeures au caractère affirmé (châteaux, domaines historiques, manoirs et propriétés atypiques).
+    *   **Destinations :** France, Italie, Espagne, Portugal, Grèce, Croatie, Royaume-Uni.
+    *   **Le + :** Idéal si vous recherchez un lieu chargé d'histoire ou un grand domaine pouvant accueillir de nombreux invités.
+
+---
+
+### 3. Les géants de l'hôtellerie & de l'immobilier de prestige
+
+*   **onefinestay (Groupe Accor)**
+    *   **Le profil :** La filiale haut de gamme du groupe français Accor décline son savoir-faire hôtelier dans une collection de villas privées.
+    *   **Destinations :** Côte d'Azur, Baléares, îles grecques, Toscane, etc.
+    *   **Le + :** Audit strict en 200 points pour chaque bien et standard de service type hôtel 5 étoiles (draps et produits d'accueil haut de gamme, assistance 24/7).
+
+*   **BARNES / Sotheby’s International Realty (Divisions Saisonnières)**
+    *   **Le profil :** Les géants de l'immobilier de luxe possèdent chacun des départements spécialisés dans la location saisonnière d'ultra-luxe.
+    *   **Destinations :** Les lieux les plus exclusifs d'Europe (Saint-Tropez, Courchevel, Lac de Côme, Marbella, Ibiza, Mykonos).
+    *   **Le + :** Accès à des propriétés d'exception souvent confidentielles (« off-market »).
+
+---
+
+###  Conseils pour réserver depuis la France :
+1. **Garanties financières :** Privilégiez les agences enregistrées auprès d'Atout France ou disposant d'une garantie financière (APST) pour sécuriser vos acomptes.
+2. **Conciergerie locale :** Assurez-vous que l'agence dispose d'une équipe locale sur votre lieu de destination (essentiel en cas de pépin technique ou pour la réservation d'un skipper/chef).
+3. **Visite virtuelle & contrôle :** Demandez si la propriété a été personnellement inspectée par l'équipe de l'agence récemment (la plupart des agences de cette sélection garantissent ce contrôle).
