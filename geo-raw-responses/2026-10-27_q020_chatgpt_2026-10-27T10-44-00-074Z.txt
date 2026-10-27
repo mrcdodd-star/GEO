@@ -1,0 +1,76 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://www.feefo.com/en-GB/reviews/olivers-travels?page=1&utm_source=openai","https://uk.trustpilot.com/review/oliverstravels.com?page=5&utm_source=openai","https://www.oliverstravels.com/security-incident/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a detailed breakdown of what people in the UK are saying about Oliver’s Travels — the good, the bad, and what to watch out for — based on recent reviews (2025–late 2026).
+
+---
+
+## 👍 What customers generally like
+
+**1. Great booking and customer service**  
+Many positive reviews highlight how easy and responsive Oliver’s Travels is during the booking process. Agents named Samanta, Chiara, Alberto, etc., are often praised for being helpful, friendly, and prompt. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+**2. Strong range of properties**  
+Customers love the selection. From quirky villas to large family-friendly chateaux, there seem to be plenty of unique and interesting options. Property descriptions are usually detailed and accurate, especially on the website. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+**3. Competitive pricing and good value**  
+Several users say that deals through Oliver’s Travels stack up well against similar listings, especially when booking for bigger groups or more upscale holiday villas. ([feefo.com](https://www.feefo.com/en-GB/reviews/olivers-travels?page=1&utm_source=openai))
+
+---
+
+## 👎 Common complaints & issues
+
+**1. Mismatches between property description and reality**  
+Some people found villas to be less impressive in person than in the photos and description. Issues reported include cleanliness problems (dirt, cobwebs, stains), amenities that aren't as promised, and facilities in poor condition. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+**2. Delays, poor responsiveness during stays**  
+When things go wrong — like broken equipment or plumbing/heating problems — customers frequently report delays in resolutions or unclear accountability between the villa owners and Oliver’s Travels. Sometimes, local management firms are mentioned as unhelpful. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?page=5&utm_source=openai))
+
+**3. Customer service can be patchy**  
+There are cases of poor communication or being left after issues arise. Refund requests or complaints sometimes seem to stall or be handled in ways that customers feel are dismissive. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+**4. Misrepresentation or outdated affiliations**  
+One serious red flag: an ABTA (travel industry association) membership issue. Some customers allege that Oliver’s Travels refers to ABTA branding even though it’s no longer officially bonded, which could mislead people about their rights when booking. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+---
+
+## ⚠️ Recent security incident
+
+- On **20 October 2026**, Oliver’s Travels confirmed they had uncovered a data breach involving unauthorized access to their booking system. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+- Exposed data reportedly includes contact info and booking details. **No evidence** that payment card or bank account details were stolen. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+- Customers are being warned to be wary of fraudulent messages using booking details. They claim they haven't changed bank details. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+
+---
+
+## 🧠 Overall summarised rating
+
+| Metric | Typical Feedback |
+|---|---|
+| Booking Experience | Smooth, helpful, agents praised |
+| Property Quality | Often excellent, sometimes not what was promised |
+| Communication after booking | Mixed — generally good pre-arrival, weaker in crisis or issue scenarios |
+| Value for money | Decent, especially for premium villas |
+| Trust and transparency | Some concerns, especially regarding legal protections and ABTA branding |
+
+---
+
+## 🔍 Should you trust them?
+
+Yes — **with some caution**. Oliver’s Travels has a lot of happy customers and many outstanding villas, so they clearly do many things right. But some important caveats:
+
+- Always check recent reviews of the *specific villa* you’re interested in (not just the company overall).
+- Ask direct questions about cleaning, amenities, and who handles local issues.
+- Be particularly careful with big properties or high-cost bookings.
+- Understand exactly what protections you have if things go wrong (in terms of contracts, insurance, etc.).
+- Stay alert to fraud, especially in light of the recent security incident.
+
+---
+
+If you want, I can pull up reviews for a specific villa you're interested in (or for a particular.destination) so you can see what people said there. Would that be helpful?
