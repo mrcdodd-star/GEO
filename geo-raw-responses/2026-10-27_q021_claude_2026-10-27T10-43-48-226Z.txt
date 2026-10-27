@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com","https://www.feefo.com/en-GB/reviews/olivers-travels","https://au.trustpilot.com/review/oliverstravels.com","https://www.weather2travel.com/deals-and-discounts/olivers-travels/","https://uk.trustpilot.com/review/oliverstravels.com","https://www.oliverstravels.com/faq/","https://en.wikipedia.org/wiki/CV_Villas"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels looks mostly reliable for the booking process, but the evidence on financial protection and on how it handles disputes is mixed. I'd check those two points before paying.
+
+**What's good**
+- Recent Trustpilot reviews are very positive. 
