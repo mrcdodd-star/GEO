@@ -1,0 +1,15 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: claude
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://www.tuscanynowandmore.com/","https://www.sopranovillas.com/","https://celebinsightz.com/the-5-best-luxury-villa-agencies-for-exclusive-private-estates-in-italy/","https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/","https://www.casainitalia.com/"]
+
+--- RAW RESPONSE TEXT ---
+Several agencies come up repeatedly for Italy. Most of the "best of" lists I found are marketing or affiliate-style content, so treat them as starting points and not independent rankings.
+
+**Agencies that come up most often**
+
+- **Tuscany Now & More** is a luxury specialist in Tuscany, Umbria and elsewhere. 
