@@ -1,0 +1,36 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYSjFih2clrDMiTCg_j4uClaFOzdtOlIKH7FDNH98dv-U-SqqD9WeG8muBb6SAognfkBl9azdL8cqAbwtwlxLvsQcdtUAR6BZA8glaXFdZoVc-VrEFEoY7dFiZ5OCh0azODgK6beYqtPk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebi6aiij0jZJbHiftuD1yWq0t7c0yclDFYvtLikGEsnhNb0ILSNmRvjilhO94L-Gdj1G9VLBeFk4QrqA0mFIzFsCZYc7Dnv1B_QKVBbAZOKcP3qe7GTz7tppDXdAx3kjlv-SlFxHjmJZa3cPiOFb2PKB5QvFnsxhUjna3zUK0HUJDNQPNNlM-NpyJfnCt5uEYmbMn-NlPm_hJdOczvCfKCTxG","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLOneWr1AVtzVMu4whHy8N_FGyRhHgp1D_0tOOzY6tCtyVRUCui3PeG66mFpws-tBSHfFzefFG11_iy1674j-QtzrYMqMx_ya3imGJ1UlT_3kXQ0oSnlKQ4M5JTCXKRs676EtjPAyo8TvCSgDxIPg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdSZSmZqNmva6cyg5GvAVtWKb09IiAEtnhEtH_I4FlIGuPmTE9lvQRwOAqCwfCBUejHsvg20izjrcip2hDgiwPPW1Zo-AOnry1Iudy9bhqrOBnO4dmq_CdP_7x3Vh8lVJgzlEgY8djbw8zMg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGgPiJ4KWtfKb2wcA3g02qH_UXltAGXG411INvBn5y0V5A3WRv2k9HFjt_dZ49MtFE1R9H_tXDVUm5UeSOf92C4vutwQH2cbVr-bKI3yrBfJ51OTitn34v","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET96PdMTOwO8klGl7ltsWepnDtB1uckJFbh8sDuMPTzmCwLiOFHI6FHbgWSU4yYy-WcYlOidI-r_P-c3ECOeMrtXoYBENwTQl2Q9eP_O3Hmy-9m8OYwuZBSay5PDWqKeP8LouC0aQZcEs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiQCHV4033P0lIxx8qUwhr_VWmUXlKwECG3l48kMwiIqi8rj0scPRpXuyZuCmcHu6jwMM1_EVJqBT5hlBK9fM0vNyhclK6Zm16l2Dm4gxIP4vrM5oPkzsxfrBuGtrbJSHZ1_8HZvb6EpOQ8clOso-9a9g="]
+
+--- RAW RESPONSE TEXT ---
+**Yes, Oliver’s Travels is a legitimate, reputable, and reliable company**. Headquartered in London, they have been operating for over 20 years (originally launched as Simply Chateau) and specialize in luxury villas, country homes, and chateaux across Europe and the Caribbean.
+
+### 1. Reputation & Customer Feedback
+* **Trustpilot Rating:** They maintain a high score of **4.5 out of 5 stars** ("Excellent") across more than 3,600 customer reviews. 
+* **Positive Feedback:** Customers frequently praise the ease of booking, helpful concierge services, prompt pre-departure communication, and the unique, high-quality standard of the properties.
+* **Common Complaints:** The most common negative reviews stem from on-site property issues (e.g., a pool heater not working, air conditioning failures, or slow responses from local keyholders). Because Oliver's Travels is an agency, day-to-day property maintenance during your stay is usually managed by the property owner or a local caretaker.
+
+---
+
+### 2. Financial Protection & Legal Info (UK Focus)
+* **ATOL Protection:** Because Oliver’s Travels sells **accommodation-only** rentals (rather than package holidays that include flights), ATOL protection does not apply.
+* **ABTA:** Most bookings are non-package rentals where Oliver's Travels acts as a booking agent on behalf of individual property owners. 
+
+**How to protect your booking:**
+1. **Pay with a UK Credit Card:** Under **Section 75 of the Consumer Credit Act**, paying all or part of your deposit/balance (between £100 and £30,000) on a UK credit card gives you legal financial protection if the company defaults or if there is a major breach of contract.
+2. **Get Comprehensive Travel Insurance:** Ensure you take out travel insurance as soon as you book to cover unexpected cancellations, medical emergencies, or supplier failures.
+
+---
+
+### 3. Key Things to Keep in Mind Before Booking
+* **Check the Specific House Terms:** Each property listed on Oliver’s Travels is privately owned, meaning cancellation terms, security deposits, pool heating fees, and end-of-stay cleaning charges can vary from property to property. Always check the specific "House Rules" on the listing page.
+* **Security Deposits:** Security deposits are usually held as a credit card pre-authorisation or collected by the owner locally. Make sure to take photos/videos of the property upon arrival and departure.
+* **Report Issues Immediately:** If anything is broken or not as advertised when you arrive, report it to **both** the local property manager and Oliver’s Travels guest relations team straight away so there is an official paper trail.
+
+### Verdict
+Oliver's Travels is a trusted option for high-end villa rentals. Paying by credit card and reviewing the property-specific terms will ensure a smooth booking process.
