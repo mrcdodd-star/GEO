@@ -1,0 +1,23 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdONk9UaGljZxgK","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdveGJEUXlNV0p6GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNek1tdzRjV2d6GAo"]
+
+--- RAW RESPONSE TEXT ---
+When Americans travel to Italy, renting a villa through a specialized, trusted agency bridges the gap between cultural differences, language barriers, and distinct property expectations (like reliable air conditioning, stable Wi-Fi, and American-standard customer service).
+The top villa rental agencies catering specifically to US travelers are categorized below by their service style:
+1. High-Touch, US-Based Advisory & Concierge Agencies
+These agencies are based in the United States, meaning easy communication across US time zones, transparent payment terms in USD (often avoiding volatile international wire fees), and dedicated pre-trip planning.
+
+2. Deep-Rooted European Specialists with Strong American Clienteles
+These companies have a massive physical footprint in Europe/Italy combined with specialized English-speaking expert teams who understand precisely what American travelers look for in terms of comfort, modern amenities, and location.
+
+3. Italy-Based Boutique Operators
+
+If you'd like to narrow down the choices, tell me:
+
+I can recommend the ideal agency and specific property style for your group.
