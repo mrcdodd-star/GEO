@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhJelluQjRkbWQ0GAo","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZURadU5HTnhhZxgK","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNGFtSjRkSGwwGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhGaVkydDBZM0J4GAo"]
+
+--- RAW RESPONSE TEXT ---
+La location d'une villa de luxe en Provence avec un chef privé (ou un service de chef à domicile) offre une expérience sur mesure, alliant l'art de vivre provençal à la gastronomie haut de gamme.
+Options et agences spécialisées
+
+Ce qui est généralement inclus ou sur demande
+
+Pour vous aider à trouver la perle rare, pourriez-vous préciser :
