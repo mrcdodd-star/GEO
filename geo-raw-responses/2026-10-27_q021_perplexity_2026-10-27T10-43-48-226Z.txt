@@ -1,0 +1,21 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://www.oliverstravels.com/about/why-book-with-us/","https://www.trustpilot.com/review/oliverstravels.com?page=8","https://ie.trustpilot.com/review/oliverstravels.com?page=2","https://au.trustpilot.com/review/oliverstravels.com?page=3","https://www.trustpilot.com/review/oliverstravels.com?page=5","https://www.trustpilot.com/review/oliverstravels.com?page=7","https://uk.trustpilot.com/review/oliverstravels.com?page=6","https://www.trustpilot.com/review/oliverstravels.com?page=9"]
+
+--- RAW RESPONSE TEXT ---
+Oliver’s Travels appears to be a **legitimate UK-based villa-booking company**, but “reliable” depends on what you need: customer reviews are mostly positive, yet there are also recent complaints about property descriptions, cleanliness, cancellations and how responsibility is handled when something goes wrong.[2][5][6]
+
+Trustpilot currently shows a 4.7/5 rating from thousands of reviews, though Trustpilot says it does not verify every reviewer’s claims and notes that the company has not recently invited reviews, so the score is useful but not conclusive.[2] The company says it checks properties and offers credit-card booking, but that is its own assurance.[1]
+
+**Before booking from the UK:**
+- Check whether the contract is with Oliver’s Travels or the property owner, and who handles problems or refunds. Some reviews quote terms describing Oliver’s as an agent rather than the accommodation provider.[3]
+- Confirm in writing the exact bedroom count, pool heating, accessibility, location and any other must-haves; save the listing and correspondence.
+- Compare the villa using its photos and details elsewhere, since some customers report finding properties under different names or at lower prices.[2][6]
+- Pay by credit card if possible, and check what protection your specific booking has. Don’t assume ABTA protection: a review page reports that the company said it was not ABTA bonded.[3]
+
+**Bottom line:** It doesn’t look like an obvious scam, but treat it as a booking intermediary and verify the specific villa and contract carefully before paying.
