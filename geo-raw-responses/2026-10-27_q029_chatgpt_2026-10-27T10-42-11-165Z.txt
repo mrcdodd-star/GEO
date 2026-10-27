@@ -1,0 +1,48 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: chatgpt
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.tuscanynowandmore.com/villas/villa-albizi?utm_source=openai","https://friendsoftuscany.com/property/41-villa-mori-elegant-villa-sleeps-up-to-28-private-pool-chef-and-spa/?utm_source=openai","https://www.villasiepi.com/?utm_source=openai","https://poggioallecorti.com/?utm_source=openai","https://www.petrolo.it/en/hospitality/villa-petrolo/?utm_source=openai","https://www.coselli.com/luxury-villas-with-private-chef/?utm_source=openai","https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/?utm_source=openai","https://www.salogivillas.com/catered-villas?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Eccellenti scelte! In Toscana ci sono tantissime ville di lusso che rispondono perfettamente a quello che cerchi: piscina privata, chef personale, privacy e vista mozzafiato. Ecco una selezione di proposte curate per diversi gusti e budget — posso filtrare meglio se mi dici in quale zona preferisci (es. Chianti, Val d’Orcia, mare, vicino Firenze, ecc.):
+
+---
+
+## 🌿 Alcune ville di lusso che includono piscina privata e chef
+
+| Villa | Zona | Ospiti / Camere | Caratteristiche principali |
+|---|---|---|---|
+| **Villa Albizi** | Chianti | fino a 16 persone (8 camere) | Piscina riscaldata privata, cuoco incluso; servizio di maggiordomo & concierge; 6 colazioni, 3 cene gourmet incluse. ([tuscanynowandmore.com](https://www.tuscanynowandmore.com/villas/villa-albizi?utm_source=openai)) |
+| **Villa Mori** | vicino a Lucca | fino a ~28 persone | Villa del ‘600 con piscina privata, spa, wine cellar con sommelier; cuoco professionista incluso; ideale anche per grandi gruppi. ([friendsoftuscany.com](https://friendsoftuscany.com/property/41-villa-mori-elegant-villa-sleeps-up-to-28-private-pool-chef-and-spa/?utm_source=openai)) |
+| **Villa Siepi** | tra Firenze e Siena (Chianti) | 22+2 ospiti (9 camere) | Infinity pool riscaldata, tennis, chef su richiesta; vista panoramica spettacolare. ([villasiepi.com](https://www.villasiepi.com/?utm_source=openai)) |
+| **Poggio alle Corti** | cuore del Chianti | 18+ persone | Villa & vigneto storico, chef privato, piscina privata, vista su tre valli; servizio concierge incluso. ([poggioallecorti.com](https://poggioallecorti.com/?utm_source=openai)) |
+| **Villa Petrolo** | Toscana (zona vinicola) | 17-33 persone | Giardino privato, piscina 6×12 m, chef e servizio giornaliero di pulizia; architettura storica ben restaurata. ([petrolo.it](https://www.petrolo.it/en/hospitality/villa-petrolo/?utm_source=openai)) |
+| **Coselli Collection – Villa Lenka / Borgo Bernardini / Villa del Fattore** | varie zone di Toscana | da ~12 a 24 ospiti | Ville aristocratiche con piscina, giardini, chef privati, spazi eleganti; prezzi settimanali tra ca. €12.000-€25.000+ a seconda del livello. ([coselli.com](https://www.coselli.com/luxury-villas-with-private-chef/?utm_source=openai)) |
+
+---
+
+## ⭐ Altre opzioni flessibili
+
+- **Haute Retreats** offre +100 ville, molte con chef che cucinano almeno un pasto al giorno, piscina privata per tutte; sono eccellenti se vuoi confronto tra differenti tipologie. ([hauteretreats.com](https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/?utm_source=openai))  
+- **Salogi Villas** propone ville con ristorazione gourmet, chef qualificato e piscina privata: case come *Angeloni*, *Campassole*, *Chiodo* o *Villa Bongi* sono ottimi esempi. ([salogivillas.com](https://www.salogivillas.com/catered-villas?utm_source=openai))  
+- **Azienda Meleta** (Maremma) è ottima se cerchi relax totale: ville immersi tra vigneti ed oliveti, chef su richiesta, privacy elevata. ([aziendameleta.com](https://aziendameleta.com/?utm_source=openai))  
+
+---
+
+## 🗺️ Quale zona scegliere?
+
+Dipende da cosa vuoi combinare alla villa:
+
+- **Chianti**: vineti, borghi, facile raggiungere Firenze e Siena. Ideale se vuoi cantine, buon cibo, vigneti.
+- **Val d’Orcia**: panorama dolce, colline famose, ideale per relax e bellezza naturale.
+- **Maremma**: costa, mare, natura, mare tranquillo.
+- **Lucca / Versilia**: mix di campagna verde e accesso al mare.
+- **Zone vicino Firenze**: se vuoi giorno in città + relax fuori.
+
+---
+
+Se vuoi, posso prepararti un **listino personalizzato** (villa + prezzo e foto) per le date che hai in mente e la zona preferita: così ti fai un’idea concreta. Vuoi che proceda in questo modo? Che zona o budget prevedevi?
