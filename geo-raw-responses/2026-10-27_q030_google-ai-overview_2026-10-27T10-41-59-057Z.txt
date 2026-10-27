@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdac2RERTJYM2gwGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRHTnlPRFJ1GAo","https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZGpOcloyMWZOURgK"]
+
+--- RAW RESPONSE TEXT ---
+Das Mieten einer Luxusvilla in Südfrankreich (ob an der Côte d’Azur, in der Provence oder im Luberon) mit privatem Koch und Personal bietet absoluten Fünf-Sterne-Komfort in privater Atmosphäre.
+Beliebte Regionen & Optionen
+
+So läuft die Buchung meist ab
+
+Um Ihnen passende Vorschläge herauszusuchen, teilen Sie mir gerne mit:
