@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: claude
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.landmark-fine-travel.de/ferienvillen/europa/frankreich/cote-dazur/st-tropez/beachcomber-house/","https://www.landmark-fine-travel.de/ferienvillen/europa/frankreich/cote-dazur/st-tropez/villa-la-saline/","https://www.southfrancevillas.com/komplettes-franz%C3%B6sische-Urlaubsvillen-Kollektion","https://www.domizile.de/ferienvilla/frankreich.html","https://www.cdvillas.com/holiday-ideas/fully-serviced-villas/?rd=1&attrs=34412&location=&soc=&sod=&nights=0","https://hauteretreats.com/french-riviera-villa-rental-8-group/","https://www.villanovo.com/villa-rentals/europe/france/french-riviera/collection:fully-staffed-villas/","https://www.operaprestige.com/luxury-villa-rental-french-riviera/"]
+
+--- RAW RESPONSE TEXT ---
+Eine Luxusvilla mit Personal und Koch in Südfrankreich lässt sich gut über spezialisierte Agenturen buchen. Die Preise und Angebote unten stammen von deren Webseiten und können sich ändern.
+
+## Anbieter
+
+**Deutschsprachig:**
+- **Landmark Fine Travel** hat Villen an der Côte d'Azur und in der Provence. Beispiel: 
