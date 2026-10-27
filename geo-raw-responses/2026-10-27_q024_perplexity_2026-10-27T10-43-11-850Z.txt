@@ -1,0 +1,13 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/villa-holidays/wedding-venues/","https://www.oliverstravels.com/villa-holidays/rent-a-castle/","https://www.oliverstravels.com/2859/","https://www.oliverstravels.com/britain-ireland/wedding-venues/","https://www.oliverstravels.com/france/south-of-france/rhone-alpes/chateau-des-daims/","https://www.oliverstravels.com/villa-holidays/heritage-collection/","https://www.oliverstravels.com/france/aquitaine/chateau-paradis/","https://www.oliverstravels.com/faq/"]
+
+--- RAW RESPONSE TEXT ---
+Yes. Oliver’s Travels offers château wedding venues, including French châteaux, and has a dedicated wedding consultancy service for planning from the UK.[1][2][8]
+
+Wedding permissions, guest capacity and extra event fees vary by property, and weddings generally need the owner’s approval—so check the individual listing and enquire before booking.[5][7]
