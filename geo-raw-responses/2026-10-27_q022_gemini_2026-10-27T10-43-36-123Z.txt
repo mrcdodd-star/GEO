@@ -1,0 +1,82 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q022
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuD-Ujx27ItspuZe9-65f1pdVeERcxIiwIUsxxyJfXCVbjEmYtOiB24LvjYcIHw2hMvvTBoSSO3kgtx-DmJbGnctNOGROsYhE3TCreSrC9pA8ZgzeyBoQf2ddqDxflS3EZFkJwDqUVuXwkP-RH4N80Q4wp5qVZLtKd10v4KEc1IA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9OEA485sDYeer1CuQYdnFanrwPU3wZHaS6onC0dBPXgDlktK9YzRUYeLN7h59qRiO7RjVI2P5PiVFXvWSBnDkOAGMfhfhfkuhdyUUqsapIpc7XBRguhTVGK2joY8xKg8tdKA9E-lyAXzU","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzIlmFJznPPNa35aTAfVm-Scq8RUmjG_wGDBED411a2um-gArBPoPPFYrCi0XpVoov9gZt9x5fjCAsQ8iWFhFh2x56AnZmktqBuCS_zFmUjM-Bk6fTUpDUr9WbjdeYOOiX4th9hkCl3M0it6TvK5hoKDpD1pAx_bgN2ZHwZ3xRcMHgrr2hHkaWkT0QsCTajVZOZVLphRVmc_xtIyUq_qniy5IGdOq3GJnOeMCJ0RXusg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFsbNPdq-7ycAq5OuOk4N36hbYPajvcfFdqGdWF8CcXw4HUvsXI16gBA1YF_PLkZr1dU4wR7pu30potMz8GjuFoQ1-JxOWknd4DRBcEOM6bbQCdwx","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFCAHOtZOVNbMS42PyjJJkFXglzdkJCWEcOyjB8312M0yk1FP5JE-pvSVt2DxG8R-F8hXgNmrg20nVr44AsjM0P6av2Fh1X5dw-S_evS5JXqW0uJa6x5aVGwVuhPjiXXvx0N_aYSBiqyoG5-xnX6goeZi49zlkgK0Pw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEreLYbsLVhFAvATYxaK6c1Bi-x77WXNIjit7HobHgbkiUgwGDAhwFG5BXrlhghHf4Iq08vlCi0pVUKxoOacDlxZ1GPa9ZWEGtaLXeijQqlmzEHXDsSjhpB7dWIbiO32C88zdW8RziO1UJ_f1iGSyZpB-_-bIeV0g9NJNlH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBkJqJeKA0ELCwLNsAB6IffGuTmH37SYONfZ8-7Ev7lkAnIF_OGTjdPUlSfC4wL4gTQPWGayzpXRDbZPYJPfXFj17msQufTj0zanvQasWox8F4yd98-fof6wEMnfe_HB_NXkhE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1PWLpWHkceQ0G4BikX2uJBJauACcGuYS8RIA9iVGdiwtO_vdI_zZzLXklYhN_G-6CAbDTollTxlOfb21aOvDtRo6qtNegfnzkof1eR2S_X1zHt6TiRg2ZmitoIFwfXg8tYCuKJq95Kb2wBoE-Nbvv0o8LOlYgXETadROLW64TI5JLV-WnRD9kxNyt5Mptp0x8RtVTFyXhVWaHRJ64BTmQR_ny6Q=="]
+
+--- RAW RESPONSE TEXT ---
+Both **Oliver’s Travels** and **The Thinking Traveller** are award-winning, UK-headquartered luxury villa specialists, but they offer distinct holiday experiences. 
+
+The primary distinction comes down to **scope and style**: 
+* **Oliver’s Travels** offers a vast, eclectic, global portfolio known for characterful, quirky, and large properties (like French châteaux, UK manors, and castles). 
+* **The Thinking Traveller** offers a hyper-curated, highly exclusive selection of Mediterranean-only villas with an intense focus on architectural beauty, privacy, and high-touch local concierge service.
+
+---
+
+### 1. Destinations & Geographic Reach
+* **Oliver’s Travels:** Global footprint with thousands of properties. They are exceptionally strong in **France** (famous for their châteaux rentals), **Italy**, **Spain**, **Greece**, **Portugal**, **Croatia**, as well as **UK staycation properties** and long-haul destinations like the **Caribbean** and **Bali**.
+* **The Thinking Traveller:** Exclusively focused on the **Mediterranean**. They cover a select group of regions where they have deep roots: **Sicily, Puglia, Tuscany, Corsica, Menorca, Mallorca**, and key **Greek Islands** (such as the Ionian Islands, Paros, and the Sporades).
+
+---
+
+### 2. Property Portfolio & Exclusivity
+* **Oliver’s Travels:** 
+  * **Style:** Quirky, historic, grand, and diverse. You will find everything from medieval French châteaux, English country estates, and converted barns to sleek beachfront villas and ski chalets.
+  * **Exclusivity:** Oliver's Travels curates a large inventory (vetting for quality), but many properties can also be rented via other platforms or directly through owners.
+* **The Thinking Traveller:** 
+  * **Style:** High-end boutique luxury. Every villa is handpicked for outstanding location, contemporary design, or impeccable restored heritage (e.g., converted Apulian trulli or restored Sicilian estates). 
+  * **Exclusivity:** **100% Exclusive.** You cannot book their properties anywhere else; they act as the sole keyholder for every villa in their collection. 
+
+---
+
+### 3. Service & On-the-Ground Support
+* **Oliver’s Travels:** 
+  * Features a strong remote concierge team (**Oliver’s VIP Concierge**). They can arrange private chefs, airport transfers, maid services, fridge stocking, and excursions. 
+  * Because of the vastness of their portfolio, on-site management depends somewhat on local property owners or housekeepers managed by Oliver's network.
+* **The Thinking Traveller:** 
+  * Industry-leading in-resort service. They employ dedicated **Local Specialists** in every destination who possess deep insider knowledge. 
+  * They offer bespoke **“Think Experiences”**—from private yacht charters and off-the-beaten-path culinary tours to private in-villa cooking classes run by regional chefs. 
+
+---
+
+### 4. Group Sizes & Ideal Use Cases
+* **Oliver’s Travels:** 
+  * **Best for large group celebrations**, multi-generational family milestone birthdays, corporate retreats, and weddings. They specialize in properties sleeping 12 to 30+ people.
+* **The Thinking Traveller:** 
+  * **Best for luxury family holidays, couples, or medium-sized groups** seeking privacy, seamless service, and refined aesthetics. While they have large estates, their core portfolio shines for 2 to 12 guests wanting high-end Mediterranean living.
+
+---
+
+### 5. Pricing & Value
+* **Oliver’s Travels:** Broader price range. Because of their massive selection, you can find options across mid-tier luxury to high-end luxury, often offering excellent value when split among large groups.
+* **The Thinking Traveller:** Premium price point across the board. They target high-net-worth travelers looking for a guaranteed, flawless standard of luxury and are priced accordingly.
+
+---
+
+### Comparison Summary
+
+| Feature | Oliver’s Travels | The Thinking Traveller |
+| :--- | :--- | :--- |
+| **Geographic Focus** | Global (Europe, UK, Caribbean, Asia) | Mediterranean only (Italy, Greece, France/Corsica, Spain/Balearics) |
+| **Portfolio Vibe** | Historic, grand, quirky, character-rich | Modern design, pristine finish, architectural gems |
+| **Exclusivity** | Curated marketplace model | 100% Exclusive keyholder model |
+| **Key Strength** | French châteaux, UK staycations & massive party estates | Unrivalled local insider service & boutique Mediterranean villas |
+| **Concierge Level** | Remote VIP Concierge team | Dedicated local specialists on the ground |
+| **Typical Budget** | Upper Mid-range to High-end | Ultra-High / Premium Luxury |
+
+---
+
+### Which one should you choose?
+
+**Choose Oliver’s Travels if:**
+* You are planning a large celebration (e.g., a 40th birthday, family reunion, or wedding).
+* You want a French château, an English country manor, or options outside the Mediterranean (like the UK or Caribbean).
+* You want a wide array of options and flexible price points.
+
+**Choose The Thinking Traveller if:**
+* You are heading to the Mediterranean (especially Sicily, Puglia, Corsica, or the Greek Islands).
+* You want absolute peace of mind regarding property quality, design, and privacy.
+* You value local insider access, private chefs, curated boat trips, and 24/7 dedicated local concierge support on the ground.
