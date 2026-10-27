@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://www.plumguide.com/terms","https://www.lodgify.com/blog/plum-guide/","https://uncompromised.travel/plum-guide-vs-alternatives-review","https://help.plumguide.com/en/articles/4684372-fees-plum-guide-fees-explained","https://rentalsunited.com/blog/luxury-vacation-rental-websites/","https://en.wikipedia.org/wiki/ABTA_(trade_association)","https://www.edwindoran.com/terms-and-conditions/"]
+
+--- RAW RESPONSE TEXT ---
+Plum Guide and specialist villa agencies do different jobs, so the better choice depends on the trip.
+
+## Plum Guide
+- **What it is:** 
