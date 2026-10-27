@@ -1,0 +1,18 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://www.cntraveller.com/article/best-villa-rental-companies-2026","https://www.plumguide.com/","https://www.facebook.com/fb-answers/plum-guide-vs-competitors-luxury-short-term-rentals/"]
+
+--- RAW RESPONSE TEXT ---
+When planning a high-end holiday, choosing between a curated meta-marketplace like Plum Guide and a specialist villa rental agency (such as Simpson Travel, Le Collectionist, or Oliver's Travels) depends on the level of curation, local concierge support, and booking style you prefer.
+Plum Guide
+
+Specialist Villa Rental Agencies
+
+Quick Comparison at a Glance
+
+If you'd like to narrow this down, tell me:
