@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: perplexity
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.simpsontravel.com/villas-provence","https://www.villanovo.fr/location-villas/europe/france/provence/service:chef-ou-cuisiniere/","https://www.villanovo.fr/location-villas/europe/france/provence-alpes-cote-dazur/service:personnel-de-maison/","https://www.prestigevillarental.com/fr/location/villas-france-c2p5/","https://www.prestigevillarental.com/fr/location/locations-france-p5/","https://www.villanovo.fr/location-villas/europe/france/service:chef-ou-cuisiniere/","https://www.villanovo.fr/location-villas/europe/france/provence/lauris/collection:villas-avec-chef-cuisinier/","https://www.provenceholidays.com/fr/experience-services/chef-a-domicile"]
+
+--- RAW RESPONSE TEXT ---
+Oui, plusieurs agences proposent des villas de luxe en Provence avec chef privé, généralement à réserver en supplément ou sur demande.
+
+- **Villanovo** : sélection en Provence avec chef ou cuisinière, notamment autour de Saint-Rémy-de-Provence, Lourmarin, Uzès et Vaison-la-Romaine. Exemples affichés : Villa Cigalea (8 personnes, 5 chambres), Villa Verina (12 personnes, 6 chambres) et Château de Tourreau (29 personnes, 16 chambres). Les tarifs indicatifs varient fortement selon la propriété et les dates.[2]
+- **Provence Holidays** : organise un chef à domicile pour un ou plusieurs repas. Le chef est choisi selon vos préférences et régimes alimentaires ; comptez généralement **70 à 130 € par personne** pour la prestation, selon le menu et le niveau du chef.[8]
+- **Simpson Travel** : propose des villas provençales avec piscine et climatisation, avec possibilité d’ajouter un service de chef privé.[1]
+
+Pour affiner les options, indiquez vos dates, le nombre de personnes, la zone souhaitée (Luberon, Alpilles, autour d’Aix, etc.) et votre budget par nuit.
