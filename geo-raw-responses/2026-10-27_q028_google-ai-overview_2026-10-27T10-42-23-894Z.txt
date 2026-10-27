@@ -1,0 +1,23 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdNd2VuYzVZMncYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkck1ITnFabWQ0GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMU9IUTBNMlF5GAo","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3WTJnMGVUa3gYCg","https://www.firefly-collection.com/luxury-villa-holidays/","https://www.firefly-collection.com/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhJelluQjRkbWQ0GAo"]
+
+--- RAW RESPONSE TEXT ---
+Le marché de la location de villas de luxe en Europe se distingue par un niveau d'exigence très élevé, tant au niveau de l'architecture des biens que des services de conciergerie sur mesure.
+Voici une sélection des meilleures agences spécialisées reconnues pour l'excellence de leur catalogue et de leur accompagnement en Europe :
+1. The Thinking Traveller
+
+2. Le Collectionist
+
+3. Villanovo
+
+4. Firefly Collection
+
+5. Homanie
+
+Pour vous orienter vers l'agence ou la destination idéale, dites-moi :
