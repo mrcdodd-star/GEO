@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com?b=MTYyODcwMDA2MDAwMHw2MTEzZmQ5Y2Y5ZjQ4NzBhMjgwNjcxMmY","https://nz.trustpilot.com/review/oliverstravels.com","https://www.feefo.com/en-GB/reviews/olivers-travels?page=241","https://www.trustpilot.com/review/oliverstravels.com","https://ie.trustpilot.com/review/oliverstravels.com?page=5","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://au.trustpilot.com/review/oliverstravels.com","https://www.feefo.com/en-US/reviews/olivers-travels"]
+
+--- RAW RESPONSE TEXT ---
+I'm assuming you mean Oliver's Travels, the luxury villa rental agency, not the 1995 TV series. Reviews are mostly positive, with a consistent set of complaints.
+
+**Ratings**
+- Trustpilot has roughly 3,300–3,600 reviews. Some regional pages show 
