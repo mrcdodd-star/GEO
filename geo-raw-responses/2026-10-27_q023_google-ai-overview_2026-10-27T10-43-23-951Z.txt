@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/","https://www.oliverstravels.com/faq/","https://forums.moneysavingexpert.com/discussion/6388432/olivers-travels-owner-cancellation","https://www.oliverstravels.com/your-priority-window/"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels operates under a cancellation policy where deposits are generally non-refundable, and the ability to receive a balance refund depends on how far in advance you cancel and the specific terms of the property owner.
+Key Rules for Cancellations
+
+Summary of Refund Timeline
+
+You can review the full breakdown directly on the Oliver's Travels Agency Terms and Conditions and Oliver's Travels FAQs.
+If you share your booking date or whether your reservation is within the 12-week window, I can help you figure out what options or penalties might apply.
