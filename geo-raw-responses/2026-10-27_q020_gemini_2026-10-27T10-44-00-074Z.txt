@@ -1,0 +1,50 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwoyNWDm1Ni1HyvF-GFlvgVZnYNH1Br4R90JPiJj12sn3p-BcMxGVnTKAw-tFwzLDD4qrMG_btweg-UKZFNAF0lqcDHvttZqfux3LAcIZ3bHC3aVKzBQ8wzzBqXCssgzoJgiRY_DXHOAcK","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWsm_FUqzDXzZalmco0_2B1NuekOiXGRp-tvUrlSBhnL6G0fgYVLX-Mm5CLsSZkKCviXR3Anly3BKNk5RcnSwH1l5CqXpKfG8ROzhSnf8iPDDTtFmlHi0ByY3JdZFPL4gMolOrTKSCFr3FKdZbr6kBgEB2-q2hCrM5wdX5Qf5buFPbDW0XwV7tlZXnA2xebiBBlE7bmEaZUs6-08ru7c7YpNomZQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE99f_hxYiKUBHnexMqrIwrQdau7Sr0QZUSQXxQUrvfE89R8H8m8o-1_h7r9niTlWLE2oI6GlyKP3LeH5MipGAkPCytKP3Ki3hM6NUSNjK5o0WQct8daiDRE7odj0k_2Z2-DJzX3Y2e3ddlLJWTBSdpd4kJxlvwVi_ZsvfxGoxfEyZbEwVNPEuwkUjm0M3vjk6ewWNsZTRETsU=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgpWP_2JFtYwjIs-1LvkIeFER8Gi3p8KCij16qKdUk-8LrEK95DV1T2gMxSH0M123lanQkyGyt2TRD-FKqc_vdA721qutDx4QmoaurUAbWhEradKRsHNmXHqhizZFXuvRkKmNqRzx3e1Wv_U=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_kKF58fpqV9n4m4t5T_AFfLdt-RONrlGxKsoYDNdBevAM1QAzdsD9UPB46XgLrVi1quNy1ItxSYjchZt3SEh998sSIjATGerKFcugQg_BPBUC_EvEf4j_gB2RG27kjRz2LbE6gbjLXM5mpqbax1a6WQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwUB7VJD55tQKHdACi9wIpbK-ab599kHiC4a6n1uOsz1FUkBuNQf8-4og14UMaq2ovYBFzOo7k_0-S_ArZX6hCNPkvimvKBlm58HFFS51G-gXMoqWw6qcCBkm_-7bGmjJ0PjsB3Bgz1kk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_DSo7DVxUoh8f6gdhwQBuamjfVSWRh8SuA-7DyMHp1a2ddQ-6Zeq61Ht0pcNqWGUlGP-3loP_7Aep0TAbDoo0YoQuAELVFmlOYk8QCKY3UDa6Vk7_IWzodh7ZkcO4kj4ihXxzhgFHkMwEboPAvoq","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrLqJvCSqjbHp-AQjRyjdPf4RbfJgl2N3yQ4m4lslwE-fYR5Xt4Ddd0EwX6NDadcU856o3Ib4sqdudD3N6DRRDh5_9RAOieyaAYDInbcK2w25WCyD38A4_45WxNCe2PWhZV0ocHaxwc6V_9UAjPF4p"]
+
+--- RAW RESPONSE TEXT ---
+**Oliver’s Travels** is a UK-based luxury travel agency specializing in handpicked, unique holiday rentals, such as French châteaux, Mediterranean villas, UK manor houses, and historic estates. 
+
+Overall, customer reviews and reputation across major independent review platforms are **overwhelmingly positive**, though there are a few recurring nuances to be aware of.
+
+---
+
+### 1. Overall Ratings Across Review Platforms
+
+* **Trustpilot:** **4.5 out of 5 stars** (*Excellent*) based on over 3,600 reviews.
+* **Feefo:** **4.7 out of 5 stars** based on thousands of verified customer reviews. They hold Feefo’s *Gold/Platinum Trusted Service Award*.
+* **General Reputation:** Widely recognized by UK press (The Times, The Telegraph) and luxury travel awards as one of the top luxury villa holiday brokers.
+
+---
+
+### 2. What Customers Praise (The Pros)
+
+* **Unique, Vetted Properties:** Oliver's Travels curates characterful, high-end properties rather than standard mass-market rentals. Customers consistently report that the properties match the website descriptions and photos well.
+* **Helpful Customer Service:** Pre-booking communication is frequently highlighted. The team receives praise for being responsive over the phone, helping match travelers to the right villa, and handling tailored requests.
+* **Concierge Services:** Users appreciate the dedicated concierge service, which can arrange private chefs, airport transfers, wine tours, child-minding, and local activities.
+* **Smooth Booking Process:** The website and agent-assisted booking process are regarded as easy and hassle-free.
+
+---
+
+### 3. Common Complaints & Criticisms (The Cons)
+
+While negative reviews are a small minority (around 3–5%), common issues include:
+
+* **Property Maintenance & Local Management:** Because Oliver’s Travels acts as an agency/broker rather than owning the properties directly, the on-the-ground experience depends somewhat on the property owner or local house manager. A few guests have complained about minor maintenance issues (e.g., air conditioning breakdowns, pool heating issues, or worn furniture).
+* **Value for Money on Older Estates:** A small number of reviewers noted that while older/historic properties (like French châteaux or UK historic halls) are full of character, they can sometimes feel dated or lack modern luxury amenities given the high price point.
+* **Damage Deposit & Cancellation Terms:** As with most villa rental agencies, strict cancellation policies and delays in releasing security deposits post-stay can occasionally lead to customer friction.
+
+---
+
+### 4. Summary & Advice if Booking
+
+* **Are they legitimate and reliable?** Yes, Oliver’s Travels is a highly reputable, established UK company with strong customer protection standards.
+* **Tips before booking:**
+  1. **Read property-specific reviews:** While Oliver's Travels as a company scores 4.5+ stars, always check the individual reviews for the specific villa or château you plan to book.
+  2. **Ask about specific amenities:** If pool heating, air conditioning, or accessibility are critical to your group, verify these details with their customer service team prior to paying the deposit.
+  3. **Use Travel Insurance:** Ensure you have comprehensive UK travel insurance that covers villa rentals in case you need to amend or cancel your booking.
