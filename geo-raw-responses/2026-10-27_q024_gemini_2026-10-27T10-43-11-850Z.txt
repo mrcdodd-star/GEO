@@ -1,0 +1,21 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5x-ZUKhnanam4CT5BtBujjpfuhTQUjyGfzQsD2Cn75iM9TZCGeTaSnHzPsfzxMpSRkL8KMg0G31jAAxUm5J1fc8UcJXEfsG6ooIn799jKRXCfHVAMPC2F2bSnN1Fy4ZLbyPxK41VwLX36ESMn_i_UFuLe","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-iLuAlfnldtb5X4hvc1nOi5fHQqur1RChu_ZYZnJtvZcXNT2GELrwKLjy3evmcHHSRMtZGlFxlHxsv2LS8iFW1Pvldzuovc-RYN-n7g4tUcaL2o1z84pczjIcOX2grrk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhlHcgFJyHSJY7lcjG8lSsEEsrnY-OSEHmGhGD9oLX0G3dfNMrYjsr7Nm8bial-MS8e6mJ4hxKldt-qm9tXL16FgkDAdL_BHpUhOQ88CoGHpG5zaK6u54eHMBZSW4BHgtAGHcQzfB4_xbGQA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHScgfbXdXPWhx0f5B_iX5sDqRyR5dYvjWpNjWtNO-PtoTIWZNdCgR6eP9SqVNQsmRc7vID5An5LDIJl15nYgKso_wcI_DcBCvfSg-nSr6VcrD6oY0aQIhfufxeGZlooGimCKx5ar9J8VH5bGPUc1SYft7NqV4eh43W14YQ0tQoJXQPVld2Gjz_Oyh4q0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKQKimhtWqRBdgsMZjYt3YNhqUawivKcfwQkTi1VhfIOXQVHyO7L2-IFahJmReuW5Rw_mXJmOWwCwSVB9bSlASR2qUoGCWbKkrmfjda0NqdlqmXaFJ1TimpUkM9XIjU13_IWO5sdl_p4LVWuw0TpzWQqrT79BxJQyiIV6ctoX-_xAuzaAvOL0VQog2_aQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7LpVXiGiXu6_LFRgltQK6rw4f3ETOOHSlAUoMHOBCecMeDzrcKUi8AwCsytBpJKzC6mMVtGT44sYv-IyaiUZBmxEkPBj-qL0c1llcCP3-N-1EuEQdscnPXeltYhibGefv","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCQKQXgAuNrMy4DwgriZzcgyGxGrRd97aTxeI_Rtwl5q9Dd8x9XSQeoftelgU0TzV-crBExgkAQMZuM_VB5OhvI8f8sg9oI3k3VEq2fCAws8V007CrVdh7JsUhhu-4OXzkt-y8TOVXcBTiZzGQL32eWlEqPg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkYWGx8Gy9QU3akxrs4yExeED6-7iDpnGHQk6w2yc6Iu-TK31CQF8ibAQRzYAPvLp384uR20S4sbbyYK5uARjNECJ6Af5r91k7v0yWLUkCcjG1RaYW6Hsxc91QsjJ9CHRYTUdftD3ypVQY2mKbPvOlsyxiNm74"]
+
+--- RAW RESPONSE TEXT ---
+**Yes, absolutely.** Oliver’s Travels is a UK-based luxury property agency (headquartered in London) that offers a wide collection of châteaux and luxury venues specifically for destination weddings.
+
+### Key Features of Their Chateau Wedding Offerings:
+
+* **Fairytale French Châteaux:** They have extensive property options across France (including popular regions like the Loire Valley, Dordogne, Aquitaine, and Provence) that double as wedding venues. These range from grand medieval castles to 17th-century historic estates.
+* **UK & International Options:** Beyond France, they also offer wedding rentals in the UK (castles and grand manor houses), Ireland, Italy, and Spain.
+* **Guest Capacities:** Venues cater to everything from small, intimate gatherings to large celebrations, with many properties offering overnight accommodation for 20 to 80+ guests on-site.
+* **In-House Wedding Support:** Oliver’s Travels offers access to a **complimentary wedding consultant / specialist** to help you select the ideal venue, connect you with venue owners, and recommend vetted local suppliers (such as caterers, florists, and photographers).
+* **Concierge Service:** Their team helps arrange extras for your stay, including private chefs, housekeeping, airport transfers, and group activities.
+
+Because they are a UK-headquartered business, UK customers can consult with their team directly, pay in British Pounds (GBP), and get tailored advice on travel arrangements from the UK.
