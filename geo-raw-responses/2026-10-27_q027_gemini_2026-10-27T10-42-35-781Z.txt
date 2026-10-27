@@ -1,0 +1,50 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: gemini
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQtzjckCrFV9U1XVBSzC0f6a2JLeW6scWRVmF9ILWIfKN9BR45XBXiaGij26zlbpzLobrxZip2bglhgYJUVv9whF1-whelXmzoJj20s10STlUzjH4V1Uc19-xou8Ib9SXGAamyDUB4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ4bn2hPsJ0AkphdtQV3vBMzhj0mUP4Pw50F_w8OVtmJla1l0ihB7NBoF9qZz5cqBoic6R9slrP4Y7_rq7toFyia0GxNhIpIT0qj1siLuSNFDeA_esGXN9xMvWolPsURoSujSquA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8su1WlzilBt5t_ZrC7X1pX3dG_YzCLh1ym4mVDXt-YzPXgQz4TzjFH2mON9sPYxhjFmJq1U-sCSHOSrxMTqipCrkGBZZdqdx61cB0Y62VLrTg9GcRRfEPOMuovuvaPwqFB2rxVAu-E_DreM9HZqA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqwwPaMHvHQjN4W4-M0VA7XnIcro8Umlh14aqhoNiRFFVuR7m-wn9_xOAyFMVQVmhNHVbGYH3e9mUdD8TH8gUHr_ZHDlo-Dwmj2itQQHEJkv-Yw3EqLjxwvQfeKuq8cN-E1NVThpmOeGPlYn6FMzN2PfLIqCISUQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_Igl2JAVcHEOwPTkNgKvR3JOZ-ztjynFq7LO6lD0szvZHZf2heT5B-O1PJN0cdglZx3OAYXAuo-1JkRgF4l7VDvYtsv2Q4iTuoMPSM0ASPvcAr1eWfXEeSFS5ev3ppQSg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc4Rzfkj5BLAFaJ3uLT_d7HtMhbXshpYEkWUiea4HP8XlxYSEmdB0PGrduAiPcAP6HtgfvE6v0mQgeMylDq3maAxU9ijA21bJKkR-6jEkQ6-uAGFkfIgqHnVzPNw_sWIuVlnxSrIcOaieUvpCWWdYgis8vFxgkcw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy8xQfnI2VGizp-cd8djETyAEHLN5cPoDjmoRwjMzfgieQR8WtSMYp5IRyEkfwouULn7215JSPCabe5Ie-juWZCcOW8oAIrwgfu9SI3II=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5umXq-6YvBWYdNWt_lFxx7LqnZ8Zu-bfi4omMLGnkyVuxXQpIGHsAbNHe8stjtmpankhGk5MHDR9tmu9LdEZP-MUGkCnElTlWp14zyIeNQtckHSNz6eiYn1AiWpmFga93RiSIbU2T1A4p0SI1iA0TruRqlg=="]
+
+--- RAW RESPONSE TEXT ---
+Louer une villa de luxe avec les services d'un chef privé en Provence permet de combiner l'intimité d'une demeure d'exception et les prestations d'un grand hôtel.
+
+---
+
+### 1. Principales agences et plateformes spécialisées
+
+Pour effectuer une réservation clé en main (villa + conciergerie + chef privé), plusieurs acteurs haut de gamme se distinguent :
+
+* **Le Collectionist** : Un des leaders de la location de prestige. Ils proposent une vaste sélection de mas et bastides dans les Alpilles, le Luberon et le Pays d'Aix. Leur service de conciergerie locale organise le recrutement de chefs cuisiniers dédiés selon vos envies (dîners gastronomiques, brunchs, cours de cuisine).
+* **Homanie** : Spécialiste de la privatisation de demeures d'exception avec services hôteliers intégrés. La formule comprend généralement la présence de maîtres de maison et de chefs cuisiniers pour toute la durée du séjour.
+* **Villanovo / Provence-Villa.com** : Agence spécialisée proposant une collection de mas provençaux rénovés et de propriétés contemporaines, avec un service de conciergerie sur mesure incluant l'intervention de chefs à domicile.
+* **Only Provence** : Agence dédiée à la région provençale. Sa *Prestige Collection* offre des villas avec du personnel dédié (chef privé, service de petit-déjeuner, ménage quotidien).
+* **Mas Collection / BARNES / Emile Garcin** : Agences immobilières d'exception disposant d'un pôle saisonnier haut de gamme avec conciergerie privée pour l'organisation de repas sur mesure.
+
+---
+
+### 2. Secteurs les plus prisés en Provence
+
+* **Les Alpilles (*Saint-Rémy-de-Provence, Eygalières, Maussane*)** : Idéal pour les mas en pierre entourés d'oliviers, proche des Marchés de Provence et des domaines oléicoles.
+* **Le Luberon (*Gordes, Ménerbes, Lourmarin, Bonnieux*)** : Reconnu pour ses villages perchés, ses champs de lavande et ses domaines viticoles confidentiels.
+* **Aix-en-Provence & Pays d'Aix** : Pratique pour la proximité des gares TGV et des aéroports, parfait pour de sublimes bastides provençales du XVIIIᵉ siècle.
+* **Le Var & l'Arrière-pays (*Lorgues, Fayence, Le Haut Var*)** : Grandes propriétés viticoles et châteaux historiques au calme absolu.
+
+---
+
+### 3. Les formules de chef privé disponibles
+
+Les conciergeries s'adaptent à vos besoins en vous proposant différentes formules :
+
+1. **Pension complète ou Demi-pension :** Le chef réside ou intervient quotidiennement pour préparer tous les repas (petit-déjeuner, déjeuner en terrasse, dîner gastronomique).
+2. **Prestation à la carte / Événementielle :** Intervention du chef pour des moments ciblés (un dîner de gala accord mets et vins, un brunch dominical au bord de la piscine, ou un barbecue haut de gamme).
+3. **Cuisine sur mesure :** Menu élaboré selon vos préférences (gastronomie provençale, produits locaux du marché, truffes du Luberon, poissons frais de Méditerranée) et vos contraintes alimentaires (végétarien, vegan, sans gluten, menus enfants).
+
+---
+
+### 4. Conseils pour la réservation
+
+* **Anticipation :** Pour la haute saison (de juin à septembre), il est vivement conseillé de réserver la villa et les services du chef au moins 6 à 9 mois à l'avance.
+* **Infrastructures de la villa :** Assurez-vous auprès de l'agence que la propriété dispose d'une cuisine professionnelle ou bien équipée (piano de cuisson, espace de préparation en arrière-cuisine) pour faciliter le travail du chef.
+* **Budget global :** La prestation du chef privé comprend généralement les honoraires du chef (et parfois d'un majordome/serveur) plus le coût des ingrédients (facturés au réel ou sous forme d'une avance sur frais / *APA*).
