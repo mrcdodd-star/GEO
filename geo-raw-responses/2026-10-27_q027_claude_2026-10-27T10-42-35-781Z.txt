@@ -1,0 +1,15 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: claude
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.provenceholidays.com/en/villas","https://www.villanovo.com/villa-rentals/europe/france/collection:villas-with-chef/","https://www.villanovo.com/villa-rentals/europe/france/provence/collection:villas-with-chef/","https://www.yonder.fr/les-tops/hotels/plus-belles-villas-louer-en-provence","https://www.vallondevalrugues.com/en/rental-house-villa-saint-remy-de-provence.html"]
+
+--- RAW RESPONSE TEXT ---
+Voici quelques pistes pour louer une villa de luxe avec chef privé en Provence. Les tarifs viennent des sites des agences et varient selon la saison.
+
+## Agences spécialisées
+- **Villanovo / Provence-Villa** : ces sites ont une collection « villas avec chef ». Elle couvre les Alpilles, le Luberon, Saint-Rémy, Les Baux, le Var et le Vaucluse.
+- **Provence Holidays** : 
