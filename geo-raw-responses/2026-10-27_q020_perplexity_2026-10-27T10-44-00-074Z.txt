@@ -1,0 +1,17 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com","https://www.trustpilot.com/review/oliverstravels.com?page=2","https://www.trustpilot.com/review/oliverstravels.com?page=4","https://www.trustpilot.com/review/oliverstravels.com?page=7","https://www.trustpilot.com/review/oliverstravels.com?page=10","https://www.trustpilot.com/review/oliverstravels.com?page=5","https://www.trustpilot.com/review/oliverstravels.com?page=9","https://www.trustpilot.com/review/oliverstravels.com?page=6"]
+
+--- RAW RESPONSE TEXT ---
+As of October 2026, Oliver’s Travels has a **4.7/5 Trustpilot rating from about 3,616 reviews**; 78% are five-star and 9% are one-star.[1] The overall picture is positive for booking support, but reviews also flag potential problems with property quality and what happens when a stay goes wrong.
+
+- **What customers praise:** Helpful, responsive staff and a generally smooth booking process. Some reviewers also describe staff finding alternatives quickly when a property became unavailable.[1][5]
+- **What customers criticise:** Reports include properties that did not match their online descriptions, cleanliness or maintenance problems, booking-price or availability discrepancies, and frustration with complaint handling.[2][4][6]
+- **UK perspective:** Trustpilot includes UK-based reviewers, but the overall score covers customers internationally; it isn’t a UK-only rating.[3]
+
+**Bottom line:** Reviews suggest the booking experience is often well regarded, but don’t treat the high score as a guarantee about the individual villa or the support you’ll receive during a dispute. Before booking, get key details confirmed in writing—especially availability, amenities, accessibility, cancellation terms, and who handles problems at the property.
