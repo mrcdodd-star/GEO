@@ -1,0 +1,19 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://villavacations.com/how-to-choose-a-villa-rental-company/","https://villavacations.com/","https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/","https://villavacations.com/villas/","https://www.specialtyvillas.com/","https://www.italianstylevillas.com/","https://massimovillas.com/","https://www.interhome.com/italy/"]
+
+--- RAW RESPONSE TEXT ---
+For U.S.-based travelers, **Doorways Villa Vacations** and **Haute Retreats** are strong starting points: both have U.S. contact options and Italy-focused villa collections. The right choice depends on whether you value a dedicated U.S. advisor, luxury concierge service, or a larger inventory.
+
+- **Doorways Villa Vacations — best for a hands-on U.S. advisor.** U.S.-based and IATA-accredited, it offers a curated collection across regions including Tuscany, Puglia, Sicily, and the Amalfi Coast, with a dedicated advisor and local contacts in Italy.[1][2]
+- **Haute Retreats — best for luxury and concierge support.** It advertises more than 270 Italian villas and 24/7 concierge service, with U.S. toll-free and Miami contact numbers.[3]
+- **Specialty Italian Villas — best for U.S.-dollar pricing.** The U.S.-based agency says its properties are priced in dollars and it curates villas and city apartments across Italy; verify current service and booking terms directly.[5]
+- **Italian Style Villas — best for on-the-ground support in Italy.** It says its properties are personally inspected and advertises 24/7 staff support through 15 concierge offices across Italy; it also lists a U.S. phone number.[6]
+- **Interhome — best for broad choice and varied budgets.** Its Italy listings span thousands of homes and apartments, making it worth comparing if you want a wider range rather than a boutique specialist.[8]
+
+**Before booking:** ask whether the agency has inspected the specific villa, who helps locally if something goes wrong, what the cancellation and payment-protection terms are, and whether the quoted price includes taxes, cleaning, and other fees. These checks help distinguish a curated agency from a listing marketplace.[1]
