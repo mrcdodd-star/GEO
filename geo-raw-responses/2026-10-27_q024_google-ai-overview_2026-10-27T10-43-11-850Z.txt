@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/villa-holidays/wedding-venues/","https://www.oliverstravels.com/blog/olivers-favourite-wedding-properties-abroad/","https://www.oliverstravels.com/france/dordogne/bergerac/chateau-la-moinerie/"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver’s Travels offers chateau weddings, featuring a portfolio of French châteaux, historic castles, and luxury villas across Europe tailored for destination weddings.
+Key Details of Oliver’s Travels Chateau Weddings
+
+If you'd like, let me know:
+
+I can help narrow down specific châteaux from their collection that fit your plans.
