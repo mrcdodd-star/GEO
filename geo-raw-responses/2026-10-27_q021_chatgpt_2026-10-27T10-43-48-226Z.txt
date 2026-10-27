@@ -1,0 +1,73 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://find-and-update.company-information.service.gov.uk/company/06631130?utm_source=openai","https://www.feefo.com/en-GB/reviews/olivers-travels?utm_source=openai","https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai","https://www.companiesintheuk.co.uk/ltd/olivers-travels?utm_source=openai","https://www.oliverstravels.com/security-incident/?utm_source=openai","https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a detailed, up-to-date look at whether Oliver’s Travels is reliable—especially if you’re booking from the UK—with the good, the bad, and things to watch out for.
+
+---
+
+## ✅ What suggests Oliver’s Travels *is* reliable
+
+1. **Legally Registered & Financially Active**  
+   Oliver’s Travels Ltd (company number **06631130**) is a legitimate, registered business in England. It was incorporated in June 2008, has active accounts, and is listed as a Private Limited Company. ([find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/company/06631130?utm_source=openai))
+
+2. **Strong & Largely Positive Customer Feedback**  
+   - On Feefo, which verifies reviews from actual customers, Oliver’s Travels has a **4.7 out of 5** rating for both product and service. ([feefo.com](https://www.feefo.com/en-GB/reviews/olivers-travels?utm_source=openai))  
+   - On Trustpilot (UK), their rating is **4.8 out of 5** based on thousands of reviews. Most customers report good service, helpful staff, and strong villa choices. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+3. **Transparent Terms & Conditions**  
+   - Oliver’s Travels clearly states that for “accommodation-only” bookings, **they act only as an agent**. This means your actual contract is with the villa owner, not Oliver's Travels directly. This is fairly standard among villa/holiday providers. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   - Registered addresses, company officers, past names—all are documented in UK public registers. ([companiesintheuk.co.uk](https://www.companiesintheuk.co.uk/ltd/olivers-travels?utm_source=openai))
+
+---
+
+## ⚠ Things to be cautious about or that raise concerns
+
+1. **Recent Data Breach/Security Incident**  
+   In mid-October 2026, Oliver’s Travels reported that an **unauthorised third party** accessed parts of their booking system. Personal data—names, dates, property details—were exposed. Fortunately, **payment card info and bank details were *not*** compromised. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+   - The company is warning customers about fraud attempts using real booking data. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))
+
+2. **Disappointment with Property & Standards**  
+   While many reviews are positive, there are multiple instances where customers felt:
+
+   - The villa didn’t match the descriptions (in terms of cleanliness, amenities, or general condition). ([feefo.com](https://www.feefo.com/en-GB/reviews/olivers-travels?utm_source=openai))  
+   - Issues with how Oliver’s Travels handles complaints—some say owner disputes are hard to resolve or that the company leans toward siding with property owners. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+3. **ABTA Membership Confusion**  
+   A major concern surfaced recently: a customer alleged Oliver’s Travels advertised an ABTA bond (membership) number “P1463.” ABTA confirmed Oliver’s Travels is **no longer bonded**, and the ABTA number shown in some past brochures or print materials is outdated. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))  
+   - Because they act as agent (not principal), ABTA protection—or any dispute resolution under ABTA—may *not* apply. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))
+
+4. **Potentially Limited Liability**  
+   Because many bookings are “accommodation-only,” Oliver’s Travels typically doesn’t take responsibility for failures on the part of property owners (e.g., maintenance, facilities). If something is wrong, most of the recourse lies with the owner, not OT. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+---
+
+## ⚖ So, is it reliable *enough* to use?
+
+Putting all this together:
+
+- If you're booking with **reasonable expectations**, doing good due diligence, and protecting yourself (e.g. using a card that has fraud protection), Oliver’s Travels seems like a mostly reliable option.
+- However, for very expensive stays, or if you require strict guarantees (e.g. ABTA protection, non-negotiable standards for cleanliness), it might be riskier.
+
+---
+
+## 💡 What to do to protect yourself if you decide to book
+
+Here are some tips to minimize the risk:
+
+- Check recent reviews of the **specific property**, not just the company overall.  
+- Ask the owner/property manager directly about any concerns (cleanliness, maintenance, amenities).  
+- Keep documentation: take photos on arrival, note anything that doesn’t match the description.  
+- Confirm cancellation, refunds and what happens if something goes wrong (e.g., local issues).  
+- Use payment methods that offer buyer protection (credit card etc).  
+- Don’t assume ABTA protection unless it’s clearly in effect *now* and shown prominently.  
+
+---
+
+If you like, I can pull together a comparison between Oliver’s Travels and two competitor villa-booking sites, so you can see what trade-offs there are. Want me to do that?
