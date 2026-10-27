@@ -1,0 +1,56 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/villa-holidays/wedding-venues/?utm_source=openai","https://www.oliverstravels.com/faq/?utm_source=openai","https://booking.oliverstravels.com/api/v2/pdf/brochure/4987?unbranded=1&utm_source=openai","https://booking.oliverstravels.com/api/v2/pdf/brochure/482?unbranded=1&utm_source=openai","https://www.oliverstravels.com/castle-rental-in-england/?utm_source=openai","https://www.oliverstravels.com/villa-holidays/luxe-collection/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Yes — Oliver’s Travels *does* offer château weddings, though mostly abroad, and there are a few options for the UK depending on what you mean by “château.” Here’s a breakdown of what they offer, and what to look out for if you're planning in the UK.
+
+---
+
+## ✔ What Oliver’s Travels Offers
+
+1. **Wedding Venues Abroad, including Châteaux**  
+   Oliver’s Travels has an active Wedding Venues section with over 500 venues across Europe — including French châteaux, Italian castellos, Spanish villas, and manor houses in the UK & Ireland ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/wedding-venues/?utm_source=openai)). So if your dream is a fairytale wedding in a real château, there are plenty of options abroad ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/wedding-venues/?utm_source=openai)).
+
+2. **Wedding Consultancy Service**  
+   They offer a *dedicated wedding consultancy service* to help plan all the details — venue choice, liaising with owners, vendor contacts etc. This holds whether your venue is abroad or in the UK ([oliverstravels.com](https://www.oliverstravels.com/faq/?utm_source=openai)).
+
+3. **Properties That *Allow* Weddings & Events**  
+   Many properties list “Weddings” as a permitted use (“on request”), subject to owner approval and extra fees. For example:  
+   - *Chateau Belle Vie* — Weddings or special events subject to prior arrangement with property owner ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure/4987?unbranded=1&utm_source=openai)).  
+   - *Chateau De Jaques* — Features include "Weddings" and “Outdoor Ceremony” among its listed facilities ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure/482?unbranded=1&utm_source=openai)).
+
+---
+
+## ⚠ Caveats & What to Check
+
+While Oliver’s Travels offers weddings at many chateaux, there are some things you’ll need to check carefully:
+
+- **“On Request Only / Subject to Arrangement”**  
+  Many properties that allow weddings don’t include them in the normal package — you’ll usually need to apply, negotiate, and pay extra fees. For example, Chateau Belle Vie has a clause that weddings or special events are on request & subject to arrangement and extra charges ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure/4987?unbranded=1&utm_source=openai)).
+
+- **Legalities & Local Permissions**  
+  Getting married officially in certain places — especially abroad — often involves additional paperwork. It’s likely Oliver’s Travels will help you connect with owners or event staff, but you’ll need to handle local legal requirements yourselves (e.g. register with local authorities, etc.).
+
+- **UK Château-Style Venues**  
+  In the UK, “château” is less formally used than in France. Oliver’s Travels does have many **castles, historic manors, heritage homes** etc., which have the grandeur people often associate with châteaux ([oliverstravels.com](https://www.oliverstravels.com/castle-rental-in-england/?utm_source=openai)). These may very well *look and feel* like a château. If one of these appeals, just check whether weddings/events are permitted there.
+
+---
+
+## 🎯 For UK Chateau Weddings
+
+Here’s what you can specifically do if you’re based in the UK and want a château-style wedding:
+
+- Search Oliver’s Travels for **“Wedding Venues in the UK & Ireland”** — this filter is offered on their site ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/wedding-venues/?utm_source=openai)).  
+- Look at the **“Châteaux & Castles Collection”** or **“Heritage Homes/Grand Manor Houses”** — some of these are fully event-capable ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/luxe-collection/?utm_source=openai)).  
+- Check the property listings for keywords/facilities like *Weddings, Events*, *Outdoor Ceremony, Chapel*, *Banquet Hall*, *Marquee*.  
+- Contact their concierge or wedding consultancy team early. They can confirm whether weddings are allowed, what costs are involved, and handle permissions etc.
+
+---
+
+If you'd like, I can pull up a list of château-like venues in the UK available through Oliver’s Travels *right now* that allow weddings — would you prefer that?
