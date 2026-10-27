@@ -1,0 +1,49 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai","https://www.oliverstravels.com/your-priority-window/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a breakdown of Oliver’s Travels’ cancellation policy for customers in the UK, based on their current Terms & Conditions (T&Cs). Note that there are always some property-specific conditions you should check for the villa you’re booking. I’ll include dates and other important details so you have the full picture.
+
+---
+
+### Key Points from Oliver’s Travels’ Cancellation Policy
+
+1. **Booking Deposit & Payment Deadlines**  
+   • To make a reservation, you pay a **non-refundable 37.5% deposit**. Some properties may require more; check the T&Cs on the specific listing. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • If you book within 12 weeks of your arrival date, you must pay in full at the time of booking. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • The final balance is due **12 weeks** before the start of your holiday. Failing to pay on time gives the company the right to cancel your booking, and you’ll lose your payments. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+2. **48-Hour “Cooling-Off” Period**  
+   • After you receive a *provisional booking confirmation* (i.e. an email with the subject “Your Booking at [Property Name]”), there is a **48-hour window** during which you can cancel and receive a full refund of your deposit. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • This 48-hour policy **does not apply** to bookings where the stay starts within 14 days of the date you placed the booking. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+3. **Cancellations by You (the Guest)**  
+   • After the 48-hour period has passed, *all payments made (including the deposit and any balance paid)* are **non-refundable**, regardless of how far ahead you cancel. The only exception is if the property becomes unavailable. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • There is also an administration fee of **£25 per person** for cancellations under the standard terms. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+4. **“Pay in Full, Cancel for Free” Option (for 2027 Bookings)**  
+   • Oliver's Travels is offering, for certain eligible bookings with stays between **1 April and 31 December 2027**, a “Pay in full, cancel for free” option. If you select this at booking and meet the requirements, you can cancel **by 31 December 2026** and get a **full refund**. ([oliverstravels.com](https://www.oliverstravels.com/your-priority-window/?utm_source=openai))  
+   • After 31 December 2026, or if the booking doesn't qualify for this option, the standard non-refundable terms apply. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+5. **Cancellations by the Owner**  
+   • If the owner of the property cancels your booking, Oliver’s Travels will let you know as soon as reasonably possible. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • If no suitable alternative dates are available, you’ll get a **voucher** for the **full amount you’ve paid** so far, to use on another Oliver’s Travels holiday home. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+   • Important: Oliver’s Travels will **not** refund or compensate for other costs you might have incurred (like flights or travel) due to the cancellation. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+---
+
+### Practical Advice
+
+- Always check the cancellation policy listed *on the specific property page*—some owners may have tighter (or looser) refund policies. Oliver’s Travels presents both the general “agency” T&Cs and any property-specific ones—and your contract is with the property owner. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- Travel insurance is highly recommended since the standard policy offers very limited flexibility (especially after the 48-hour window). ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- If you believe your booking may fall under the “Pay in Full, Cancel for Free” option, double-check when exactly your deposit and balance are due, and when the cancellation deadline is, because those vary with the offer. ([oliverstravels.com](https://www.oliverstravels.com/your-priority-window/?utm_source=openai))  
+
+---
+
+If you tell me the name of the villa or property you're looking at, I can look up its specific cancellation policy to see if it’s stricter or more lenient than the general rules.
