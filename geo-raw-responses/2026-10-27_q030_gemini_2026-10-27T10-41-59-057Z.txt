@@ -1,0 +1,72 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: gemini
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxBTeqJnN7FY9NlkgDi9fqzFQvU5rldY16Zk6U2SkrryYfAHlqpOl3SSOC8a2fuzv3ooIe8lisR8UqN0PG5j5j0MdfrgTWL6KWQMyh9FFeJmfKTt10-80No2M-52pTSat26Sg5jeFLaV1eJ5k=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMpZy9XfoW1aqSvJp2lCbS9LBCs2XU8H0nlQkr-T1Q7a08FOXDd4N_rSQH_Hu8ZLw_Ee8Yn4i4SGKqJpfdVNfoABDBRKEVawpq2XKS4pIra5uozLVcZwkMHbpVasPCcNMBXrIoqN5V6Wphryd3X3c0uC8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTd5stG7i2CEpVnU0_-98kXXHx5NMNm3OaXAaHmC83tkXU-r2mgkpfoXKEoPZhedGK6ijqH3tnC9jqj7Zmk5JrTAyIJUTyVoxPffVCLOJwQ0_l3hs1izwrYojUtlyGWkt_O6-pQg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7tzWNaOifhRMKRbIfb4hXMHrJvmeAqRvKr9vblZV3GE01luz8tOs4jfsVQjGHGKFt9x-hIPXY3a5_A1v8v3DfVhHvzjfyeSvEHjyyw66h5s_LJzibQjXNC1TmDCJIYjSITPKhmIbIskYQBkq8usoilGGmzco0u6ulXKJRElLvzbSaHG7hbJSp54yfKiGMBVXkg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFmK7ZWTjZLet-tQi8rijqo3_qs0RF_xR0LP1H-5x8U-SP4wDW0fWhWNKUoYlFjEHZ6bhoIe7GttDdWJFGFvWLxZzrlmwZ9Xoalny0KgvSH_J4ztkOoN8i3iOoyiWoaeVLpQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNlg4162muNf75X8ArW1XG8dGsFOHh8jRzqp3Zx2Lr_lO2llSRobEpBlB7zMIOLQ_Gdvx3wPddUrq-BwmBc4Kq8h23yTc6wwJ7hq4L5TjNrxPZP5CKpjqAAqPvmHAUKKrf9KG8cnsrhQhPfiWrgt_rBn0=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpE8KBzgJMFabSK1rcOBI8fee6DKHs3aRHf9YoV_1gBN9f44H5T1Mikud6NWHVB6MyOifM8vP6oLGi8OD9SE52vrVxIk6knU4tuLdQe0Mzd6ahpQ3MzFVyMSd-YEG68h20RUYgGFOpNvi1WwKY4vqyzZLtdg=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8n0y9GDcmvDX30GYdyzNWQ5uKFWhdKIjJmm7QiGPQDBja7CyMDkoloraXtgirA3IgU7r7e61yX59BfF4OSzT9000eAovn1kt9sV5_lILz7BU2wdCOPZoEX6H8Fg5nBBVfqnt9FnBWJRkdFatmRbMcS3_YGa4UG7cEghkwJRPhrd5on7CdDsYD8aFE3FIAWiYeAh5C8jtjRUef216NFg=="]
+
+--- RAW RESPONSE TEXT ---
+Wenn Sie aus Deutschland eine **Luxusvilla mit eigenem Personal und Privatkoch in Südfrankreich** mieten möchten, haben Sie Zugriff auf eines der exklusivsten Urlaubssegmente Europas. 
+
+Im Folgenden finden Sie eine Übersicht zu den besten Regionen, den angebotenen Personaldienstleistungen, den renommiertesten Agenturen sowie wichtigen Buchungstipps.
+
+---
+
+### 1. Beliebte Regionen für villeneigenes Personal
+
+* **Côte d’Azur (Saint-Tropez, Ramatuelle, Cannes, Cap Ferrat):**
+  * **Charakter:** Meerblick, luxuriöse Anwesen, Nähe zu exklusiven Beach Clubs und Yachthäfen.
+  * **Personalstandard:** In dieser Region sind viele Villen der Spitzenklasse bereits **„Fully Staffed“** (inkl. festem Hausmanager, Koch, Butler und täglichem Reinigungspersonal).
+* **Provence & Hinterland (Luberon, Alpilles, Provence Verte):**
+  * **Charakter:** Weitläufige Landgüter (Châteaux / Bastiden), Weingüter, absolute Privatsphäre.
+  * **Personalstandard:** Sehr beliebt für Privatköche, die regionale Menüs mit Zutaten von lokalen Märkten und hauseigenen Gärten zubereiten.
+
+---
+
+### 2. Mögliche Personal- & Service-Optionen
+
+Bei Luxusvillen unterscheidet man meist zwischen zwei Modellen:
+
+1. **Vollintegriertes Personal (Fully Staffed):**
+   * **Privatkoch (Private Chef):** Bereitet täglich Frühstück, Lunch und/oder ein mehrgängiges Abendessen zu.
+   * **Butler & Servierpersonal:** Betreuung von Getränken, Tischservice und Events.
+   * **Housekeeping / Reinigung:** Tägliche diskrete Pflege der Räumlichkeiten und Wäscheservice.
+   * **Villa Manager / Concierge:** Vor-Ort-Ansprechpartner für Helikopter-/Yacht-Transfers, VIP-Tischreservierungen und Ausflüge.
+2. **À la carte Service (Auf Anfrage zubuchbar):**
+   * Die Villa wird primär ohne festes Küchenpersonal gemietet; der Privatkoch und das Servicepersonal werden für einzelne Tage oder die gesamte Woche über die Agentur dazugebucht.
+
+---
+
+### 3. Empfehlenswerte Spezial-Agenturen & Vermittler
+
+Wenn Sie direkt aus Deutschland oder über deutschsprachige Ansprechpartner buchen möchten, empfehlen sich folgende Agenturen:
+
+* **Villanovo / Only Provence:** Sehr starkes Portfolio in Südfrankreich mit gezielter Filterfunktion für Villen mit Privatkoch und Hauspersonal.
+* **Landmark Fine Travel / Azur Estate / VillaSud:** Deutschsprachige Ansprechpartner für das Luxussegment an der Côte d’Azur und in der Provence.
+* **Le Collectionist / Carlton International / Lutetia Group:** Internationale High-End-Agenturen mit vor Ort ansässigen Concierge-Teams, die vom Personal über Chauffeur bis zur Yacht alles organisieren.
+
+---
+
+### 4. Richtwerte für Kosten & Budgetierung
+
+* **Mietpreis der Villa:**
+  * Je nach Saison (Juli/August ist Hochsaison), Lage und Kapazität liegen exklusive Villen im Bereich von ca. **15.000 € bis 80.000+ € pro Woche**.
+* **Verpflegung & Zutaten (APA – Advanced Provisioning Allowance):**
+  * Das Gehalt des Kochs ist bei manchen Villen bereits im Mietpreis enthalten; bei anderen wird es separat berechnet.
+  * Die **Lebensmittel- und Getränkekosten** werden in der Regel nach tatsächlichem Aufwand abgerechnet (oft hinterlegen Sie ein Budget/APA vorab, aus dem der Koch auf den Märkten einkauft).
+
+---
+
+### 5. Checkliste & Tipps für die Buchung aus Deutschland
+
+1. **Rechtzeitige Planung:**
+   * Für die Sommermonate (Juli & August) sollten Sie **6 bis 12 Monate im Voraus** buchen, da Villen mit fest angestelltem Spitzenpersonal schnell vergriffen sind.
+2. **Anforderungen an die Küche / Menüplanung:**
+   * Teilen Sie der Agentur vorab Unverträglichkeiten, Vorlieben (z. B. mediterran, Michelin-Standard, kindgerecht) und die Anzahl der Mahlzeiten pro Tag mit.
+3. **Anreise & Logistik:**
+   * **Flug:** Nizza (NCE) für die Côte d’Azur oder Marseille (MRS) / Avignon für die Provence.
+   * **Transfer:** Die Agentur organisiert auf Wunsch einen privaten Chauffeur-Transferservice oder Helikopter-Shuttle direkt zum Anwesen.
+4. **Vertragliches:**
+   * Achten Sie darauf, ob der Mietvertrag nach französischem Saisonal-Mietrecht (*Location saisonnière*) ausgestellt ist. Standard sind 30–50 % Anzahlung bei Buchung sowie eine Kaution (*Dépôt de garantie*).
