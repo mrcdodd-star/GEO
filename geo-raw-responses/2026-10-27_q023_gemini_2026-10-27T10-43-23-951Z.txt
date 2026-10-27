@@ -1,0 +1,41 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7a7MjXSLQrF0QbmMgc7DLkO09AFsDwM9HyBYB1EkDlbjR43shPjlZYVsRJlduBToeoz3OV7OwdQeV4lq7vID45MsqwC0IdDBXI9FpcR7uKDXMhLS598-8OmOZrK1FHefvcGUyIm3Y0Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH46pf6aABhgWEP5ae5PQOxMjHcxEJqhMZiEgdFLiAEN8IdN-fneLBz8idnn_IFiQ3VrOeEsoMdZ-_jZQzbT-yiub213qiwAoEdzQZZofO94okVH7vATFsO6WcSfayyQg_HnUjPc8UiLCvUZH3VU2_oZjd4PSDfAKh9lNv8AIX0JL9lov1ucbr4PSrJ8p09oRu1qJbF_8r5s6K7Qps=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP_xfOYUn2e8dSp5aUbty2YqBAYU5HDUilM5dJ0SkpO8OoayYh7IqvZiNXOgNJazg7a6VwymEkC9ePkqmoLo49ilV3S-i_HbBs-RVkzzdjGuC0MTVRECXelA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjBhmTeJ-qiY0j4fVM0LpfOG0uxkON63Tut9g23T1SY6asYXBhRs7TiJe9vRNNyWynymldH1cMTeRzgDIcLHkO4syPQD15XgyQaTgRaTcPZrrHn-WrzaYiVg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsSztAzbatYq821kGTbiMLtO0nCHgwCuAgNtEKKBJT2JTbc2WrwB5tHhURUxLT3TJQ4dxC4E4F1hdpoJFwAiETjaFQWHh87M0jAzLV8ZroxLGyd6og1QryX4VniPPawRQnROMmHmIfo17Z","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFw3qKfBvj5cDaUJOaxl8umRxUxpHIObzI6B8t5IXNCkjcHHOoLo1O5Mjj0FC59SPgOe8cxuwULWDbSZuJqneIKqkAE4SjLVKmFh5jCbnHS2MYIHAAfB1xtbyc3nRp0hsEeGu0FPf4iURn","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRcoDMNO80Dt5s0fk9q3OoWoTc6QKvvgE26Myf9hEkIG-idA9QsLRtHv9soXSt0Y7zdRHTPGfHSr3xB_-9g_G8UZWPN0I4mmggYl1WCZgNLIbk77iYp9u8JrF6RreR","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeMSW-embYQfWPoigrKxpYr3tUP06wyiouA--Avg1m1QhcC7pDBiBQMotROzUp64Eo7H7pRNnWii4cU2Bl61NnHgGNQ859P1xvvL4dG-ek3VdLBRAo1DfDK8plZjWnjKheGN_NLWhSmtpuwCMPENAjKUcLxfTIvhjcOXc286TC0dJd978aPbLkTgzrKKZsESw="]
+
+--- RAW RESPONSE TEXT ---
+Oliver’s Travels acts as an agency on behalf of individual property owners. As a result, your booking is governed by **Oliver’s Travels’ standard Agency Terms & Conditions** as well as any **property-specific terms** set by the individual villa owner.
+
+---
+
+### Key Details of Oliver's Travels Cancellation Policy
+
+#### 1. Cancellation by You (The Customer)
+* **More than 12 weeks before departure:** 
+  * If you cancel **more than 12 weeks** prior to your arrival date, any balance paid over the deposit will be refunded. 
+  * However, the **deposit (typically 35%) is strictly non-refundable**.
+* **12 weeks or fewer before departure:** 
+  * Final balance payments are due **12 weeks before arrival**. 
+  * Once paid (or within this 12-week window), all monies paid are **100% non-refundable**, as the owner usually cannot re-let the villa at short notice.
+
+---
+
+#### 2. Short-Term / Promotional Guarantees
+* **48-Hour Window:** Oliver's Travels offers a 48-hour "no quibble" cancellation window from the time of booking (unless the booking starts within 14 days).
+* **Promotional Schemes:** Certain promotional campaigns (e.g., *Free Cancellation Guarantee* or advance booking promotions for upcoming years) may allow extra flexibility. Always check the banner/listing details at the time of booking to see if special cancellation guarantees apply.
+
+---
+
+#### 3. Cancellation by the Owner or Oliver's Travels
+* If the owner cancels your booking and no suitable alternative accommodation can be agreed upon, you are entitled to a **full refund of all monies paid** up to that point.
+* Oliver’s Travels is not liable for secondary expenses incurred due to cancellation, such as non-refundable flights or third-party transfer fees.
+
+---
+
+#### 4. Additional Points to Keep in Mind
+* **Travel Insurance:** Oliver’s Travels strongly advises taking out comprehensive holiday travel insurance at the time of booking to cover unexpected cancellations, travel disruptions, or medical emergencies.
+* **Admin Fees:** Certain changes or cancellations made under special conditions may incur an administrative fee (typically £25 per person).
