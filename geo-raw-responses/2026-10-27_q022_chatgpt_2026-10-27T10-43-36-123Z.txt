@@ -1,0 +1,62 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q022
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o200-Oliver_s_travels_has_anyone_used_this_company-France.html?utm_source=openai","https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://www.thethinkingtraveller.com/about-us?utm_source=openai","https://piper.co.uk/our-brands/the-thinking-traveller/?utm_source=openai","https://www.thethinkingtraveller.com/ten-reasons?utm_source=openai","https://uk.collected.reviews/vacation/olivers-travels-reviews?utm_source=openai","https://uk.trustpilot.com/review/thethinkingtraveller.com?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a head-to-head comparison of Oliver’s Travels vs. The Thinking Traveller, specifically from the perspective of someone booking villa or luxury holiday stays from the UK. I’ve broken it down by company profile, strengths & possible drawbacks, and which kind of traveller each tends to suit best.
+
+---
+
+## Company Profiles
+
+**Oliver’s Travels**  
+- UK-based travel company founded in 2003 (by Oliver Bell & Ravi Sabharwal), specialising in handpicked villas, châteaux, castles etc., across Europe, the Caribbean and beyond. ([tripadvisor.co.uk](https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o200-Oliver_s_travels_has_anyone_used_this_company-France.html?utm_source=openai))  
+- Offers a large portfolio: over 9,000 properties. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai))  
+- Their claim is “top 2%” of villas, quirky and unusual properties, often large group-friendly. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))  
+
+**The Thinking Traveller**  
+- Founded in 2002 by Huw and Rossella Beaugié, starting from Sicily. Now operates across selected Mediterranean destinations: Sicily, Puglia, Tuscany, Sardinia, Greece, Corsica. ([thethinkingtraveller.com](https://www.thethinkingtraveller.com/about-us?utm_source=openai))  
+- Much smaller, more curated portfolio—around 220-330 exclusive villas. These are exclusive to the company (not resold via lots of platforms). ([piper.co.uk](https://piper.co.uk/our-brands/the-thinking-traveller/?utm_source=openai))  
+- Highly rated and repeatedly awarded. In 2026, voted *Best Villa Rental Company in the World* by Condé Nast Traveller. ([thethinkingtraveller.com](https://www.thethinkingtraveller.com/about-us?utm_source=openai))  
+
+---
+
+## Key Differences & Strengths
+
+| Feature | Oliver’s Travels | The Thinking Traveller |
+|---|---|---|
+| **Inventory Size & Variety** | Much larger, wide geographical spread. Broad range of property types, quirky features, often large group houses & château-style estates. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai)) | Smaller, highly selective. Villas only if they meet exacting criteria. Less about variety than excellence. ([thethinkingtraveller.com](https://www.thethinkingtraveller.com/ten-reasons?utm_source=openai)) |
+| **Exclusivity** | Many properties are listed elsewhere. Oliver’s Travels acts as an agent or payment processor; properties often owner-run. Some customers report discrepancies in cleanliness or amenities. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai)) | All villas are exclusively with them. They often visit in person, do regular audits, maintain tight control. ([thethinkingtraveller.com](https://www.thethinkingtraveller.com/about-us?utm_source=openai)) |
+| **Quality Assurance & Local Management** | Mixed reports: many pleased with service and condition, others flag problems (cleaning, maintenance, misleading listing info). Communication and problem resolution sometimes slow or offloaded. ([uk.collected.reviews](https://uk.collected.reviews/vacation/olivers-travels-reviews?utm_source=openai)) | Strong reputation for high standards, proactive service, excellent "on-the-ground" teams / local managers. They aim for minimal issues and fast resolution. ([uk.trustpilot.com](https://uk.trustpilot.com/review/thethinkingtraveller.com?utm_source=openai)) |
+| **Pricing, Deposit & Value** | Premium end, especially for large or luxe properties. Deposits and cancellation terms often strict. Occasionally comparisons suggest same villa elsewhere cheaper. ([tripadvisor.co.uk](https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o200-Oliver_s_travels_has_anyone_used_this_company-France.html?utm_source=openai)) | Also in luxury spectrum. But prides itself on transparent pricing, guaranteed rate (no hidden surcharges), and good per-person value for villa vs hotel stays. Deposit ~30%, balance due about 9 weeks before travel. ([skift.com](https://skift.com/2026/02/10/why-one-of-the-best-villa-operators-refuses-to-scale/?utm_source=openai)) |
+| **Service & Added Experiences** | Good concierge / property assistance. But since many properties are owner-run, level of extra services can vary. Problem resolution sometimes involves the owner rather than Oliver’s Travels itself. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai)) | Offers a 24-hour concierge service, curated experiences (chefs, tours, etc.), detailed house guides, strong local support. Very high touch. ([piper.co.uk](https://piper.co.uk/our-brands/the-thinking-traveller/?utm_source=openai)) |
+| **Risk & Consumer Protection** | Mixed feedback: some users complain that Oliver’s Travels disclaims liability, saying contract is with owners/agents. In problematic cases, customers feel left to resolve issues themselves. ([tripadvisor.co.uk](https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o200-Oliver_s_travels_has_anyone_used_this_company-France.html?utm_source=openai)) | Reports suggest The Thinking Traveller has better reputation for dealing with issues proactively. Given they exclusively manage properties, accountability tends to be clearer. Reviews often praise local teams’ responsiveness. ([uk.trustpilot.com](https://uk.trustpilot.com/review/thethinkingtraveller.com?utm_source=openai)) |
+
+---
+
+## What Customers Say
+
+- On **Trustpilot**, both companies score around **4.7 out of 5**: Oliver’s Travels from several thousand reviews, The Thinking Traveller from about 1,200. ([trustpilot.com](https://www.trustpilot.com/review/oliverstravels.com?utm_source=openai))  
+- For Oliver’s Travels, positive feedback focuses on great property selection, helpful staff in booking, and memorable vacations. Negatives focus on property quality sometimes not matching the descriptions, cleaning, and responsibility lines in disputes. ([uk.collected.reviews](https://uk.collected.reviews/vacation/olivers-travels-reviews?utm_source=openai))  
+- Thinking Traveller reviews praise the luxury, service, local knowledge, and peace of mind; some complaints when villa maintenance slips or local managers are slow with fixes—rare, but present. ([uk.trustpilot.com](https://uk.trustpilot.com/review/thethinkingtraveller.com?utm_source=openai))  
+
+---
+
+## Which Company Suits You Best?
+
+Here are some scenarios to help you decide:
+
+- If you want **maximum choice, quirky or large-scale properties (châteaux, castles, etc.)**, or if your trip could take you beyond the Mediterranean, **Oliver’s Travels** likely offers more options.  
+- If your priority is **top-tier consistency, high-touch service, detailed local control, and villa exclusivity**, **The Thinking Traveller** is probably a safer bet.  
+- For big group trips (reunions, weddings, etc.), Oliver’s has large homes and variety; but you may need to be cautious and verify property reviews, amenities, etc.  
+- If travelling with children, looking for local cultural experiences or luxury touches (chef, guided tours, etc.), Thinking Traveller tends to deliver more reliably.  
+- On budget: both are premium. If comparing two similar villas, you might find cheaper alternatives via Oliver’s if the same property appears elsewhere. But with Thinking Traveller, part of what you pay for is the assurance and the service.  
+
+---
+
+If you want, I can compare sample properties from both companies in a region you're interested in (say Tuscany or Greece) to see how prices, amenities, and customer feedback stack up side-by-side. Would you like me to do that?
