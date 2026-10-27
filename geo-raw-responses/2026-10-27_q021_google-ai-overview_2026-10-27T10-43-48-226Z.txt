@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com","https://www.rollingstone.com/product-recommendations/lifestyle/olivers-travels-review-villa-rental-1235444098/","https://uk.trustpilot.com/review/oliverstravels.com?page=5"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver’s Travels is a legitimate and well-established luxury villa and châteaux rental agency rather than a scam. Founded in the UK, they specialize in handpicked, high-end, and quirky properties across Europe, the Caribbean, and other destinations.
+Reputation and Ratings
+
+Things to Keep in Mind
+
+If you're looking into a specific property or destination with them, let me know where you're planning to go or what type of property you're eyeing, and I can help you look out for specific considerations!
