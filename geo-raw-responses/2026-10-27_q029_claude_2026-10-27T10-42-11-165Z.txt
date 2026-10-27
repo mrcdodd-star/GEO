@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: claude
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.leginepraie.com/villa-lusso-toscana-volterra-chef-privato/","https://es.airbnb.com/rooms/335091","https://www.villanovo.com/villa-rentals/europe/italy/tuscany/","https://www.florenceholidays.com/ville-lusso-toscana.html"]
+
+--- RAW RESPONSE TEXT ---
+Ecco alcune opzioni per una villa di lusso in Toscana con piscina privata e chef. Prezzi e disponibilità vanno verificati direttamente con ciascun operatore.
+
+## Con chef privato incluso o su richiesta
+
+**Villa Le Ginepraie (Volterra)**
+- 
