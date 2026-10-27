@@ -1,0 +1,22 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://www.plumguide.com/d/gb/villas","https://www.plumguide.com/d/gb-england/villas","https://www.lodgify.com/blog/plum-guide/","https://independenttravelcats.com/best-vacation-rental-websites/","https://www.villa-finder.com/magazine/villa-booking-platforms-guide/","https://www.plumguide.com/journal/plum-guide-named-best-villa-rental-company-by-conde-nast-traveller","https://www.plumguide.com/d/gb","https://www.cntraveller.com/article/best-villa-rental-companies-2026"]
+
+--- RAW RESPONSE TEXT ---
+**Short version:** Plum Guide is a good first stop if you want a polished, design-led home and a simpler online booking process. Specialist villa agencies are often a better fit for a true villa holiday—especially abroad, with a group, or when you need local help and extras arranged.
+
+| | Plum Guide | Specialist villa agency |
+|---|---|---|
+| **Best for** | Design-conscious travellers who want a smaller, curated choice | Families, larger groups, special occasions, or destination-specific trips |
+| **Selection** | Says it accepts only the top 3% of homes; the trade-off is fewer options in some destinations | Often focused on particular regions or villa types, with local destination expertise |
+| **Support** | Offers a guest-support team and says it will try to rebook you if a host cancels | Can provide more hands-on help with local logistics, though service varies by agency |
+| **Likely trade-off** | A strong-looking listing doesn’t guarantee it’s the right fit for your group or plans | More personalised advice, but you need to check what’s included and how support works |
+
+Plum Guide currently lists UK homes and highlights its vetting, guest support and host-cancellation assistance; its villa collection is a subset of its wider rental inventory.[1][7] Specialist agencies may be more useful when the holiday needs coordination—such as arranging extras, managing a large group or getting destination-specific advice.[5]
+
+**Practical approach from the UK:** shortlist on Plum Guide for quality and convenience, then check one or two specialists that cover your destination. Compare the **total price**, cancellation terms, payment schedule, cleaning and service charges, and who you can contact if something goes wrong. If you share your destination, dates, group size and budget, the options can be narrowed down.
