@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/faq/","https://www.oliverstravels.com/terms/","https://forums.moneysavingexpert.com/discussion/6388432/olivers-travels-owner-cancellation","https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o110-Oliver_s_travels_has_anyone_used_this_company-France.html","https://forums.moneysavingexpert.com/discussion/6165951/olivers-travels-anyone-managed-to-contact-them"]
+
+--- RAW RESPONSE TEXT ---
+Here is what Oliver's Travels' own pages say, plus a few points that matter for UK customers.
+
+**If you cancel**
+- The deposit is usually 37.5%. 
