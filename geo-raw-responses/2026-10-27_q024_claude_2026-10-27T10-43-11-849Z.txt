@@ -1,0 +1,14 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/blog/olivers-travels-best-venues-for-weddings-in-france/","https://www.oliverstravels.com/france/loire-valley/chateau-crystal/","https://www.oliverstravels.com/france/champagne/chateau-de-jaques/","https://dev-oliverstravels.3ev.org/blog/olivers-travels-best-venues-for-weddings-in-france/","https://www.oliverstravels.com/blog/real-weddings-goda-bill-chateau-de-st-jean/","https://www.oliverstravels.com/blog/real-weddings-naomi-at-chateau-gombardy/"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver's Travels offers château weddings. It rents out luxury villas and châteaux for destination weddings, mostly in France but also elsewhere in Europe and the Caribbean.
+
+**Some of the châteaux they list**
+- **Château Paradis (Aquitaine):** 
