@@ -1,0 +1,65 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: gemini
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Qs17N655eieXC3BGwYdDpTrKTgbPObvHM8v8I1Jf6S-vlzgSzUHD1oXePrrNS2xEBOn5vHtFmWgSLl7eZkiVoytRlIL7NP4zVb6_J-GT595gAImIs3UlNQZEQssT4ZI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJeZB1KDp937b3HJzd3pGQFhgODtT7DyYMR3JhsRF8AnQa7yXxz_IUjcViJMkhhoNAywYI-tGCgyald_os4SwMF_WLA-kZKVc1iibj6pGMzEujoUMMrYSSrJ0DmtcFgWX3uN4gwlTMfpCf7caoU_7sCNFp","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCDRwidITGy6m-dPBs261kj0mzmCxR3tP9zzHBqPwFff2zsSLfpdGZiQ4alkExwLg9QxFKlNv6EWBRcySVSjzxZXRAQw5dEkLPLV9NC2xm_EPz7NiLZWtgYFYF9jOKNACeNJ-m","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr-aTJG1KTl6UFpJmNZjBZCUj5dAyUzyBoxSoqmdd7nNeKIE_IVXHj6NEL-CQmSuuHG4ILLsh8bCsR6viNu7fxv-kYZdiIJS6k0zxzplM8hV4mz7h7Rr-FjY-XBvafTkpb9Gl7-350yLJu7bs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROq6KVA1RUkKA8sRpfMcmaqh-fLKp90t9VHk7bN8ZQzzlWV8_9nZxiaSdtjQbSMzsRq3-KcsISrmqynRR5Qsl7v5FmGoGToRwYo7i1aXgVeLPaMmDiw0_VGYksFSBtJkJdJqy9g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTp_GWPTbOWM3KYgq3Sf08pYj-sADs_fwIyTPWfBIIzyVzAbTv8ZZ493S1EzoTM59cfIKi-ph5WcOP-uogH686HvxI2CAiEeHfHyenISm5Xx_9MfFinxRtiz04N5pPHpvFeFw_Kfp9wHs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFniRNnUEWdgOH29r0qtNii0l0Li1LlnMB41OgdOeeG_qzHvrpDxyWBRHBFyXNf2j52rYi0nipVD88y4RwTibgDGP83IOzJhQ7ZbUlAoE5Qt1XCCmqc0wmKzup7QzjO8EDTKFT8NMPY0eXH0rw42Ds2AeVUl57aAiruSL9eg3G9y5dLTxB0F3pJ6VSgAfTl0Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHypNgnhqOpIgG-32Qc_A-CtP_Vav94kHKmj-VEAYhtXFkcGeSy3BqFV_KQA65_sMpfDXK64mO36ITmt0aARZzyomkxY6cedUbGL8CSDtSP0melB_DpJhPXntQo0wmRRzA-Z9ASEfApL-s44tzik5BLMXnHjXFt8GF35Yodssh--ULy3wrfvP1VH_UF1LujEc4L"]
+
+--- RAW RESPONSE TEXT ---
+Soggiornare in una **villa di lusso in Toscana con piscina privata e chef personale** è una delle esperienze di vacanza ed eventi più esclusive e rilassanti.
+
+Ecco una guida completa sulle **migliori zone**, le **agenzie specializzate** e **come funziona il servizio con chef**.
+
+---
+
+### 1. Le migliori zone in Toscana per affittare una villa di lusso
+
+* **Chianti (Greve, Radda, Castellina in Chianti)**  
+  * *Atmosfera:* Colline iconiche, vigneti a perdita d'occhio e borghi storici.
+  * *Tipologia:* Casali in pietra del XVIII secolo finemente ristrutturati, con piscine a sfioro sui vigneti e cantine private.
+* **Val d'Orcia (Pienza, Montalcino, San Quirico, San Casciano dei Bagni)**  
+  * *Atmosfera:* Paesaggio patrimonio UNESCO, massima privacy e tranquillità.
+  * *Tipologia:* Tenute isolate con parchi privati, idromassaggio esterno e viste panoramiche.
+* **Versilia & Forte dei Marmi**  
+  * *Atmosfera:* Mare, vita notturna elegante, boutique di alta moda e beach club privati.
+  * *Tipologia:* Ville moderne con design contemporaneo, giardini con palme e piscine riscaldate.
+* **Colline Lucchesi & Lucca**  
+  * *Atmosfera:* Eleganza sobria, vicinanza sia al mare che alle città d'arte (Pisa, Firenze).
+  * *Tipologia:* Ville storiche e dimore nobiliari con parchi secolari e piscine immerse nel verde.
+* **Maremma & Monte Argentario**  
+  * *Atmosfera:* Natura incontaminata, mare cristallino e massima riservatezza.
+  * *Tipologia:* Proprietà con vista mare mozzafiato o tenute immerse nella macchia mediterranea.
+
+---
+
+### 2. Agenzie e Piattaforme specializzate
+
+Per trovare proprietà verificate con standard di servizio elevati, è consigliabile rivolgersi ad agenzie con servizio concierge dedicato:
+
+1. **Salogi Villas:** Agenzia storica specializzata in ville di lusso in Toscana, con un’ampia offerta di ville dotate di piscina privata e servizio chef integrato.
+2. **Villanovo:** Piattaforma internazionale di alto livello con una selezione raffinata di ville toscane con piscina riscaldata e chef privato dedicato.
+3. **Posarelli Villas:** Propone numerose ville di lusso con piscina privata e possibilità di aggiungere servizi su misura (chef, autista, spa).
+4. **Le Collectionist / Oliver’s Travels:** Ideali per opzioni ultralussuose, con concierge personale per organizzare la brigata di cucina e degustazioni private.
+5. **Airbnb Luxe / Vrbo (sezione Luxury):** Filtra facilmente per piscina ad uso esclusivo e servizi addizionali.
+
+---
+
+### 3. Come funziona il servizio di Chef Privato in Villa
+
+Puoi scegliere diverse formule in base alle tue esigenze:
+
+* **Chef a tempo pieno (Full Board / Half Board):** Lo chef (ed eventualmente il personale di sala) si occupa di colazioni, pranzi e cene per tutta la durata del soggiorno. Si concordano i menu in anticipo in base ai gusti e a eventuali allergie/esigenze alimentari.
+* **Cene Gourmet o Serate Evento:** Puoi richiedere lo chef solo per determinate sere (es. cena di benvenuto, cena di gala con abbinamento vini o serata pizza con forno a legna).
+* **Showcooking & Cooking Class:** Molti chef in villa offrono corsi di cucina toscana (pasta fresca, cantucci, bistecca alla fiorentina) direttamente nella cucina della proprietà.
+
+*Nota:* Lo chef si occupa direttamente dell'acquisto di materie prime fresche a km 0, del servizio a tavola e del riordino della cucina.
+
+---
+
+### 4. Consigli utili prima di prenotare
+
+* **Anticipo di prenotazione:** Le ville di lusso con piscina privata in Toscana per la stagione estiva (maggio – settembre) vengono solitamente prenotate con **6-12 mesi di anticipo**.
+* **Piscina riscaldata:** Se viaggi in primavera (aprile-maggio) o inizio autunno (settembre-ottobre), verifica che la piscina sia riscaldata o riscaldabile.
+* **Costi dello Chef:** In alcuni casi lo chef è incluso nel prezzo settimanale della villa; in altri casi viene quotato a parte come costo fisso giornaliero + il rimborso dello scontrino per gli ingredienti.
