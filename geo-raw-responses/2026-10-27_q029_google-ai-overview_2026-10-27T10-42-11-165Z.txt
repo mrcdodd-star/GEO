@@ -1,0 +1,16 @@
+RUN DATE: 2026-10-27
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.salogivillas.com/it/cucine-gourmet","https://www.posarellivillas.it/ville-di-lusso-a_toscana_italia.html"]
+
+--- RAW RESPONSE TEXT ---
+La Toscana offre numerose ville di lusso con piscina privata e servizio chef (o ristorazione gourmet su richiesta), ideali per vacanze esclusive tra le colline del Chianti, della Val d'Orcia e i dintorni di Lucca e Firenze.
+Selezione di Ville di Lusso con Piscina e Servizi Chef
+
+Agenzie e Piattaforme di Riferimento per Ville con Chef in Toscana
+
+Se desideri restringere la ricerca, puoi indicarmi:
