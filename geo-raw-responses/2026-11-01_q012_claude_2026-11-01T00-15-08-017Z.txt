@@ -1,0 +1,63 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://www.elegantresorts.co.uk/information/villas-concierge","https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://www.villanovo.com/","https://hauteretreats.com/bespoke-concierge-services/","https://hauteretreats.com/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/","https://www.exceptionalvillas.com/our-concierge-service","https://www.wimco.com/suggested-trips/staff/villas-with-staff-st-martin"]
+
+--- RAW RESPONSE TEXT ---
+Several villa companies will arrange transfers, a private chef and activities for you. Here are the ones that came up, with UK-based options first.
+
+**UK-based or UK-focused**
+- **Elegant Resorts:** 
+Its villa consultants can pre-book services and activities. These include private transfers to and from the villa, car rental, flights, pre-stocking of food and drink, and private chef hire.
+ It will also 
+suggest excursions and build a tailor-made itinerary around your preferences.
+
+- **Abercrombie & Kent Villas:** 
+Its villas are in Italy, France, Greece, Spain and Portugal.
+ 
+Its concierge can arrange tailor-made experiences such as cooking classes, wine tastings and spa treatments.
+ It also 
+offers 24/7 emergency support, with teams on the ground near each rental.
+
+- **Villanovo:** 
+Its concierge service prepares your arrival and arranges airport transfers, private chefs, car hire and more.
+ It also offers 
+experiences such as hot-air balloon flights and boat trips.
+
+- **Haute Retreats:** 
+Every villa comes with a dedicated concierge who plans before you arrive and is on hand throughout.
+ The concierge arranges chefs, charters, transfers and reservations. Its 
+fully staffed collection includes a private chef, a villa manager and daily housekeeping.
+
+- **Icon Private Collection:** 
+It offers a dedicated concierge service and superyacht charters, alongside privately owned properties and residences from brands such as Aman and Four Seasons.
+
+- **Mandarin Oriental Exceptional Homes:** 
+It offers a dedicated personal concierge, private on-demand culinary experiences and family activities.
+
+- **Other names to check:** 
+CV Villas was the UK's first specialist villa company, founded in 1972.
+ Oliver's Travels and Simon Escapes also appeared on a roundup of rental agencies. I haven't checked what services each of these includes.
+
+**Other options**
+- **Exceptional Villas:** 
+Every villa booking includes a complimentary concierge service.
+ The team can arrange 
+airport transfers, a private chef, yacht charters, restaurant reservations, childcare, spa treatments and golf tee times.
+
+- **WIMCO:** It focuses on the Caribbean. 
+Its complimentary concierge can arrange a private chef for one meal or more.
+
+
+**Things to check before booking**
+- **What's included:** Concierge is often free, but the chef, transfers and activities are usually charged on top. Villas with staff included are a separate category from villas where a chef is available as an extra. WIMCO, for example, 
+separates villas with chef services included from those where chef services are available.
+
+- **ATOL and ABTA:** If the company bundles flights, ask about ATOL protection. Ask about ABTA membership too.
+- **Food costs:** Ask whether groceries are included in the chef's price or billed separately.
+
+If you tell me the destination, group size, budget and dates, I can narrow this down. Do you want a fully staffed villa, or a villa where you add a chef for a few nights?
