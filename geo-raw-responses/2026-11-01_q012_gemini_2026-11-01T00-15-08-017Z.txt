@@ -1,0 +1,70 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZie8xypcjoc-mGyRwFJFhpJVGBcec1I4LB0BAyHwdLi9Rx8sEkoz0PkNcNZD3uyr3ypiT4hF5WMxbhS67yijvTuPDiK3fRJL3RhAFxkWqJZFPct-oIO7qyR0TfXxvMVtg2aCRPs111A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXKI9zLj2W9iYsJPCHEd0wNBXmoSWdbyB_PXIf-Cn2j64MlW0cz2s08hLyD9dTJ3KTb6HMmBiUlEHIuBzyLLh44YC3KZqFvKZe5KfadTem3qdh8bQL-1AUyqc8dEgENwkwIwRCOc3U7PgUY5w=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdDPDx1ZeNHRL539b9pSnkedY05UYrBm6W_y70LaHOupm4AEnOHcsrH7I3PS_SNnBjoYPBjhwjl6VGaheviZpOQZKrd1iY54dXWxcon-06-PHaGfAt_rdIN1BIEPP4Y6OfDJ0pZ142z4V2NdJM_Xyh","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZFZ3iBRfsp9sEZ315u-lV5FRzzU3B5bBEeVYPL1kEXl2idW9qwD2bJCwAlidcmNUWLYgJ0iRrebuXEQBG00tREZdLNai55rDF-90Ojavl5s3HfcpOE66SHnoQyV67piSvIgkvtXsvpBbVQt9w9Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtD-tmrIKq8E9UGq8GCeI_jWnjDqakOGJtgqe8edGLLqTdqFUPFSn6rkhTMaBsPNSO7PRCSPqoZPTgDnpOyholOeQZVw1vj_g-arbatDPfBj_ycqonOSyY-4275g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW8rAMBjepVlJjqQ1FSOGzApJzi4TrOmHusnb7cLYfNkRhEL0NxUvOZCYaP5rQsy4PIv-PcljiLGoLhR6Zn63In2KYRp2IeXdCGZb4HBVkIBp0XcNR_WvQjoGvqGb4DmDQWT_V6Bz3VJQjHGGAPywtlSY4_XT7e_ek","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxIjbvtyMoYQlloFlZKayraR-JKye4_8yl5nqKjOv422sauo3UQis9UoNfv-8sBdveMtZJuDGEezKakyLooRvn35vADofGmBt1zjn8sqBI02K2RSKxk3kjIUJyatnWHGq4-DwW3H8fj3oOVAo0LdwdhV0MJii4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgEC8aKOn9Cb62RCv-eqvuLn0-TwUk2udR7BQDdK98k22blWbRFetv2JdXFjc_luOq7aWEgpS0u3grcJY6Czo1aO8q3NHQ0cPFNm69PHLF7UuPjovb2_d_YS74uWweiOr3VEi3YpupdVdaxd22dcMWU6-E-l13I0t1sNgi"]
+
+--- RAW RESPONSE TEXT ---
+Several established UK-based villa rental specialists provide dedicated concierge services. These teams handle everything—from booking airport transfers to arranging private chefs and curating local activities—before you even land.
+
+The top villa rental companies accessible to UK travelers, along with details on their add-on services, include:
+
+---
+
+### 1. **Oliver’s Travels**
+*   **Destinations:** France, Italy, Greece, Spain, Portugal, Croatia, the UK, and the Caribbean.
+*   **Concierge Services:**
+    *   **Private Chef:** Options ranging from a one-off special dinner cooked by a local chef to full-board catering or pre-arrival fridge stocking.
+    *   **Transfers:** Private airport taxis, minibus hire, car rental, and ferry bookings.
+    *   **Activities & Experiences:** Vineyard tours, private boat charters, local excursions, spa treatments, and childcare.
+*   **Why choose them:** Every booking includes access to a **free dedicated Travel Concierge team**. They act as a personal travel planner to arrange all add-ons on your behalf.
+
+### 2. **The Thinking Traveller**
+*   **Destinations:** Italy (Sicily, Puglia, Tuscany), Greece, Corsica, and Mallorca.
+*   **Concierge Services:**
+    *   **Private Chef:** Local cooks or professional chefs tailored to your dietary preferences.
+    *   **Transfers:** Private airport/port transfers, luxury car rentals, and chauffeur services.
+    *   **Activities & Experiences:** Known for curated "Think Experiences," such as private boat charters, guided historical tours, cooking classes, and wine tastings.
+*   **Why choose them:** Voted *Best Villa Rental Company* multiple times by *Condé Nast Traveller*. Every villa is 100% exclusive to them, and their local destination managers offer 24/7 on-the-ground support.
+
+### 3. **CV Villas**
+*   **Destinations:** Greece, Italy, France, Spain, Portugal, Croatia, the Caribbean, and Morocco.
+*   **Concierge Services:**
+    *   **Private Chef:** "CV Chefs" available for one-off meals or the entirety of your stay.
+    *   **Transfers:** Seamless airport transfers, car hire, and private boat transfers (ideal for Greek island hops).
+    *   **Activities & Experiences:** Guided cultural tours, yacht chartering, wellness treatments, and nanny/childcare services.
+*   **Why choose them:** A long-established UK operator offering full financial protection via **ABTA and ATOL** (when booking flight packages). 
+
+### 4. **Simpson Travel**
+*   **Destinations:** Greece, Turkey, Italy, France, Mallorca, and Corsica.
+*   **Concierge Services:**
+    *   **Private Chef:** In-villa dining and home-cooking options.
+    *   **Transfers:** Car hire or private chauffeured transfers are usually bundled directly into their package prices.
+    *   **Activities & Experiences:** Private boat hire, water sports, guided walks, and dedicated crèche/childcare facilities.
+*   **Why choose them:** Excellent for families and couples looking for a personalized, high-touch holiday. Their local representatives meet you at the property and can arrange last-minute restaurant bookings and activities locally. (ATOL & ABTA protected).
+
+### 5. **Scott Dunn**
+*   **Destinations:** Worldwide (Europe, Caribbean, Southeast Asia, Africa).
+*   **Concierge Services:**
+    *   **Private Chef:** Many of their flagship villas are **fully staffed**, featuring a full-time private chef, villa host, and housekeeper as standard.
+    *   **Transfers:** Chauffeur-driven vehicles, luxury minibuses, or helicopter transfers.
+    *   **Activities:** Fully custom itineraries including private vineyard access, helicopter tours, ski guides, or private yacht charters.
+*   **Why choose them:** Perfect if you prefer an ultra-luxury, fully serviced villa experience rather than paying for add-ons à la carte.
+
+### 6. **Abercrombie & Kent (A&K Villas)**
+*   **Destinations:** France, Italy, Spain, Greece, Portugal, Caribbean, and South Africa.
+*   **Concierge Services:**
+    *   **Private Chef:** Bespoke dining options with custom menus and sommelier wine pairings.
+    *   **Transfers:** Private jet charter, luxury chauffeured cars, or luxury vehicle rentals.
+    *   **Activities:** Exclusive VIP access, after-hours museum tours, hot air ballooning, and private sea excursions.
+*   **Why choose them:** Top-tier luxury tailored for milestone events, large group gatherings, or high-budget trips.
+
+---
+
+### Quick Tips for Booking Add-Ons:
+1. **ABTA & ATOL Protection:** If financial protection is a priority, booking package deals (flight + villa + transfer) through companies like *CV Villas* or *Simpson Travel* ensures ATOL protection.
+2. **Book Chefs Early:** In peak season (July & August), local chefs book out fast. It is best to request chef days at the same time you confirm your villa booking.
+3. **Understand Chef Pricing:** Most companies operate on a **service fee + cost of ingredients** model (where you pay the chef's daily fee and settle the grocery bill based on receipts locally), though some offer set per-person meal prices. Always clarify before booking.
