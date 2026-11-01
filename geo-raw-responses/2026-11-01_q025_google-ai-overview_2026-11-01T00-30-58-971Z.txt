@@ -1,0 +1,17 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q025
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: renting a villa in Europe for a large family - which companies are best?
+
+CITED URLS:
+["https://www.cntraveller.com/article/best-villa-rental-companies-2026","https://sheerluxe.com/culture/travel/holiday-villa-rentals","https://www.thethinkingtraveller.com/","https://www.simpsontravel.com/holiday-types/large-group-holidays/multiple-villas-for-mixed-groups"]
+
+--- RAW RESPONSE TEXT ---
+The best villa rental companies in Europe for large families balance space, multi-generational support, local knowledge, and reliable service, with top rankings led by The Thinking Traveller, Oliver’s Travels, CV Villas, Plum Guide, and Le Collectionist.
+Selecting the right provider depends on your group size, budget, and whether you need full concierge service or a quirky historic château.
+Top Villa Rental Companies for Large Families
+
+Why Use These Companies vs. Standard Home-Sharing Platforms?
+
+To help narrow down the best fit, tell me:
