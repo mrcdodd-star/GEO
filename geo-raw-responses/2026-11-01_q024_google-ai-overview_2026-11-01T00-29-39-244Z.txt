@@ -1,0 +1,17 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/france/wedding-venues/"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver's Travels offers a wide selection of destination chateau weddings. They feature nearly 150 handpicked French wedding venues, including historic châteaux, manors, and luxury villas.
+Key Details of Their Offerings
+
+You can browse their specific locations and filter by guest count or region directly on the Oliver's Travels French Wedding Venues page.
+If you're planning an event, let me know:
+
+I can help narrow down specific châteaux that fit your vision!
