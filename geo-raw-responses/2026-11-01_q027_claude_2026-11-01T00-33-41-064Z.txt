@@ -1,0 +1,64 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: claude
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.provence-villa.com/en/collections/villas-with-chef","https://www.villanovo.com/villa-rentals/europe/france/provence/collection:villas-with-chef/","https://www.provence-villa.com/en/villa-rentals/les-baux-de-provence/collection:villas-with-chef/","https://www.villanovo.com/villa-rentals/europe/france/provence/","https://www.yonder.fr/les-tops/hotels/plus-belles-villas-louer-en-provence","https://www.vallondevalrugues.com/en/rental-house-villa-saint-remy-de-provence.html"]
+
+--- RAW RESPONSE TEXT ---
+Voici ce que j'ai trouvé pour une villa de luxe avec chef privé en Provence. Les tarifs sont ceux affichés par les sites, par nuit, et varient selon la saison.
+
+## Agences spécialisées (Villanovo / Provence-Villa)
+Ces deux sites ont une sélection « villas avec chef ». Exemples :
+- **Villa Enago (Brignoles)** : 
+14 personnes (15 max.), 8 chambres, 8 salles de bain, de 928 à 2 350 € la nuit.
+
+- **Villa Ninou (Rustrel, Luberon)** : 
+24 personnes, 12 chambres, 11 salles de bain, de 1 229 à 2 600 € la nuit.
+
+- **Le Mas de Gusteau (Lorgues)** : 
+de 1 990 à 5 085 € la nuit, pour 12 personnes et 5 chambres.
+
+- **Mas de CB (Les Baux-de-Provence)** : 
+de 4 603 à 7 365 € la nuit, pour 16 personnes et 8 chambres.
+
+- **Château de Lusannes (Sannes)** : 
+30 personnes (32 max.), 15 chambres, de 3 900 à 9 914 € la nuit.
+
+- **Le Galinier de Lourmarin** : 
+de 4 117 à 15 882 € la nuit.
+ C'est une très grande propriété, pour les grands groupes.
+
+Le chef n'est pas toujours compris dans le prix. Un client de Villanovo à Brignoles explique avoir 
+fait appel à un chef privé externe, qui était formidable.
+ Vérifiez donc si le chef est inclus, en option ou à engager séparément. Les courses sont presque toujours facturées en plus.
+
+## Villas avec services d'hôtel 5 étoiles
+- **L'Étoile des Baux (Les Baux-de-Provence)** : 
+villa manager, petit-déjeuner frais servi le matin, conciergerie, chef privé et massages sur demande.
+
+- **Le Vallon de Valrugues (Saint-Rémy-de-Provence)** : ce sont 
+des villas indépendantes avec piscine chauffée privée, jardin clos et accès aux équipements d'un des meilleurs hôtels des Alpilles.
+ Le site mentionne aussi 
+une conciergerie dédiée et un chauffeur privé.
+
+
+## Choisir la région
+- **Luberon** (Gordes, Bonnieux, Lourmarin) : villages perchés, marchés, ambiance authentique.
+- **Alpilles** (Saint-Rémy, Les Baux, Eygalières) : le plus chic, avec de nombreux mas de prestige.
+- **Var / Provence verte** (Lorgues, Brignoles) : vignobles et villas plus spacieuses pour le prix.
+- **Uzès / Vaison-la-Romaine** : plus au nord-ouest, souvent un peu moins cher.
+
+## Conseils
+1. Réservez tôt pour juillet-août, car les meilleures villas sont prises de 6 à 12 mois à l'avance. Mai-juin et septembre sont plus calmes, avec de meilleurs tarifs.
+2. Précisez au chef les allergies, les préférences et le nombre de repas souhaité (dîners seulement ou pension complète).
+3. Demandez le prix du ménage, de la taxe de séjour et de la caution.
+
+Pour affiner la recherche, il me faudrait :
+- les dates ;
+- le nombre de personnes ;
+- votre budget ;
+- la zone souhaitée ;
+- le type de service de chef (quelques dîners ou tous les repas).
