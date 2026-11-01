@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaeGNIUnNiWGQyGAo"]
+
+--- RAW RESPONSE TEXT ---
+A fully staffed villa holiday in Greece offers the ultimate five-star escape—combining total privacy with hotel-level service, including private chefs, housekeepers, villa managers, and sometimes even a skipper or private driver.
+What a "Fully Staffed" Greek Villa Typically Includes
+
+Top Destinations & Where to Look
+
+To help narrow down the ideal option for you, could you let me know:
