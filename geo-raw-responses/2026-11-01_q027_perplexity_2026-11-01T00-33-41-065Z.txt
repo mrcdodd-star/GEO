@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: perplexity
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.villanovo.fr/location-villas/europe/france/provence/service:chef-ou-cuisiniere/","https://www.villanovo.fr/location-villas/europe/france/provence/les-alpilles/service:chef-ou-cuisiniere/","https://www.villanovo.fr/location-villas/europe/france/provence/collection:villas-avec-chef-cuisinier/","https://www.villanovo.fr/location-villas/europe/france/service:chef-ou-cuisiniere/","https://www.villanovo.fr/location-villas/europe/france/provence-alpes-cote-dazur/service:personnel-de-maison/","https://www.villanovo.com/villa-rentals/europe/france/provence/collection:villas-with-chef/","https://www.villanovo.fr/location-villas/europe/france/provence/vaucluse/service:chef-ou-cuisiniere/","https://proprietes.lefigaro.fr/location-vacances/villa-vacances-provence+alpes+cote+d+azur-france/"]
+
+--- RAW RESPONSE TEXT ---
+Oui, plusieurs options de **villa de luxe avec chef privé en Provence** sont proposées. À titre indicatif, les annonces consultées affichent des tarifs d’environ **343 € à plus de 11 000 € par nuit**, selon la villa, la saison et la capacité. Le chef peut être inclus ou proposé en supplément : vérifiez ce point avant de réserver.[1][3]
+
+- **Villa Cigalea, Saint-Rémy-de-Provence** — 8 personnes, 5 chambres, à partir d’environ 982 €/nuit.[1]
+- **Villa Verina, Saint-Rémy-de-Provence** — 12 personnes, 6 chambres, environ 1 428–2 321 €/nuit.[1]
+- **Le Galinier de Lourmarin** — jusqu’à 18 personnes, 16 chambres, environ 4 235–11 117 €/nuit.[1]
+- **Château de Tourreau, près de Carpentras** — 29 personnes, 16 chambres, à partir de 5 000 €/nuit.[3]
+
+Pour un chef à domicile ponctuel, une autre option indique un budget généralement estimé à **70–130 € par personne**, selon le menu et le chef ; le devis et le paiement se font directement avec celui-ci.[10]
+
+Pour vous orienter vers les meilleures options, précisez **vos dates, le nombre de personnes, votre budget par nuit** et si vous souhaitez un chef pour chaque repas ou seulement certaines soirées.
