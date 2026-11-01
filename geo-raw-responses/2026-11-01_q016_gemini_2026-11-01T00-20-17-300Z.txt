@@ -1,0 +1,68 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl3byeW10jt6FXHlHLWFXYNlPa1hhEIEm6VW4xI3c8Bhx_zuYIGa0DJhHlFEnNePaZkFYx9g0LQCJMUDDaTRRW9wmwFmNCeiT_GvFDalhwr3_T1jF0zsU910DevQ-Hk6kdh7P4TivLAZQlXVlWlA8NKA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQwktbnflD8Xsz1wFdz3vYaIs1RzRI0uoPt6YgNDK24V9OYEKYz-V6atihMzpRzwOEHGkJVVfRUawsd9d06wgNgoPV3Kwwzo2CDLc5A2Fq71edBfnsvwyB0jBfozr2w16sOYuK0AwCpCTGSMfCdhAC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZlsvBWzRWd6VvXA-KA_WFaMYgW7KSwYTFLYb70Nu1uYzrLFJ4Fer1daA2AXjgmG1JA7y9wyf_pWz3BfVdX_H85rFQce6lzaVZnsGVKkEsocxk7X3PGo17_94X8shxdnfwND1KxCMZ2VvoU4ckAJRKRXAtdgu_EsTkHU5e474yRAgGX8UG2fK2FD_P","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeU7xevWXVAohzf0KMAsrATk9gzxa0iHodeQslUPPZZ3vS7R147yzG_TqkRtqz83J5YOM7gzQZBL9etPJgSbqACJ_gT_5r3085xRVerHZVik203wp-4yzJpxSbCmnALWTMLuPADRu6dorp6Da74rkrh80B6s-PStBoYz_B","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5KkV25nIfyZtRz7VTzXdcYUrTsGNvjdsXh3WjMMTdm9_k4h70Py0-Gnt17HsFrlpJ1K5u14IygCRDB0hMdThDl6oPfEARuLs4ZCmaaUx45hKGAKiz","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdrrr_8vmVgp1H-Lzbp0jE8HPrWjkrSLgYmqh5j_UwCFLGuYJzIz6t4MsVzqzwlWALCqF-VqMuRSinW3iGwAjW4qngOUHhqZeVLBmNeFLXNtN6EXw1uQ4OkyQHlnfFkWXdI7oXR5OtrK4cAf8bFbWkIB9pHVOn0-vfj5Q="]
+
+--- RAW RESPONSE TEXT ---
+If you love **The Thinking Traveller** for its handpicked Mediterranean villas, exclusive access, design-led properties, and dedicated local concierge service, several top UK-friendly alternatives offer a similar high-end experience:
+
+---
+
+### 1. **Le Collectionist**
+* **Best for:** Ultra-luxury, design-forward villas with top-tier bespoke concierge service.
+* **Destinations:** French Riviera, Balearic Islands (Ibiza, Mallorca), Greek Islands, Amalfi Coast, Tuscany, French Alps, St Barts.
+* **Why it’s a great alternative:** Le Collectionist is arguably the closest European competitor to The Thinking Traveller in terms of aesthetic quality and curated luxury. Each villa is vetted for exceptional architecture and design. Their in-house concierge team handles everything from private chefs and yacht charters to exclusive local experiences.
+
+---
+
+### 2. **CV Villas**
+* **Best for:** Classic Mediterranean luxury with optional ATOL-protected package options (flights + car rental).
+* **Destinations:** Corfu, Paxos, Crete, Amalfi Coast, Tuscany, Mallorca, Algarve, Caribbean.
+* **Why it’s a great alternative:** A long-established British luxury villa specialist with a massive footprint across Greece and Italy. While slightly larger in scale than Thinking Traveller, many of their villas are exclusive to CV Villas ("Above & Beyond" range) and feature private infinity pools, seaside access, and dedicated local reps.
+
+---
+
+### 3. **Scott Williams**
+* **Best for:** Off-the-beaten-track, architectural gems and discreet luxury.
+* **Destinations:** Greek Islands, Puglia, Sicily, Corsica, South of France.
+* **Why it’s a great alternative:** A boutique UK-based agency specializing in understated luxury and characterful homes. They focus on intimate local knowledge rather than mass listings, making them ideal if you want a secluded, high-spec villa in hidden corners of the Mediterranean.
+
+---
+
+### 4. **Oliver’s Travels**
+* **Best for:** Characterful properties, châteaux, large group stays, and wider geographic choice.
+* **Destinations:** France, Italy, Spain, Greece, UK, Caribbean, Bali.
+* **Why it’s a great alternative:** Known for handpicking properties "with character"—from historic Italian estates and French châteaux to sleek coastal villas. They offer a dedicated concierge service to arrange in-villa dining, childcare, and activities.
+
+---
+
+### 5. **Simpson Travel**
+* **Best for:** Seamless service, boutique family-friendly villas, and lesser-known Mediterranean spots.
+* **Destinations:** Greece (Paxos, Meganisi, Lefkada, Crete), Turkey, Corsica, Mallorca, Italy.
+* **Why it’s a great alternative:** Highly acclaimed in the UK for customer service. While their inventory leans slightly more toward boutique family holidays rather than ultra-high-net-worth estates, their handpicked villas, adult-only options, and end-to-end logistics (including regional flights and car hire) make booking completely effortless.
+
+---
+
+### 6. **onefinestay**
+* **Best for:** Hotel-standard servicing (24/7 guest support, 200-point property inspections) in private villas.
+* **Destinations:** Southern Europe (Ibiza, South of France, Mykonos), Caribbean, Ski Resorts, Major Cities.
+* **Why it’s a great alternative:** Part of the Accor Group, onefinestay bridges the gap between boutique hotel service and private villa living. Ideal if you prioritize guaranteed housekeeping standards, high-end linens, and round-the-clock support.
+
+---
+
+### 7. **Red Savannah / Abercrombie & Kent Villas**
+* **Best for:** Tailor-made, high-end luxury estates with tailored itineraries.
+* **Destinations:** Tuscany, Umbria, Amalfi, Côte d'Azur, Ibiza, Greece, Caribbean.
+* **Why it’s a great alternative:** Premium UK travel operators with dedicated villa departments. Their collections feature private historic palazzos, fully staffed estates, and country manors with personal travel designers overseeing every element of the trip.
+
+---
+
+### Quick Recommendation Guide:
+
+* **If you want exact design & luxury parity to Thinking Traveller:** Go with **Le Collectionist** or **Scott Williams**.
+* **If you want full flight & villa package protection (ATOL):** Choose **CV Villas** or **Simpson Travel**.
+* **If you are booking a large family gathering/château:** Check **Oliver's Travels**.
