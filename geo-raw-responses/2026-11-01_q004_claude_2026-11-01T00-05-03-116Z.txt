@@ -1,0 +1,75 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://uncompromised.travel/stays/best-destinations-luxury-villa-europe","https://www.101holidays.co.uk/family/holiday-ideas/","https://www.mumsnet.com/articles/best-family-villas-europe","https://www.tripwix.com/en/blog/best-european-villa-holidays-uk-families","https://theluxurytravelbook.com/luxury-travel-journals/15-of-the-finest-luxury-family-villas-in-europe/","https://www.tui.co.uk/holidays/villas/","https://www.solmarvillas.com/offers/2027-villa-holidays"]
+
+--- RAW RESPONSE TEXT ---
+Here are some ideas, grouped by what kind of reunion you're after. I'm assuming you'd travel in 2027, so I've included some tips on timing.
+
+## Best all-rounders for big groups
+
+**Algarve, Portugal**
+- One roundup calls it 
+the most consistently family-friendly and large-group-friendly villa destination in Europe
+.
+- 
+It has a strong supply of eight-, ten- and twelve-bedroom villas, often with multiple pools and tennis courts
+. That helps if the cost is split across several households.
+- It suits multigenerational groups. It's about 3 hours from the UK, with beaches, golf and easy day trips.
+
+**Tuscany, Umbria or Puglia, Italy**
+- This is the best fit if food, wine and culture matter as much as the pool. 
+Essential Italy specialises in villas in these three regions, and they work well for large and extended families
+.
+- Puglia is often better value and has beaches nearby. Tuscany and Umbria are better for hilltop towns.
+- Some estates take very big parties. 
+One in Umbria sleeps up to 30
+.
+
+**Mallorca, Spain**
+- It has 
+easy access from the UK, a beautiful coastline, and villas that balance privacy with being close to towns
+.
+- It has lots of direct flights from regional UK airports, which helps if relatives are scattered around the country.
+
+## Other options
+
+- **Greek islands (Crete, Corfu, Kefalonia, Zante):** These are great for beach-and-taverna weeks. 
+Crete has large beachfront villas with seven double bedrooms and separate family areas, which suits multigenerational groups
+. Packages from operators like TUI also cover 
+Corfu, Zante, Kefalonia and Rhodes, plus Spain and Portugal
+.
+- **Canary Islands (Lanzarote, Tenerife, Fuerteventura):** These have the most reliable warmth outside summer, so they work for Easter, half-term or autumn. The flights are longer, at about 4–4.5 hours.
+- **Cyprus (Paphos):** It's warm into late autumn and has good family infrastructure. Villa prices are higher, though.
+- **Resort-style villas:** If some of the group want kids' clubs and restaurants on site, look at places like Martinhal in Portugal. 
+It has private villas plus access to resort pools and amenities
+.
+
+## Practical tips for a reunion
+
+1. **Choose between a villa and a resort.** A villa gives you a shared space, a private pool and lower per-person costs. A resort or apartment complex is easier if people want flexibility and no cooking.
+2. **Check flights first.** Make sure the airports near your villa suit everyone's UK departure points. Direct routes matter more than a perfect villa.
+3. **Fix the dates early.** July and August prices peak and large villas book up early. Late May, June or September are cheaper and often more pleasant for grandparents.
+4. **Look at the bedroom layout.** Several en-suite doubles with a couple of separate living areas work better than one huge open-plan space.
+5. **Plan the budget fairly.** Splitting by bedroom or by household is usually simpler than splitting per head. Agree on this before booking.
+6. **Check ABTA/ATOL protection** if you book through an operator.
+
+## Rough costs
+
+Prices vary a lot. Some operators list 
+Greek villas from about £548 per week
+ for smaller properties. Large luxury estates cost much more. One 2026 comparison puts 
+3–4 bedroom Algarve villas at roughly €5,000–€12,000 in high season
+, and 8+ bedroom estates far higher. Split across several households, that can still work out reasonably.
+
+To narrow this down, it would help to know:
+- how many people are coming, and their age range
+- roughly when you'd travel
+- your budget per household
+- whether you'd rather have beaches, culture or a mix
+
+I can suggest a shortlist with specific areas and flight routes once I know those.
