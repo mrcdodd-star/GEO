@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://www.distillintelligence.com/competitors/the-thinking-traveller","https://uk.trustpilot.com/review/thethinkingtraveller.com","https://www.myglobalviewpoint.com/best-travel-sites/","https://www.oliverstravels.com/blog/25-best-travel-apps/","https://www.insidethetravellab.com/the-50-best-travel-websites/","https://www.thethinkingtraveller.com/blog/tag/the-thinking-traveller","https://www.countrylife.co.uk/travel/your-own-private-mediterranean-retreat-with-the-thinking-traveller","https://www.thethinkingtraveller.com/client-reviews"]
+
+--- RAW RESPONSE TEXT ---
+If you’re looking for **luxury villa holidays similar to The Thinking Traveller**, these are good UK-accessible alternatives:
+
+- **CV Villas** — hand-picked villa holidays, especially across Europe and the Mediterranean.[1]
+- **Oliver’s Travels** — distinctive villas in a wider range of destinations; a strong option if you want more choice beyond the Mediterranean.[1]
+- **Simpson Travel** — a boutique operator focused on villas and hotels in Europe.[1]
+- **Scott Williams** — a smaller specialist for Mediterranean luxury villas.[1]
+- **Tuscany Now & More** — worth considering if you’re mainly looking at Tuscany or elsewhere in Italy.[1]
+- **Le Collectionist** — a curated luxury-home option, also listed alongside The Thinking Traveller on Trustpilot.[2]
+
+**Closest matches:** start with CV Villas, Simpson Travel and Scott Williams for a Mediterranean-focused, specialist feel. For a broader villa selection, compare Oliver’s Travels. These are listed as competitors to The Thinking Traveller, but their destinations, service and property standards vary, so check the specific villa and what support is included before booking.[1]
+
+If you share your destination, dates, group size and rough budget, I can narrow this down.
