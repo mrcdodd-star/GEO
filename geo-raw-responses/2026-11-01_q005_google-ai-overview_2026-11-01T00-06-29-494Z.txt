@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.tui.co.uk/holidays/tui-kids-clubs","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TWpNellqVnpabWMYCg","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdoM2RqZHdiREkYCg"]
+
+--- RAW RESPONSE TEXT ---
+The ultimate "no cooking, no childcare" holiday is entirely doable, and you have a few distinct styles of trip to choose from depending on your budget, whether you want to fly abroad, and how much social interaction you want.
+The top options for outsourcing both parenting and catering include:
+
+To help narrow down the best fit, let me know:
