@@ -1,0 +1,78 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: claude
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.leginepraie.com/villa-lusso-toscana-volterra-chef-privato/","https://www.leginepraie.com/en/","https://es.airbnb.com/rooms/335091","https://www.emmavillas.com/en/county/tuscany","https://www.villanovo.com/villa-rentals/europe/italy/tuscany/","https://www.posarellivillas.com/luxury-villas-in_tuscany_italy.html","https://www.florenceholidays.com/ville-lusso-toscana.html","https://medium.com/@keystonebuyersagents/ville-in-toscana-e-case-vacanze-di-lusso-scopri-villa-albertina-50ce1eaeb5eb"]
+
+--- RAW RESPONSE TEXT ---
+Ecco alcune opzioni per ville di lusso in Toscana con piscina privata e chef. Ho riportato i prezzi solo dove li ho trovati.
+
+## Ville con chef privato
+
+**Villa Le Ginepraie (vicino a Volterra)**
+- 
+Ha 6 camere da letto, 6 bagni, 3 salotti e 3 cucine, più una dépendance con aria condizionata e vasca idromassaggio per 3 persone.
+
+- 
+Si affitta l'intera villa a un massimo di 12 ospiti, con soggiorni settimanali da sabato a sabato.
+
+- 
+Su richiesta si possono avere la spesa a domicilio, uno chef privato o un pizzaiolo dedicato.
+
+- Nell'annuncio Airbnb si parla anche di 
+chef con stelle Michelin, sommelier, massaggi e yoga.
+ Il giardino è di 5.000 m² e la piscina è a sfioro.
+
+**Emma Villas**
+- Il sito dichiara 
+oltre 650 ville e casali con piscina privata in tutta Italia.
+
+- C'è una promozione: 
+prenotando entro il 30 novembre un soggiorno nel 2027, il servizio chef e cameriere è incluso nel prezzo.
+ Ti conviene controllare le condizioni sul sito, perché la scadenza è vicina.
+
+## Portali con più scelta
+
+**Villanovo**
+- Offre 
+la possibilità di aggiungere una governante e uno chef personale.
+
+- Alcuni esempi:
+  - Casa Giuseppe, in Val d'Orcia, per 14 persone: 
+da 1.295 a 1.675 € a notte.
+
+  - Villa Catherina, per 8 persone con piscina riscaldata: 
+da 864 a 1.477 € a notte.
+
+  - Villa Monti, con 6 camere: 
+da 1.428 a 2.429 € a notte.
+
+
+**Posarelli Villas**
+- Propone ville come Villa Simone, vicino a San Gimignano, con 
+piscina, campo da tennis, jacuzzi e sauna.
+
+- Per molte ville 
+si possono organizzare servizi aggiuntivi su richiesta, come uno chef privato.
+
+
+**Florence Holidays**
+- Ha un catalogo di ville di lusso in varie zone: Val d'Orcia, Siena, Monteriggioni, San Gimignano, Cortona e Versilia. Una delle ville include 
+lezioni di cucina toscana.
+
+
+**Villa Albertina**
+- Offre ville nel Chianti con piscina privata. 
+Su richiesta si può avere uno chef privato, la pulizia giornaliera e tour personalizzati.
+
+
+## Consigli
+- **Zona:** la Val d'Orcia (Pienza, Montepulciano) è la più scenografica. Il Chianti e San Gimignano/Volterra sono più centrali. La Versilia è adatta se vuoi anche il mare.
+- **Chef:** di solito è un servizio extra, a meno che non ci siano promozioni come quella di Emma Villas. Chiedi se nel costo sono compresi la spesa, il vino e il servizio a tavola.
+- **Prenotazione:** molte ville affittano a settimana, da sabato a sabato, e l'alta stagione si riempie con largo anticipo.
+- **Piscina:** controlla se è riscaldata e se è davvero a uso esclusivo.
+
+Se mi dici quante persone siete, il periodo e il budget, posso restringere la scelta. Posso anche suggerirti una zona precisa.
