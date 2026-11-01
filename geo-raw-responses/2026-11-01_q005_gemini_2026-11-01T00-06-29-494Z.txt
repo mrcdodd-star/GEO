@@ -1,0 +1,67 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmfQ3PBxAbVXfGrhjzfq5uSeuhy3yhJqjUE3lz1UxgvNpiuJunOXHLHeR2E_EvNNcdx6RWBnEwBtTIXYiyqymf1UNMzdiVPxPU1cGF63Chbsb1xtvzcQfOw5E7xHidwGNO0_TGm6XI5Pic_N69-EiZdyLPgQ4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_qyjGeTRHlq9zAr-3D1AShaKyFUHnsoipuQH5FX6PJ4bdGdWf2towiKDqK7SFRYFi6kQGSGfBSuMAipMG2Uxxor9I3NU_sR2HxV6_1_lIL9mIzj_dJ-UTDQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmcBy8R1S_WY-IydhKpwKvx77INfBT8yWkD9VyNTMWvbVhxT8piBfr-T2KYa_mrD_ioLcXNoxodYVcqNLr-Gmp7vpMZk9NsP8isAJG7ACeb-EcmcfC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4I1smGmFUm1Q_lsBqpWhqyZswLCO1u_Z4fcc17cc_vhHxQSg5n_-V8D0HnsBJi2ksyyxD_1sMTzdREjD5AbQawFv5rYJsXmlkBxi-3x_-dLkCFKjRdPvZrq3Vep4NyGE89zJoCgErJ665hJHGj2_YOZTXoEu5pwUhWIhYTBsMngXjGHBghUgciEYLqs3OAVpkbPJW_HgYjxt7WnZZkjZpo_o8Idzvdu_rY7FcJUNoxBJEbQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdxpHdDRqr_9tqBy5MFcwN0-EReobkwuAjjWIDT69VcrVoG5BVxw3TDgMmjCPJUXIF2ArHV_8oKFm5Wg_LFDdrti9xkNji7IluKL2-ro5ZR2FNtqXXa7VICq76qJ6wE4fXzUFkARelVmBVWCq_xONdUmJCX5Wyzsdo307YcHSnLaScHYGuiGjoAw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFcWS3RQ0-8GpQl_NFiRf3M2SwpoWWkH8b-IXop_KJdZGdB0zLZuuvWls-OZtiMiqwYgZRoY6AP6V4uVEJo9NhTN5N_JVZ0XAWDsg3NS3OXcVR7Cc7qcczoo88kXZyZNwUHRch-IEiFLcTKkgK3xtHUuCQyg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhFT9fJJjaccuvPgZj2aAFLp2FohaV94F82nViJQJHUhblu3zrkRVtbWGkQX5P9w3gh4y_Z8Ua4edfS6LBfrJvAmgfJv7WKjt1N9pkn3enNBUJpL22vRiFva6JCvHKGPUzDg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kMJHmdV3cHU5_0dOI37GoGaf90qC1V_xN8miz_WLWVqMaz5LViXVY_QgWNLjWXW2AMA8Irga2jHSGStCYRkQxe3Y-N_uMianebSM2k53gN7wtAZYB4JLRiGi1XgkqdmpTFvIPL1-O0VR"]
+
+--- RAW RESPONSE TEXT ---
+If your primary goal is a holiday where you **don't cook, don't wash up, and get dedicated daily adult-only time**, you have several excellent options tailored for UK families. 
+
+Depending on your travel style, budget, and whether you want to fly, here are the best holiday formats where both cooking and childcare are fully taken care of:
+
+---
+
+### 1. Luxury All-Inclusive Sun Resorts (Europe)
+*Best for: Zero-friction sunshine, fine dining, and seamless childcare from babyhood upwards.*
+
+* **Ikos Resorts (Greece & Spain):** Widely considered the gold standard for family all-inclusive in Europe. Michelin-starred curated menus, 24-hour room service, and beach childminding. Childcare is run by UK-accredited *Worldwide Kids* (Crèche from 4 months+; Kids Club 4+ years).
+* **Sani Resort (Greece):** A massive eco-resort with 5 luxury hotels on site. Offers a "Dine-Around" programme across 26 restaurants, plus top-tier crèches, kids' clubs, and a dedicated *Babe Watch* service on the beach (graduates keep an eye on toddlers while you swim).
+* **Martinhal Resorts (Portugal):** Purpose-built for families (Sagres and Cascais). Offers full-board options, dedicated children’s menus, baby-proofing packages, and crèches from 6 months old.
+* **Club Med (Worldwide / Europe):** The pioneer of all-inclusive. Offers "Baby Club Med" (4–23 months) and "Petit Club" (2–3 years) with qualified early-years staff. Meals, snacks, drinks, and kids’ clubs are all bundled into one price.
+
+---
+
+### 2. UK Luxury Family Hotels (No Flying Required)
+*Best for: Quick weekend breaks or domestic trips without airport stress.*
+
+* **Luxury Family Hotels Group (Fowey Hall, Woolley Grange, Moonfleet Manor, New Park Manor):** Every stay includes **2 hours of complimentary Ofsted-registered childcare per night booked** in their on-site *Four Bears Den* (from 3–6 months to 8 years). They offer high tea for children early in the evening, followed by fine dining for parents later, backed up by audio baby-monitoring systems or babysitting.
+* **Watergate Bay Hotel (Cornwall) & Another Place (The Lake District):** Both offer full restaurant dining on-site, kids' clubs, supervised swim sessions, and baby-monitoring facilities so you can eat dinner in the restaurant while your baby sleeps upstairs.
+* **Crieff Hydro (Scotland):** Offers two free hours of supervised childcare per day for 2 to 12-year-olds, paired with multiple resort restaurants.
+
+---
+
+### 3. UK-Staffed Activity & Beach Specialists
+*Best for: Active families wanting British-qualified nannies and flexible dining.*
+
+* **Mark Warner (Greece & Turkey):** Famous among UK parents. They hire British-qualified early years staff (DBS-checked). Childcare runs from 4 months to 17 years with full-day or half-day options, alongside full/half-board hotel dining.
+* **Neilson Active Holidays (Greece, Croatia, Sardinia):** Similar to Mark Warner—offers "Club Board" (most breakfasts, lunches, and dinners included), water sports, and British-run kids' clubs included in the base price for ages 2–17 (crèche available for babies under 2).
+* **Simpson Travel:** Specialist boutique family hotels (such as *Mousses* in Lefkada, Greece) or catered family villas. They feature their own *Hatchling Crèches* and offer private nanny options.
+
+---
+
+### 4. Cruises Sailing from Southampton (Zero-Fly All-Inclusive)
+*Best for: Unbeatable convenience—no airports, food on demand 24/7, and night nurseries.*
+
+* **P&O Cruises (e.g., Arvia, Iona):** Sailing direct from Southampton means no luggage limits or airport security. All main dining, buffets, and kids’ teas are included. 
+  * **The Big Perk:** P&O offers a complimentary **Night Nursery** (for ages 6 months to 4 years, running roughly 6pm–midnight/2am). You drop your sleeping baby off in a quiet, staff-monitored room with cots, take a pager, and go enjoy a multi-course dinner, drinks, or a show.
+* **Disney Cruise Line (Europe/UK departures):** Outstanding nursery care (*It’s a Small World Nursery* for 6–36 months) and free kids' clubs for ages 3–12. Includes "rotational dining," where your personal waitstaff move with you to a different themed restaurant each night.
+
+---
+
+### 5. Catered Ski Chalets (Winter Option)
+*Best for: Winter holidays where a chef cooks directly in your chalet.*
+
+* **Family Ski Company, Ski Famille, or VIP SKI:** You stay in a chalet where a dedicated chalet host/chef cooks breakfast, afternoon tea, and a 3-to-4-course adult dinner every evening. Qualified UK nannies deliver in-chalet childcare, taking kids to ski school or doing activities while you ski.
+
+---
+
+### Key Tips for UK Parents Before Booking:
+
+1. **Check the age cut-offs for free childcare:** For almost all operators, kids' clubs for ages 4+ (or sometimes 2+) are free. Under-2s usually require a paid **Crèche** spot, which must be booked early as ratios are tight.
+2. **Understand the night-time dining setup:** 
+   * *Night Nurseries / Crèches* (like P&O or Club Med) let you put kids to bed in a supervised room.
+   * *Baby Listening Services* (like UK country house hotels) use room-monitoring technology connected to reception or your smartphone so you can eat downstairs while they sleep in your room.
+3. **Check childcare qualifications:** If you want UK-standard care, look for operators using **Ofsted-registered staff** (in the UK) or **Worldwide Kids / DBS-checked British nannies** (abroad).
