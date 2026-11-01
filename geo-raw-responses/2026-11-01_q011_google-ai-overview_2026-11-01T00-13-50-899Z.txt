@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhoc09EVnhaSEp4GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVXMTVPWFp5GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZMlpsOWZaalI1GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdnMWNuSXpOVzVyGAo"]
+
+--- RAW RESPONSE TEXT ---
+Renting a luxury villa with integrated concierge service in the South of France (Côte d'Azur, Provence, or Saint-Tropez) opens up an incredible, tailor-made Mediterranean escape. High-end agencies handle everything from private chef placement and yacht charters to helicopter transfers and VIP beach club access.
+Top-tier agencies and management groups specializing in the region include:
+
+To help narrow down the ideal property for you, please let me know:
