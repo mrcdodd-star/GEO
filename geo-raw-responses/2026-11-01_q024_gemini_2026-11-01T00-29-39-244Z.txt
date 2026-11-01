@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt6SpgVKEt5Z2zyNcQHESoYm2Oo3KCSNl3z2KOABPWj3_e2D6tYu3zdPn_cb1mFPtjbheSC64TOtLy9N3GClbTKpwenfLO8a8nr7JisN8E58tDmTpOl0iMtL_ddqPBTqB5Q1683JpePkadqiWifIJ0-SfNZuElE8_Bsb-Aei0uzlkrouVUgQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ2W8gnuSTLsaUvDz5IepvUoVy1D1EV7MZJmDqxHnuNdxuQyFgfYc-p0jbyyuH6xT3pu0Sqx_xX06ZuiZavGCuL1JfJawteQ9TOWstNvv76HPFCn47gfL2dd2KASZxml3tcILp9FGRMCnZF1QqfAOTJ1uY","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaR7SEwwabifVSwABa3vRSii6r3XNsST9YpGW-XghIKsJuTiFvkSBoJoCZ7fopjBkrDRWoYE6Y7vNZKW94TmluMu_r8ogr4eTGas4pXVY34JaWCKNL2vWEdxV3FZ1CihEc","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiepcJ1mLPFIvcdxyBUEnR6ktcKEN6Ltsadgohg7tJUMBUYOkHvaiZQH6jFAp8hbwFGUBDNg0kBrdlmM3jVZUPriLp9viejeyJ8HSpmMJTJ88FvcTk1M2k3v-UduHnzVceb4OhvBaIavYEahZxjZ2G-y7oB9xpX6WRtgXDNQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxtJBgNkS81kCSLKRKr-JOuAQdSJy5K9g1QAxKB68T5VFAwTNBriX0KqQh-5d51WuULqIc1B0w6e9cXTvSE3NSk9rk3UM0mz5UKgkC-Z1RLFABbWuOkjhkS1M_f1M9q3AA"]
+
+--- RAW RESPONSE TEXT ---
+**Yes, Oliver's Travels offers chateau weddings.** 
+
+As a UK-based luxury villa and venue rental provider, Oliver's Travels specializes in destination weddings and offers a handpicked collection of French châteaux, European castles, and stately manors.
+
+Key features of their chateau wedding offerings include:
+
+* **Varied Destinations:** They feature authentic châteaux across popular regions in France, including the Loire Valley, Dordogne, Burgundy, Normandy, and the French Riviera.
+* **Flexible Guest Capacities:** Venues range from smaller, intimate châteaux to large estates that can accommodate anywhere from 20 to over 50 staying guests (with larger capacity for evening receptions).
+* **Wedding Support & Concierge Service:** Oliver's Travels provides a dedicated Concierge team to assist couples with local wedding planners, caterers, florists, and entertainment.
+* **UK/Europe Castles:** In addition to French châteaux, they also feature wedding castles and historic estates in the UK (Scotland, England, Wales) and Ireland.
