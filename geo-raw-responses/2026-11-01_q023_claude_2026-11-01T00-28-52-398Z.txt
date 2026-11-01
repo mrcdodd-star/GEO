@@ -1,0 +1,45 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/","https://olivers-travels.tenereteam.com/","https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o110-Oliver_s_travels_has_anyone_used_this_company-France.html"]
+
+--- RAW RESPONSE TEXT ---
+The official terms I could retrieve were only partial, so check the full page before you book. Here is what they say.
+
+**Cancelling by you**
+- Oliver's Travels says its policy reflects each owner's individual terms. 
+Once the deposit has been paid it is non-refundable, as a cancellation wouldn't leave the owner enough time to find a substitute booking.
+ The excerpt I saw didn't include the full schedule for the balance payment.
+- A third-party review site says a 35% deposit is required. It also says 
+if you cancel less than 12 weeks before departure, only the balance of the holiday may be refunded and the deposit is non-refundable.
+ That site isn't official, so confirm the figures with Oliver's Travels.
+
+**48-hour cooling-off**
+- Oliver's Travels offers a 48-hour "no quibble" cancellation. 
+It doesn't apply to bookings that start within 14 days of the booking being placed.
+ 
+After the 48 hours, or if the booking doesn't qualify, the standard cancellation terms apply in full.
+
+
+**If the owner cancels**
+- 
+If the owner cancels and no alternative dates can be offered, you get a voucher for the value of everything you've paid. You can use it on any other Oliver's Travels holiday home.
+ Older terms quoted by a customer on MoneySavingExpert promised a full refund instead. So the policy appears to have changed, and it's worth checking which version applies to your booking.
+- 
+They aren't liable for extra costs such as travel.
+
+
+**Things to know as a UK customer**
+- Oliver's Travels describes itself as an accommodation-only agent. In a dispute during Covid, it said this meant 
+it isn't bound by Package Travel Regulations
+, so you may have less protection than with a package holiday. Customers also reported that Oliver's Travels referred them to the owners for refunds.
+- 
+They strongly recommend comprehensive travel insurance with cancellation cover, as they provide none.
+ I'd arrange it when you book.
+- If you paid by credit card, Section 75 may offer extra protection in some circumstances. I haven't verified how it applies here.
+
+You can read the full terms at https://www.oliverstravels.com/terms-and-conditions/. Your booking confirmation will show the exact deposit and balance dates for your property.
