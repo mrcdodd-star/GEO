@@ -1,0 +1,73 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.frenchweddingstyle.com/best/all-inclusive-chateau-wedding-packages-france/","https://www.atlastwedding.co.uk/post/luxury-chateau-wedding-venues-france-uk-couples","https://www.frenchweddingstyle.com/best/french-chateau-wedding-venues/","https://www.frenchweddingstyle.com/best/castle-wedding-venues-in-france/","https://www.frenchweddingstyle.com/best/chateau-wedding-venues-south-of-france/","https://getmarriedinfrance.net/venues.html","https://www.frenchweddingstyle.com/best/destination-wedding-venues-in-france/"]
+
+--- RAW RESPONSE TEXT ---
+There are plenty of châteaux that cater to UK couples. Here is where to look and what to expect.
+
+## Where to search
+- **Directories for English-speaking couples:** French Wedding Style lists châteaux with prices and capacities. 
+It says every estate on its list works with couples from the UK, US, Australia, Canada and Ireland, with English-speaking planning support.
+ Get Married in France (getmarriedinfrance.net) and French Wedding Venues (frenchweddingvenues.com) are similar.
+- **Planners:** Some UK-based planners match you to a venue. 
+At Last Weddings, for example, offers venue matching, design and supplier help for UK couples planning in France.
+
+
+## Example venues and prices
+These are "from" prices for peak season (June–September) venue hire. Check them with each venue.
+- **Château de Vauchelles (northern France):** 
+Hire covers the whole weekend with no curfew, and 22 bedrooms sleep 62 guests on site.
+ 
+It's about 1h20 by road from the Calais Eurotunnel terminal.
+ 
+It starts from €9,500 for up to 190 guests.
+
+- **Château de la Faye (Charente):** 
+Midweek low-season hire is from €7,225 for 2027, and weekend hire starts at €8,500.
+
+- **Château de Pondres (south):** 
+From €7,500 for exclusive hire, for up to 300 guests.
+
+- **Château de Sanse:** 
+From €10,355 for a 2-night package with in-house catering.
+
+- **Château Challain (Loire, all-inclusive):** 
+The all-inclusive Gold package starts from €55,000 for up to 30 guests over a 2-night stay.
+
+- **Dordogne:** 
+Château du Raysse and Château la Durantie both offer exclusive hire for English-speaking couples.
+ 
+Bergerac Airport has direct flights from several UK airports.
+
+- **Brittany:** 
+Château du Grand Val is owned by an English-speaking team and has its own chapel and gardens.
+ That listing is older, so confirm it is still available.
+
+## Costs and planning
+- 
+One planner estimates that a French destination wedding for 80–150 guests costs €40,000–€120,000 all in.
+ Venue hire is only part of that.
+- Check whether you're getting **dry hire** (venue only) or an **all-inclusive package**. 
+A package replaces dozens of separate supplier conversations, contracts and payment schedules.
+
+- Many châteaux require a minimum stay of 2–3 nights in peak season.
+- Ask whether the venue allows outside caterers.
+- Check the sleeping capacity against your guest list.
+
+## Choosing a region
+- **Northern France (Normandy, Hauts-de-France):** Easy to reach by car, Eurotunnel or ferry.
+- **Loire Valley:** 
+It is one of the best-served regions for English-speaking couples who want a multi-day château wedding.
+
+- **Dordogne and Bordeaux:** Direct flights from the UK, and a relaxed feel.
+- **South of France:** Vineyard châteaux, often with estate wine.
+
+## Legal ceremony
+A civil ceremony in France has residency requirements. Many UK couples have a legal wedding in the UK and a symbolic ceremony at the château. Check the current rules with the *mairie* or a planner before you book.
+
+If you tell me your guest numbers, budget, preferred month and whether you want to drive or fly, I can narrow this down.
