@@ -1,0 +1,67 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.tui.co.uk/holidays/all-inclusive","https://www.thomascook.com/holidays/family","https://www.clubmed.co.uk/l/family-holidays/family-all-inclusive","https://www.sovereign.com/holiday-types/family-holidays/all-inclusive/","https://www.britishairways.com/content/holidays/holiday-types/family-holidays","https://all-inclusive-guide.com/guides/best-all-inclusive-resorts-for-families/","https://gingerhospitality.co.uk/best-family-friendly-hotels-in-the-uk-for-style-location-and-value-for-money/","https://tinytravelship.com/best-family-friendly-hotels-in-uk-babies-toddlers/"]
+
+--- RAW RESPONSE TEXT ---
+The best fit depends on your children's ages, your budget, and whether you want to fly. These are the main options.
+
+## 1. All-inclusive resorts abroad
+These are the easiest way to get meals and childcare in one package.
+- **Package operators.** 
+Every TUI All Inclusive package includes flights, accommodation, all meals, local drinks and airport transfers, and most hotels also include kids' clubs.
+ Thomas Cook, On the Beach and Jet2 sell similar packages. 
+Turkey is a standout for value, with large resorts that bundle pools, professional kids' clubs and evening shows into one price.
+
+- **Club Med.** 
+Its kids' club takes children from 4 months to 17 years and runs from 9:00am to 5:30pm, then again in the evenings.
+
+- **Ikos (Greece).** At Ikos Oceania, 
+the crèche, kids club and teens' club are all complimentary.
+ At Ikos Aria, 
+supervised activities run for children from six months to 17, and babies and younger children can join the Heroes Crèche.
+
+- **Check the small print for under-4s.** 
+Many kids' clubs start at 4.
+ One guide says that at Ikos, 
+the crèche from 6 months is paid sessions.
+ Clubs often cost extra for the youngest children, so confirm this before you book.
+
+## 2. UK hotels with free crèche sessions
+You still have to travel, but there's no flying, and the childcare is Ofsted-registered. Meals are usually not all-inclusive, so you'd pay for dinner, though you don't have to cook.
+- **Luxury Family Hotels group** (e.g. Ickworth in Suffolk, Fowey Hall in Cornwall, Woolley Grange in Wiltshire). 
+90 minutes of free childcare per night is included in the stay.
+ 
+Fowey Hall takes babies from 12 weeks.
+
+- **Moonfleet Manor, Dorset.** 
+It offers two hours of complimentary childcare per night's stay.
+
+- **Crieff Hydro, Perthshire.** 
+Childcare is free for bookings of two nights or more and children aged 2–12.
+
+- **Gleneagles.** 
+The kids' club is much applauded, and under-5s get complimentary food.
+
+
+Policies change, and some of these sources are old. For example, 
+Celtic Manor no longer has a crèche or kids' club.
+ Check directly with the hotel.
+
+## 3. Other options (from my own knowledge, so verify these)
+- **Mark Warner and Neilson.** These beach-club holidays in Greece, Turkey and elsewhere have a reputation for generous, often free, childcare. The meals are usually half-board.
+- **Catered ski chalets with nannies.** Operators such as Esprit offer these in winter. They're good if your children are old enough for ski school.
+- **Villas with a chef and nanny.** These are the most flexible and the most expensive, usually through a luxury villa specialist.
+- **Holiday parks (Center Parcs, Butlin's, Haven).** There's lots for children to do, but the childcare is limited. You'd mostly be supervising, so they're less of a true break.
+
+## Questions that would help me narrow this down
+- How old are the children? This matters most, because many clubs don't take under-4s.
+- Do you want to fly, or stay in the UK?
+- What's your rough budget and which dates, for example school holidays?
+- Do you want all meals included, or just not to cook?
+
+With those answers I can suggest a shortlist and check current prices.
