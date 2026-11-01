@@ -1,0 +1,113 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://www.essenzaescapes.com/collections/premium-villas?utm_source=openai","https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/?utm_source=openai","https://www.lecollectionist.com/en/luxury-villas-rentals/italy?utm_source=openai","https://www.tuscanynowandmore.com/villa-collections/luxury-villas-in-italy-list?utm_source=openai","https://www.homeinitaly.com/luxury-villas-by-features/fully-staffed_57?utm_source=openai","https://italianbreaks.com/rental/si784-villa-raffaello/?utm_source=openai","https://villas.byunique.com/en/italy/tuscany/villa-bellomo-tuscany-3434?utm_source=openai","https://www.sopranovillas.com/property/catania-fully-staffed-villa-sicily/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a guide for finding villas in Italy with *private chefs* and *daily housekeeping*, from UK-based providers, and how to choose the right one.
+
+---
+
+## ✅ What to Look for
+
+When searching, keep these criteria in mind to make sure your villa meets your full expectations:
+
+1. **“Fully Staffed / Fully Serviced” Villas**  
+   These villas include everything—chef, housekeeping, butler/host—so you don’t need to ask for add-ons.
+
+2. **Chef Service Terms**  
+   - Number of meals per day included (breakfast only vs full board)  
+   - Whether groceries/food costs are extra  
+   - If chef comes daily or selectively  
+
+3. **Housekeeping Frequency**  
+   - Daily vs fewer days per week  
+   - Are linens and towels changed regularly?  
+   - Are there additional cleaning staff like pool/bathroom cleaners?  
+
+4. **Concierge and Support on the Ground**  
+   - Someone you can communicate with from UK before booking  
+   - Local contacts to sort out extra requests (childcare, drivers, massages)  
+
+5. **Lead Time & Seasons**  
+   - June-to-September is high season: book months ahead  
+   - Shoulder seasons (spring/autumn) might offer better rates & availability  
+
+6. **Reputable UK-Based Travel or Villa Agencies**  
+   - Can help with flights, visas, communications  
+   - Usually have vetted properties  
+
+---
+
+## 🔍 Examples of Providers & Villas
+
+Here are top villa-rental companies offering what you want, and actual villa options:
+
+| Provider | What They Offer | Example Villa |
+|---|---|---|
+| **Essenza Escapes** | Fully serviced villas with private chef, daily housekeeping, plus optional staff like butlers and house managers. ([essenzaescapes.com](https://www.essenzaescapes.com/collections/premium-villas?utm_source=openai)) |
+| **Haute Retreats** | Over 270 villas, all with 24/7 concierge. Some include chef and housekeeping as standard or available on request. ([hauteretreats.com](https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/?utm_source=openai)) |
+| **Le Collectionist** | Luxury concierge; villas often include private chef, daily housekeeping among services. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/italy?utm_source=openai)) |
+| **Tuscany Now & More** | UK-based company; many villas include maid & chef or can arrange these services. ([tuscanynowandmore.com](https://www.tuscanynowandmore.com/villa-collections/luxury-villas-in-italy-list?utm_source=openai)) |
+| **Home in Italy** | Fully staffed retreats with cook + daily maid service. Broad selection in many regions. ([homeinitaly.com](https://www.homeinitaly.com/luxury-villas-by-features/fully-staffed_57?utm_source=openai)) |
+
+**Villa Examples:**
+
+- *Villa Raffaello (Sicily)* — Concierge, daily housekeeping, butler & host ~8 hrs/day, private chef (food costs extra). ([italianbreaks.com](https://italianbreaks.com/rental/si784-villa-raffaello/?utm_source=openai))  
+- *Villa Bellomo (Tuscany)* — Includes morning housekeeping service (approx. 5 hours Mon-Sat), cook service Mon-Sat. ([villas.byunique.com](https://villas.byunique.com/en/italy/tuscany/villa-bellomo-tuscany-3434?utm_source=openai))  
+- *Sicily Fully Staffed Villa (Catania)* — Offered by SopranoVillas. Daily cleaning, cook present for all 3 meals, housekeeping, butler, etc. ([sopranovillas.com](https://www.sopranovillas.com/property/catania-fully-staffed-villa-sicily/?utm_source=openai))  
+
+---
+
+## 🗺️ Popular Regions in Italy & What to Expect
+
+Different parts of Italy have different pros, costs, and logistics:
+
+- **Tuscany / Umbria**  
+  Ideal for pastoral scenery, vineyards, countryside luxury. Many villas with staff included.  
+
+- **Amalfi Coast / Capri / Sorrento**  
+  Stunning sea views, more expensive, harder to drive to, but top luxury with high staff standards.  
+
+- **Lake Como, Lake Garda**  
+  Water vistas, cooler climate, prominent for high-end luxury villas.  
+
+- **Sicily & Sardinia**  
+  Island charm, Mediterranean lifestyle; remote villas often come with full service because of distance.  
+
+---
+
+## 💷 Pricing & Budget Considerations
+
+- Villas that come *fully staffed* will cost approximately **€5,000–€15,000+ per night** depending on size, location and included services. Some large estates run up to €10,000–€20,000+ per night.  
+- Chef fees: sometimes included, sometimes separate. If separate, you may need to provide a food budget or reimburse purchases. ([sopranovillas.com](https://www.sopranovillas.com/property/catania-fully-staffed-villa-sicily/?utm_source=openai))  
+- Housekeeping extras (laundry, pool care, etc.) might require additional fees.  
+
+---
+
+## 📆 Booking Tips (from the UK)
+
+1. **Start Early**  
+   For summer/festive periods, begin 6–12 months ahead.  
+
+2. **Make a Shortlist & Request Offerings in Writing**  
+   Ensure chef & housekeeping hours are clearly documented.  
+
+3. **Check Travel Logistics**  
+   - Closest airport, transfer times  
+   - Whether staff require accommodation on site  
+
+4. **Communication**  
+   - Do you agree with their terms of cancellation?  
+   - Are food costs included, will groceries be separately billed?  
+
+5. **Payment in Pounds vs Euro**  
+   Currency fluctuations can matter; some agencies allow GBP payments.  
+
+---
+
+If you like, I can pull together a curated list of villas (with price ranges) currently available for your preferred dates, with chef + daily housekeeping included. Do you want me to do that?
