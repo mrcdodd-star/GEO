@@ -1,0 +1,86 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Here are some top destination ideas for a week-long family reunion somewhere warm in Europe. All of these options feature **frequent, direct short-haul flights from multiple UK regional airports** (London, Manchester, Birmingham, Bristol, Scotland), fantastic group accommodation options (like large villas or resorts), and activities suitable for multi-generational groups.
+
+---
+
+### 1. The Algarve, Portugal
+**Best for:** Ease of travel, stunning coastlines, and private villa life.
+* **Flight Time from UK:** ~2.5 – 3 hours (to Faro)
+* **Why it works for a reunion:** The Algarve is famous for its massive selection of rental villas with private pools, making group living easy and cost-effective. It offers a relaxed pace of life, extremely friendly locals, and great value for dining out.
+* **Where to stay:** 
+  * **Lagos / Praia da Luz:** Beautiful historic town with sandy coves, dramatic cliffs, and great seafood restaurants.
+  * **Carvoeiro or Quinta do Lago:** Great for high-end luxury villas and quiet coastal views.
+* **Group Activities:** Boat tours through the Benagil sea caves, dolphin watching, golf outings, and casual family dinners at beachfront *tascas*.
+
+---
+
+### 2. Mallorca, Spain
+**Best for:** A mix of beach, mountains, culture, and upscale dining.
+* **Flight Time from UK:** ~2.5 hours (to Palma)
+* **Why it works for a reunion:** Mallorca has something for every age group—grandparents can enjoy quiet historic mountain towns, adults can enjoy wineries and beach clubs, and kids can enjoy gentle, shallow beaches.
+* **Where to stay:** 
+  * **Pollença / Puerto Pollença (North):** Ideal for families. Quiet bays, pine walks, and traditional countryside *fincas* (rustic farmhouses converted into luxury villas with pools).
+  * **Sóller / Deià (West):** Breathtaking mountain scenery and boutique charm.
+* **Group Activities:** Taking the vintage wooden train from Palma to Sóller, hiring a catamaran for a family day on the water, or exploring Palma’s cathedral and tapas bars.
+
+---
+
+### 3. Crete, Greece
+**Best for:** Long warm seasons, incredible hospitality, and foodies.
+* **Flight Time from UK:** ~3.5 – 4 hours (to Chania or Heraklion)
+* **Why it works for a reunion:** Crete is warm late into autumn (October/November) and early in spring. Greek culture is famously welcoming to multi-generational families. You can opt for sprawling beachfront resorts (if you want no cooking/cleaning) or private hill-top villas.
+* **Where to stay:** 
+  * **Chania Region (West Crete):** Venetian harbours, cobbled old streets, and easy access to world-famous beaches like Elafonisi and Balos.
+  * **Elounda (East Crete):** Great for high-end luxury resorts and calm, sheltered bays.
+* **Group Activities:** Group cooking classes, visiting ancient Minoan ruins (Knossos), and long, lazy Greek taverna lunches with free-flowing local wine and mezze.
+
+---
+
+### 4. Puglia, Italy
+**Best for:** Authentic Italian charm, slow food, and unique countryside stays.
+* **Flight Time from UK:** ~2.5 – 3 hours (to Bari or Brindisi)
+* **Why it works for a reunion:** Instead of standard holiday homes, you can rent a converted ***Masseria*** (a historic fortified farmhouse with swimming pools, courtyards, and gardens) where the whole family can stay together in a private estate setting.
+* **Where to stay:** 
+  * **Itria Valley (Martina Franca, Cisternino, Ostuni):** Centrally located, beautiful countryside, short drive to both the Adriatic and Ionian seas.
+* **Group Activities:** Olive oil tasting, pizza/pasta-making workshops at your villa, exploring the conical *trulli* houses of Alberobello, and beach days along the coastal coves.
+
+---
+
+### 5. Costa del Sol / Nerja, Spain
+**Best for:** Budget flexibility, convenience, and charm without high-rise resorts.
+* **Flight Time from UK:** ~2.5 – 3 hours (to Málaga)
+* **Why it works for a reunion:** Málaga Airport is one of the best-connected airports from the UK. Staying just east of Málaga in **Nerja** gives you a warm Spanish experience without the dense tourist skyscrapers of other coastal areas.
+* **Where to stay:** 
+  * **Nerja or Frigiliana:** Nerja offers gorgeous cliffside sea views, cove beaches, and a vibrant town square (Balcón de Europa). Nearby Frigiliana is a stunning white-washed mountain village packed with large villa rentals.
+* **Group Activities:** Day trips to the Alhambra Palace in Granada, exploring the Nerja Caves, kayaking along the cliffs of Maro, and tapas-hopping in the pedestrianized old town.
+
+---
+
+### 6. Tenerife or Lanzarote (Canary Islands)
+**Best for:** Guaranteed winter or shoulder-season warmth.
+* **Flight Time from UK:** ~4 – 4.5 hours
+* **Why it works for a reunion:** If your reunion is taking place between **October and April**, the mainland Mediterranean might be a bit cooler/breezy. The Canaries offer year-round 20–25°C temperatures, water parks, and excellent accessibility for elderly relatives (flat coastal promenades).
+* **Where to stay:** 
+  * **Costa Adeje (Tenerife):** High-end villas, quiet family-friendly beaches, and upscale dining.
+  * **Playa Blanca (Lanzarote):** Laid-back beach town with low-rise architecture and great villa complexes.
+* **Group Activities:** Stargazing excursions on Mount Teide (Tenerife), visiting Siam Park (voted world’s best waterpark), or touring the volcanic landscapes of Timanfaya National Park (Lanzarote).
+
+---
+
+### Practical Tips for Planning a Family Reunion from the UK:
+
+1. **Pick the Right Accommodation Style:**
+   * **Private Villa with Pool:** Best for privacy, flexible schedules, and lower costs per head. Look at sites like *CV Villas*, *Oliver's Travels*, or *Vintage Travel* which specialize in large family estates in Europe.
+   * **Resort/Aparthotel:** Best if family members want their own space/class of budget, or if you don't want anyone in the family stuck with cooking and cleaning duties.
+2. **Consider the Season:**
+   * **May–June & September–October:** The "sweet spot"—warm, sunny weather (22°C–28°C), fewer crowds, and much cheaper flights than peak July/August school holidays.
+   * **November–March:** Stick to the Canary Islands or Southern Cyprus for guaranteed warmth.
