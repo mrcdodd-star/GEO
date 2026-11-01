@@ -1,0 +1,68 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Booking a luxury villa abroad requires a different level of due diligence than a standard hotel stay, especially when managing high costs, group logistics, and international payments from the UK. 
+
+Here is a comprehensive checklist of what to look for and verify before putting down a deposit:
+
+---
+
+### 1. Financial Protection & Scam Prevention (UK-Specific)
+Luxury villa scams are increasingly sophisticated. Protect your funds before signing anything:
+
+* **Use Section 75 Protection:** Pay at least the deposit (or a portion over £100 and up to £30,000) using a **UK credit card**. Under Section 75 of the Consumer Credit Act, your card issuer shares liability if the villa is misrepresented or the booking company collapses. Avoid direct bank transfers (*SWIFT/IBAN*) unless booking through a verified, reputable agency.
+* **Agency vs. Direct Owner:** If booking through an agency, check if they are **ABTA or ATOL protected** (if flights are included). Premier UK-based luxury agents (e.g., CV Villas, Oliver’s Travels, The Luxury Travel Book, Le Collectionist) offer vetted properties and local concierges.
+* **Verify the Property:** 
+  * Run a **Google Reverse Image Search** on the villa photos to ensure they aren't stolen from another site.
+  * Check for precise location pinning on Google Earth or ask for exact coordinates.
+
+---
+
+### 2. Staffing & Service Level Agreement
+"Fully staffed" can mean anything from a maid dropping in for an hour to a full team. Clarify:
+
+* **Housekeeping:** Is it daily or weekly? Are linen/towel changes included, or billed extra?
+* **Private Chef / Catering:** Is the chef included, or an add-on? Crucially, ask how food purchasing works: do you pay for groceries at cost plus a service fee, or is there a fixed per-person/per-day board rate?
+* **Concierge Services:** Is there an on-site or 24/7 dedicated local concierge who can arrange transfers, boat charters, restaurant reservations, and emergency assistance?
+* **Tipping Norms:** Ask the agency about customary tipping guidelines for villa staff in that specific country.
+
+---
+
+### 3. Layout, Bedroom Hierarchy & Accessibility
+Photos can be deceiving regarding the distribution of space:
+
+* **Bedroom Equality:** If traveling as a group of adults splitting costs, check if all bedrooms have en-suite bathrooms and similar standards. Avoid properties where two rooms are grand master suites and the rest are small twin rooms tucked away in a basement.
+* **Child Safety:** If traveling with young children, check if the **swimming pool is fenced/gated**, if there are steep unfenced drops/terraces, or if bedrooms are in separate annexes away from the main building.
+* **Accessibility:** Many hillside Mediterranean villas (e.g., Amalfi Coast, Ibiza) have dozens of steep steps between the parking area, main house, and pool.
+
+---
+
+### 4. Climate Control & Essential Amenities
+Never assume high-end villas include standard comforts automatically:
+
+* **Air Conditioning:** Ensure AC is present in **all bedrooms and main living spaces**, not just select rooms. Ask if there are noise restrictions or eco-caps on AC usage at night.
+* **Heated Pool:** If traveling during the shoulder season (April–May or September–October in Southern Europe), ask if the pool is heated, what temperature it reaches, and whether pool heating incurs a substantial extra charge (often £300–£800/week).
+* **High-Speed Wi-Fi / Tech:** If anyone needs to work remotely, confirm if the villa uses high-speed fiber or Starlink satellite, especially in rural areas (e.g., Tuscany, Provence).
+
+---
+
+### 5. Hidden Costs & Fine Print
+Carefully read the rental contract for hidden fees:
+
+* **Local Tourist Taxes:** Many countries (e.g., Spain's *Tasa Turística*, France's *Taxe de Séjour*, Italy's *Tassa di Soggiorno*) charge a local stay tax per person per night, often collected in cash on arrival.
+* **Utility Surcharges:** Check if electricity, water, or air conditioning usage above a certain cap is billed extra upon checkout.
+* **Security Deposit Refund Policy:** Clarify how security deposits are handled (held as a credit card pre-authorization vs. cash transfer) and the guaranteed timeline for return (e.g., within 7–14 days after inspection).
+
+---
+
+### 6. Logistics, Transfers & Travel Insurance
+* **Flight Connections & Transfers:** Check transfer times from major airports serviced by UK regional airports (e.g., Gatwick, Manchester, Edinburgh). Factor in whether you need 4x4 vehicles for remote/unpaved access roads.
+* **Specialist Insurance:** Standard travel insurance policy limits often cap cover for accommodation cancellations or high-value possessions (jewelry, watches, cameras). Take out a **high-net-worth or luxury travel insurance policy** that covers the full cost of the villa if you have to cancel due to unforeseen circumstances.
+* **UK GHIC / EHIC:** If traveling to the EU, ensure everyone has a valid UK Global Health Insurance Card (GHIC) alongside comprehensive private medical insurance.
