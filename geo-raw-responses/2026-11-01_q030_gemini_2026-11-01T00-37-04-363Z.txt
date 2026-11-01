@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: gemini
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Eine Luxusvilla in Südfrankreich mit Vollservice (Hauspersonal, Butler, Privatkoch) zu mieten, ist eine der exklusivsten Arten, die Côte d’Azur oder die Provence zu genießen. Da Sie aus Deutschland buchen, gibt es verschiedene renommierte Spezialagenturen und Ankreuzpunkte, die diesen Service nahtlos abwickeln.
+
+Hier finden Sie eine Übersicht der besten Buchungswege, beliebter Regionen und wichtiger Details für die Planung:
+
+---
+
+### 1. Die besten Spezialagenturen & Portale für Service-Villen
+
+Bei Luxusimmobilien dieser Kategorie bucht man selten über Standardportale, sondern über spezialisierte High-End-Agenturen mit eigenen Concierge-Teams:
+
+* **Le Collectionist:**
+  * *Fokus:* Absolutes Premium-Segment in Südfrankreich (St. Tropez, Cannes, Cap Ferrat, Luberon).
+  * *Service:* Maßgeschneiderter All-Inclusive-Service. Ein Privatkoch (Private Chef), täglicher Reinigungsservice, Butler und Chauffeur können direkt mit dem Haus gebucht werden.
+* **Villanovo:**
+  * *Fokus:* Handverlesene Luxusvillen in der Provence und an der Côte d’Azur.
+  * *Service:* Bietet detaillierte Filtermöglichkeiten für Villen mit Personal ("Villas mit Koch", "Villas mit Hauspersonal").
+* **St. Tropez House / Local Agencies:**
+  * *Fokus:* Lokale Agenturen vor Ort (z. B. in Ramatuelle, Cannes oder Saint-Jean-Cap-Ferrat).
+  * *Service:* Bieten oft exklusiven Zugriff auf Off-Market-Immobilien, die nicht öffentlich im Internet stehen.
+* **Onefinestay / Haute Retreats:**
+  * *Fokus:* Weltweite Luxusvillen mit 24/7-Concierge-Service.
+  * *Service:* Organisiert Personal nach Ihren Wünschen (von der Haute-Cuisine bis hin zu Sommelières und Yoga-Lehrern).
+
+---
+
+### 2. Beliebte Regionen in Südfrankreich
+
+* **Côte d’Azur (Französische Riviera):**
+  * **Locations:** Saint-Tropez, Ramatuelle, Cannes, Saint-Jean-Cap-Ferrat, Villefranche-sur-Mer.
+  * **Flair:** Meerblick, helikoptertaugliche Grundstücke, Nähe zu Beach Clubs und Yachthäfen, Glamour.
+* **Provence & Inland:**
+  * **Locations:** Luberon (Gordes, Ménerbes), Les Baux-de-Provence, Aix-en-Provence.
+  * **Flair:** Weitläufige Landgüter (Bastides/Châteaux), Lavendelfelder, absolute Privatsphäre, eigene Weingüter.
+
+---
+
+### 3. Wichtige Details zur Buchung mit Koch & Personal
+
+* **Inklusivleistungen vs. Zusatzkosten:**
+  * **Personal/Koch:** Bei manchen Anwesen ist das Personal (z. B. Hauswirtschafterin, Koch) fest im Mietpreis enthalten. Bei anderen wird der Privatkoch als Zusatzleistung gebucht.
+  * **Verpflegungskosten (APA / Advance Provisioning Allowance):** Das Honorar des Kochs deckt in der Regel die Zubereitung ab. Die Zutaten (Lebensmittel, Wein, Champagner) werden separat nach Beleg oder über eine Vorab-Pauschale abgerechnet.
+* **Anreise aus Deutschland:**
+  * **Flug:** Nizza (NCE) für die Côte d’Azur oder Marseille (MRS) / Avignon für die Provence. Privatjet-Landungen sind z. B. am Flughafen La Môle (St. Tropez) oder Cannes-Mandelieu möglich.
+  * **Fahrservice:** Viele Agenturen organisieren den Transfer direkt vom Flughafen zur Villa per Limousine oder Helikopter.
+
+---
+
+### Empfohlener Vorgehensweise
+
+1. **Anforderungen festlegen:** 
+   * Personenanzahl & Schlafzimmer.
+   * Region (Küste vs. Provence-Inland).
+   * Verpflegungswunsch (z. B. Frühstück + Abendessen oder Vollpension, Diätwünsche/Michelin-Standard).
+2. **Direkter Kontakt mit einer Agentur:**
+  Nehmen Sie am besten direkt Kontakt mit einem Concierge-Team von **Le Collectionist** oder **Villanovo** auf. Viele der besten Häuser werden aus Datenschutzgründen nicht öffentlich gelistet und werden Ihnen als maßgeschneidertes Portfolio zugesendet.
