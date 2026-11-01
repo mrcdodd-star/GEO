@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: perplexity
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.villasud.de/","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/c%C3%B4te-d-azur","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/c%C3%B4te-d-azur/mougins","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/les-marins","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/c%C3%B4te-d-azur/la-londe-les-maures","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/provence","https://www.villasud.de/luxus-ferienhaeuser-suedfrankreich/provence/lorgues","https://www.cvvillas.com/de-de/reiseziele/frankreich/suedfrankreich/"]
+
+--- RAW RESPONSE TEXT ---
+Ja – Sie können eine Luxusvilla in Südfrankreich mieten und einen Koch sowie weiteres Personal dazubuchen. Für eine passende Auswahl braucht man vor allem **Reisedaten, Gästezahl, Budget und gewünschte Region**.
+
+- **VillaSud** vermittelt Villen in der Provence und an der Côte d’Azur. Der Anbieter hat ein deutsches Servicetelefon; zusätzliche Leistungen können je nach Villa über das lokale Management angefragt werden. Fragen Sie ausdrücklich nach **Privatkoch, täglichem Housekeeping und Concierge-Service**. [1][2]
+- **CV Villas** bietet Villen in Südfrankreich an; ein Privatkoch ist bei ausgewählten Unterkünften auf Anfrage verfügbar. Im Angebot wird etwa eine Provence-Villa für bis zu 12 Personen mit Koch auf Anfrage aufgeführt. [8]
+
+Vor der Buchung sollten Sie klären, ob Koch und Personal im Mietpreis enthalten sind oder separat berechnet werden, wie viele Stunden beziehungsweise Mahlzeiten abgedeckt sind und ob Einkaufskosten, Endreinigung oder Kaution zusätzlich anfallen.
+
+Wenn Sie mir **Zeitraum, Personenzahl, Budget pro Woche und Wunschregion** nennen, kann ich die Suche eingrenzen.
