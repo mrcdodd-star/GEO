@@ -1,0 +1,72 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: claude
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://villavacations.com/","https://hauteretreats.com/the-most-popular-villas-in-italy/","https://www.neverstoptraveling.com/rent-a-villa-in-italy","https://www.tuscanynowandmore.com/","https://amaselections.com/italy","https://grammarheist.com/best-luxury-villa-rental-websites-the-top-6-for-italy/","https://corporate.emmavillas.com/communication-room/press-release"]
+
+--- RAW RESPONSE TEXT ---
+Here are some well-regarded options, grouped by what they're good for. Most of the information comes from the agencies' own websites and a few roundup articles, so treat it as a starting point and not an independent ranking.
+
+**US-based agencies (useful for US phone support, dollar pricing and US consumer protections)**
+- **Doorways Villa Vacations** is 
+US-based and IATA-accredited, with a dedicated travel advisor and chef service
+. It has 
+100+ hand-inspected villas in Tuscany, Amalfi, Lake Como and 12 Italian regions
+.
+- **Haute Retreats** is 
+a small, focused team that works with trusted villa owners
+. It also 
+helps you plan the whole trip
+, and it lists a US toll-free number.
+- **Select Italy** is mentioned in one travel blog as a company that 
+can assemble the entire package for you and custom-design your vacation
+.
+
+**Luxury and high-service agencies**
+- **Tuscany Now & More** is a London-based, family-run company. It lists 
+Condé Nast Traveller Readers' Choice awards from 2016 to 2026 and a ranking as 2nd Best Villa Rental Company in Travel + Leisure's World's Best Awards 2026
+. It also advertises 
+a free concierge service
+. Its prices are high, with some villas 
+from $25,373 per week
+.
+- **Amasselections** has a portfolio spanning 
+Lake Como, Tuscany, the Amalfi Coast, Sardinia, Sicily, and Puglia
+.
+
+**Italy-focused specialists**
+- **SopranoVillas** is ranked first in one roundup. The article says it is 
+deeply rooted in the Italian territory
+. It also offers city apartments in Rome and Florence.
+- **The Thinking Traveller** is London-based, with 
+a particularly strong stronghold in Southern Italy (Sicily and Puglia)
+.
+- **Emma Villas** is an Italian company that describes itself as the Italian leader 
+with over 500 prestigious properties
+. It works mostly in Tuscany and Umbria, and it also has villas in Puglia, Sicily and Sardinia.
+
+**Marketplaces and other agencies**
+- Marketplaces like 
+Airbnb, Hidden Italy, VRBO, and Le Collectionist
+ are generally more flexible on price.
+- Villa-specific companies include 
+Wimco Villas, Oliver's Travel, Villas in Italy, Villas of Distinction, Rent Villas, and Exceptional Villas
+. 
+Many are very upscale, but you will find rentals in many price ranges.
+
+
+**Tips**
+- **Booking schedule:** 
+High-end villas typically require a one-week minimum stay, usually Saturday to Saturday, especially from May to September.
+ Shoulder season and city rentals are often more flexible.
+- **Booking early:** For peak summer you'll want to book many months ahead.
+- **Extras:** Ask what's included. Cleaning, a pool or garden service, a welcome shop, a chef and transfers are often add-ons. Also ask about the security deposit and any tourist tax.
+- **Payment and cancellation:** Check the payment schedule and cancellation terms. Consider travel insurance that covers cancellation.
+- **Reviews:** Read recent independent reviews carefully. One travel blogger specifically advises that 
+you look at the photos and all the reviews carefully
+.
+
+If you tell me your region (Tuscany, Amalfi, Lake Como, Puglia and so on), group size, budget and travel dates, I can narrow this to two or three agencies.
