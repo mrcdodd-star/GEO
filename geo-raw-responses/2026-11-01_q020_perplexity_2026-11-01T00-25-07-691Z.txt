@@ -1,0 +1,15 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com","https://www.yelp.com/biz/olivers-travels-london","https://www.trustpilot.com/review/oliverstravels.com?page=7","https://www.trustpilot.com/review/oliverstravels.com?page=5","https://www.trustpilot.com/review/oliverstravels.com?page=8","https://uk.trustpilot.com/review/oliverstravels.com?page=3","https://au.trustpilot.com/review/oliverstravels.com?page=4","https://www.trustpilot.com/review/oliverstravels.com?page=6"]
+
+--- RAW RESPONSE TEXT ---
+Oliver’s Travels has a **strong overall customer rating**, but the reviews suggest it’s worth checking the specific property and booking terms carefully. Trustpilot currently shows **4.7/5 from about 3,600 reviews**, with 78% five-star ratings.[1]
+
+UK reviewers commonly praise helpful staff, quick replies and a smooth booking process.[1][2] Complaints describe properties not matching their listings—for example, inaccurate amenity or location details—along with slow confirmations or difficulty resolving problems with property owners.[2][6]
+
+**Before booking:** get written confirmation of key details (such as bedroom access, pool heating, accessibility and distance to amenities), check extra charges and cancellation terms, and save a copy of the listing. Reviews are customer-reported experiences, so look for feedback on the exact villa as well as the agency.
