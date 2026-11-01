@@ -1,0 +1,71 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.pottersresorts.com/hopton-on-sea/summer-breaks/?utm_source=openai","https://littlebritsabroad.com/2026/05/26/best-uk-family-hotels/?utm_source=openai","https://www.parkdeanresorts.co.uk/en/faqs/booking/do-you-offer-all-inclusive-holidays/?utm_source=openai","https://www.tui.co.uk/destinations/product/thomson-VIL?utm_source=openai","https://www.justtumble.co.uk/overseas-holidays?type=all-inclusive&utm_source=openai","https://www.virginatlantic.com/holidays/holiday-types/all-inclusive-holidays?deploc=MAN&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you're based in the UK and want a holiday where *someone else* handles the cooking *and* childcare, there are several great options — ranging from UK breaks to overseas resorts. Here’s a guide to what’s available, with examples and ideas depending on budget, travel time, and how much pampering you actually want.
+
+---
+
+## What to look for
+
+Before booking, make sure you check:
+
+- Do meals come **fully board** (breakfast, lunch, dinner) or **all-inclusive**?
+- Are there **kids’ clubs/crèches**? What ages do they cater for? Are they supervised?
+- Is there **babysitting**, or even nanny services?
+- How many hours per day is childcare included, and is there an extra charge?
+- Is food kid-friendly or does the hotel offer children’s menus?
+- What additional amenities are family-friendly (baby gear, pool safety, indoor/outdoor play, etc.)?
+
+---
+
+## UK Options
+
+If you want to stay closer to home, there are many resorts and holiday parks that take care of pretty much everything. Here are some top picks:
+
+| Resort / Hotel | Childcare Provision | Meals / Cooking Covered | Highlights |
+|----------------|---------------------|-------------------------|-----------|
+| **Potters Resorts, Hopton-on-Sea (Norfolk)** | Activities & entertainment included; childcare part of the setup. | Full board + drinks included in price; “Everything’s included … no cooking …” ([pottersresorts.com](https://www.pottersresorts.com/hopton-on-sea/summer-breaks/?utm_source=openai)) | Relaxed seaside vibe; great for families wanting zero hassle. |
+| **Luxury Family Hotels (e.g. Woolley Grange, Four Seasons Hampshire, The Grove, Another Place)** | Kids’ clubs or creches; sometimes 2 hrs/night free childcare; sometimes more in peak school holiday times. ([littlebritsabroad.com](https://littlebritsabroad.com/2026/05/26/best-uk-family-hotels/?utm_source=openai)) | Onsite dining restaurants; meals included depending on rate; often children’s menus. | Stylish settings, premium service; good for parents who still want some luxury. |
+| **Parkdean Resorts** | Many parks offer family-friendly activities; childcare likely more limited (play-areas, supervised children’s programs etc.). ([parkdeanresorts.co.uk](https://www.parkdeanresorts.co.uk/en/faqs/booking/do-you-offer-all-inclusive-holidays/?utm_source=openai)) | Self-catering is standard, but new “all-inclusive” 4-night midweek breaks now offered in some parks. ([parkdeanresorts.co.uk](https://www.parkdeanresorts.co.uk/en/faqs/booking/do-you-offer-all-inclusive-holidays/?utm_source=openai)) | Best for a simpler, closer-to-home break; less luxury, more nature and ease. |
+| **All UK holiday villages / resort hotels** like Beaverbrook, Fowey Hall, Bedruthan, Gleneagles, etc. | Crèches and clubs start from very young ages (from babies in some), plus daily/group childcare; £-££ range. ([littlebritsabroad.com](https://littlebritsabroad.com/2026/05/26/best-uk-family-hotels/?utm_source=openai)) | Meals are generally included in the hotel stays, especially at full board or all-inclusive packages. | Plenty of things for kids to do plus moments of real rest for adults. |
+
+---
+
+## Overseas All-Inclusive Resorts
+
+If you’re OK with flying, there are luxury resorts abroad where meals, drinks, childcare, and entertainment are all baked in. Mostly geared toward higher-end holidays, but you get a lot of downtime. Examples include:
+
+- **TUI Blue for Families** – Resorts designed for families with kids’ clubs (split by age), baby clubs for under 3s, healthy dining, and entertainment. ([tui.co.uk](https://www.tui.co.uk/destinations/product/thomson-VIL?utm_source=openai))  
+- **Ikos Resorts** (Greece, Mallorca, etc.) – All-inclusive with crèches, kids’ clubs, teen clubs, really strong childcare offerings for babies up. ([justtumble.co.uk](https://www.justtumble.co.uk/overseas-holidays?type=all-inclusive&utm_source=openai))  
+- **Virgin Atlantic Holidays all-inclusive** – Offers family friendly stays with supervised clubs and childcare in selected resorts. ([virginatlantic.com](https://www.virginatlantic.com/holidays/holiday-types/all-inclusive-holidays?deploc=MAN&utm_source=openai))  
+
+These tend to offer everything — your meals, drinks, kids looked after almost all day, often even during dinnertime; leaving you free to relax.
+
+---
+
+## What You Probably Won’t Find Easily
+
+- Free full-day nanny service included in basic price (this is usually premium/extra).
+- Resorts that cover childcare *and* kitchen in private villa-style stays at low cost (tends to go up quickly).
+- Kids’ clubs for very young babies (under 6 months) are more rare and often have extra fees.
+
+---
+
+## Tips to Maximize Relaxation
+
+- Book in **school holiday in advance** — these fill first. If outside those times, often fewer people, more availability, sometimes lower rates.
+- Ask directly whether meals are all included and whether child meals are part of it.
+- Ask about **babysitting/nanny-services** available in-resort if you want evenings off too.
+- Check the childcare ratio and whether staff are certified (especially for under 3s).
+- If self-catering or fully inclusive aren’t an option, villas with chefs or private staff rental could work — though more costly.
+
+---
+
+If you tell me things like **how far you’re willing to travel**, **how many children and what ages**, **when you want to go**, and **your budget**, I can pull up some precise suggestions that fit exactly what you're looking for. Want me to do that for you?
