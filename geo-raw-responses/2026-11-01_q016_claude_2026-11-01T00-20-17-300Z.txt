@@ -1,0 +1,60 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://sheerluxe.com/culture/travel/holiday-villa-rentals","https://www.oliverstravels.com/","https://www.distillintelligence.com/competitors/the-thinking-traveller","https://www.yahoo.com/lifestyle/travel-leisure-readers-5-favorite-113000059.html","https://www.afar.com/magazine/how-to-rent-a-dream-villa-in-italy","https://www.sopranovillas.com/","https://en.wikipedia.org/wiki/Onefinestay"]
+
+--- RAW RESPONSE TEXT ---
+Here are some UK-friendly alternatives to The Thinking Traveller. The company is known for 
+curated, design-led villas across Sicily, Puglia, Tuscany, Corsica and the Greek islands, all exclusive to the brand
+. I've grouped the alternatives by what they do best.
+
+**Closest in style (curated, Mediterranean)**
+- **Oliver's Travels** offers 
+quirky, characterful homes, from medieval châteaux and treehouses to sleek beach villas and family farmhouses
+. Its site says 
+only the top 2% of the 100,000+ holiday homes its experts reviewed make it into the collection
+. It also says 
+Condé Nast Traveller readers have voted it one of the world's best villa rental companies ten years running
+.
+- **Wimco Villas, CV Villas, Scott Williams and Villatalk** are among 
+the competitors usually listed alongside it
+. Scott Williams is described as a 
+boutique agency specialising in Mediterranean luxury villas
+.
+
+**Italy specialists**
+- **Tuscany Now & More** has 
+a portfolio that has grown since 1990 to cover Tuscany, Umbria, Verona, Venice and Rome
+. Travel + Leisure readers rated it above The Thinking Traveller in their 2023 favourites list.
+- **Red Savannah** and **Italy Perfect** both 
+specialise in luxury Italian villa rentals
+. Italy Perfect villas 
+might come with a housekeeper, laundry service, grocery shopping or an on-site wine cellar
+.
+- **SopranoVillas** offers 
+fully-staffed villas in Italy
+. It's an Italy-only option.
+
+**Higher-end or more service-heavy**
+- **Le Collectionist** focuses on 
+ultra-luxe stays in glamorous destinations, from clifftop villas in Mykonos to historic Italian palazzos
+.
+- **Abercrombie & Kent Villas** is 
+a curated offering across Tuscany, Provence, the Balearics and more
+. It's a good fit if you want tailor-made touches or guided experiences.
+- **Onefinestay** is a hotel-style service with a concierge. 
+It came third in the Villa Rental category of Condé Nast Traveller's 2025 Readers' Choice Awards.
+
+
+**Things to consider**
+- The Thinking Traveller's strength is its 
+local manager who answers questions and organises excursions
+. Ask any alternative what on-the-ground support it provides.
+- Exclusive properties are a big part of the appeal. Oliver's Travels and others may list villas that are also on other platforms, so you can sometimes compare prices.
+- Some reviewers of The Thinking Traveller mention add-on extras that cost more than local rates. Ask for a clear breakdown of extras wherever you book.
+
+If you tell me where you want to go (Sicily, Puglia or Greece, for example), your group size and your rough budget, I can narrow this down.
