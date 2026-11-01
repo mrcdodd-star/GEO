@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://www.tuscanynowandmore.com/villa-collections/fully-staffed-villas-in-italy-list","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZMWNUVTRNelZvGAo","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVRsMk4zZzJhMmMYCg"]
+
+--- RAW RESPONSE TEXT ---
+Finding a fully staffed luxury villa in Italy with a private chef and daily housekeeping requires looking beyond standard booking platforms like Airbnb or Booking.com. While those platforms offer filters, high-end staffed properties are best secured through specialized luxury agencies or dedicated villa curators who handle the staff contracts directly.
+Step-by-Step Approach to Finding Your Villa
+
+If you'd like, let me know:
+
+I can give you more tailored recommendations on agencies or specific areas to look into.
