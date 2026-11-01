@@ -1,0 +1,60 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q022
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels vs The Thinking Traveller
+
+CITED URLS:
+["https://uk.trustpilot.com/review/thethinkingtraveller.com","https://the-thinking-traveller-uk.myprosandcons.com/","https://www.trustpilot.com/review/thethinkingtraveller.com?page=5","https://ca.trustpilot.com/review/thethinkingtraveller.com","https://www.feefo.com/en-GB/reviews/olivers-travels?displayFeedbackType=BOTH&timeFrame=YEAR","https://www.trustpilot.com/review/oliverstravels.com?page=4","https://ie.trustpilot.com/review/oliverstravels.com?page=6","https://britainreviews.co.uk/vacation/olivers-travels-reviews"]
+
+--- RAW RESPONSE TEXT ---
+Both are UK-based villa specialists, but they work differently. Which suits you depends on where you're going and how much hand-holding you want.
+
+## The Thinking Traveller
+- **Focus:** 
+It has offered access to villas in the heart of the Mediterranean since 2002.
+ The portfolio is smaller and more curated than Oliver's.
+- **Local support:** Reviewers often praise the on-the-ground house managers. 
+One said the local house managers were lovely and attentive, and that the website deserves five stars for ease of use.
+ 
+There's also a personal "Villa Matchmaker" service.
+
+- **Extras:** Guests mention it arranging chefs, wine, car hire and boat trips. 
+One summary says support centres on practical villa management rather than broad concierge services.
+
+- **Reviews:** 
+Trustpilot's summary of 160 reviews on one page says reviewers overwhelmingly had a great experience.
+ Complaints exist too. 
+One reviewer said coordination, accuracy and support fell short when plans went wrong.
+ 
+Another said extras were charged at close to double local rates.
+
+
+## Oliver's Travels
+- **Range:** It's broader, with villas across many European countries and further afield. This comes from my general knowledge, so check the site for the current destinations.
+- **Reviews:** The feedback is more mixed. Feefo shows 
+a 4.7/5 service rating.
+ Many guests say the villa matched the photos. 
+One said Oliver's had already done the hard work of searching, with better availability and pricing than a rival site.
+
+- **Main criticism:** Some reviewers say Oliver's acts as an introducer rather than the operator. 
+One Trustpilot reviewer said it takes your money and washes its hands of responsibility.
+ 
+Another said it only introduces you to the property owners, which removes its own responsibility.
+ 
+A third said they got no redress over a villa that didn't match its listing.
+
+- **Positive coverage:** 
+Rolling Stone's reviewer praised the vetted inventory, concierge service and on-site service.
+ That was one stay at a French château, so it's a single data point.
+
+## Quick take
+| | Thinking Traveller | Oliver's Travels |
+|---|---|---|
+| Best for | Mediterranean (Italy, Greece, Corsica) with a managed, personal feel | Wider choice of destinations, group sizes and budgets |
+| Service model | Local house managers and a dedicated contact | Mixed. Many happy guests, but some complaints about little help once you've booked |
+| Risk | Possibly pricier, with a narrower choice | Quality and accuracy vary more from villa to villa |
+
+If you're heading to Italy, Greece or Corsica and want a smooth, supported stay, the Thinking Traveller looks like the safer bet. If you want a destination it doesn't cover, or more choice on price and size, Oliver's can work well. Ask them what happens if something goes wrong on arrival, and check the cancellation terms.
+
+Where are you thinking of going, how many are you, and what's your rough budget? I can narrow it down from there. Also check that any booking carries ATOL or ABTA protection if flights are included, and look at the deposit and balance terms.
