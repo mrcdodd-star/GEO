@@ -1,0 +1,66 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: is it safer to book a villa through an agency or directly with the owner
+
+CITED URLS:
+["https://www.villaretreats.com/blog/avoid-villa-scams/","https://www.arag.co.uk/news-press/consumers/holiday-scams-what-uk-travellers-need-to-know-and-do/","https://www.mumsnet.com/talk/holidays/5335580-booking-directly-with-villa-owners-does-anyone-do-this-anymore","https://www.goodtogoinsurance.com/news-and-tips/travel-tips/holiday-booking-fraud-what-is-it-and-how-to-avoid-it","https://www.westyorkshire.police.uk/advice/online-crime-safety/online-fraud/online-fraud/villa-and-travel-fraud","https://www.debbiesvillas.co.uk/about-us/our-blog/2019/12/535/villa-scams-everything-you-need-to-know","https://www.schofields.ltd.uk/blog/416/how-to-check-for-bogus-holiday-rentals/","https://www.abta.com/tips-and-advice/planning-and-booking-a-holiday/how-avoid-travel-related-fraud"]
+
+--- RAW RESPONSE TEXT ---
+**Booking through an agency is generally safer, as long as the agency is properly protected.** Booking direct can work, but more of the risk falls on you.
+
+**Why an agency is usually safer**
+- A reputable agency is typically ABTA and/or ATOL protected. 
+Both offer protection if the company goes into administration or the holiday is mis-sold.
+
+- The type of protection matters. 
+ATOL covers package holidays that include flights. ABTA protection covers holidays that involve rail, cruise or self-drive.
+ A villa-only booking won't necessarily be covered by either.
+- If your booking is a package, 
+the Package Travel and Linked Travel Arrangements Regulations 2018 may apply. They give you the right to claim against the UK-based organiser.
+
+- An agency can also step in if something goes wrong. One forum user said they prefer agencies 
+because they can handle any problems.
+
+- Fraud risk is lower. One insurer's adviser said 
+most scams occur on sites where owners advertise their property directly.
+
+
+**The risks of booking direct**
+- A common scam is a fake or hijacked listing. 
+Fraudsters hack the accounts of well-known accommodation sites or spoof them with convincing imitations, luring holidaymakers into non-existent bookings.
+
+- Paying by bank transfer is the biggest red flag. 
+A direct bank transfer is like paying cash. The money can't be traced and isn't refundable.
+
+- Fraud is a real problem. 
+Over 5,000 people reported losing money to holiday and travel fraud in the UK in 2018, totalling more than £7 million.
+ That figure is old, and many victims don't report it.
+
+**If you book direct anyway**
+- **Pay by credit card.** 
+You may be protected under the Consumer Credit Act 1974 if you pay by credit card.
+ 
+Owners should be able to accept cards, as it's easy to set up.
+ If an owner insists on a bank transfer, treat that as a warning sign.
+- **Check the property exists.** 
+Look the house up on Google Maps and Street View.
+ Also search for the photos with a reverse image search.
+- **Phone the owner** rather than relying only on email.
+- **Check the website address carefully.** 
+Scammers alter domain names slightly, for example .co.uk to .org.
+
+- **Be wary of discounts for paying in full or by transfer.**
+
+**If you book through an agency**
+- Don't just trust a logo. 
+You can verify ABTA membership on ABTA's website, and check ATOL status on the CAA website.
+
+- Local management companies in the destination are often cheaper and more flexible. One user noted they 
+won't be ABTA bonded
+, so you're relying on card protection again.
+
+**Middle ground:** Platforms like Airbnb or Vrbo add some booking protection if you keep all payments and messages on the platform. Scammers often try to move you off-platform to pay by bank transfer, so don't go along with that.
+
+For a large or expensive booking, I'd use an ABTA/ATOL-protected UK agency. For a smaller, informal booking, a direct booking paid by credit card, with the checks above, is a reasonable risk. Travel insurance is also worth having either way.
