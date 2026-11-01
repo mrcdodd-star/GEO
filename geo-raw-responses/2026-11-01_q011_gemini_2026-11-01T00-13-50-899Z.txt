@@ -1,0 +1,75 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExcNMVLYX-trhLvaSCWf9F1Hts3_gJLYttKVsb1ip5ZiDdsaz-zop2iBh1QwK44T9o-f_PPIqxhoTPPJzUrByTzjJVE4VluBEK-w-COD7GZ4U4-bz3ueTI2KV2fA004QsISl11ai6TPm1WF-mWWSHsaq2Qn8qV","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr3eRoy7uHRuNCM1W4ejvStc-H6HKgPDh1Tc_8R45RgC2xXtXzDVIu29HkaEQXaGKVKsuEp12BOKuN0HvFhhQuPDWdYiDuvzkDquPNfFP92gPcvFLrdw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSq5nNWnJf3u6SuSz9HdRAM-JLlnhkMp78cP9wqpVbgCR8iiQKvhXwRYUzhCEZzCAd7Ib9FxyrIedkoiRxp7qjNbMhe3lUx740Dy3ee0z-fjTRu2FN0YwlRffbbY=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5RvIb_K6220O5GGlzI0BT463wdmzEpwMi5mwRzgk1bpLN2ROn-Ro0BfnyVyakbpp84ymfocHZvrNIZCV7WRBXidFx2euzKnG-sI_YOix1eTHbIPPk2ePx6hgT4zV7Lf0rHQjnNS34s6ysuPtlMIvSag==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoTRzcnVVRF-4oxgXImC-L7A7f4zG3hASWZSDllb0n315abAOTh81j7KN1ZBpgyndbVwQyutkRkIjAQnE02oPI2WWF-og70GCEt6RJHRd3qF87oeIh17TP2D5-z0T2vYIv7wSF-Gxt7cZ3lfM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhwekPmFFRWjvc8A5PvhEkRe7VBneqUKgVWl2rr8pvc5YPFxiQgHk3bD1Wv843XrSmZ89PC5eN2R7sIkJCx5nBXxut5nxQKUQfxOiEASR7QS0QEquzEgWvO621LizH","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdimcuf3xpcrTWKWlca_bt6GMcfVpJ9RafzyaC_bae8gnPADHXXMmf-FXvJ0MzM58MhKzqauf7MU9E-eDiiszQbFTZWuIUcVCvwiTatj2yrI0xvcWyPDRH_HjvVR2mWeQiWB8f5NgN0SxJtQD6Aw=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Kh8DH8HzVZqirSa6FvSu_icEU8diz_jARZyzZyLMu4B6u8MK9RuKSHLMOl0DzzNuSqgGMia9A3oGam-QGvQezoI_4r22aNC7GC1M5zPqk7Lu5X5Z4Ac0_JEen4w="]
+
+--- RAW RESPONSE TEXT ---
+For UK travellers looking for a luxury villa rental with high-end concierge services in the South of France, working with a reputable specialist is key. The right concierge service will handle everything from private jet/helicopter transfers and in-villa Michelin-trained chefs to securing sought-after beach club tables and yacht charters.
+
+Below are the top luxury villa rental agencies and region specialists catering to UK clients, along with what to expect and key destinations.
+
+---
+
+### Top Luxury Agencies & Specialists
+
+#### 1. **CV Villas** *(UK-Based)*
+* **Best for:** Seamless booking with UK customer service and financial protection (ABTA/ATOL).
+* **Concierge level:** Dedicated local representatives and their exclusive *Above* collection, which includes daily maid service, private chef availability, and bespoke itineraries.
+* **Key regions:** Côte d’Azur, Provence, St. Tropez.
+
+#### 2. **Oliver's Travels** *(UK-Based)*
+* **Best for:** Large groups, family reunions, and historic châteaux.
+* **Concierge level:** An in-house concierge team that organises pre-arrival fridge stocking, daily housekeeping, private chefs, local drivers, and tailored activities.
+* **Key regions:** Provence, Languedoc, Riviera.
+
+#### 3. **Le Collectionist** *(European Luxury Specialist)*
+* **Best for:** Ultra-luxury, architectural masterpieces, and five-star hotel-style service in a private home setting.
+* **Concierge level:** Assigns a dedicated 24/7 personal concierge for your stay. They handle everything from bespoke vineyard tours to private jet charters, daily house management, and child-minding.
+* **Key regions:** Saint-Tropez, Cannes, Cap Ferrat, Luberon.
+
+#### 4. **Only Provence** *(Provence Regional Specialist)*
+* **Best for:** Authentic Provencal luxury (châteaux, luxury bastides, lavender-estate farmhouses).
+* **Concierge level:** Deep local networks. They arrange in-villa wine tastings with local sommeliers, private chefs, helicopter tours, and priority reservations in historic villages.
+* **Key regions:** Alpilles, Luberon, Aix-en-Provence.
+
+#### 5. **Excellence Riviera** *(Côte d'Azur Specialist)*
+* **Best for:** High-energy Riviera glamour, superyacht pairings, and coastal estates.
+* **Concierge level:** 7-day-a-week dedicated concierge team. Specialist access to VIP tables at beach clubs (e.g., Club 55 on Pampelonne), supercar rentals, security personnel, and yacht bookings.
+* **Key regions:** Saint-Tropez, Ramatuelle, Cannes, Monaco.
+
+---
+
+### What a Dedicated Concierge Service Can Provide
+
+* **Arrival & Transit:** Direct airport transfers (Nice Côte d’Azur or Marseille), helicopter shuttles straight to your villa’s grounds, or luxury car deliveries.
+* **In-Villa Catering:** Daily breakfast preparation, full-time private chefs, or one-off fine dining events with wine pairings.
+* **Lifestyle & Leisure:** Reservations at exclusive beach clubs, private yacht days, wellness experts (massage therapists, personal trainers, yoga instructors) coming to the villa.
+* **Household Staff:** Housekeepers, villa managers, babysitters, and private security teams.
+
+---
+
+### Choosing the Right Destination
+
+| Region | Vibe & Highlights | Recommended Airport |
+| :--- | :--- | :--- |
+| **French Riviera (Côte d'Azur)** <br> *(Saint-Tropez, Cap Ferrat, Cannes)* | High-end glamour, sea views, beach clubs, nightlife, and yachting. | Nice Côte d'Azur (NCE) |
+| **Provence Countryside** <br> *(Luberon, Alpilles, Saint-Rémy)* | Vineyard views, historic bastides, lavender fields, Michelin dining, and local markets. | Marseille Provence (MRS) / Avignon TGV |
+| **Languedoc / Occitanie** | Restored châteaux, quiet coastal towns, olive groves, and a more relaxed luxury atmosphere. | Montpellier (MPL) / Béziers |
+
+---
+
+### UK Travel Tips
+* **Flight Connections:** Nice (NCE) and Marseille (MRS) have frequent daily direct flights from major UK hubs (Heathrow, Gatwick, London City, Stansted, Manchester, Edinburgh).
+* **Train Alternative:** The Eurostar via Paris/Lille to Avignon or Nice offers a seamless rail connection if you prefer not to fly.
+
+---
+
+### Suggested Next Steps
+To help narrow down the search:
+1. **Dates & Party Size:** Are you looking for a specific week (e.g., peak July/August vs. shoulder months like June/September)?
+2. **Vibe Preference:** Do you prefer coastal Riviera with beach clubs, or a secluded Provencal estate among vineyards?
+3. **Concierge Scope:** Do you need full-time daily staff (chef + daily housekeeping) or simply pre-arrival planning and on-call assistance?
