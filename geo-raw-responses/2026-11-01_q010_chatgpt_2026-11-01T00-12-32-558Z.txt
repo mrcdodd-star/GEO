@@ -1,0 +1,69 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece?utm_source=openai","https://mykonosgold.com/collections-villas/fully-staffed-villas-greece?utm_source=openai","https://premiervillas.net/greece?utm_source=openai","https://www.villanovo.com/villa-rentals/europe/greece/collection%3Afully-staffed-villas/?utm_source=openai","https://www.groupaccommodation.com/locations/greece?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you're looking to book a fully staffed villa holiday in Greece from the UK, there are several excellent specialist agencies and luxury villa collections that can make it happen. Below are some top suggestions, along with what to expect, tips for booking, and sample price ranges.
+
+---
+
+## 🌴 Top UK-Friendly Villa Specialists for Fully Staffed Villas
+
+These companies are well-known for organising luxury villa holidays where you can include services like private chefs, housekeeping, concierge, and more.
+
+| Agency / Collection | What They Offer | Typical Prices & Destinations |
+|---|---|---|
+| **Iconic Villas** | A curated selection of fully staffed villas featuring housekeeping, laundry services, concierge, and often a private chef. Many properties are in the Cyclades, the Peloponnese, Crete, etc. ([iconicvillas.com](https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece?utm_source=openai)) |
+| **Mykonos Gold** | Luxury villas on Mykonos and nearby islands, often staffed, with accommodation for large groups. Their villas are designed for high-end experiences. ([mykonosgold.com](https://mykonosgold.com/collections-villas/fully-staffed-villas-greece?utm_source=openai)) |
+| **Premier Villas** | Offers some villas with full staff included—for example, a villa in Corfu with a private chef and full housekeeping. ([premiervillas.net](https://premiervillas.net/greece?utm_source=openai)) |
+| **Villanovo** | Their “fully-staffed villa” collection in Greece gives access to top-tier amenities and deluxe service. Most villas include several staff and upscale touches. ([villanovo.com](https://www.villanovo.com/villa-rentals/europe/greece/collection%3Afully-staffed-villas/?utm_source=openai)) |
+| **GroupAccommodation.com** | Offers large villas with optional “fully staffed experience”—for instance, a villa in Mykonos with cook services for meals. ([groupaccommodation.com](https://www.groupaccommodation.com/locations/greece?utm_source=openai)) |
+
+---
+
+## 💡 What “Fully Staffed” Typically Includes
+
+- Private in-house **chef** (sometimes just for certain meals, sometimes full-board)  
+- Daily **housekeeping** and linen service  
+- **Laundry services**  
+- **Concierge** to help with bookings, transport, activities  
+- Possibly additional services like pool maintenance, drivers, or security depending on the villa and price point ([iconicvillas.com](https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece?utm_source=openai)).
+
+---
+
+## 📍 Where in Greece?
+
+These villas tend to be in the most sought-after regions:
+
+- **Mykonos** for glamour and nightlife  
+- **Santorini, Paros, Antiparos** for iconic Cycladic architecture and views  
+- **Corfu, Kefalonia, Ionian Islands** for lush, leafy scenery  
+- **Crete** for space, beaches, both luxury and rustic options ([mykonosgold.com](https://mykonosgold.com/collections-villas/fully-staffed-villas-greece?utm_source=openai)).
+
+---
+
+## 💷 Price Ranges
+
+Prices can vary hugely depending on size, luxury level, how many staff included, location, and season. Examples:
+
+- Weekly rates for fully staffed luxury villas in Greece in peak season usually start from **~€50,000+** (~£43,000+) for very large estates in top locations like Mykonos. ([iconicvillas.com](https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece?utm_source=openai))  
+- More mid-tier fully staffed villas (6–12 guests, high-end amenities) could run anywhere from **£10,000-30,000/week** depending on island and services. ([premiervillas.net](https://premiervillas.net/greece?utm_source=openai))
+
+---
+
+## ✅ Tips for Booking Smart
+
+1. **Clarify exactly what “staffed” means.** Is it a chef all meals? Just housekeeping? How many staff?  
+2. **Check what’s included vs extra fees.** Think food, transport, boat trips, beach clubs, alcohol.  
+3. **Fly-in options.** Some operators bundle flights from the UK; others expect you to book separately.  
+4. **Travel protection.** Make sure the agency is ATOL and/or ABTA protected—important for peace of mind.  
+5. **Book early** for top villas, especially for seasonal spots like Santorini or Mykonos.  
+
+---
+
+If you’d like, I can pull together currently available fully staffed villas in Greece for your party size, travel dates, and budget to compare a few options. Do you have a number of guests, preferred islands, or weeks in mind?
