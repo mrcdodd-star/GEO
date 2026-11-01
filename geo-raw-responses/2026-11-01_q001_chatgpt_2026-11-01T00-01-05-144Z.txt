@@ -1,0 +1,71 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai","https://etias.co.uk/travelling-to-europe-with-children/?utm_source=openai","https://www.toddlervacay.com/destinations?region=europe&utm_source=openai","https://www.famileetravel.com/europe-with-toddlers/?utm_source=openai","https://www.tuigroup.com/en/newsroom/news/tuis-2026-ultimate-child-friendly-holiday-guide-europes-top-kid-approved-destinations-for-the-whole-family-to-enjoy-this-summer?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Sounds like a wonderful group — with grandparents and toddlers in tow, you'll want a destination that balances relaxation, accessibility, and fun for everyone. Here are some great options in Europe for next summer along with what makes them good fits, and things to consider so the trip works well for all ages.
+
+---
+
+### 🗺️ What to Prioritize for a Group Trip with Toddlers & Grandparents
+
+| Feature | Why It Matters |
+|---|---|
+| **Gentle travel time / short transfers** | Toddlers and older folks get tired more easily. Direct flights or minimal car transfers help. |
+| **Accommodation layout & flexibility** | Spacious places with separate bedrooms or adjoining rooms so grandparents have their own space. Self-catered villas or large suites work well. |
+| **Kid-friendly amenities** | Toddler pools, shallow beaches, kids’ clubs, safe play areas. Also, flexible dining and familiar food options. |
+| **Ease of walking** | Flat terrain, pushchair-friendly paths, fewer cobbles and stairs. |
+| **Variety** | Some days relaxing by the beach, others exploring local culture or nature — so no one gets bored or over-exhausted. |
+
+---
+
+### ✨ Top Destinations to Consider
+
+Here are several places in Europe that tend to score well for groups with toddlers and older generations:
+
+| Destination | What’s Great | Considerations |
+|---|---|---|
+| **Algarve, Portugal (e.g. Martinhal Sagres, Pine Cliffs)** | Excellent family resorts built with generations in mind — villas or suites, easy beach access, kids’ pools, baby / toddler clubs. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai)) |
+| **Crete, Greece (Hersonissos & surroundings)** | Big resorts, child-friendly clubs, waterparks; also cultural spots and easy scenery. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai)) |
+| **Costa Brava, Spain** | Short flights, calm beaches, walkable towns, plenty of relaxed base options with good food. ([etias.co.uk](https://etias.co.uk/travelling-to-europe-with-children/?utm_source=openai)) |
+| **Mallorca, Spain (Playa de Muro, Port d’Alcúdia)** | Excellent for toddlers — shallow beaches, good infrastructure, lots of family resort options. ([toddlervacay.com](https://www.toddlervacay.com/destinations?region=europe&utm_source=openai)) |
+| **Northern Italy / Lake Garda** | A mix of lakeside relaxation, nature walks, charming towns. Less beachy, but beautiful scenery and calm. ([famileetravel.com](https://www.famileetravel.com/europe-with-toddlers/?utm_source=openai)) |
+| **France – Brittany or coastal villages** | Very doable with toddlers: shorter travel from UK, gorgeous coast, good food, slower pace. ([etias.co.uk](https://etias.co.uk/travelling-to-europe-with-children/?utm_source=openai)) |
+| **Lisbon or Porto, Portugal** | Strong on culture + green spaces, lots of family-friendly hotels & activities, and Lisbon is top-ranked for child friendliness among coastal cities. ([tuigroup.com](https://www.tuigroup.com/en/newsroom/news/tuis-2026-ultimate-child-friendly-holiday-guide-europes-top-kid-approved-destinations-for-the-whole-family-to-enjoy-this-summer?utm_source=openai)) |
+
+---
+
+### 🌍 Great Resort Picks for Larger & Multi-Generational Groups
+
+These resorts or hotel complexes are designed to cater to families big & small and can give you space, variety, and comfort:
+
+- **Martinhal Sagres Beach Family Resort (Algarve)** — villas, private beach, clubs for ages 0–17. Great for openness and generational comfort. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai))  
+- **Pine Cliffs Resort, Albufeira (Algarve)** — clifftop views, private beach, various accommodation types, lots of family amenities. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai))  
+- **Creta Maris Beach Resort (Crete)** — large resort complex, multiple pools, waterparks, wide dining options. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai))  
+- **Borgo Egnazia (Puglia, Italy)** — beautiful setting, spa for grandparents, plenty to do and explore. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai))  
+- **Schloss Elmau (Bavaria, Germany)** — a mountain retreat with family and adult-only spa wings; peaceful, scenic, less beach but excellent if you love nature & calm. ([whichfamilyvacation.com](https://whichfamilyvacation.com/answers/best-family-resorts-in/europe/for/multi-gen?utm_source=openai))  
+
+---
+
+### ✅ Tips to Help You Choose & Plan
+
+Here are some finer points to help decide and make the booking go well:
+
+1. **Pick the travel time carefully:** For 16 people, early booking saves cost and ensures better room selection. Fly early morning if possible so toddlers nap on the plane.
+
+2. **Accommodation layout:** Villas or multi-room family suites are more restful. Ensure grandparents have accessible rooms. If staying in a resort, find one with elevators, ground-floor rooms, etc.
+
+3. **Meals:** All-inclusive or partially so? Often easier when groups have toddlers—buffets or resorts with flexible dining is helpful. If self-catering, getting groceries locally should be accessible.
+
+4. **Backup plans for bad weather:** Museums, indoor play areas, shorter drives. Destinations like northern Italy or Portugal generally give better options for mixed weather days.
+
+5. **Pace yourselves:** Even just having a “rest day” mid-trip, especially with toddlers who often need downtime.
+
+---
+
+If you like, I can pull together a few detailed itineraries with quotes for your group (locations + flights/hotels), including a mix of resort vs self-catered, to help you see what appeals most. Want me to do that?
