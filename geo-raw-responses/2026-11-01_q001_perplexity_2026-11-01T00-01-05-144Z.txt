@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://www.responsiblevacation.com/vacations/family-vacations-in-europe","https://www.solmarvillas.com/inspiration/family-travel/best-holiday-destinations-with-toddlers","https://www.kayak.co.uk/news/best-family-holidays-europe/","https://www.hoteles.com/go/europe/best-family-summer-getaways-europe","https://www.britishairways.com/content/es/us/holidays/holiday-types/family-holidays/europe-with-kids","https://www.jetpacglobal.com/blog/best-holiday-destinations-for-uk-travellers/","https://www.easyjet.com/en/holidays/family-holidays/toddler-friendly-holidays","https://www.responsibletravel.com/holidays/family-holidays-in-europe/travel-guide"]
+
+--- RAW RESPONSE TEXT ---
+For a group of 16 across three generations, **Menorca** would be my first pick for next summer: it’s known for family-friendly beaches and a quieter feel than some other Balearic islands, while its coves and coastal villages give older relatives plenty to enjoy too.[5]
+
+The key is to make the **accommodation** work for the group: look for a single large villa or adjoining apartments with a shaded pool, air-conditioning, a cot/high chair, and a supermarket or town nearby. For toddlers, keep transfers short and choose a beach with easy access; self-catering makes naps and flexible mealtimes simpler.[6][9]
+
+Other good fits:
+- **Algarve, Portugal** — strong choice for sandy beaches and family facilities, with UK flights around two and a half hours.[4][9]
+- **Lake Garda, Italy** — a lake-and-mountains alternative with family attractions, including Gardaland’s Peppa Pig area.[7]
+- **Brittany or Normandy, France** — worth considering if you’d rather drive and take the ferry than fly.[6]
+
+For 16 people, start searching early for a place that can actually accommodate everyone comfortably; if you share your budget, preferred travel month and whether you want beach, villa or resort, I can narrow it down.
