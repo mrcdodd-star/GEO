@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://kateandtoms.com/party-houses/large/","https://www.independentcottages.co.uk/holiday-ideas/big-houses-for-large-groups/","https://kateandtoms.com/party-houses/","https://excellenceluxuryvillas.com/rentals/devon/rent-medlar-house-united-kingdom/","https://bighouseexperience.com/large-cottages-to-rent","https://kateandtoms.com/house-type/large-holiday-homes/","https://www.oliverstravels.com/villa-holidays/large-houses-to-rent/","https://bighouseexperience.com/large-houses-to-rent"]
+
+--- RAW RESPONSE TEXT ---
+For **20+ guests**, you’ll find the widest selection through specialist large-house agencies. Since you’re UK-based, **Oliver’s Travels** looks like the strongest starting point for Europe-wide options: its collection includes French châteaux, Italian villas, Spanish beach houses and Portuguese estates, as well as UK properties.[7]
+
+A few places to browse:
+
+- **Oliver’s Travels** — Europe-wide selection; ask about exclusive use, bedroom layout and concierge options such as private chefs.[7]
+- **Kate & Tom’s** — hand-picked large houses, with some listed for groups of 20–40+; its results are mainly UK properties.[1][6]
+- **Big House Experience** — large group properties, including examples sleeping 20–48; the listings shown are UK-based.[5][8]
+
+Before booking, check the **maximum overnight capacity** (not just event capacity), whether the whole property is exclusive-use, bedroom and bathroom numbers, and any event/noise rules. Dates and location will narrow the options considerably.
