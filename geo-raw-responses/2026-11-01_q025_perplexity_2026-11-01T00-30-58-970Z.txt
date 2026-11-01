@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q025
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: perplexity
+QUERY TEXT: renting a villa in Europe for a large family - which companies are best?
+
+CITED URLS:
+["https://www.cntraveller.com/article/best-villa-rental-companies-2026","https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026","https://hauteretreats.com/luxury-villa-rentals/europe/","https://www.revfine.com/best-luxury-villa-rental-companies-in-europe/","https://www.thethinkingtraveller.com/","https://independenttravelcats.com/best-vacation-rental-websites/","https://www.reidsguides.com/t_h/t_h_villas.html","https://www.dreamexoticrentals.com/properties/Europe/"]
+
+--- RAW RESPONSE TEXT ---
+For a large family booking from the U.S., **Oliver’s Travels** is a strong all-around place to start: it specializes in distinctive European homes—including villas, châteaux and country estates—and is recommended for larger European groups.[1][6] For a more hands-on, luxury experience, compare **The Thinking Traveller** and **Le Collectionist**; both ranked highly in recent villa-company reviews.[1][2]
+
+- **Oliver’s Travels** — Best first stop for characterful European properties and large-group options; check the bedroom count and occupancy for each home.[6]
+- **The Thinking Traveller** — Strong pick for a curated Mediterranean villa; it ranked first in the 2026 *Condé Nast Traveller* reader awards.[1]
+- **Le Collectionist** — Luxury option with a broad portfolio and local destination teams; it ranked highly in a 2026 company comparison.[2]
+- **Simpson Travel or CV Villas** — Worth comparing for professionally supported European villa stays; both scored near the top in recent rankings.[1][2]
+- **Vrbo** — Useful for comparing a wider range of whole-home rentals and prices, especially if you’re flexible on service level.[6]
+
+Before paying, confirm the **total cost** (including cleaning, taxes, heating and any security deposit), cancellation and payment terms, who handles problems locally, and whether the property’s sleeping arrangements suit your group. Compare a few providers for the same dates and area, since the best choice depends heavily on destination, budget and desired service level.
