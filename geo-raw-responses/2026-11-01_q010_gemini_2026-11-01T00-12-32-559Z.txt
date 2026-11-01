@@ -1,0 +1,68 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENa_m3miA-v3_cYdee-AhsNKYk7ZSUi111wAJtvI7DYi3vzfR8UgYpGtcjZAYcsk_BcV_ASA7hLJIV9L5G2Mvgj565TA9GLsxtm7i5xQYJx_qIK9JluDbroOk4FVc_rvKFeEJF9QPOjVjZ6SDseG4tOGmN5mCqjA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQLCSozoXCxv52gpgBIuxmW-0c21Z9ATOiVpgYECnnwvh287vc2UOUrCpNWP9lN3FWBkhL3tKY-yhJB06WKMML1S2hhSfYZTEz-Vh19Xy-DitrxEOtt60yfFBzY7bB5ZcDhc6w4p9Sdv6r7ph2EPmFtqKHZXF1VNsFjYws5PIAYnGR4qxtIuG8kJO5ODWOg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPlSrDuiLMtn3LLD3vPOVwtKQqsoDOuz2ev6QG8CxyPl2lAxgl5czRQYcudVoFGek1mshvd0gPqEawC8V2Gb3fxZd21CLQkJjKCpJ9puKqdzUrwfTy1175AZNSO1O3V5XxK1-2NUJ3yuzeVjVmIvUJYeCOrO17o5Gsn063","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHewmb1Z-VCR-8FQpsKOIQPpdIxK-ZAAmKxo6CuHIfMMFxPFesJ8Say-7nwTKT6AqPXiwMANQbfMo3daXInglylC_6aLi3CYdWOjuHD88wn8IiDTAy_N0ZpJf7XA5dU6tvH9T39TVhMMsoWtmF2yVJeuSAE63Zp37upTVG1xVqcVwG8IpnRTE50ZYhEwWTyT4bMUXkcGw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdDTKwR_Og4JMBHygLl6UXzxCLrevlPyEHBm8m37U_8ZFrVZHuTDawyzjBQ2V_xPWyd3HjgwfzfXEb4T9W4uFPCdQQE7QT8IPnzEcVi4VwbjgMqH2sXABRFJ8uivRa18QwgOBiwTqoHAg1NiYmUxSSOv-H","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDP8M9As3oMnl6H7Y538pkpioZR2JEUeTToGfUDkVPB0TC8k-V1oOvHtgKiqFfFj1b62bUpLv-RyDuEDvU5ACvk-Q1P4iuTk1L5XHX2m-DGuctyYf2upyK-pB4m_f67tXyEwhBjGbanXajMeR7sDmC88CRbjxHr5VnAa35_3wiekpNZV0o1rokyMty1U2rraSUSKZO34ePo9Ie-rPa5gKn7JM9OQM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrnyU88AuGsyDt4tbREL4GY_v7gN7u1H2s658Tnb-AaBcwHs6w5j80n6Q1zcOhjVauL39gcZwWyRu9b_RxUHJv2_5HmncXrIP9BYz7d0Svls0D3kEfOd4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1ovOK4uWjHLAe8c5gy1wg0Ih2wl9EfrQtoBJtd6pNO7_EYhuG6XYDJv6X-c43HHFCfNQh5OJOFA48EFxTd2vr8GvVwr-9UGlmU3F3r-DYbBUgIhhW"]
+
+--- RAW RESPONSE TEXT ---
+Booking a fully staffed villa holiday in Greece from the UK offers the ultimate luxury experience—combining total privacy with the high-touch service of a five-star hotel. 
+
+---
+
+### What to Expect from a "Fully Staffed" Villa
+Depending on your package, a fully staffed villa typically includes:
+* **Private Chef / Cook:** Daily breakfast, lunch, and dinner tailored to your group’s preferences and dietary requirements.
+* **Housekeeping & Butler/Host:** Daily room cleaning, turndown service, laundry, and table service during meals.
+* **Villa Manager / Concierge:** On-site host to handle restaurant reservations, boat charters, day trips, and logistical requests.
+* **Private Driver / Airport Transfers:** On-demand transportation or dedicated chauffeur options.
+
+---
+
+### Best UK Tour Operators & Specialists for Fully Staffed Villas
+
+1. **CV Villas**
+   * **Best For:** Classic luxury and financial peace of mind.
+   * **Overview:** Offers an exclusive *ABOVE* collection featuring high-end properties across Corfu, Lefkada, Paxos, and Crete. Many include a private cook/chef and daily housekeeping as standard or add-on packages. ATOL-protected flight packages available.
+
+2. **The Thinking Traveller**
+   * **Best For:** Tailored service and architectural design.
+   * **Overview:** Award-winning specialist offering "Serviced Villas" across the Ionian Islands, Cyclades, and Peloponnese. Their properties come with dedicated house staff, local hosts, and optional in-villa private chefs.
+
+3. **Scott Dunn**
+   * **Best For:** Seamless bespoke travel and multi-generational families.
+   * **Overview:** Highly regarded luxury tour operator that designs bespoke villa itineraries. They provide private chefs, dedicated hosts, and custom children's activities.
+
+4. **The Luxury Travel Book**
+   * **Best For:** Large groups, milestone celebrations, and ultra-high-end estates.
+   * **Overview:** Features handpicked estates in Mykonos, Paros, Corfu, and Porto Heli with complete staffing teams (chef, butler, maid, driver).
+
+5. **Pretty Greek Villas**
+   * **Best For:** Niche Greek island expertise and traditional charm.
+   * **Overview:** UK-based boutique agency specializing exclusively in Greece, offering fully serviced properties on lesser-known islands (e.g., Hydra, Spetses) as well as main hubs.
+
+6. **Oliver’s Travels (The Luxe Collection)**
+   * **Best For:** Contemporary beachfront showpieces and party estates.
+   * **Overview:** Offers fully catered and staffed villas in Mykonos, Santorini, and Crete, backed by a dedicated concierge team.
+
+---
+
+### Premier Destinations in Greece for Staffed Villas
+
+* **Corfu & Paxos (Ionian Islands):** Known for sprawling green estates, Venetian architecture, and calm bays. Excellent for multi-generational families looking for relaxed luxury with dedicated cooks.
+* **Porto Heli & The Argolida (Peloponnese):** Often referred to as the "Hamptons of Greece." Features massive seafront mansions with private docks, full staff, and easy access to Spetses and Hydra.
+* **Mykonos & Paros (Cyclades):** High-end, architectural whitewashed villas with private infinity pools, butler service, and private chefs. Perfect for group celebrations.
+* **Elounda & Chania (Crete):** Great balance of culture, dramatic sea views, and grand estates with dedicated service teams.
+
+---
+
+### Tips for UK Travelers
+
+1. **Financial Protection (ATOL & ABTA):** If you are booking your flights and villa together through a UK operator (like CV Villas or Scott Dunn), ensure the holiday is ATOL-protected. If booking accommodation-only, ensure the company uses bonded client accounts.
+2. **Food & Drink Budgeting:** Private chef services typically cover the chef's fee, but food and drink (groceries) are charged at cost on top, usually settled at the end of your stay or via an advance provisioning allowance (APA).
+3. **Flight Connections from the UK:**
+   * Direct flights from London (LHR, LGW, STN) and major regional airports (MAN, EDI, BHX) run frequently from late April through October to Corfu, Crete, Mykonos, Santorini, Kalamata, and Rhodes.
+   * For smaller islands like Paxos, Hydra, or Spetses, your operator will coordinate boat or helicopter transfers from main hubs.
+4. **When to Book:** Fully staffed properties for July and August often sell out **6 to 12 months in advance**. If you have fixed dates or require a large property, early booking is strongly advised.
