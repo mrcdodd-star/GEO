@@ -1,0 +1,17 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkck1ITnFabWQ0GAo","https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3WTJnMGVUa3gYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhJelluQjRkbWQ0GAo","https://www.oetkerhotels.com/fr/hotels/hotel-du-cap-eden-roc/villas/","https://sjvillas.co.uk/collections/oetker-collection/","https://www.firefly-collection.com/luxury-villa-holidays/all-luxury-villas/"]
+
+--- RAW RESPONSE TEXT ---
+Le marché de la location de villas de luxe en Europe propose des services ultra-personnalisés, allant de la conciergerie haut de gamme au personnel de maison dédié (chef privé, majordome).
+Voici une sélection des agences et plateformes les plus réputées en Europe, reconnues pour l'exclusivité de leurs portefeuilles et la qualité de leurs services :
+1. Les Acteurs Majeurs et Hautement Personnalisés
+
+2. Le Luxe Ultra-exclusif et les Palaces
+
+Si vous avez déjà une destination précise en tête (comme les Baléares, la Côte d'Azur, la Toscane ou les Cyclades) ou un type d'événement (vacances en famille, mariage, séminaire), je peux vous orienter vers l'agence la plus spécialisée pour ce secteur.
