@@ -1,0 +1,61 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.101holidays.co.uk/50th-birthday-holiday-ideas/may/","https://www.trustedvillas.co.uk/blog/best-season-to-book-luxury-villa-year-round-guide","https://www.groupaccommodation.com/blog/guest-resources/6-awesome-family-holiday-destinations-milestone-birthday","https://www.101holidays.co.uk/50th-birthday-holiday-ideas/","https://www.elitehavens.com/magazine/7-reasons-you-should-book-a-villa-for-your-next-birthday-celebration/page/29/","https://www.theluxurytravelagency.com/50th-birthday-luxury-destinations/","https://www.thegoodwebguide.co.uk/article/travel/50th-birthday-holiday-ideas/20069"]
+
+--- RAW RESPONSE TEXT ---
+For 20 people, I'd book one big villa or a small boutique hotel rather than separate rooms. Here are some options for a UK group.
+
+## Best all-rounders (short flights, big villas)
+- **Mallorca or Catalonia, Spain.** 
+Mallorca and the Catalan coast are among one travel writer's first choices for a villa holiday.
+ Mallorca has lots of estates that sleep 16–20+. Flights are short and frequent from most UK airports.
+- **Tuscany, Italy.** This is good for a food-and-wine celebration. 
+One example is a private chef cooking a long Friday dinner, a wine tasting on Saturday, and a pool day before you leave.
+ Large farmhouses with several wings are common.
+- **Andalucía, Spain.** 
+It offers year-round sun, good food and beautiful landscapes, and it's popular for 50th gatherings.
+ It works well if you're going outside summer.
+- **Corfu or Paxos, Greece.** 
+There are some gorgeous villas in the quiet north-east of Corfu.
+ It suits a more relaxed, scenic trip.
+- **Provence, the Côte d'Azur or the Dordogne, France.** 
+Rented villas with private pools are a popular choice for friends and family.
+
+
+## If you want something more special
+- **Bali, Phuket or Koh Samui.** 
+Villas there can host a group in one place, with private chefs, pool parties and concierge-arranged experiences.
+ The flights are long and expensive, so this suits a group with more time and budget.
+- **Caribbean.** 
+A fully staffed luxury villa with a private pool is a good way to host your own 50th party.
+
+- **Yacht charter in Greece or Croatia.** 
+Chartering a yacht is a great way to celebrate a milestone birthday.
+ Most boats only sleep 8–12, so for 20 you'd probably need a small flotilla.
+- **Ski chalet.** If the birthday falls in winter, 
+a chalet gives you the benefits of a holiday cottage, plus snow, log fires and staff to cook and bring the bubbles.
+
+
+## Practical tips for 20 people
+- **Check the sleeping capacity.** Few villas sleep 20 comfortably. Two or three villas on the same estate or street can work better, or a villa plus a nearby hotel.
+- **Pick the season to suit the group.** May, June and September are cooler and cheaper than July and August. 
+The Mediterranean in May has long sunny days, low prices and uncrowded resorts.
+
+- **Look at the full cost.** 
+That means the villa price, flights, transfers, catering and any extra services.
+ Splitting the cost evenly and agreeing a budget early avoids awkwardness.
+- **Consider a specialist agent.** For big groups, the saved time and stress is often worth it. Companies like Tuscany Now & More (Italy) and Trusted Villas are options.
+- **Use a shared way of paying.** Use a group chat and a shared payment pot, and agree a cancellation policy at the start.
+
+To narrow this down, I'd need to know:
+1. When is the birthday, and how flexible are the dates?
+2. What's the budget per person, including flights?
+3. Do you want lively (beach clubs, nightlife), relaxed (pool, food, wine) or active (hiking, sailing)?
+4. How long can people travel for? A long weekend points to Europe, and a week or more opens up long-haul.
+
+With those answers I can give you a shortlist and some specific villa areas.
