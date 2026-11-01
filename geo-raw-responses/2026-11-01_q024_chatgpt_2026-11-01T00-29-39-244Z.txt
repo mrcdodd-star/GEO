@@ -1,0 +1,54 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://booking.oliverstravels.com/api/v2/pdf/brochure/4987?unbranded=1&utm_source=openai","https://booking.oliverstravels.com/api/v2/pdf/brochure//france/languedoc/chateau-de-lange?unbranded=1&utm_source=openai","https://drifttravel.com/stunning-castles-and-chateaux-for-a-once-in-a-lifetime-wedding/?utm_source=openai","https://www.oliverstravels.com/otsitemap/?utm_source=openai","https://www.oliverstravels.com/faq/?utm_source=openai","https://booking.oliverstravels.com/api/v2/pdf/brochure/482?unbranded=1&utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver’s Travels *does* offer chateau wedding options, both in the UK & abroad — though with some conditions and on a case-by-case basis. Here’s a breakdown to help you decide if it’s a good fit for your big day:
+
+---
+
+## 🏰 What they offer
+
+1. **Properties where weddings are allowed**  
+   Some of their chateau (or château/castle/villa) properties are explicitly listed as being suitable for weddings, special events, hen/stag dos, etc. For example:  
+   - *Chateau Belle Vie* mentions weddings and special events are permitted **on request only** and subject to prior arrangement with the owner and added fees. ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure/4987?unbranded=1&utm_source=openai))  
+   - *Chateau De L’Ange* includes "Weddings" in its features, indicating its suitability for hosting such events. ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure//france/languedoc/chateau-de-lange?unbranded=1&utm_source=openai))  
+
+2. **Dedicated wedding consultancy service**  
+   Oliver’s Travels has a team to assist with wedding planning abroad. This includes helping select the right venue, coordinating with property owners, arranging extras like catering or marquees, etc. ([drifttravel.com](https://drifttravel.com/stunning-castles-and-chateaux-for-a-once-in-a-lifetime-wedding/?utm_source=openai))
+
+3. **UK & Ireland venues listed**  
+   There is a section on their site specifically for “Wedding Venues in the UK & Ireland,” which implies they have chateau- or castle-style properties suitable for weddings in the UK. ([oliverstravels.com](https://www.oliverstravels.com/otsitemap/?utm_source=openai))
+
+---
+
+## ⚠️ Points to note / limitations
+
+- **“On request only”**  
+  Weddings, parties, and events at many properties are *not* automatically allowed. You’ll need to ask ahead, get approval from the property owner, and usually agree to extra fees, security deposits, or other special conditions. ([oliverstravels.com](https://www.oliverstravels.com/faq/?utm_source=openai))
+
+- **Not all properties are suitable**  
+  Whether a chateau can host a wedding depends on its amenities (e.g. space for ceremonies & receptions, indoor/outdoor event space, legal permissions for events, accommodation for guests, etc.). Features like “marquee hire permitted” or “outdoor ceremony space” are relevant markers. ([booking.oliverstravels.com](https://booking.oliverstravels.com/api/v2/pdf/brochure/482?unbranded=1&utm_source=openai))
+
+- **Weather / logistics for UK**  
+  If you’re in the UK, consider extra planning for things like unpredictable weather, heating, indoor vs. outdoor event space. If your chateau option is abroad, there are costs & logistics dealing with travel, lodging for guests, etc.
+
+---
+
+## ✔️ What to do if you want to explore this
+
+If you like the idea, here’s how to move forward:
+
+- Use the *Wedding Venues in the UK & Ireland* filter on Oliver’s Travels to see what’s available locally.  
+- For any chateau you’re interested in, check the “Features” or “Events / Weddings” section for specifics like whether ceremonies are allowed, marquee usage, outdoor space, etc.  
+- Contact their wedding consultant or concierge team (they have one specifically for weddings). Be ready to discuss guest numbers, dates, style (indoor/outdoor), extra services (catering, decoration, etc.), and budget.  
+- Ask about all costs: venue hire, security deposit, extra staff, whether there are restrictions (noise, hours, etc.).  
+
+---
+
+If you want, I can pull up a curated list of chateau wedding venues *in the UK* that Oliver’s Travels currently offers, along with pricing and availability. Would you prefer that?
