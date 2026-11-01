@@ -1,0 +1,72 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://find-and-update.company-information.service.gov.uk/company/06631130?utm_source=openai","https://www.companiesintheuk.co.uk/ltd/olivers-travels?utm_source=openai","https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai","https://www.feefo.com/en-US/reviews/olivers-travels?utm_source=openai","https://uk.collected.reviews/vacation/olivers-travels-reviews?utm_source=openai","https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai","https://tratratravel.co.uk/en-gb/i/66713-olivers-travels/?utm_source=openai","https://www.oliverstravels.com/security-incident/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a detailed look at whether Oliver’s Travels appears reliable—especially from a UK standpoint. I’ve assessed what I found based on official records, user reviews, recent issues, and how it operates. Ultimately, yes, it seems generally reliable—but with caveats. Here’s what to watch out for and how to protect yourself.
+
+---
+
+## ✅ What looks good
+
+### Legal & Business Status  
+- Oliver’s Travels Ltd is a **registered UK company** (Ltd) incorporated on 26 June 2008. ([find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/company/06631130?utm_source=openai))  
+- It is listed as *active* at Companies House. ([find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/company/06631130?utm_source=openai))  
+- According to its latest financials (as of 30 Sept 2024/2025), it has shareholders’ funds of ~£2.67 million and ~89 employees. ([companiesintheuk.co.uk](https://www.companiesintheuk.co.uk/ltd/olivers-travels?utm_source=openai))  
+
+### Customer Reviews & Reputation  
+- On **Trustpilot**, Oliver’s Travels has ~3,600 reviews, with a rating around **4.7/5**. 78% are 5-star, with smaller percentages for lower ratings. ([uk.trustpilot.com](https://uk.trustpilot.com/review/oliverstravels.com?utm_source=openai))  
+- On **Feefo** (where only verified purchasers can leave reviews), service and product are rated ~4.7/5. Costs and property quality get mostly positive feedback. ([feefo.com](https://www.feefo.com/en-US/reviews/olivers-travels?utm_source=openai))  
+- Independent review sites like Collected.Reviews confirm the positives: user-friendly site, helpful staff, smooth booking, especially for group/villa holidays. ([uk.collected.reviews](https://uk.collected.reviews/vacation/olivers-travels-reviews?utm_source=openai))  
+
+---
+
+## ⚠ What to be cautious about
+
+### Scope of Responsibility  
+- Oliver’s Travels generally acts as an **agent** for holiday properties. The contract for “accommodation only” bookings is between the customer and the **property owner/supplier**. Oliver’s Travels facilitates the booking. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- In their Terms & Conditions they say they do *not endorse or recommend* properties and cannot be held liable for all issues with the property itself—cleanliness, amenities, etc., especially since owners supply those. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+
+### Reported Issues  
+- Some reviewers have flagged misleading listings (photos vs reality), villas below the standards expected (beds, furniture, amenities), cleaning lapses, and unhelpful resolution when issues arise. ([tratratravel.co.uk](https://tratratravel.co.uk/en-gb/i/66713-olivers-travels/?utm_source=openai))  
+- A recent serious concern: on **20 October 2026**, Oliver’s Travels disclosed a security breach affecting their systems, including booking details and customer contact info. They say payment/card details weren’t compromised, but data like names, phone numbers, addresses, holiday dates, amounts paid/outstanding were accessed. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+
+---
+
+## 🔍 Key takeaways
+
+- Yes, Oliver’s Travels is **legit**, registered in the UK, and with a solid base of generally satisfied customers. Their financials seem okay, and the general feedback is favorable.  
+- But: as with any travel or property booking service, some risk is involved. The agent model means much responsibility depends on individual property owners. Problems with property conditions, misleading listing details, or delayed communication aren’t unheard of.
+
+---
+
+## 💡 How to protect yourself when booking
+
+To help ensure a smooth experience, here are suggestions:
+
+1. **Read recent reviews of the specific property** (not just the company). Where people mention the same villa/château, you’ll see patterns—for good or bad.
+
+2. **Check what the photos show vs what guests mention**. Look for comments about cleanliness, maintenance issues, matching descriptions.
+
+3. **Ask detailed questions before booking**—pool state, Wi-Fi reliability, anything non-standard. Make sure you get answers in writing.
+
+4. **Confirm who is responsible for what**—if there’s damage, who handles it; if something isn’t as shown, how to escalate.
+
+5. **Check the cancellation and booking policies** carefully. Sometimes things are non-refundable, or cancellation by the owner is possible.
+
+6. **Use a payment method with fraud protection** (credit card if possible).
+
+7. **Watch out for impersonation or phishing**, especially in light of the security incident in Oct 2026. Only trust official emails/calls, and be wary of requests to change payment details. ([oliverstravels.com](https://www.oliverstravels.com/security-incident/?utm_source=openai))  
+
+---
+
+## 🏁 Overall conclusion
+
+Oliver’s Travels appears to be a **reliable, established company**, especially for villa-style holiday rentals. Their reputation among many customers is strong, and they are transparent about their role as an agent. But because properties are managed/owned by others, some things are out of their direct control.
+
+If you go through the steps above, you can significantly reduce the risk of unpleasant surprises. If you like, I could also dig up some specifically recent UK customer experiences (last 6-12 months) to see how it’s been “on the ground”—would that be helpful?
