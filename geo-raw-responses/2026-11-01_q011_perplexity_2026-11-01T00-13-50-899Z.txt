@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://lacurevillas.com/south-of-france","https://www.beauchamp.com/french-riviera-holiday-rentals-services/","https://www.redsavannah.com/europe/france/cote-dazur","https://excellenceluxuryvillas.com/luxury-villas-rentals/south-of-france/les-alpilles-france/","https://www.onlyprovence.com/","https://excellenceluxuryvillas.com/luxury-villas-rentals/south-of-france/languedoc/villa-sublime-france/","https://amaselections.com/discover/france-luxury-villa-rentals/french-riviera-luxury-villa-rentals","https://excellenceluxuryvillas.com/luxury-villas-rentals/south-of-france/languedoc/villa-aude-france/"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based booking with **concierge service**, these are good starting points:
+
+- **Red Savannah** — UK phone support and a curated Côte d’Azur collection; its villas include housekeeping and 24/7 concierge, with options such as private chefs and vineyard visits.[3]
+- **Only Provence** — UK contact number and a focus on Provence villas, with concierge services and properties offering amenities such as pools, housekeeping and chef services.[5]
+- **Lacure Villas** — More than 80 South of France properties and a local concierge team available year-round for transfers, grocery provisioning, restaurant bookings, yacht charters and in-villa spa treatments.[1]
+- **Beauchamp Estates** — French Riviera properties from Monaco to Saint-Tropez, with bespoke concierge and optional service packages including chefs, chauffeurs and childcare.[2]
+
+**Best fit by area:** choose Only Provence for an inland Provençal stay; Red Savannah, Lacure or Beauchamp for the Riviera and coastal towns. When enquiring, share your dates, guest count, preferred area and budget, and ask what services are included versus charged extra. For UK travel, Lacure notes that Nice Côte d’Azur Airport has direct flights from London.[1]
