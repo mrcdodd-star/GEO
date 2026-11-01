@@ -1,0 +1,72 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj4B8j9cE_CHniir9ZxT9A6QxG4CYv2hnqNKQHE_8CDqWeDnaqxtYYN3BNh6uPOtseoN4DpGOb7Cdx4mjZL904Ua2BnR3AAdxv95oJN4fZB-YuC5i44a9fUjzIpeaH0zLZ3E4j2e9qGUb3pCPNQi7seq1-V8uAHGjYaEVxk1B7RyYDRKdj","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHagFSArdbLYelcSlTQ6H79MfOwwWdTD5MVA-WNQCs2Z9f9ohzpXNd0Sy8Gosh-Gv2jeFqRIvzuc1X-2Va-elCH4yAzqLbi6ilmkMfv4FEdDWlfRNKiSM15_7kDgaia-oxM","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEau7H9nmK0_rQVVEGn8FKztG0Lv4MZKXQyDwxV0hXEPCaKfx9UVSnY0qO6MqbILLBQUcaAN-XAQ06ke1osldaLHaPPewmhjOnfghzZDuzGddurU694mioLK5DS80e6Gv1Tt6lxepXQBt8hzVdzvZTB0Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcAuLdacdlDHUeLfIqzSOUgyftfQiYt1-a31j4dRqGQhsuaxBCK-MISFOQ-Qfjg3flJXlMCAqhflpCXqiqUYJ1ZEtfdVou5mzAKV40wafBd-8ayXLwbFuE853rYe-3nKWH-yM2lCziok331u2HYifohWIP7hA-jQZ0YbaleuGFwh7Fx7SOIPy7jqxpHmQMQEApzLR_7QyV18Ppmn_vBNYfHdZWiQCZZqEBeqA-kg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmNVLPe6uYIKOKze4Lp5Q8ugOau-QOdaqHbNXcAAwvNDBBm4ar9LC_8md0sS-SasHBCWiiP-gWzltHrbEU76t5PpvUxQ6whf5j4CirEM7_W1z3bc-y-2P32MOHFyS1xAI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPi67ZTb140ZMaDb5whDDKvy-489Sn9C-91a-F4Lsx9L5LHsWSP3YCZc5rrA3yenehUVQzcP1D8wITHqFzU-80zerYmyYMGkE9GZDUuqJA_-sdidtptII_ejwrqaWmmTO4G-IHtSciIfAawVW-12GlpIGD4E0CLLTRot9awGltXg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-cBQOaZN-Q8cK_EthK78FiFvgRnIOs0a3z_lq8r7aOnsi0wjPRqDNOJCPeg8fGhhGW9WbFk1OtLVtN5epik_VILXUypjvQeH2JDAjBnu39Rc4hNxT","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE0UAxDcipLAY_rAvJ4Duy_wGLlrxX7PSXf3gA-qh4Xamo15ere03FroqdMCv2Gb5arDmw5DSIpkRmjdE6RhR4wBAMnTHKi_1FdowkmC82dlX9cLViDA=="]
+
+--- RAW RESPONSE TEXT ---
+Here are the top luxury villa rental companies available to UK travellers, divided by your location preference: **Mediterranean & Overseas Escapes**, **UK Domestic Luxury Staycations**, and **Global Ultra-Luxury Services**.
+
+---
+
+### 1. Best for Mediterranean & Overseas Villa Holidays (from the UK)
+
+* **The Thinking Traveller**
+  * **Best For:** Unmatched quality across Italy (Sicily, Puglia, Tuscany), Greece, Corsica, and Mallorca.
+  * **Why them:** Frequently voted the *Best Villa Company in the World* by *Condé Nast Traveller* readers. They hold exclusive rights to all their properties, meaning you won't find their villas listed on multiple sites. Their local insider team, 24/7 support, and curated experiences (like private chefs, wine tastings, and boat trips) are exceptional.
+
+* **CV Villas**
+  * **Best For:** Classic European luxury (Greece, Italy, France, Spain) and the Caribbean.
+  * **Why them:** A British favourite for over 50 years. They cater to everything from romantic cliffside hideaways to sprawling beachfront estates. As a UK-based operator, they offer full ATOL-protected packages (flights, car hire, and villa) or property-only bookings.
+
+* **Oliver’s Travels**
+  * **Best For:** Standout châteaux, grand villas, and unique luxury homes across Europe, Asia, and the Caribbean.
+  * **Why them:** UK-headquartered with an impressive portfolio of over 5,000 handpicked properties. They excel at matching unique properties to your style (châteaux in France, cliffside villas in Ibiza) and provide a free concierge team to arrange private chefs, spa treatments, and yacht charters.
+
+* **Simpson Travel**
+  * **Best For:** Hassle-free luxury family holidays in Greece, Turkey, France, Italy, and Spain.
+  * **Why them:** Highly regarded by UK travellers for their seamless service. They offer flight-inclusive luxury packages with private transfers, boutique villas with private pools, and optional high-end childcare or nanny services directly at the villa.
+
+---
+
+### 2. Best for Domestic UK Luxury Stays & Estates
+
+* **Unique Homestays**
+  * **Best For:** Boutique, highly curated UK luxury staycations.
+  * **Why them:** The gold standard for UK domestic luxury. Every home in their collection (ranging from coastal cliffside retreats in Cornwall to historic estates in the Cotswolds) is vetted for exceptional design, setting, and comfort.
+
+* **Crabtree & Crabtree**
+  * **Best For:** Luxury country houses, historic castles, and coastal pads in Northern England and the Scottish Borders.
+  * **Why them:** Named among the *Top 20 Villa Companies in the World* by *Condé Nast Traveller*. They specialise in high-end regional getaways, complete with local experiences like private estate shooting, fishing, and personal chefs.
+
+* **Kate & Tom’s**
+  * **Best For:** Large luxury gatherings, milestone birthdays, and family reunions in the UK.
+  * **Why them:** Specialises in impressive, large-scale British holiday homes, complete with indoor swimming pools, tennis courts, and party barns.
+
+---
+
+### 3. Best for Global Ultra-Luxury & Design-Led Homes
+
+* **Plum Guide**
+  * **Best For:** Guaranteeing 5-star quality and design consistency worldwide.
+  * **Why them:** Often called the "Michelin Guide" for holiday rentals. They use a strict multi-point vetting process to test WiFi speed, mattress quality, shower pressure, and noise levels. Only the top ~3% of properties pass to be listed.
+
+* **Le Collectionist**
+  * **Best For:** High-net-worth travellers seeking hotel-level service in private villas.
+  * **Why them:** Known for ultra-exclusive properties in top destinations like Saint-Tropez, Ibiza, the French Alps, and St. Barts. Every booking includes a tailored concierge service that functions like a 5-star hotel guest relations team.
+
+* **onefinestay**
+  * **Best For:** High-end urban homes, ski chalets, and tropical estates.
+  * **Why them:** Part of the Accor luxury portfolio, they offer vetted private homes paired with 24/7 guest services, professional housekeeping, and luxury amenities.
+
+---
+
+### Which should you choose?
+
+* **For European Sun & Classic Villa Holidays:** Go with **The Thinking Traveller** or **CV Villas**.
+* **For Large Groups & Châteaux:** Choose **Oliver's Travels** or **Kate & Tom's** (if staying in the UK).
+* **For UK Staycations:** Book via **Unique Homestays** or **Crabtree & Crabtree**.
+* **For Stress-Free Family Villa Packages with Flights:** Book with **Simpson Travel** or **CV Villas**.
