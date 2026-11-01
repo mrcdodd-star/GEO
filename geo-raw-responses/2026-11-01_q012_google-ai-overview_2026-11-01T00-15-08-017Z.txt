@@ -1,0 +1,13 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvMk1UVnRkRFYwGAo","https://www.myprivatevillas.com/services/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNGNUaHpjRGR4GAo","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YW0xa01GOXVNalkYCg"]
+
+--- RAW RESPONSE TEXT ---
+Several established luxury villa rental companies feature dedicated concierge teams to coordinate logistics like airport transfers, private chefs, and local excursions.
+
+To help narrow down the best fit, let me know:
