@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: are specialist villa companies worth paying more for than Airbnb
+
+CITED URLS:
+["https://themarucagroup.com/blogs/luxury-villa-vs-airbnb-what-a-high-end-alternative-to-open-market-rentals-actually-gets-you"]
+
+--- RAW RESPONSE TEXT ---
+Whether specialist villa companies are worth the extra cost depends entirely on who is traveling, what is riding on the trip, and how much you value peace of mind.
+An analysis of how specialist operators and open-market platforms like Airbnb compare breaks down across key areas:
+1. Curation and Vetting
+
+2. Service and Concierge On-the-Ground
+
+3. Accountability When Things Break
+
+4. The Financial Math
+
+Summary: When to Choose Which
+
+If you'd like to narrow this down, let me know:
