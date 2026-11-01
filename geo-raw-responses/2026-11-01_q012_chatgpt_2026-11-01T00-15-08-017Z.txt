@@ -1,0 +1,40 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://mrvilla.co.uk/?utm_source=openai","https://ofluxury.co.uk/services/villas-private-resorts/?utm_source=openai","https://www.scottwilliams.co.uk/about-scott-williams?utm_source=openai","https://www.villanovo.com/?utm_source=openai","https://www.firefly-collection.com/luxury-villa-holidays/?utm_source=openai","https://www.wrentravel.co.uk/holiday-ideas/space-to-call-your-own/?utm_source=openai","https://www.gotobeach.co.uk/looking-to-book-/villa-holidays?utm_source=openai","https://www.visitbarbados.org/the-villa-collection?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you’re in the UK and looking for villa rental companies that offer more than just a place to stay—ones that can arrange transfers, private chefs, and activities—here are some excellent options to consider. I’ll lay out what each provides and which destinations they specialise in, to help you find the right match for your holiday style.
+
+---
+
+## Top UK Villa & Luxury Holiday Companies
+
+| Company | What They Offer | Where They Work |
+|---|---|---|
+| **Mr. Villa** | A UK-based company arranging villa holidays in Morocco. They handle *private chefs, airport transfers, exclusive experiences* and full local support from arrival to departure. ([mrvilla.co.uk](https://mrvilla.co.uk/?utm_source=openai)) | Marrakech and surrounding areas in Morocco |
+| **OF.luxury** | End-to-end villa or chalet holidays including *chef & household staff, drivers, security, childcare, provisioning, and all transfers*. Especially for high-end, fully staffed villas. ([ofluxury.co.uk](https://ofluxury.co.uk/services/villas-private-resorts/?utm_source=openai)) | Mediterranean (Ibiza, Mykonos, Marbella), Alps (ski holidays) |
+| **Scott Williams Villas** | Each villa is handpicked. They assign a dedicated booking specialist to arrange *private boat hire, airport transfers, restaurant reservations, personal chef, wine deliveries, local concierge*. ([scottwilliams.co.uk](https://www.scottwilliams.co.uk/about-scott-williams?utm_source=openai)) | Europe, Morocco, Caribbean |
+| **Villanovo** | A curated collection of ~3,000 properties. Concierge service includes *airport transfers, private chefs, car hire, bespoke local experiences*. ([villanovo.com](https://www.villanovo.com/?utm_source=openai)) | Global—Mediterranean, India, Mauritius etc. |
+| **Firefly Collection** | Offers fully staffed villas or flexible arrangements. *Chefs, drivers, butlers, and hosts* can be arranged; they also help with activities and transfers. The service level depends on the specific villa. ([firefly-collection.com](https://www.firefly-collection.com/luxury-villa-holidays/?utm_source=openai)) | Worldwide luxury destinations |
+| **Wren Travel** | Smaller, very personalized service. They arrange *flights, private transfers, car hire, welcome hampers, private chefs, in-villa experiences* and more. ([wrentravel.co.uk](https://www.wrentravel.co.uk/holiday-ideas/space-to-call-your-own/?utm_source=openai)) | Mediterranean and areas with villa homes |
+| **GoToBeach** | Known for villa holidays with *private transfers, pre-arrival grocery shopping, private chef, daily housekeeping, boat charters and excursions*. ([gotobeach.co.uk](https://www.gotobeach.co.uk/looking-to-book-/villa-holidays?utm_source=openai)) | Turkey (Fethiye, Bodrum, etc.), Greek Islands, Malta, Morocco |
+| **The Villa Collection** | Offers luxury villa holidays with *chef or catering option, airport transfers and car hire, fully staffed villas, pre-stocked groceries*. ([visitbarbados.org](https://www.visitbarbados.org/the-villa-collection?utm_source=openai)) | Caribbean, Asia, Mediterranean, worldwide |
+| **Soft Life Travel Ltd** | Boutique villa provider. Services include *private airport transfers, chef, housekeeping, concierge for experiences*, tailored villa sourcing. ([softlifetravelltd.com](https://www.softlifetravelltd.com/service/villa-bookings/?utm_source=openai)) | Various destinations (not limited to one region) |
+
+---
+
+## What to Consider
+
+- **Destination Vibe**: Some companies (like Mr. Villa & GoToBeach) are more regional (e.g. Morocco or Turkey), others are global (like Villanovo, Firefly).
+- **Service Level**: Fully staffed villas cost more, but you're often closer to “turn up and enjoy” experience. Others give more options ala carte (e.g., choose which services you want).
+- **Pricing Transparency**: Ask what’s included—chef, transfers and excursions can be hefty extras.
+- **Protection & Booking Terms**: Look for ATOL / ABTA protection (for overseas travel), and consider cancellation policies given potential travel disruptions.
+
+---
+
+If you tell me a destination (e.g. Mediterranean, Caribbean, Alps, etc.) or your priorities (budget, size, level of service), I can narrow down the best options that fit *exactly* what you’re after. Want me to pull together a shortlist for certain areas?
