@@ -1,0 +1,75 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: claude
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.landmark-fine-travel.de/ferienvillen/europa/frankreich/","https://www.domizile.de/ferienvilla/frankreich.html","https://www.southfrancevillas.com/komplettes-franz%C3%B6sische-Urlaubsvillen-Kollektion","https://www.villasud.de/","https://www.firstclass-holidays.org/de/destinationen/villa-in-frankreich/villa-in-cote-d-azur-mieten.html","https://home-booker.com/en/cote-azur/location/collection/villas-avec-services-cote-dazur","https://home-booker.com/en/cote-azur/saint-tropez/location/collection/villas-avec-services-saint-tropez","https://hauteretreats.com/french-riviera-villa-rental-8-group/"]
+
+--- RAW RESPONSE TEXT ---
+# Luxusvilla mit Personal und Koch in Südfrankreich mieten
+
+## Anbieter, die auch deutschsprachig arbeiten
+- **Landmark Fine Travel** (landmark-fine-travel.de): Im Angebot sind Villen an der Côte d'Azur und in der Provence. 
+Einige Villen bieten in der Hochsaison Koch und Butler.
+
+- **Domizile** (domizile.de): Hier gibt es 
+Luxusvillen mit Koch, zum Beispiel am Meer auf Korsika
+. Die Auswahl umfasst auch Villen bei Saint-Tropez und in der Provence.
+- **South France Villas**: 
+Die Luxusvillen lassen sich mit Dienstmädchen, Koch oder Babysitter mieten.
+ Die Villen liegen im Languedoc-Roussillon, in der Provence, an der Côte d'Azur und auf Korsika.
+- **VillaSud**: 
+Der Anbieter vermietet seit 1999 Villen und Luxusferienhäuser in Südfrankreich.
+
+- **firstclass holidays**: Der Anbieter bietet 
+einen persönlichen Concierge-Service
+. Der Service kann 
+einen privaten Koch, Yachtcharter, Transfers und Housekeeping
+ organisieren.
+
+## Anbieter mit voll ausgestatteten Villen (international, meist auf Englisch)
+- **Home-Booker**: Die Kollektion enthält 
+Villen mit privaten Köchen, Butlern, Hausmanagern, Chauffeuren und Concierge-Teams
+. Allein in Saint-Tropez gibt es 
+26 solcher Objekte
+.
+- **Haute Retreats**: 
+Viele große Anwesen an der Küste haben Personal. Der Anbieter hat dafür eine eigene Kategorie "Fully Staffed Villas".
+
+- **Villanovo**: Die Filter zeigen, ob eine Villa Hauspersonal oder einen Koch hat.
+- **Opera Prestige** und **Liberty House** vermitteln ebenfalls Villen mit Personal.
+
+## Wichtig zu wissen
+- **Koch ist oft nicht automatisch dabei.** 
+Meist sind nur Villenmanager, Concierge und 24/7-Support inklusive. Privatkoch, zusätzliches Personal, Transfers und Yachttage kosten extra und werden vor der Buchung Posten für Posten geklärt.
+ Fragen Sie deshalb genau, was im Preis enthalten ist. Klären Sie dabei auch, ob Lebensmittel und Getränke extra berechnet werden.
+- **Typische Inklusivleistungen:** 
+Housekeeping, Nebenkosten, Poolpflege, Bettwäsche und einfacher Concierge-Service
+.
+- **Preise:** Beispiele aus den Suchergebnissen sind Villen in Saint-Tropez 
+ab etwa 6.250 € pro Nacht
+ und Villen an der Côte d'Azur 
+ab 9.285 € pro Tag
+. Am oberen Ende der Skala liegen 
+Ultra-Luxus-Villen ab 10.000 € pro Tag
+.
+- **Kaution:** 
+Üblich sind 10–30 % des Mietpreises.
+
+- **Saison:** 
+Hauptsaison ist Mai bis September.
+ Buchen Sie für Juli und August so früh wie möglich.
+- **Anreise:** Die Villen liegen etwa 
+30–45 Minuten vom Flughafen Nizza
+ entfernt. Von Deutschland aus gibt es Direktflüge nach Nizza, Marseille und Toulon.
+
+## Damit ich gezielter helfen kann
+1. Wann möchten Sie reisen und wie lange?
+2. Wie viele Personen kommen mit (Erwachsene und Kinder)?
+3. Welche Region bevorzugen Sie: Saint-Tropez, Cannes und Antibes, Cap Ferrat oder Provence?
+4. Wie hoch ist Ihr Budget pro Woche?
+5. Welches Personal brauchen Sie: nur Koch, oder auch Housekeeping, Butler, Chauffeur und Kinderbetreuung?
+
+Mit diesen Angaben kann ich eine Auswahl eingrenzen und eine Anfrage für die Anbieter formulieren.
