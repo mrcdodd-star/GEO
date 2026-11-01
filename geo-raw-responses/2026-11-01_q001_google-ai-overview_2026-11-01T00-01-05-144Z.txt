@@ -1,0 +1,15 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://www.findrhost.com/tiqets-booking/castelnuovo-del-garda-attractions-c106309/tickets-for-gardaland-sea-life-aquarium-p974770"]
+
+--- RAW RESPONSE TEXT ---
+Planning a holiday for a group of 16 people spanning three generations—from toddlers to grandparents—is an incredible milestone, but it requires a very specific sweet spot: a destination that is flat and walkable (for strollers and older joints), rich in shared experiences rather than high-stress logistics, and warm enough in the summer without being punishingly hot for the little ones.
+The gold-standard approach for a group this size is renting a large private villa estate or booking a cluster of properties in a region where you can slow down and enjoy life rather than rushing from monument to monument.
+Here are the best European destinations tailored for a multi-generational crew of 16 next summer:
+
+To help us narrow this down to the absolute best match, tell me:
