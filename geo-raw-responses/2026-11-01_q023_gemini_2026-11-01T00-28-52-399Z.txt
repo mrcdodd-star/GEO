@@ -1,0 +1,44 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1AzfknBclmJjxpqbDaKtvq1rEXKNtB3NGePCzS1DVXBW5f5ATO8RAvVtTJ4SCtwJ-QiER7OlhjUJoqNzYhknaPpCC5rIojnVgsngeZ2pjCor7igHtjpG8TuGj2XjWNWWG-RcHk_HO","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqE6ilm0ECb-24GgBGnhOFvJQFxe9MNaZdfpbHbllYl9w4JbQQ0IxgL52uAKysPRFuC_97vp_hmz3eQ7u3ZicEgdZhzd7eEq7rZppcZx_PRipLttavYXpOPPYPQeiJQYIlZWpSBxzcGQA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfKqQtgvyywbWmKTHnVuKzpdN6u9N7meLMgn7H6l_g4feMMis01QWIks4THy2rmqpC-yAkkiGOUjad4Bo66uIfXoj12ErpWexQast6eRG5_xjiQTDNTxaF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjFLbi-nUVK5P8CCl_hSBmqR-w8eMUY1ZdgO_k4jrj4TOq6iLouQIeuJiy7fFAIv7Y7G-2VOuDCFYIGdUYe61PAiGHTkaqEdg7SPRF9Y8DVNgVE3K82i1MX2rXv32uSZoJESBcChIixM4lOEZ1yCGX3lzXA_0kXkHy5QHH7TmuI2x6lOptQJ9-0m9HjRA2ig=="]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels acts as an agency on behalf of individual property owners, so bookings are subject to the specific owner's terms and conditions. However, their standard agency cancellation policy includes the following guidelines:
+
+---
+
+### 1. **48-Hour Cooling-Off Period**
+* **Full Refund:** You can cancel within **48 hours** of receiving your provisional booking confirmation email (whether booked online or over the phone) and receive a full refund of your deposit.
+* **Exception:** This 48-hour grace period does **not** apply to bookings made within 14 days of the intended arrival date.
+
+---
+
+### 2. **Cancelling After 48 Hours**
+All cancellation requests must be submitted in writing (via email). 
+
+* **More than 12 weeks before departure:** 
+  * If you have already paid the full balance, you will be refunded the remaining balance. 
+  * The initial deposit (typically **35%** of the total cost) is **non-refundable**.
+* **Less than 12 weeks before departure:** 
+  * All payments (including both deposit and full balance) become **non-refundable**. 
+* **Admin Fee:** Cancellations or amendments after the initial 48-hour window incur an administration fee of **£25 per person**.
+
+---
+
+### 3. **Special Booking Promotions**
+Oliver's Travels occasionally offers promotional terms (e.g., *"Pay in Full, Cancel for Free"* on select advance bookings for future years). If your booking qualified for one of these offers, you can cancel and receive a full refund as long as notice is provided prior to the promotional cutoff date stated at checkout.
+
+---
+
+### 4. **Cancellation by the Property Owner**
+If the owner cancels your reservation and no suitable alternative property can be provided, you are entitled to a **full refund of all monies paid**. Note that Oliver’s Travels is not responsible for covering external travel expenses (e.g., flights or car hire).
+
+---
+
+### 5. **Force Majeure & Insurance**
+Standard policies do not cover refunds for cancellations due to unexpected travel disruptions, illness, or events of *force majeure*. Oliver's Travels strongly advises taking out comprehensive travel insurance to cover potential non-refundable cancellation losses.
