@@ -1,0 +1,55 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://excellenceluxuryvillas.com/luxury-travel-guides/europe-family-guide/","https://www.abnewswire.com/pressreleases/the-best-destinations-for-a-multigenerational-family-villa-holiday_814958.html","https://www.101holidays.co.uk/family/holiday-ideas/","https://theluxurytravelbook.com/luxury-travel-journals/journal-luxury-family-villa-holiday/","https://www.mumsnet.com/articles/best-family-villas-europe"]
+
+--- RAW RESPONSE TEXT ---
+With 16 people, three toddlers and grandparents, I'd book one big villa or a cluster of adjoining ones. A hotel is hard to make work for a group this size. One guide puts it this way: for a group this mixed, 
+a hotel simply does not function
+. For toddlers, 
+a private villa with a pool, a garden, and somewhere safe to roam is enormously more valuable than any museum
+.
+
+**My top picks from the UK**
+
+1. **Algarve, Portugal** is the safest all-round choice. It's described as 
+Europe's most reliable family destination
+. Flights are short and direct from most UK airports, and there's a lot of large-villa stock. Beaches are easy and the Atlantic keeps it a little less scorching than the Med. The sea can be rough, so a villa with its own pool helps.
+
+2. **Tuscany or Umbria, Italy** suits you if you want countryside and good food more than beach time. One operator specialises in 
+family villas in Tuscany, Umbria and Puglia, which work particularly well for large and extended families
+. One guide notes 
+July temperatures are warm but rarely extreme, which is more manageable than coastal Sardinia or Greece in high summer
+. Choose a villa with air conditioning throughout, not only in the bedrooms.
+
+3. **Corfu or the Ionian Islands, Greece** are good if you want calm, sheltered water. In Corfu, 
+shallow, sheltered bays with calm water are ideal for young swimmers, while Venetian architecture and hillside monasteries give grandparents plenty to explore
+. The Algarve and Ionian Islands are both recommended for toddlers because of 
+calm beaches and reliable sunshine
+. The catch is that there's often a transfer from the airport, and the heat is stronger in July and August.
+
+4. **Costa del Sol, Spain** is the easiest option logistically. It has lots of flights and plenty of big villas. It also has 
+championship golf for grandparents, sandy beaches for children, and Marbella's Old Town for everyone
+. It will be hot and busy in peak summer.
+
+**Other options**
+- **Corsica** is reachable by flight or overnight ferry, and has villas with private pools.
+- **Croatia** has some 
+excellent-value family bases near Dubrovnik for larger groups
+.
+
+**Practical tips for your group**
+- **Villa choice:** Pick one with a fenced or separately gated pool, or a toddler pool. One Corsican villa even has 
+a separate swimming pool for toddlers
+.
+- **Mobility:** Check for step-free access and ground-floor bedrooms for the grandparents.
+- **Location:** Stay within about 20–30 minutes of a supermarket, a pharmacy and a beach.
+- **Transfers:** Keep them under 90 minutes. Long drives with toddlers in the car are the main thing that sours these trips.
+- **Dates:** Early to mid-June, or early September, is cooler and cheaper, with fewer crowds. If you're tied to school holidays, book early. Villas for 16 people go fast, so aim for the autumn.
+- **Rest time:** Plan around nap times, with a shaded outdoor dining area and a loose schedule. Share childcare so the parents and grandparents each get a break.
+
+If you tell me your budget, which UK airport you'd fly from, and whether you'd rather have beach, countryside or a bit of both, I can narrow this to one or two destinations and suggest areas within them.
