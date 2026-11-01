@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best companies for renting a luxury villa in Europe
+
+CITED URLS:
+["https://www.thethinkingtraveller.com/","https://www.firefly-collection.com/luxury-villa-holidays/","https://thevillaagency.co.uk/our-villas/","https://www.revfine.com/best-luxury-villa-rental-companies-in-europe/","https://www.johansens.com/accommodation-types/luxury-villas/","https://www.thethinkingtraveller.com/results","https://www.cvvillas.com/","https://www.thethinkingtraveller.com/collections/serviced-villas"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based traveller, these are strong places to start, depending on the kind of villa holiday you want:
+
+- **The Thinking Traveller** — Best for a carefully curated Mediterranean stay, especially in Italy, Greece and Corsica. It has a London office and offers villas ranging from private homes to staffed properties.[1][6][8]
+- **CV Villas** — A good choice if you want an established UK operator and package-booking reassurance. Its European portfolio includes Greece, Italy, Spain, France, Portugal and Croatia, with a separate collection of staffed villas.[7]
+- **Oliver’s Travels** — Worth considering for characterful homes and a broad European choice, including Britain and Ireland, France, Italy, Greece, Spain and Portugal. Concierge help can arrange extras such as private chefs and housekeeping.[9]
+- **Firefly Collection** — A useful option for comparing a large selection of high-end villas; it works with multiple villa operators and is based in London.[2]
+- **Elegant Resorts** — Suited to more tailored, high-service trips, including exclusive villas in destinations such as the South of France and Ibiza.[10]
+- **The Villa Agency** — A UK-based, family-run agency focused on European villas; it says bookings are ATOL- or ABTOT-protected.[3]
+
+**Quick shortlist:** Try The Thinking Traveller for the Mediterranean, CV Villas for a UK-based package operator, and Oliver’s Travels for range and distinctive homes. Before paying, compare the total price and what it includes—staff, cleaning, security deposit, cancellation terms and travel protection can differ between properties.
