@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q026
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best villa rental agencies for Americans travelling to Italy
+
+CITED URLS:
+["https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/","https://luxuryvillascout.com/italy-specialists","https://hauteretreats.com/best-luxury-villa-rental-companies/","https://emmavillas.com/en","https://www.reidsguides.com/t_h/t_h_villas.html","https://www.italyvacationspecialists.com/accommodation/villas-apartments-italy","https://www.italyperfect.com/","https://www.thethinkingtraveller.com/italy"]
+
+--- RAW RESPONSE TEXT ---
+For U.S.-based travelers, the best fit depends on whether you want an American-facing booking experience, a specialist for one region, or a large inventory of managed villas.
+
+- **Haute Retreats — best luxury, broad Italy coverage.** Offers villas across regions including Tuscany, Lake Como, the Amalfi Coast, Sicily, Sardinia, and Puglia, with a 24/7 concierge and U.S./Canada contact options.[1]
+- **The Thinking Traveller — best for Sicily, Puglia, Tuscany, and Sardinia.** Its villa specialists regularly visit properties, and it provides a U.S. phone number for inquiries.[8]
+- **Home in Italy — best for high-touch, Italy-based service.** It has curated luxury villas, local 24-hour customer care, concierge support, and a U.S. contact number.[9]
+- **Emma Villas — best for a large, managed selection.** The company lists more than 600 handpicked villas, customer care seven days a week, and flexible booking terms.[4]
+- **Italy Perfect — best if you may combine a villa with a city stay.** It covers Tuscany and the Amalfi Coast as well as Rome, Florence, and Venice, and says it personally visits each property.[7]
+- **Parker Villas — worth considering if you want a U.S.-based agency and clear terms.** A specialist directory describes it as U.S.-based and says it publishes deposit, fee, and cancellation terms upfront.[2]
+
+**Shortlist:** For a luxury countryside or coastal villa, compare Haute Retreats, The Thinking Traveller, and Home in Italy. For a wider selection, check Emma Villas. Before paying, confirm the total price, deposit and cancellation rules, what’s included (such as cleaning and local taxes), and who handles problems at the property.
