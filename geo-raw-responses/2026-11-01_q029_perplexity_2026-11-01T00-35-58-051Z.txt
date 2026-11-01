@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: perplexity
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://exclusivetuscany.com/tuscany/lucca-garfagnana","https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/","https://isleblue.co/es/tuscany/villas","https://exclusivetuscany.com/villas/near-pisa","https://exclusivetuscany.com/tuscany/chianti","https://www.villanovo.com/villa-rentals/europe/italy/tuscany/","https://www.vrbo.com/4771259ha","https://invitationtotuscany.com/our-villas/villa-types/catered-villas-italy"]
+
+--- RAW RESPONSE TEXT ---
+Ecco alcune ville in Toscana con **piscina privata e chef**, adatte a diversi gruppi. I prezzi indicati sono tariffe di partenza settimanali e possono variare secondo date e disponibilità.
+
+| Villa | Zona e capienza | Prezzo indicativo | Chef |
+|---|---|---:|---|
+| **Il Frantoio** | Lucca e Garfagnana · 8 ospiti, 4 camere | da €7.500/settimana | Chef privato disponibile; piscina privata[1] |
+| **Villa Matteucci** | Lucca e Garfagnana · 14 ospiti, 7 camere | da €12.000/settimana | Chef privato; piscina privata[1] |
+| **Villa Le Masse** | Panzano in Chianti · 12 ospiti, 6 camere | Da verificare con la struttura | Chef incluso per pranzo o cena ogni giorno; piscina privata[2] |
+| **Villa Cetinale** | Vicino a Siena · 27 ospiti, 13 camere | Da verificare con la struttura | Chef privato per tutti i pasti; piscina privata[2] |
+| **Villa Castellaro** | Chianti · 13 ospiti, 7 camere | da €8.500/settimana | Chef prenotabile; piscina privata riscaldata[5] |
+
+Per un soggiorno più piccolo, **Il Frantoio** è l’opzione più economica tra quelle con prezzo pubblicato; per gruppi numerosi, **Villa Cetinale** può ospitare fino a 27 persone. Verifica direttamente con il gestore se il servizio dello chef è compreso o si paga a parte, oltre a eventuali costi per spesa, pulizie e riscaldamento della piscina.
+
+Per restringere la scelta, dimmi **date, numero di ospiti e budget settimanale**.
