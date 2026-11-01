@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai","https://luxgetaway.com/best-luxury-villa-rental-companies-compared/?utm_source=openai","https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/?utm_source=openai","https://www.which.co.uk/reviews/holiday-lets/article/best-self-catering-accommodation-providers-a6moP3H8ajLe?utm_source=openai","https://blog.thehouseinprovence.com/2026/07/29/cdvillascom-alternatives/?utm_source=openai","https://everythingluxury.co.uk/places-to-rent/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you're based in the UK and you like what The Thinking Traveller offers—boutique, curated villas in places like Puglia, Sicily, Corsica, Greece—there are several alternatives worth considering. Here’s a rundown of top picks, grouped by what makes each stand out, along with pros & cons and standout properties/pricing to help you decide.
+
+---
+
+## 🏆 Top Alternatives to The Thinking Traveller
+
+These are high-end, curated villa agencies that carry a similarly strong emphasis on quality, service, and unique properties.
+
+| Company | What Makes It Special | Best For | Approx Price / Notable Perks |
+|---|---|---|---|
+| **Le Collectionist** | Ultra-curated design-forward villas, often with an on-site team and strong quality control. Ranked #1 in Uncompromised’s 2026 luxury villa index; shows weekly prices and has staff on the ground in destinations. ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) | Design lovers, premium stays with concierge-style service | Wide price spectrum; some top-tier villas €40,000–€80,000/week ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) |
+| **Simpson Travel** | Fewer locations but excellent support, local reps; highly rated for reliability and customer satisfaction. ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) | Families/groups wanting peace of mind and high service standards | Villas in Greece, Mallorca, Corsica; themed trips & detailed itineraries |
+| **CV Villas** | Larger portfolio with handpicked villas; offers benefits like 24/7 support and a credible vetting system. ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) | Flexible travellers who like variety but also want quality assurances | “Jasmine, Corfu from £1,117/week” is one example ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) |
+| **Oliver’s Travels** | Huge variety of unique villas (manors, chateaux), known for memorable stays; editorial touch. | Large groups celebrating events, wedding parties, or luxury group escapes | From splurge to more modest options; broad price range ([uncompromised.travel](https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026?utm_source=openai)) |
+| **Onefinestay** | Luxe homes in city + seaside; full concierge style service with premium amenities. ([luxgetaway.com](https://luxgetaway.com/best-luxury-villa-rental-companies-compared/?utm_source=openai)) | Escapes where comfort and luxury are priority—honeymoons, anniversaries, upscale breaks | Higher end of pricing; globally available inventory; well-suited for design-led travellers |
+| **Abercrombie & Kent Villas** | High-end, bespoke experience; known for excellent service and local teams; high-end locations. ([spearswms.com](https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/?utm_source=openai)) | Luxury travellers, multi-generation groups, those wanting fully arranged itineraries | Expect high price tags; top-tier villas in Italy, Greece, Spain etc. |
+
+---
+
+## 🔍 Value-For-Money & Larger Market Alternatives
+
+If boutique is great, but price or flexibility matters more, these options provide a good middle ground.
+
+- **Villa Plus** – Specialises in Mediterranean villas, luxury-level standards, and all villas come with a pool. Great portfolio and reasonably priced for what they offer. ([which.co.uk](https://www.which.co.uk/reviews/holiday-lets/article/best-self-catering-accommodation-providers-a6moP3H8ajLe?utm_source=openai))  
+- **Jet2Villas, TUI Villas, British Airways Holidays** – More package-oriented; can include flights; ATOL protection; good for peace of mind, especially if something goes wrong. ([which.co.uk](https://www.which.co.uk/reviews/holiday-lets/article/best-self-catering-accommodation-providers-a6moP3H8ajLe?utm_source=openai))  
+- **Vrbo, Airbnb Luxe** – Massive selection; depends a lot on the host for quality. Luxe versions do some vetting. ([blog.thehouseinprovence.com](https://blog.thehouseinprovence.com/2026/07/29/cdvillascom-alternatives/?utm_source=openai))  
+
+---
+
+## 🏡 UK-Based Options for Cottage / Country Villas
+
+If you’re also interested in alternatives closer to home:
+
+- **Plum Guide** – Very highly vetted homes; not always villas in the Mediterranean, but superb homes in UK & Europe. ([everythingluxury.co.uk](https://everythingluxury.co.uk/places-to-rent/?utm_source=openai))  
+- **Unique Homestays, Boutique Retreats, Mr & Mrs Smith** – Great for quirky luxury stays in the UK (and abroad); focus on style & experience. ([everythingluxury.co.uk](https://everythingluxury.co.uk/places-to-rent/?utm_source=openai))  
+
+---
+
+## ✅ What to Look for When Comparing
+
+To pick which alternative is right for you, keep the following in mind:
+
+1. **Property inspection / vetting** – Does the agency personally visit and check each listing? Top-tier ones almost always do.  
+   
+2. **Staff on the ground & emergency support** – Having a local contact makes solving issues far easier.  
+
+3. **Transparent pricing** – Weekly price listings, inclusive of taxes and fees.  
+
+4. **Traveler reviews & brand trust** – ABTA, ATOL, Which? “Recommended Provider”, etc., plus guest reviews.  
+
+5. **Additional services** – Private chef, boats, transfers, experiences make a big difference.
+
+---
+
+If you tell me your destination(s), travel style (family / couples / big group) and approximate budget, I can narrow down to the best alternatives specifically for *you*. Want me to pull that together?
