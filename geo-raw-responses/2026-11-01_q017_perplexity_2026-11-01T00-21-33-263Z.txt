@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: is it safer to book a villa through an agency or directly with the owner
+
+CITED URLS:
+["https://portopoolvilla.com/why-book-porto-villa-direct/","https://www.thisismoney.co.uk/money/experts/article-3089231/I-m-booking-villa-online-s-best-way-pay-avoid-fraud.html","https://www.telegraph.co.uk/travel/advice/holidays-avoid-nightmare-villa-booking-scam/","https://www.moneysavingexpert.com/travel/cheap-holiday-rentals/","https://www.thetimes.com/travel/advice/travel-doctor-special-holiday-horrors-and-how-to-avoid-them-lw0fn8m6spq","https://www.reidsguides.com/t_h/t_h_villas.html","https://www.villa-finder.com/magazine/ota-vs-direct-bookings/","https://www.theluxurysignature.com/2014/07/17/3-myths-when-booking-a-privately-owned-luxury-villa/"]
+
+--- RAW RESPONSE TEXT ---
+**Usually, booking through a reputable UK-based villa agency is safer** than paying an owner directly: a good agency can verify the property, provide support if something goes wrong, and may offer financial protection. For the strongest protection, consider a villa as part of a package holiday with a UK tour operator; check exactly what protection applies, because not every agency booking is protected.[3]
+
+Direct booking can still be safe, but it puts more responsibility on you to verify the owner and property and check the contract and cancellation terms.[4] If you book direct:
+
+- Verify the property exists and check that its photos and details aren’t copied from another listing.
+- Speak to the owner using a phone number you’ve independently checked, and get the dates, total price, deposit and refund terms in writing.
+- Pay by credit card if possible. For eligible purchases costing £100–£30,000, Section 75 may make your card provider jointly liable if something goes wrong; paying by bank transfer offers much less recourse.[2][4]
+- Don’t pay by cash, Western Union or MoneyGram, and be wary of pressure to pay quickly or of a price that seems unusually low.[2][4]
+
+**Bottom line:** choose a reputable agency if peace of mind matters most. A direct booking may be reasonable after careful checks, especially if you can pay by credit card.
