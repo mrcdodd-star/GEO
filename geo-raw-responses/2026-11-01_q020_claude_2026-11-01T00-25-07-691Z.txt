@@ -1,0 +1,58 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://uk.trustpilot.com/review/oliverstravels.com","https://nz.trustpilot.com/review/oliverstravels.com","https://ie.trustpilot.com/review/oliverstravels.com?page=5","https://au.trustpilot.com/review/oliverstravels.com","https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o140-Oliver_s_travels_has_anyone_used_this_company-France.html","https://www.tripadvisor.com/ShowTopic-g187070-i12-k10244652-Oliver_s_travels_has_anyone_used_this_company-France.html"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels is a villa and holiday-home rental agency. Reviews of it are mostly positive, with a consistent set of complaints.
+
+**Overall rating**
+- 
+Trustpilot UK shows a 4-star rating from about 3,618 reviews.
+
+- 
+The breakdown is about 78% five-star, 8% four-star, 3% three-star, 2% two-star and 9% one-star.
+
+
+**What people praise**
+- Booking is easy and the sales staff are helpful. 
+One reviewer said a staff member liaised with the owner quickly and kept them informed throughout.
+
+- Several reviewers are repeat customers. 
+One said their holiday last year was so good that they went straight back to the website this year.
+
+- 
+Another said Oliver's had already done the searching and had better availability and pricing than a rival site.
+
+
+**What people criticise**
+- **Responsibility when something goes wrong.** 
+One reviewer said Oliver's washes its hands of customer concerns and leaves you to sort it out with the owners.
+ Another made a similar point. 
+They said there was nothing luxury or handpicked about the villas, and that Oliver's takes your money and disclaims responsibility afterwards.
+
+- **Whether properties are inspected.** 
+One recent reviewer warned against booking a "luxury" villa and said Oliver's misrepresents some of its offerings.
+ Check the actual listing details and recent guest photos or reviews of the specific property.
+- **Older Covid-era refund disputes.** 
+Tripadvisor forum posts describe deposit disputes and refused refunds when travel was restricted.
+ These are several years old.
+
+**Caveats**
+- 
+An older Tripadvisor poster suspected some Trustpilot reviews were fake.
+ That is one person's opinion and I haven't verified it. Still, read the 1–3 star reviews as well as the 5-star ones.
+- The smaller review sites in my results (britainreviews.co.uk and us-reviews.com) look less reliable to me than Trustpilot.
+
+**Tips for booking from the UK**
+- Read the terms on cancellation, deposits and who is liable for property problems.
+- Pay by credit card if you can, which gives some protection under Section 75 for purchases over £100.
+- Ask whether the specific villa has been inspected by their staff.
+- Look for independent reviews of the property itself.
+- Keep all communication in writing.
+
+I can look into a particular villa or destination if you have one in mind.
