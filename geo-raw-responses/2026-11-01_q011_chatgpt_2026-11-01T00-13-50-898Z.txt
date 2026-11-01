@@ -1,0 +1,66 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.kestreltravel.com/?utm_source=openai","https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai","https://www.cdvillas.com/?utm_source=openai","https://rivieravillasconcierge.com/rentals/?utm_source=openai","https://www.engelvoelkers.com/fr/en/company/luxury-villa-rentals-french-riviera-saint-tropez-cannes-monaco-engel-voelkers?utm_source=openai","https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai","https://lutetia-group.com/luxury-villas/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are some excellent luxury villa rental options in the South of France, all offering concierge services. I’ll cover what they provide, where they are located, what price ranges to expect, and helpful tips for booking from the UK.
+
+---
+
+## Top Villa & Concierge Agencies Worth Considering
+
+| Agency / Brand | Service Highlights | Regions Covered | Price & Notes |
+|----------------|--------------------|------------------|----------------|
+| **Kestrel Travel** | Ultra-high-end rentals (French Riviera, Provence, Carcassonne). Local concierge offices, full villa management by “Black Label Concierge.” Includes 5★ hotel-level service. ([kestreltravel.com](https://www.kestreltravel.com/?utm_source=openai)) | Monaco to St-Tropez; Provence; French Alps ([kestreltravel.com](https://www.kestreltravel.com/?utm_source=openai)) | Rentals range **€10,000–€350,000/week** depending on size, location, season. ([kestreltravel.com](https://www.kestreltravel.com/?utm_source=openai)) |
+| **Belles Villas** | Small number (~14) of villas with full concierge: welcome, linen & cleaning, 7-day assistance. On request: private chef, boat trips etc. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai)) | Provence & Côte d’Azur: Gulf of St-Tropez, Cannes area, Luberon etc. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai)) | Prices from **~€650 to €1,500+/night** depending on size & location. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai)) |
+| **Côte d’Azur Villa Rentals (CDVillas)** | Very large portfolio (>400 villas); some are fully staffed; concierge services custom-arranged. ([cdvillas.com](https://www.cdvillas.com/?utm_source=openai)) | French Riviera, Saint Tropez, Cannes, Provençal countryside etc. ([cdvillas.com](https://www.cdvillas.com/?utm_source=openai)) | Varies widely; many high-end villas, prices rise sharply in summer. Ask for quotes. |
+| **Riviera Villas Concierge** | Villas with panoramic sea views; 24/7 bespoke concierge incl. private chefs, yacht charters, chauffeurs, curated experiences. ([rivieravillasconcierge.com](https://rivieravillasconcierge.com/rentals/?utm_source=openai)) | French Riviera: Cannes, Saint-Tropez, Cap d’Antibes etc. ([rivieravillasconcierge.com](https://rivieravillasconcierge.com/rentals/?utm_source=openai)) | High-season rates quoted in tens of thousands of Euros/week; very premium market. |
+| **Engel & Völkers Luxury Villas** | Exclusive villa portfolio; 5-star concierge service with arrival-to-departure support; tailored services (chef, events etc.). ([engelvoelkers.com](https://www.engelvoelkers.com/fr/en/company/luxury-villa-rentals-french-riviera-saint-tropez-cannes-monaco-engel-voelkers?utm_source=openai)) | Saint-Tropez, Antibes, Cap-Ferrat, Cannes etc. ([engelvoelkers.com](https://www.engelvoelkers.com/fr/en/company/luxury-villa-rentals-french-riviera-saint-tropez-cannes-monaco-engel-voelkers?utm_source=openai)) | Generally ultra-luxury; many “off-market” properties, so budgets needed ~€20-€70k+/week for their top villas. |
+| **Le Collectionist** | Beautiful “mas” and villas in Provence; local concierge advice; bespoke experiences. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai)) | Provence (Alpilles, Luberon, etc.) ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai)) | Weekly rates from ~€10,000 upward, depending on property size, season. Premium ones are significantly more. |
+| **Lutetia Group** | Every villa vetted; full private concierge; daily breakfast & on-request private chef; wellness/spa, etc. ([lutetia-group.com](https://lutetia-group.com/luxury-villas/?utm_source=openai)) | French Riviera mainly – Saint-Tropez, Cannes etc. ([lutetia-group.com](https://lutetia-group.com/luxury-villas/?utm_source=openai)) | Tailored quotes; expect high price points especially in peak summer. |
+
+---
+
+## Typical Services You’ll Find
+
+What does “luxury concierge” usually include? Here are common features across these agencies:
+
+- Meet-and-greet at arrival / key handover & villa orientation  
+- Daily housekeeping and linen/towel service  
+- 24/7 contact person for emergencies or requests (restaurant reservations, repairs)  
+- Private chef or in-villa dining on request  
+- Transport: airport transfers, chauffeur driven car, yacht/boat hire  
+- Wellness/spa treatments at villa, children’s services etc.  
+- Optional extras: helicopter transfers, event planning, beach-club access etc. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai))
+
+---
+
+## Sample Properties & Price Ideas
+
+To give you a sense of scale:
+
+- Belles Villas has villas in Provence & Côte d’Azur from **€650/night** up to **€1,500/night** depending on guests and amenities. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai))  
+- Riviera Villas Concierge offers a Belle Époque manor in Cannes (7 bedrooms) from **€22,000/week**, and other similarly top-tier estates in Saint-Tropez and La Californie from ~€25,000-€65,000/week. ([rivieravillasconcierge.com](https://rivieravillasconcierge.com/rentals/?utm_source=openai))  
+- Le Collectionist’s “Signature Collection” villas mid to high range: **€20,000 to €60,000+ per week** depending on property and season. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/provence?utm_source=openai))  
+
+---
+
+## Tips for Booking from the UK
+
+Since you’re based in the UK, here are a few things to help smooth the process and maximise value:
+
+1. **Book early**, especially for July/August in Côte d’Azur / Saint-Tropez — demand & prices soar.  
+2. **Clarify what’s included vs. extra charges**: some services (private chef, transport, food) cost more; check whether cleaning, linen, standby staff are in or out.  
+3. **Check how concierge works in practice**: Is there a dedicated contact in English? Emergency support? Local on-site vs remote support?  
+4. **Travel logistics & transport**: nearest airports (Nice, Marseille, Toulon, etc.), whether villa includes airport transfer; customs/border formalities; timing of arrivals.  
+5. **Currency & payments**: many agencies quote in Euros — clarify deposits, cancellation policies, security deposits. Consider FX costs.  
+6. **Insurance and contracts**: ensure the rental contract is clear; check insurance or liability for things like accidents, property damage etc.  
+
+---
+
+If you like, I can pull up a curated list of villas tailored to your dates, guest-numbers, and budget (with photos), so you don’t have to sift through dozens. Would you like me to do that for your preferred month and guest count?
