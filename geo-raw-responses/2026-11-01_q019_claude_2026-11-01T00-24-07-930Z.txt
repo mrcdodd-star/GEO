@@ -1,0 +1,63 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://www.lodgify.com/blog/plum-guide/","https://uncompromised.travel/plum-guide-vs-alternatives-review","https://villasforkings.com/platforms/plum-guide-review/","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More","https://thevillacollection.com/the_five_best_luxury_villa_holiday_companies_compared/"]
+
+--- RAW RESPONSE TEXT ---
+Plum Guide suits design-led homes and city stays where you want consistent quality. Specialist villa agencies suit large, staffed or estate-style villas, and destinations where you want local help.
+
+## Plum Guide
+- **Vetting:** 
+It uses AI screening, expert review and an in-person Home Critic visit, and rejects roughly 95% of the properties it considers.
+ Its published test has 150 points.
+- **Price:** One comparison puts it 
+roughly 10–25% above Airbnb
+. A test of 12 properties found 
+Plum Guide priced higher on 9 of 12 than booking the same property directly through the management company.
+ That test is from a single review site, so treat it as indicative.
+- **Limits on choice:** 
+Inventory is small, at roughly 3,000 properties as of May 2026, so popular destinations can sell out in peak weeks.
+ Figures vary by source. Another site says 30,000+.
+- **Style bias:** 
+Its criteria favour design-led properties, so some of the best estate-style villas in places like Tuscany and the Caribbean aren't on it.
+
+- **Service:** 
+It's a curated marketplace, not a managed villa service.
+ Don't expect a chef, daily housekeeping or an on-site manager.
+
+## Specialist villa agencies
+Oliver's Travels, Tuscany Now & More, Villa Plus, CV Villas, The Thinking Traveller and Le Collectionist are examples.
+- **Size and staffing:** 
+The very largest villas, such as 10-bedroom estates with staff houses, tend to be sold through specialist agencies rather than curated marketplaces.
+
+- **Cost:** Fully managed, staffed villa companies can cost 
+2–4x the Plum Guide price
+ for an equivalent stay, though that figure comes from one comparison site.
+- **Regional expertise:** Some agencies concentrate on one area. For example, 
+Tuscany Now & More is a London-based, family-run company specialising in Italian villas, with over 130 in its collection.
+
+- **Differences between agencies:** 
+Villa Plus covers Europe only but includes flights with ATOL protection. Oliver's Travels doesn't include flights, so there's no ATOL protection.
+ That comparison comes from The Villa Collection, which is itself a villa company, so it isn't neutral.
+
+## UK-specific points
+- **Financial protection:** A villa-only booking usually isn't covered by ATOL or package-travel rules. A flight-plus-villa package from an agency such as Villa Plus usually is. Ask any agency about its ATOL or ABTA status, and check what happens to your money if the company fails. A credit card or travel insurance can add a layer of protection.
+- **Currency and payment:** Check whether the price is in pounds or euros, and when the balance is due.
+
+## Which to pick
+| Your situation | Better fit |
+|---|---|
+| City break or a design-led home, with quality assurance | Plum Guide |
+| Large group, 6+ bedrooms or a multi-acre estate | Specialist agency |
+| You want a chef, housekeeping or a concierge | Specialist agency |
+| Tuscany, Provence, Greek islands or similar, with local knowledge | Regional specialist |
+| Flights and villa in one protected package | UK package-villa operator |
+| Smaller family stay where reliability matters most | Plum Guide |
+
+A sensible approach is to shortlist a few homes on Plum Guide, then check whether the same property or similar ones are cheaper through an agency or direct with the owner.
+
+Tell me your destination, group size, budget and dates, and I can narrow this down.
