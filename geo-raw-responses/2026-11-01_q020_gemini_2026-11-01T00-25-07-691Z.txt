@@ -1,0 +1,62 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q020
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: Oliver's Travels reviews
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3wU3qCuihEIy6CBVvBsrDoNHNtlzYm599NxgmcfBqDbJYMqF6zIEZfrdQphhr3ZFCCg9gH1gc2u2Wiw6n3UctgcQ_aM4g9a4LnEEWrOwJE1uxRn_YeGaaajRIGfNkZ5UNkBqP-HvjRN_g","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7iTMrVmW3-LBElzMvKVspglEW2XVVQznK5IYUhzHWjmQfE8maptxfHiChzxz6lOexUFUg__f_bABE8ahZy28V6YeMz1S2O9dji-CiaGawpc7zp1DFJNtRBa5jxoyIZVukzX1cQ2tSlDI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwazlU5A3alnJbSyL-iv_820JnJiLlScp0s0CsH7ZAtbJVYwkLuZvcRwSIqkb1uyAF9u7c3Gnzsm6cwguvZib6_RnzeQX2QuvTIUQKsuIH-Y7Gf6YnDrQh2AVUz0SbNNJ7PcPyhoIHGdh4dYN_se4B8MOGzsvirOXpkVuj0S1KAxZUSSnPm8j2naJRJw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBPi0m7xGB75aDM3_cRWajXSErD5gP_gWcMDuQeOMAnMDNk4Uht6Kmhy6_JLObsvq8q5hrQNPTeeeVo4A96biwV9XWEFUyYOcXNFdP8mshg0pKcbtX6bGVEXBoRT5dcP4L0A==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5s32_HaokvMpvX9jJR1Pm98-VN21lscZ2kfAShfOLy5Woqupc8vvqFNCqk4DlMDriVfnVSB6hhK0CQYQNzbwkvrd9ao7nhUrLUK3Ck1JGMN9vhE7AxXBFZbBuWfsdu6GmFYAmoUXdI1CLXLFHE96ndReeAum9WqWc7M4zq5GUjQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBrQPwnFskltL-mnI-1wYiW08iHafpVCK9dMLGJ49ZXNVVXKmVXs_iJw0GMlmnPhyuIiRmpNgKRdQIN28RQJ1xxmVfm8V8FyexRoucsuXhhN195FC3A5n8bJfRi_8def3o08QUCgdJtIp8D9_dZIBfXd7lU-9j9ym9_eY-3CWsfRyXPrj0h9oxQ4XjoY0ryc8SXpCxUqZDVjsu0m1nUIo5XreucA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3hku2y1u1CQeP0WhtUB3zxdSuzsMD3WUnv4EHWSHa7dgnl9NISd3Ojbk0n_Z3Jvq6mYAr7194nzDZNSe5CSrRqUY94rg42HSDrjChGpi8nTOY_TbHiPTmWNg4qhCdv9rKmrAH5yx61N6yoH4jOfKNIxzI_aydC4zuee81-Z5bjdVEQgORoZ5ui2BPJh2nRAasp9WQ06_DZzM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOA24fVVJU6gAZ-tcII3S-vmtv-PdC81elrGTCGiFhNEu0UsIn9xI-xLEIvY8D7R0abOwFeaiJqTSO4kMnLgGhvwTG_FO_EC_pQmIuUE8fc56LzryQXCoyGgTx0GVIu1gLFJP8-NLDFY4EU98="]
+
+--- RAW RESPONSE TEXT ---
+**Oliver's Travels** is a well-established, London-based luxury holiday rental company specializing in unique properties, handpicked villas, châteaux, cottages, and castles across the UK, Europe, and the Caribbean. 
+
+---
+
+### **Overall Rating & Reputation**
+
+Oliver's Travels maintains an **exceptionally high reputation** across major independent UK review platforms:
+
+* **Trustpilot:** **4.5 / 5** ("Excellent") across over 3,600+ reviews.
+* **Feefo:** **4.7 / 5** ("Exceptional" rating), regularly winning Feefo’s *Platinum Trusted Service Award*.
+* **Industry Recognition:** Voted among the best villa rental companies by publications like *Condé Nast Traveller*.
+
+---
+
+### **What Customers Praise (The Positives)**
+
+1. **Curated & High-Quality Properties:**
+   * Reviewers frequently note that properties live up to the photographs and website descriptions. 
+   * The selection leans heavily toward high-end, characterful homes (e.g., French châteaux, historic estates, luxury beach villas) rather than mass-market options.
+
+2. **Strong Customer Support & Personal Service:**
+   * Customers consistently praise the UK-based booking team for being prompt, knowledgeable, and polite.
+   * The team is known for checking in personally and assisting with special requests before departure.
+
+3. **Concierge Service:**
+   * Oliver’s Travels offers a dedicated complimentary concierge service. Reviewers appreciate the help with booking extra services like private chefs, airport transfers, wine tours, or child equipment.
+
+4. **Flexible & Transparent Booking:**
+   * Repeat customers mention that rebooking, changing dates, or handling travel credits with the company is handled smoothly and fairly.
+
+---
+
+### **Common Criticisms & Areas for Improvement (The Negatives)**
+
+While overall feedback is overwhelming positive, negative reviews typically center around property-level details:
+
+1. **Reliance on Local On-Site Owners/Managers:**
+   * Because Oliver’s Travels acts as an agency representing private property owners, the on-the-ground experience (cleaning standards, welcome packs, local host responsiveness) can occasionally vary depending on the local caretaker.
+
+2. **Communication Gaps Between Agency and Host:**
+   * A few lower-rated reviews cite occasional delays or misunderstandings between Oliver's Travels’ central team in London and the local property manager on site (e.g., regarding arrival instructions or local amenities).
+
+3. **Discrepancies in Specific Amenities:**
+   * Minor issues occasionally arise regarding local details that weren't clearly specified (e.g., lack of air conditioning in older character properties, or miscalculated walking distances to local village centers).
+
+---
+
+### **Summary Verdict**
+
+* **Is Oliver's Travels reliable?** Yes. They are a legitimate, highly rated UK agent with a long track record and excellent customer feedback.
+* **Best for:** Group bookings, special occasion holidays, family gatherings, or travelers looking for characterful, high-end, or unusual holiday rentals with added concierge support.
+* **Tip when booking:** Because these are unique, privately-owned properties, review the property's *“Need to Know”* section thoroughly and speak directly with their concierge team if you have non-negotiables (like air conditioning, stair safety for young children, or walkability to local amenities).
