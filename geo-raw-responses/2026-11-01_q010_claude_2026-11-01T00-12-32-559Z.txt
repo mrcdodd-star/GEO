@@ -1,0 +1,43 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://en.wikipedia.org/wiki/CV_Villas","https://www.cvvillas.com/above/","https://www.thethinkingtraveller.com/collections/villas-with-cook-included","https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece","https://www.groupaccommodation.com/collection/greek-large-holiday-villas","https://theluxurytravelbook.com/luxury-travel-journals/journal-luxury-family-villa-holiday/"]
+
+--- RAW RESPONSE TEXT ---
+Several UK-based specialists offer fully staffed villas in Greece. Here is what I found.
+
+**UK agencies and operators**
+- **CV Villas (London):** 
+In 2019 it launched ABOVE, a luxury collection that includes fully staffed properties.
+ 
+Many properties in the collection offer an in-villa chef for the whole stay.
+ Its Corfu staffed villas include 
+Kalokairi Beach House (7 bedrooms, sleeps 16, from £3,930 a week) and Upper Mantin (4 bedrooms, sleeps 8).
+ 
+It is bonded with the CAA and holds an ATOL, so package holidays are protected.
+
+- **The Thinking Traveller (London and Athens offices):** 
+A discreet team keeps the villa spotless, and a private villa cook prepares meals in the local cuisine.
+ It is a good choice if you want a chef included.
+- **Iconic Villas:** It has 
+a dedicated collection of fully staffed villas in Greece
+, and it also arranges tailor-made holidays.
+- **Group Accommodation:** This suits larger parties. For example, 
+Villa Agave in Mykonos sleeps 6–12 and includes a cook, with a fully staffed experience available.
+
+
+**Practical tips**
+- **Book early.** 
+School-holiday peak weeks in Greece typically book out 9–12 months in advance.
+
+- **Check what "staffed" means.** It can mean a housekeeper only, a housekeeper plus a cook, or a full team with a chef, butler and concierge. Ask whether food costs, drinks and gratuities are included. Chef services are often charged separately from the villa rental.
+- **Consider the island.** 
+Paros is suggested as a quieter alternative to Santorini, which is becoming harder for families.
+ Corfu has a large choice of staffed villas, and Mykonos, Crete and Kefalonia also have options.
+- **Look for financial protection.** Choose ATOL-protected packages if you're booking flights with the villa.
+
+If you tell me your group size, preferred island, budget, dates and how much service you want, I can narrow this down. For example, I could look for a chef-only setup or a full team with a butler and nanny.
