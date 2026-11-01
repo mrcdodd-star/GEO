@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.turquoiseholidays.co.uk/special-occasions/big-birthdays/","https://freedomdestinations.co.uk/holidays/50th-birthday","https://www.wanderwithjo.com/50th-birthday-trip-ideas/","https://www.groupaccommodation.com/blog/guest-resources/6-awesome-family-holiday-destinations-milestone-birthday","https://www.scottdunn.com/luxury-holiday/special-occasions/big-birthdays/50th-birthday-holiday-ideas","https://www.aarp.org/travel/vacation-ideas/family/destinations-to-celebrate-your-50th-birthday/","https://www.skyscanner.com/destinations/advice/birthday-trip-ideas","https://www.onthegotours.com/uk/50th-birthday-ideas"]
+
+--- RAW RESPONSE TEXT ---
+For **20 friends travelling from the UK**, I’d shortlist **Lisbon, a Greek island, or a large villa in Andalusia**. They’re relatively practical for a group, with options to gather together while still letting people choose their own pace.
+
+- **Lisbon, Portugal — best all-rounder:** a lively city break with restaurants, bars and sightseeing, plus the option of a day trip to the coast. Choose a central hotel or a group-friendly property and book a private birthday dinner.
+- **Mykonos or Crete, Greece — best for a beach-and-pool celebration:** Mykonos suits a stylish, nightlife-focused weekend; Crete offers more variety and room to spread out. Greece is among the destinations suggested for milestone birthdays, including larger groups.[1][3]
+- **Andalusia, Spain — best for a private villa:** rent a villa with a pool near Málaga, Marbella or Ronda, and build the celebration around shared meals, wine tasting and a day trip. The region is noted for year-round sun, food and landscapes, with villa stays suitable for group gatherings.[4]
+- **Dublin, Ireland — best for an easy, sociable city weekend:** pubs, restaurants and culture make it simple to plan a few shared activities without needing a packed itinerary.[7]
+- **Reykjavík, Iceland — best for a memorable adventure:** pair the city with hot springs and outdoor activities; it’s a stronger choice if the group values experiences over beach weather.[6]
+
+**My pick:** Andalusia if you want everyone together in one house; Lisbon if you want nightlife and a simple city break; Crete if sunshine and pool time matter most. For 20 people, start with dates, budget per person and whether you want a villa or hotel—those will narrow the choice quickly. A group-focused birthday trip can work well as a mix of shared celebrations and optional excursions.[1][8]
