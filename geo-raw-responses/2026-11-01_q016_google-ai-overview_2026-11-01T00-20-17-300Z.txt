@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdNd2VuYzVZMncYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaZll6QXhhREpxGAo","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YW0xa01GOXVNalkYCg"]
+
+--- RAW RESPONSE TEXT ---
+If you love The Thinking Traveller for its high-end Mediterranean properties, personal inspections, and concierge support, but want to explore similar high-end curators (or broaden your geographical reach), several premier luxury villa rental specialists match their caliber and service style.
+Top Alternatives to The Thinking Traveller
+
+To help narrow down the ideal alternative, tell me:
