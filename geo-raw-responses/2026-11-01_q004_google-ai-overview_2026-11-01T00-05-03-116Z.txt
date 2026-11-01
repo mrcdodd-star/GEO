@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://www.reddit.com/r/travel/comments/10bqahk/good_spots_for_larger_family_trip_in_europe_in/"]
+
+--- RAW RESPONSE TEXT ---
+Andalusia (Spain), Apulia / Puglia (Italy), and the Dalmatian Coast (Croatia) are ideal warm European destinations for a week-long family reunion, offering large villa rentals, rich multi-generational activities, and reliable sunshine.
+1. Andalusia, Spain (Villas & Culture)
+
+2. Puglia (Apulia), Italy (Country Estates & Coastline)
+
+3. Dalmatian Coast & Islands, Croatia (Sea & History)
+
+If you'd like to narrow this down, tell me:
+
+I can put together a tailored itinerary and lodging strategy for your group.
