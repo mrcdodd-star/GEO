@@ -1,0 +1,49 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: chatgpt
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://lutetia-group.com/villas-south-of-france/?utm_source=openai","https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai","https://www.operaprestige.com/luxury-villa-rental-french-riviera/?utm_source=openai","https://www.elliman.fr/en/luxury-rentals/?utm_source=openai","https://cyrusvillas.com/fr/villa/villa-giulia-saint-tropez/?utm_source=openai","https://www.thecombe.com/?utm_source=openai","https://southfranceholidayvillas.co.uk/property/pdf/5003?utm_source=openai","https://www.domizile.de/h/2814/domizilepdf2814_d.pdf?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Hier sind Vorschläge und Tipps, wie du in Südfrankreich eine Luxusvilla mit Personal (z. B. Koch, Butler etc.) mieten kannst – inklusive konkreter Portale und Beispielvillen, damit du eine gute Übersicht bekommst.
+
+---
+
+## ✅ Top-Portale für Luxusvillen mit Personal
+
+| Anbieter | Vorteile / Services | Preise & Hinweise |
+|---|----------------------|--------------------|
+| **Lutetia Group** | Villen an Côte d'Azur mit komplettem Personal wie Koch, Butler, Housekeeping, Security; Concierge-Services; Helikopter-Transfers möglich. ([lutetia-group.com](https://lutetia-group.com/villas-south-of-france/?utm_source=openai)) | Preise in der Höchstklasse, nach Villa und Saison |
+| **Polarius Real Estate** | Villen in St.-Tropez, Cannes etc.; Küchendienst, Catering, Logistik und Gästebetreuung auf Anfrage. ([polariusrealestate.com](https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai)) | Wochenpreise typischerweise **€15.000 bis über €200.000** im Sommer für Top-Objekte ([polariusrealestate.com](https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai)) |
+| **Opera Prestige** | Luxusvillen mit privaten Köchen, Butlern und umfassendem Concierge-Service an der Côte d’Azur. ([operaprestige.com](https://www.operaprestige.com/luxury-villa-rental-french-riviera/?utm_source=openai)) | Mindestmiete meist eine Woche, besonders in der Hochsaison |
+| **Douglas Elliman France** | Einige Villen mit Hauspersonal (Hausmeister, Reinigungskraft), weitere Dienstleistungen auf Anfrage. ([elliman.fr](https://www.elliman.fr/en/luxury-rentals/?utm_source=openai)) | Preise: ab ca. **€10.000/Woche** in guter Lage, Spitzenobjekte deutlich teurer ([elliman.fr](https://www.elliman.fr/en/luxury-rentals/?utm_source=openai)) |
+
+---
+
+## 🌟 Beispiele für exklusive Villen
+
+| Villa | Ort | Was ist inklusive |
+|---|------|--------------------|
+| **Villa Giulia, Saint-Tropez** | Les Canoubiers, Saint-Tropez | Koch, tägliche Concierge-Services, Chauffeur, Yacht- und Beachclubservice nach Wunsch; Preis ab ca. **€36.000 pro Woche** ([cyrusvillas.com](https://cyrusvillas.com/fr/villa/villa-giulia-saint-tropez/?utm_source=openai)) |
+| **La Combe des Selves, Provence** | Nähe Var zwischen Saint-Tropez und Gorges du Verdon | Teilzeitpersonal inklusive, weitere Services wie Koch, Yogalehrer, Massage auf Anfrage ([thecombe.com](https://www.thecombe.com/?utm_source=openai)) |
+| **Villa du Parc (Côte d’Azur)** | Nahe St. Tropez | Vollständig mit Butler, Koch, Reinigung, Property Manager ausgestattet ([southfranceholidayvillas.co.uk](https://southfranceholidayvillas.co.uk/property/pdf/5003?utm_source=openai)) |
+| **Villa Rossignol, Côte d’Azur** | Region Côte d’Azur | Mit Koch, zwei weiteren Personen Personal, beheizbarer Pool etc. ([domizile.de](https://www.domizile.de/h/2814/domizilepdf2814_d.pdf?utm_source=openai)) |
+
+---
+
+## 💡 Tipps zur Auswahl
+
+Damit du eine Villa findest, die wirklich zu deinen Vorstellungen passt, achte auf:
+
+- **Personalumfang**: Wird ein Koch täglich gestellt oder nur auf Anfrage? Gibt es einen Butler? Wie viele Reinigungskräfte? Werden Fahrer gestellt?
+- **Lage**: Cote d’Azur, Provence, Languedoc-Roussillon oder Korsika – je nach Nähe zu Flughafen/Strand und Privatsphäre.
+- **Extras**: Privater Pool, Gartenpflege, Helipad, Yachtverleih, Wellnessbereich etc.
+- **Verfügbarkeit und Saison**: Hauptsaison (Juli–August) ist stark nachgefragt – oft Buchung schon 6–12 Monate vorher nötig. ([polariusrealestate.com](https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai))
+- **Budget**: Schon für kleinere Villen mit Personal rechnet man mit **zehntausenden Euro pro Woche**; Luxusvillen liegen oft bei €30.000–€200.000+ in der Hochsaison. ([polariusrealestate.com](https://polariusrealestate.com/de/vermietungen/franzoesische-riviera?utm_source=openai))
+
+---
+
+Wenn du möchtest, kann ich dir ein paar Angebote heraussuchen, die exakt deinen Anforderungen entsprechen (z. B. Region, Personenzahl, Budget, Serviceumfang). Möchtest du das?
