@@ -1,0 +1,95 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.flowtrip.app/blog/cheap-party-destinations-europe?utm_source=openai","https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai","https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a 50th birthday abroad with about 20 friends makes for something special—something you’ll all remember. Where you go depends a lot on what vibe you want, how far you’re willing to travel, and what sort of budget you’re working with. Below are some ideas grouped by type of experience, plus helpful tips to get your planning going smoothly.
+
+---
+
+## 🔍 First Things to Think About
+
+Before jumping into destinations, nail down a few logistics so things go smoothly:
+
+- Budget per person (flights, hotels, meals, entertainment)  
+- Duration: long weekend, 4–5 nights, a full week  
+- Vibe: party, relaxing, adventure, culture, mix  
+- Travel time acceptable: 1 hour, 3 hours, overnight, long haul?  
+- Group preferences: do some want beaches, spa days, hikes, club nights, history?
+
+---
+
+## 🍹 Top Suggestions for a Group Celebration from the UK
+
+Here are ideas spanning a few budgets and styles—city breaks, beach resorts, party spots, and long-haul escapes.
+
+---
+
+### 1. 🎉 Party-/Beach-hybrid Destinations
+
+These are great for people looking to relax by day, party by night:
+
+- **Sun­ny Beach, Bulgaria** – Very affordable: beer is €1.50–2.50; good mix of beach, nightlife, and group-friendly hotels. ([flowtrip.app](https://www.flowtrip.app/blog/cheap-party-destinations-europe?utm_source=openai))  
+- **Benidorm, Spain** – Huge variety of bars, clubs; nightlife doesn’t shut down early. Prices often lower than Ibiza/Magaluf. ([flowtrip.app](https://www.flowtrip.app/blog/cheap-party-destinations-europe?utm_source=openai))  
+- **Albufeira, Portugal** – Stunning coast, Atlantic views, boat parties, relaxing beach atmospheres. ([flowtrip.app](https://www.flowtrip.app/blog/cheap-party-destinations-europe?utm_source=openai))  
+- **Ibiza, Spain** – For maximum party and iconic nights out. Lounges in the daytime, DJs at night. Great if some want full-on nightlife. ([flowtrip.app](https://www.flowtrip.app/blog/cheap-party-destinations-europe?utm_source=openai))  
+
+---
+
+### 2. 🏙️ City Breaks That Mix Culture, Food and Nightlife
+
+Perfect for a 3–4-day milestone trip:
+
+- **Lisbon, Portugal** – Food, history, day trips, the beach isn’t far. Wonderful mix. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+- **Kraków, Poland** – Historic centre, great nightlife, very affordable for hotels and meals. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+- **Budapest, Hungary** – Thermal baths, ruin bars, river cruises. Culture and parties combined. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+- **Valencia or Seville, Spain** – For great weather, tapas culture, flamenco in Seville; beaches near Valencia. ([tripstogether.co.uk](https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai))  
+
+---
+
+### 3. 🌄 Relaxing or Adventure Escapes
+
+This style works if some friends want downtime or outdoor things:
+
+- **Greek Islands (Santorini, Mykonos, Crete, split-island stays)** – Seaside, beautiful vistas, luxurious villas/hotels. ([tripstogether.co.uk](https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai))  
+- **Alps or Switzerland** (summer hiking, lakes) – If your group likes nature, fresh air, dramatic scenery without tropical heat. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+
+---
+
+### 4. ✈️ Long-Haul or Exotic (if you have more time & budget)
+
+For a big celebration and a week or more away:
+
+- **Cape Town, South Africa** – Beaches, vineyards, Table Mountain—lots to do, dramatic scenery. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+- **Costa Rica** – For jungle, volcanoes, wildlife, relaxation, adventure in one trip. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai))  
+- **Asia or Southeast Asia** – Thailand, Bali, etc. Needs longer trip but totally worth it if the group is up for it. (Keep in mind flight time and jetlag.)
+
+---
+
+## 💡 Perks & Trade-Offs
+
+| What you get | What to watch out for |
+|--------------|------------------------|
+| Short flights (≤3 hrs) in Europe—less travel fatigue, quicker arrival. | Peak seasons (July-August) are crowded and expensive. |
+| Beach + party = relaxed during the day, lively at night. | Late night noise restrictions in some places; transfers could be long. |
+| More affordable destinations stretch your group budget further. | Flight variability; someone from northern UK may pay more. |
+| Villas and large rentals are cost-efficient for a group. | Coordinating everyone’s preferences tough; expect some trade-offs. |
+
+---
+
+## ✔️ Final Tips for Success
+
+- Use a simple voting method: shortlist 3-4 destinations, let everyone vote.
+- Book both flights and accommodation well ahead for 20 people—availability drops fast.
+- Look into villas or accommodations with communal space (dining room, living room) so you can hang out together.
+- Think about group transport once you're there: is everything walkable, or are transfers needed?
+- Plan one or two group-wide special moments—a fancy dinner, private boat, spa day, etc.—so it feels more than just another holiday.
+
+---
+
+If you want, I can pull together a custom shortlist of destinations under a certain budget (say £500-£1,000 pp) for your group size, plus sample itineraries. Would that help?
