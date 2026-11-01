@@ -1,0 +1,48 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q024
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: does Oliver's Travels offer chateau weddings
+
+CITED URLS:
+["https://www.oliverstravels.com/blog/olivers-travels-best-venues-for-weddings-in-france/","https://www.oliverstravels.com/france/aquitaine/chateau-paradis/","https://www.oliverstravels.com/france/loire-valley/chateau-crystal/","https://www.oliverstravels.com/france/loire-valley/chateau-des-joyaux/","https://www.oliverstravels.com/france/champagne/chateau-meuse/","https://www.oliverstravels.com/blog/real-weddings-naomi-at-chateau-gombardy/","https://www.oliverstravels.com/blog/real-weddings-goda-bill-chateau-de-st-jean/"]
+
+--- RAW RESPONSE TEXT ---
+Yes, Oliver's Travels offers chateau weddings. It's a UK-based company (its past real-wedding stories mention guests travelling from the UK), and chateau weddings in France are a big part of what it does.
+
+**Venues**
+- 
+Oliver's Travels has a guide to its favourite French chateau wedding venues.
+ The list includes Chateau Paradis, Chateau Crystal and Chateau de l'Empereur.
+- **Chateau Paradis (near Poitiers):** 
+It sleeps up to 80 guests across the chateau, annex and lodges.
+ Its listing shows 
+it is bookable for 2027, allows marquee hire and external caterers, and has no corkage.
+
+- **Chateau Crystal (Loire Valley):** 
+It has a 22-acre private lake and a tree-canopied island with an antique gazebo for weddings.
+ Its listing says 
+in-house catering is mandatory.
+
+- **Chateau des Joyaux (Loire Valley):** 
+You can hold your ceremony in the private chapel or in the gardens.
+
+- **Chateau Meuse (Champagne):** 
+It sleeps 20–60 guests across 26 bedrooms.
+
+
+**Legal side of marrying in France**
+The company's real-wedding stories say 
+France is a secular country, so couples must go to the town hall before any church ceremony.
+ One couple 
+completed the legalities at a UK registry office and then had a blessing ceremony in France.
+ Check the current rules for your situation, because requirements can change.
+
+**Planning help**
+One couple mentions 
+a wedding consultant who arranged venue visits.
+ Another mentions 
+a wedding planner who connected them with suppliers.
+
+
+Catering rules, capacity and availability differ a lot between venues. It's best to contact Oliver's Travels directly with your date and guest numbers to get current pricing and availability.
