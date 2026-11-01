@@ -1,0 +1,59 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com?page=5","https://nz.trustpilot.com/review/oliverstravels.com?page=7","https://uk.trustpilot.com/review/oliverstravels.com","https://ie.trustpilot.com/review/oliverstravels.com?page=6","https://au.trustpilot.com/review/oliverstravels.com?page=2","https://www.feefo.com/en-GB/reviews/olivers-travels","https://www.tripadvisor.co.uk/ShowTopic-g187070-i12-k10244652-o140-Oliver_s_travels_has_anyone_used_this_company-France.html","https://www.tripadvisor.com/ShowTopic-g187070-i12-k10244652-o40-Oliver_s_travels_has_anyone_used_this_company-France.html"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels looks like a legitimate, established company, and most customers are happy. The main complaints are about villa quality and how much help you get when something goes wrong.
+
+**Positives**
+- Trustpilot shows a high score. 
+One page lists 3,432 reviews with a 4.8 out of 5 rating
+, and 
+another shows 3,608 reviews
+.
+- Many reviewers praise the booking process and the staff. 
+One describes a third booking with them as excellent, and says cancelling an earlier one was easy.
+
+- Many customers come back. 
+One reviewer was so happy with last year's holiday that they went straight back to the website this year.
+
+- Staff can sort out pricing problems. 
+In one case the owners wanted more than the advertised price, and the Oliver's rep got the villa at the advertised price.
+
+
+**Complaints**
+- **Villa quality doesn't always match the marketing.** 
+The company says its villas are the "top 2%" and are thoroughly inspected.
+ Some guests disagree. 
+One reviewer called their villa a "House of Horrors".
+ 
+A Feefo reviewer said their villa was "over marketed" given how basic it was.
+
+- **Limited help once you've booked.** 
+One reviewer says Oliver's wash their hands of customer concerns and leave you to sort it out with the owners.
+ 
+Another says they got no redress and the same listing was still being used.
+
+- **Several parties involved.** 
+One reviewer dealt with three different agencies, which they found confusing.
+
+- **Pricing.** Some older Tripadvisor posts, roughly a decade old by the search metadata, complain of 
+20–29% markups
+ and 
+hidden fees in the small print
+. These are old, so treat them with caution. It's still worth comparing prices elsewhere.
+
+**Tips before booking**
+- Read the **recent 1–3 star reviews** for the specific villa, not just the overall score. Several complaints are about individual properties.
+- Check the **cancellation and deposit terms** before you pay. Older complaints about lockdown refunds show why this matters.
+- Check what's **included** (cleaning, linen, pool heating) and the **total price**.
+- If you can, **pay by credit card** for Section 75 protection on purchases over £100. One older review said cards weren't accepted, so check the current payment options.
+- Search for the villa's name and address. Some owners also list on other sites, which lets you compare prices and find extra reviews.
+- Ask about **local support** on arrival and what happens if the villa isn't as described.
+
+If you tell me which villa or country you're considering, I can look for reviews of that property.
