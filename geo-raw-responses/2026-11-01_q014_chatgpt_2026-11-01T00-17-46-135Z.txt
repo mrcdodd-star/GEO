@@ -1,0 +1,42 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.lecollectionist.com/en/luxury-rental/villa-luz-algarve?utm_source=openai","https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai","https://www.airbnb.com/rooms/19069634?utm_source=openai","https://www.julianasluxuryvillas.com/property/pdf/4479?utm_source=openai","https://www.rentvillasalgarve.co.uk/vilamoura-rentals/contemporary-6-bedroom-villa-golf-course-views-vilamoura/?utm_source=openai","https://www.airbnb.co.uk/rooms/25281049?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are several private villa options in the Algarve that sleep around 12 guests, as well as important tips to help you plan your stay in August. If you'd like, I can narrow them further based on budget, region (West, Central, East Algarve), or amenities (pool, beach access, golf, etc.).
+
+---
+
+## 🏡 Top Villa Picks for 12 Guests
+
+These villas are all available (or have late availability) for August 2026. Pricing is for a 7-night stay unless otherwise stated.
+
+| Villa | Location | Bedrooms / Baths | Key Features | Approx Price* |
+|---|---|---|---|---|
+| **Villa Luz** | Algarve nature reserve (exact location in Algarve) | 6 beds / 8 baths | Beautiful setting, terracotta floors, garden pergola, private pool & outdoor living, BBQ. Very luxurious. | ~€28,560 for 7 nights (for stays beginning 12–19 Aug) ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-rental/villa-luz-algarve?utm_source=openai)) |
+| **Villa Lagos** | Lagos (West Algarve) | 10 bedrooms (24 people max, but can accommodate 12 comfortably) | Huge space: sauna, gym, massage room, pool, jacuzzi. Close to beaches & golf. Late availability 8–22 August with 10% off. ([abvillarentals.com](https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai)) |
+| **Villa Irene** | Almancil (Quinta do Lago area) | 5 bedrooms / 5 baths | Sleeps 12+1, heated pool (extra cost), private bathrooms throughout, near beaches and villas. ([airbnb.com](https://www.airbnb.com/rooms/19069634?utm_source=openai)) |
+| **Villa Oura** | Albufeira (Praia da Oura) | 6 bedrooms / 6 baths | Hilltop villa, heated pool, spectacular sea views, beach & restaurant access from garden. ([julianasluxuryvillas.com](https://www.julianasluxuryvillas.com/property/pdf/4479?utm_source=openai)) |
+| **Luxury 6 Bedroom Villa, Vilamoura** | Vilamoura (Central Algarve) | 6 bedrooms / 5 baths | Golf course views, modern design, private pool, air-con throughout, top-standard furnishings. ([rentvillasalgarve.co.uk](https://www.rentvillasalgarve.co.uk/vilamoura-rentals/contemporary-6-bedroom-villa-golf-course-views-vilamoura/?utm_source=openai)) |
+
+> \*Prices in high season (August) can be steep. Budget figures are approximate and likely to vary.
+
+---
+
+## ✅ What to Consider in August
+
+- **Booking early** is crucial. August is peak season in the Algarve—many properties lock into weekly (usually Sat–Sat) bookings well in advance. The options above with *late availability* tend to fill up fast. ([abvillarentals.com](https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai))  
+- **Minimum stay** requirements often apply—most luxury villas will have a 5–7 night minimum in August. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-rental/villa-luz-algarve?utm_source=openai))  
+- **Extra costs** like heating the pool, tourist taxes, airport transfers, and cleaning can add up. Example: Villa Irene charges extra for a heated pool. ([airbnb.com](https://www.airbnb.com/rooms/19069634?utm_source=openai))  
+- **Transport & location**: If staying in a remote rural villa, you'll likely need car hires. For central villas (Albufeira, Vilamoura, Almancil), you may walk to restaurants or beach—but check distances.  
+- **Amenities**: Decide what’s essential—private beach access? Heated pool? Gym or spa? A villa’s features heavily impact the price in August.  
+- **Licensing & legitimacy**: Make sure the villa has a valid tourist license (look for AL numbers in Portugal). Always pay via secure methods and check reviews. ([airbnb.co.uk](https://www.airbnb.co.uk/rooms/25281049?utm_source=openai))  
+
+---
+
+If you like, I can show you several villas that match *your exact* budget range (per person or total), preferred location (e.g., East Algarve, close to beach or golf), or preferred amenities so we can narrow down to maybe 2–3 strong contenders for you. Do you want me to pull those together?
