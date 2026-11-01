@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+["https://travelvillaguide.com/the-secret-to-booking-your-perfect-villa/","https://www.luxurylifestylemag.co.uk/travel/jet-set-smart-holiday-travel-safety-tips-for-2026/","https://www.johansens.com/accommodation-types/luxury-villas/","https://quncivillas.com/en/article/how-to-choose-a-villa-rental-in-top-destinations-a-complete-travelers-guide","https://www.oliverstravels.com/blog/your-perfect-holiday-villa/","https://www.travelcounsellors.co.uk/ian.le-fevre/VillaHolidaysYourRelaxedHomeFromHomeWithRoomForAdventure/","https://www.michaelzingraf.com/en/buy/villa","https://www.linkedin.com/pulse/luxury-villa-booking-checklist-what-check-before-your-property-izrff"]
+
+--- RAW RESPONSE TEXT ---
+Look beyond the photos and nightly price: **verify the villa, its location, what’s included, and the booking terms in writing before paying**.
+
+- **Location and access:** Ask for the exact area or nearest landmark, realistic transfer time, road conditions, and whether you’ll need a car or driver. Check whether beaches, shops, and restaurants are genuinely walkable—not just “nearby.”[1][4]
+- **Layout and privacy:** Confirm the actual beds and bathroom arrangements, stairs or separate buildings, and whether the pool and outdoor spaces are overlooked. This matters especially for families, older guests, and groups with different needs.[1][4]
+- **Amenities that affect comfort:** Verify that air conditioning or heating is in the rooms you’ll use, Wi-Fi is suitable for your needs, and the pool, kitchen, and other advertised facilities are available and working. Ask about backup power where outages are a possibility.[1]
+- **Staff and service:** Get specifics on housekeeping, chef or breakfast options, concierge, transfers, laundry, and after-hours assistance. Ask which services are included and which cost extra.[4]
+- **Safety and suitability:** Check locks, security arrangements, emergency contacts, and any relevant pool, stair, or child-safety features. Consider local risks and whether the property is suitable for everyone in your party.[4]
+- **Full cost and terms:** Request a written total covering taxes, cleaning, service charges, utilities, transfers, deposits, and any extra fees. Read the cancellation, refund, payment, and damage-deposit terms before committing.[4]
+- **Reviews and legitimacy:** Look for recent independent reviews mentioning cleanliness, staff, noise, location, and whether the property matched its photos. If anything feels uncertain, ask for a live video tour and verify the booking company independently.[2][4]
+- **Payment protection:** Be wary of pressure to pay by bank transfer or to move a booking conversation off a platform. For eligible UK credit-card purchases between £100 and £30,000, Section 75 may provide protection; it isn’t a substitute for checking the contract and payment arrangements.[2]
+
+A useful final step: send the agent or owner your key questions and keep their answers, the full price, and all promised inclusions in writing.[1][4]
