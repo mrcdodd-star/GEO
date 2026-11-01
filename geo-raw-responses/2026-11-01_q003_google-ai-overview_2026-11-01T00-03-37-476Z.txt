@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.101holidays.co.uk/50th-birthday-holiday-ideas/","https://www.tiktok.com/@foratravel/video/7558586508781964575?lang=en-GB"]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a 50th birthday abroad with a group of 20 friends is an amazing milestone, but the sweet spot for a group this size is finding a destination that balances shared group hangouts with independent breathing room, easy logistics, and a memorable vibe.
+Top international destinations for a 20-person 50th birthday bash are organized below by travel style:
+
+If you'd like to narrow this down, tell me:
+
+I can give you a more tailored recommendation and ideas on how to structure the group logistics.
