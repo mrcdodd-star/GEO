@@ -1,0 +1,60 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2vMv9ENHVtxK3c3m8xjb3r2iaciqyGbxiqPS6lhpmZhe4yc4z2AgA9bOXtK8j_dwb1Phr5mXeO3ltBNgXHjYWtac9gvbRXVZ2PPwQhELukuR4Y4-Wy6rB12wsLsArXZAPiiXqad-PEhfPkO0YB0ieovWAI7Xi4DqV1q8D","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC_BtWaROHIbP1ce5elF2-JCsCchmEsbZSdIqQbjqkTVrptZN1LLVkaGC8q3TeBi1F-Xgfh9Y-6uocZDK-6xL7p6ER2wBeSCHefZxq7vXFCpzibHXKtyBxFjXGQDFKqOyWJVjl","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW6ZPkRGfbeNWU4dAaWFA5Lgz-OcOqfyCTrj38Tssxj-67AK7JHe4KixIQcD7RwJCAgZ8L8aEeJqrD6xdc34Ua7m-z3_-5EVgIANrfQGayCZ0LT_J8vhP-KreIXHkesXVi_SCE9LSdQRAFMYYkP6SHyQTOf9rU8FO5eLhyH7is4OSXIUq6Zg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7UdZPwebO_RjUNG1r3jdJodoGCN-YEo2K0auS32UGI3phQGp7en2bfoa_xYbjNqi5EM9nEUkCDw1o580jFSI3Cn1XWqspthzE4pFeS4AGC6R9Kt0Sp1Mj8g0ffFGfR1eQEQX4XxeUmEDqw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG06oUKjVgsriDX0FD2VJqPtDQYQUltdHPDS8rWNg2ItMBYhuFyP_mTrfj6jA-4ZM3DGIfs7Hp9tAPRNFMcSVQsOwa-SbFluRWTFAh81R59wPyJTene1lEXC_wFASrWLA2GCJPlcX5nDRAjMuhk8XzH_Rf5YhvLoEvaVfgqD2E2DbRwkOq35OIlMx4CVJ4=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBkwTi0XLKi1wIGEHdn6ZoYjkdOHnH3oVnOVVThsYugc3VEc6bP6GFgzqArQl6_0Iz8KCBVUYYETFO4h842m_qG5jei-FhRudmXGY-nxpQeAoPm8qU4w==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkGyzrfEwbWFYz5zqo0Dk9e6Sa3AbGPvM6_Jf8i-r_fl2wqppITYduKrWXzNYLk-IK10BBKthiJyaE45SV96T3VkP4tlK3BSoqn2GrtxQlz1YJqX662WAqcvAokl4FwQJIul8QaQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9PwM8syelbLkeEPrPy6CtsMTVKRr6YGM3QAXrudwQPP41TzT7_eCeV-Ti5TKTGwD4aEuumFyYv0WGJ0_KbNki_2vd10r7U3kS_Hi1wn2d2XHy2lPlYlI9BspYWuJkd3df42DKkVLmTa3dbF57wIAZywnpdQpThaTFlbxdTY1F"]
+
+--- RAW RESPONSE TEXT ---
+Renting a château in France for a wedding from the UK is very straightforward, as there are specialist platforms, UK-based agencies, and curated directories dedicated specifically to helping British couples navigate destination weddings across the Channel.
+
+Here is a guide on **where to look**, **popular regions to consider**, and **key practical advice**:
+
+---
+
+### 1. Dedicated Booking Platforms & Directories
+
+* **Oliver’s Travels** ([oliverstravels.com](https://www.oliverstravels.com)): A UK-based luxury villa and château rental company. They have a dedicated "French Château Weddings" section, offer an in-house concierge team to liaise with suppliers, and operate in British Pounds (GBP).
+* **Chateau Bee Selection** ([chateaubeeselection.com](https://chateaubeeselection.com)): A specialist directory created specifically for UK and international couples. They handpick over 100 châteaux tailored for weddings and offer assistance in English.
+* **French Wedding Style (FWS)** ([frenchweddingstyle.com](https://www.frenchweddingstyle.com)): A directory listing hundreds of vetted French wedding venues, complete with reviews on guest capacity, accommodation, and caterers.
+* **Rent-in-France** ([rent-in-france.co.uk](https://www.rent-in-france.co.uk)): A UK-based directory featuring direct rentals of private châteaux, country houses, and estates.
+* **Château DIY / Private Owners**: Many châteaux featured on Channel 4’s *Château DIY* (e.g., Château de la Couronne, Château de la Valouze) are owned by British expats and host destination weddings with built-in English-speaking teams.
+
+---
+
+### 2. Best Regions in France (with UK Access in Mind)
+
+When planning from the UK, travel logistics for your guests are a major consideration.
+
+* **Dordogne & Charente (Southwest):** 
+  * *Why:* Rolling countryside, vineyards, and medieval châteaux. Extremely popular with UK couples.
+  * *Travel:* Direct budget flights from UK airports to Bordeaux, Bergerac, or Limoges.
+* **Loire Valley:**
+  * *Why:* The classic "fairytale" château region featuring dramatic Renaissance castles and historic gardens.
+  * *Travel:* Accessible via Eurostar to Paris then TGV, drive via Eurotunnel, or flights to Tours/Nantes.
+* **Normandy & Brittany:**
+  * *Why:* Coastal charm, historic manors, and dramatic landscapes.
+  * *Travel:* Ideal if you or your guests prefer to avoid flying—easily reached by car via Brittany Ferries (Dover–Calais, Portsmouth–Caen/St Malo) or the Eurotunnel.
+* **Provence & French Riviera (South of France):**
+  * *Why:* Sun-drenched olive groves, lavender fields, and high-end luxury estates.
+  * *Travel:* Direct flights to Marseille or Nice.
+
+---
+
+### 3. Iconic Châteaux Known for Destination Weddings
+
+* **Château de la Couronne (Charente):** British-owned, offers multi-day wedding packages, sleeps large groups, and fully English-bilingual staff.
+* **Château Rigaud (Bordeaux):** A fully-staffed luxury wine estate specialising in destination weddings for UK and international clients.
+* **Château Challain (Loire Valley):** A dramatic fairytale château known for hosting grand-scale weddings with complete in-house planning.
+* **Château du Fey (Burgundy):** Easily accessible from Paris, offering full exclusivity and accommodation for large guest lists.
+
+---
+
+### 4. Key Tips for UK Couples
+
+1. **The Legal Reality (Symbolic Ceremonies):** To legally marry in France, at least one partner usually needs to reside in the local municipality for 40 consecutive days prior to the wedding. Most UK couples choose to get legally married at a UK registry office beforehand and hold a **symbolic or humanist blessing** at the château.
+2. **On-Site Accommodation:** Check the sleeping capacity on-site vs. local accommodation (gîtes, B&Bs) for remaining guests. Many châteaux sleep 15–30 guests on-premises while hosting reception parties for 100+.
+3. **Curfew & Noise Regulations:** Unlike the UK (where sound curfews are often 11:00 PM), many isolated French châteaux have no strict outdoor noise curfews, though you should confirm local sound restrictions before booking.
+4. **Hiring a Planner:** If you don't speak fluent French, use a château that offers an in-house bilingual coordinator or hire an independent UK/French destination wedding planner.
