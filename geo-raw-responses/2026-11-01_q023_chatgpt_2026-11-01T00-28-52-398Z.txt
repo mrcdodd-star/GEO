@@ -1,0 +1,49 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai","https://www.oliverstravels.com/faq/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here’s a breakdown of **Oliver’s Travels’ cancellation policy (UK-based customers, current as of November 2026)**. Always double-check your specific booking confirmation, as some properties may have additional or different terms. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+---
+
+### 1. **Deposit & Payment Timing**
+
+- **Deposit**: When you book, you’ll need to pay a **non-refundable deposit** of 37.5%. Exceptions apply only if the property is unavailable, in which case Oliver’s Travels will refund everything. ([oliverstravels.com](https://www.oliverstravels.com/faq/?utm_source=openai))  
+- **Balance Due**: The remaining amount must be paid **12 weeks before the arrival date**. If not paid on time, they reserve the right to cancel your booking and keep all payments made. ([oliverstravels.com](https://www.oliverstravels.com/faq/?utm_source=openai))  
+
+---
+
+### 2. **Cancellation by You (Guests)**
+
+- **48-Hour Cooling-Off Period**: You can cancel **within 48 hours** of making a provisional booking—provided the booking isn’t due to start within 14 days. In this period, your deposit will be fully refunded. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- **After Cooling-Off / After 48 Hours**: Once the booking is confirmed, the deposit is **non-refundable**, no matter how far ahead the booking is. No refunds on balance payments either. An admin fee of **£25 per person** applies for cancellations. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+
+---
+
+### 3. **Special “Pay in Full, Cancel for Free” Option**
+
+Some bookings offer a special deal: if you **pay the full cost upfront** and pick the qualifying “Pay in Full, Cancel for Free” option, you can cancel **before a certain deadline** and receive a full refund. For bookings made in 2026 for stays between **1 April and 31 December 2027**, the cancellation deadline is **31 December 2026**, provided you meet all eligibility criteria. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))
+
+---
+
+### 4. **Cancellation by the Owner**
+
+- If the **owner cancels** your booking and **no alternative dates** can be offered, you’ll get a **voucher** equal to all monies you’ve paid so far, redeemable against another Oliver’s Travels property. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- They won’t cover additional expenses you might incur, such as flights or travel costs. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+
+---
+
+### 5. **Extra Fees & Important Notes**
+
+- Besides the deposit, you’ll usually have to pay a **security deposit**, which is refundable after the stay—assuming no damages or issues. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+- Any cancellation request must be made **in writing** (usually via email) and is effective on the date it’s received. ([oliverstravels.com](https://www.oliverstravels.com/terms-and-conditions/?utm_source=openai))  
+
+---
+
+If you tell me the property name or your booking dates, I can check the exact cancellation terms that apply to your stay. Do you want me to do that?
