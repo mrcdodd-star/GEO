@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://www.cvvillas.com/","https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026","https://www.elegantresorts.co.uk/holiday-styles/luxury-villas","https://uk.trustpilot.com/categories/villa","https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://revenuebase.ai/companies/private-villa-booking-platforms/united-kingdom/london","https://www.rentalescapes.com/rentals/luxury-vacation-rentals-europe/united-kingdom","https://www.rentalescapes.com/rentals/luxury-vacation-rentals-europe/united-kingdom/england"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based booker, **CV Villas** is a strong all-round choice; **Simpson Travel** and **The Thinking Traveller** are also worth shortlisting, especially for tailored Mediterranean stays. A 2026 comparison ranks those three among its leaders, while specialist travel coverage highlights several agencies for distinct styles of luxury villa holidays.[1][2]
+
+- **CV Villas** — Good all-rounder for hand-picked villas and support from UK and local teams. Its package holidays are protected, but check the protection terms carefully if booking a villa-only stay.[1]
+- **Simpson Travel** — Worth comparing for curated villa holidays and personalised service; it ranks highly in the 2026 company comparison.[2]
+- **The Thinking Traveller** — A strong pick for a bespoke Mediterranean trip, with a focused portfolio and options such as private chefs, boat charters and tailored experiences.[9]
+- **Oliver’s Travels** — Consider it for family-friendly stays and a broad choice of destinations, including the UK and Ireland.[9]
+- **Abercrombie & Kent Villas** — Best suited to a more fully planned, high-touch trip, with personal advisers and tailored experiences.[5][9]
+- **Elegant Resorts** — Another option for premium villas with private staff and holiday-planning support.[3]
+
+**Quick tip:** Before paying, compare what’s included—staff, cleaning, concierge, transfers and cancellation terms—and check whether the booking is a protected package or villa-only. Tell me your destination, dates, group size and rough budget, and I can narrow this to the best few.
