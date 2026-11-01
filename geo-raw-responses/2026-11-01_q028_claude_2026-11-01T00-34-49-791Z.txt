@@ -1,0 +1,73 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: claude
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://www.villanovo.com/","https://www.bellavista-villas.com/en/home","https://www.chicvillas.com/","https://plumetravels.com/en/maison-de-luxe-notre-selection-des-meilleures-agences-de-location/","https://www.revfine.com/best-luxury-villa-rental-companies-in-europe/","https://www.sunlocation.com/blog/50-meilleurs-sites-de-locations-de-vacances","https://www.rentalscaleup.com/fr/la-liste-ultime-des-sites-de-location-de-vacances-de-luxe/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/"]
+
+--- RAW RESPONSE TEXT ---
+Voici une sélection d'agences pour louer une villa de luxe en Europe depuis la France. Je les ai regroupées par profil. Je n'ai pas testé ces agences, et ces listes viennent en partie de contenus éditoriaux ou promotionnels. Comparez toujours les tarifs et les conditions avant de réserver.
+
+## Agences françaises ou basées en France
+- **Villanovo** : 
+fondée il y a 20 ans à Marrakech, elle propose une sélection d'environ 3 000 villas privées dans le monde
+. Elle couvre notamment 
+Ibiza, la Corse, l'Espagne, Méribel et l'île de Ré
+.
+- **Bellavista** : 
+agence basée en France, à Paris, avec un fonctionnement de boutique
+. Elle propose des destinations méditerranéennes, des villas sur des îles et des séjours romantiques. Elle indique être active 
+depuis 1989
+.
+- **ChicVillas** : spécialisée en France et en Espagne. Elle a 
+un portefeuille d'environ 250 propriétés, dont une soixantaine de châteaux français
+. Elle 
+visite chaque résidence en personne
+.
+- **Cimalpes, Homanie, Domaines de Chabran** : 
+Cimalpes propose près de 19 villas avec piscine en Corse
+. 
+Domaines de Chabran propose quatre maisons haut de gamme entre les Baux-de-Provence et les Alpilles
+. Ces agences sont plutôt adaptées à une destination précise en France.
+
+## Services type hôtel de luxe
+- **Onefinestay** (groupe Accor) : 
+chaque bien passe une inspection en 200 points
+. Les villas sont sur la Côte d'Azur et aux Baléares.
+- **Plum Guide** : se présente comme 
+le « guide Michelin » de la location de vacances
+. Elle propose 
+des services de type hôtel de luxe, avec accueil en personne et conciergerie
+.
+- **Four Seasons Private Retreats** : 
+plus de 750 villas et résidences de luxe dans plus de 21 destinations
+.
+- **Homes & Villas by Marriott Bonvoy** : 
+plus de 140 000 maisons et villas dans le monde
+. C'est un grand choix, mais moins exclusif.
+
+## Agences anglo-saxonnes spécialisées dans le haut de gamme
+- **Insider Villas** et **Simon Escapes** : 
+spécialisées dans les villas haut de gamme, les îles privées et les expériences de grand luxe
+.
+- **Oliver's Travels** : 
+plutôt axée sur les villas familiales à tous les niveaux de prix
+.
+- **Top Villas** : 
+plus de 4 000 villas de luxe dans plus de 50 destinations
+.
+- **Mr & Mrs Smith** : 
+agence londonienne centrée sur les hôtels
+. Elle a aussi 
+lancé en 2016 une collection de villas privées
+.
+
+## Comment choisir
+- **Destination précise** (Côte d'Azur, Corse, Provence) : une agence locale ou spécialisée, comme ChicVillas, Cimalpes ou Domaines de Chabran, connaît mieux les biens.
+- **Choix large et conseil personnalisé** : Villanovo ou Bellavista, qui sont francophones.
+- **Garanties de standing et service constant** : Onefinestay, Plum Guide ou Four Seasons.
+- **Avant de réserver** : vérifiez que l'agence est immatriculée (Atout France) et dispose d'une garantie financière. Regardez aussi la politique d'annulation, le montant de la caution, et si le ménage et le personnel (chef, conciergerie) sont inclus.
+
+Dites-moi votre destination, votre budget et le nombre de personnes. Je pourrai alors vous proposer une sélection plus ciblée.
