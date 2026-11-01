@@ -1,0 +1,66 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best companies for renting a luxury villa in Europe
+
+CITED URLS:
+["https://www.oliverstravels.com/","https://ecomagazine.co.uk/top-10-luxury-villa-rentals-in-europe-the-ultimate-gold-standard/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/","https://thevillacollection.com/the_five_best_luxury_villa_holiday_companies_compared/","https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More"]
+
+--- RAW RESPONSE TEXT ---
+Here are the companies that come up most often for UK travellers. I've grouped them by what they suit best.
+
+**Large, well-regarded UK specialists**
+- **Oliver's Travels** says 
+its destination experts have reviewed over 100,000 holiday homes, and only the top 2% earn a place in the collection.
+ It also says 
+Condé Nast Traveller readers have voted it one of the best villa rental companies in the world for ten years running.
+ It suits large groups and multigenerational trips. One roundup says 
+its list includes French chateaux, Irish castles, and unique follies across Europe.
+
+- **CV Villas** was 
+the UK's first specialist villa company, founded in 1972.
+ One comparison calls it an established name 
+with a strong portfolio, particularly across the Mediterranean.
+
+- **The Thinking Traveller** is described as 
+offering detailed local guides and on-the-ground support.
+ It has won several best-villa-company awards.
+- **Simpson Travel** is noted for 
+properties that come with a dedicated nanny service or crèche.
+ That makes it a good fit for families with young children.
+
+**Top end and ultra-luxury**
+- **Abercrombie & Kent Villas** is Spear's "top recommended" pick. 
+It offers 24/7 emergency support, with teams on the ground near each rental.
+
+- **Icon Private Collection** and **Ultima Collection** also feature in Spear's list. 
+Ultima offers ultra-luxury private residences across Europe.
+
+- **Insider Villas** and **Simon Escapes** both appear in a high-end roundup, and both offer concierge services.
+- **Le Collectionist** is 
+a carefully curated collection of holiday rental properties in the world's most popular destinations.
+ It started in France.
+
+**Country specialists**
+- **Tuscany Now & More** is a London-based Italy specialist. 
+Travel + Leisure's World's Best Awards named it Best Luxury Villa Rental Company in 2023 and 2024.
+
+
+**Good value**
+- **Villa Plus** 
+focuses exclusively on European destinations.
+ A comparison site rates it as 
+good value for European villa holidays.
+
+- **The Villa Collection** is billed as 
+best all-round for worldwide destinations, flights, and financial protection.
+ Note that this comparison is published by The Villa Collection itself, so it isn't impartial.
+
+**Tips**
+- Check the company's financial protection. Look for ATOL if flights are included, or ABTA membership or package travel protection.
+- Ask about staffing, such as a housekeeper, chef or concierge. It varies a lot between agencies.
+- Book early for peak summer. The best villas in Italy, Greece and the South of France often go 9–12 months ahead.
+- Airbnb Luxe is an option, but agencies usually give you more vetting and on-the-ground support.
+
+If you tell me the country, group size and rough budget, I can narrow this down. Several of these companies specialise in particular regions.
