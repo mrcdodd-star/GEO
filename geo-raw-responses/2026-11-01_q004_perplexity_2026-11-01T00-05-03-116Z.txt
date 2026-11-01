@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://www.originaltravel.co.uk/place/family-summer-to-europe-holidays","https://kateandtoms.com/blog/family-reunion-ideas/","https://www.responsibletravel.com/holidays/family-holidays-in-europe/travel-guide/our-top-10-family-holidays-in-europe","https://www.originaltravel.co.uk/collection/all-family-summer-holidays/349","https://www.thetimes.com/article/how-to-go-on-holiday-with-kids-teens-babies-family-travel-3jxz6jdht","https://www.tourradar.com/tg/family-trip-itinerary","https://www.originaltravel.co.uk/place/family-europe-holidays","https://www.familiesworldwide.co.uk/blog/family-holiday-ideas"]
+
+--- RAW RESPONSE TEXT ---
+For a week-long reunion, I’d choose **one base with a big shared villa, pool and outdoor dining area** rather than moving between places. These are strong options from the UK:
+
+- **Algarve, Portugal** — A quinta or villa with a pool gives everyone room to gather, with beaches, boat trips and easy-going days out nearby. It’s a reliable all-rounder for different ages and activity levels.[3]
+- **Mallorca, Spain** — Rent a rural finca or a cluster of nearby villas; combine pool time with beaches, villages and a day trip by boat. The Balearics are well suited to a week-long family break.[1]
+- **Crete or another Greek island** — Choose a villa near a beach and a village, so the group can split up easily and come together for meals. Greece offers warm-water swimming, food, villages and history.[1]
+- **Southern Corsica, France** — A good pick for scenery and beaches, with a more adventurous feel; consider a single villa base rather than trying to see the whole island.[7]
+- **Croatia’s Split Riviera** — Best if the family wants more than pool-and-beach time: sea kayaking, boat trips and outdoor activities can suit older children and teens.[3]
+
+**Best bets by reunion style:** Algarve for the easiest all-round gathering; Mallorca for a classic island week; Croatia for an active group. For spring or autumn, the Algarve and Greek islands are worth considering; if warm weather is the priority, travel later in the season, as shoulder-season conditions can vary.[9]
+
+When choosing accommodation, prioritise enough bedrooms and bathrooms, a large dining table, shade, a pool with child-safety measures, and nearby shops or restaurants. If you share your travel month, group size, ages and rough budget, I can narrow this to a few specific areas.
