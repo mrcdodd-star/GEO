@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.salogivillas.com/it/cucine-gourmet","https://www.posarellivillas.it/ville-di-lusso-a_toscana_italia.html","https://www.airbnb.it/rooms/335091"]
+
+--- RAW RESPONSE TEXT ---
+La Toscana offre dimore storiche, casali ristrutturati e tenute esclusive dotate di ogni comfort, ideali per una vacanza all'insegna del relax e dell'alta cucina.
+Le Mete Più Richieste
+
+Cosa Include l'Esperienza
+
+Per confrontare prezzi, posizioni e disponibilità di tenute esclusive in tutta la regione, puoi consultare il catalogo di Posarelli Villas.
+Se desideri restringere la ricerca, dimmi pure:
+
+Posso aiutarti a trovare la tipologia di villa più adatta alle tue esigenze.
