@@ -1,0 +1,15 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.jet2holidays.com/villas/large-villas","https://www.villanovo.com/villa-rentals/europe/greece/collection:fully-staffed-villas/","https://www.sunvil.co.uk/LiveSiteAsset/2026/Greece%20Brochure%202026/Villa%20Holidays.pdf","https://www.thetimes.com/holidays/cruise/tailor-made-holidays/villa-holidays-in-greece/","https://www.tui.co.uk/holidays/villas/europe/greece/","https://www.sunvil.co.uk/holidays/greece/paxos/accommodation/villa-andromeda","https://www.villaselect.com/villa-holiday-resorts/greece-villa-holidays","https://www.clickstay.com/greece"]
+
+--- RAW RESPONSE TEXT ---
+For a **fully staffed villa** in Greece—typically with housekeeping and a cook or private chef—**Villanovo** is the clearest match: it lists 49 fully staffed Greek villas across destinations including Crete, Corfu, Mykonos and the Cyclades, and has a UK contact number, **020 3318 7269**. Check each villa’s listing for exactly which staff and meals are included, as “fully staffed” can mean different things.[1]
+
+If you’re open to arranging services rather than booking a villa with a set staff team, **Oliver’s Travels through Times Travel** offers Greek villas with concierge support to arrange catering, fridge-fills and other extras; daily or mid-week housekeeping is available at selected homes. UK flights can be requested.[2]
+
+When comparing quotes, ask whether the price includes a chef’s labour **and food**, daily housekeeping, airport transfers, and any minimum-stay requirements.
