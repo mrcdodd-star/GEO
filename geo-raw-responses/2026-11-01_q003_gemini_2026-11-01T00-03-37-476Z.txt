@@ -1,0 +1,78 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a 50th birthday with a group of 20 requires a destination that balances **sophistication, great food and drink, easy flight logistics from the UK, and accommodation large enough to keep everyone together**. 
+
+Here are five top-tier destination ideas for a memorable 50th celebration, tailored to different group styles:
+
+---
+
+### 1. Ibiza or Mallorca, Spain
+**The Vibe:** Elevated villa luxury, world-class beach clubs, and memorable dining.  
+*Best for: A stylish, sun-filled celebration with a mix of relaxation and partying.*
+
+* **Why it works for 20 people:** Both islands excel at large private *fincas* (countryside villas) with pools, outdoor dining terraces, and space for everyone to spread out. It’s ideal for setting up a base where people can relax by the pool by day and head out together by night.
+* **Flight time:** ~2.5 hours (flights from almost every UK airport).
+* **50th Birthday Highlight:** 
+  * **Ibiza:** Rent a villa in the quiet north or center (near Santa Gertrudis). Charter a private catamaran for a day trip to Formentera, followed by dinner at *Jul’s* or sunset drinks at *Hostal La Torre*.
+  * **Mallorca:** Base near Deia, Sóller, or Palma. Do a private wine-tasting tour in the Binissalem region and book a group celebration dinner at *El Olivo* in Belmond La Residencia.
+
+---
+
+### 2. Marrakech, Morocco
+**The Vibe:** Exotic, immersive, high-drama, and bucket-list worthy.  
+*Best for: Something totally different, warm weather outside peak summer, and seamless luxury.*
+
+* **Why it works for 20 people:** You can rent out an **entire Riad** in the Medina or a sprawling estate villa in the **Palmeraie** (the countryside outside the city center). Having exclusive use of a private estate with dedicated staff (chefs, housekeepers) takes all the stress out of feeding and hosting 20 people.
+* **Flight time:** ~3.5 to 4 hours (direct from London, Manchester, Bristol, etc.).
+* **50th Birthday Highlight:** A birthday banquet in the Agafay Desert under the stars with live music and fire performers, or a private rooftop dinner in the Medina followed by drinks at *Le Comptoir Darna*.
+
+---
+
+### 3. Tuscany or Umbria, Italy
+**The Vibe:** Long slow lunches, vineyard views, private chefs, and effortless Italian charm.  
+*Best for: Foodies, wine lovers, and groups who prefer a relaxed, picturesque celebration.*
+
+* **Why it works for 20 people:** Italy’s countryside is filled with large historic estates and converted hamlets (*borghi*) equipped with private chefs, pools, and massive dining tables. It allows the group to hang out, cook, drink, and explore neighboring hilltop towns.
+* **Flight time:** ~2 to 2.5 hours to Pisa, Florence, or Bologna.
+* **50th Birthday Highlight:** Hire a local chef to do a hands-on pasta-making workshop at your villa, followed by a multi-course birthday dinner paired with local Chianti/Brunello wines. Organize a day visiting local vineyards or renting vintage Alfa Romeos for a convoy ride.
+
+---
+
+### 4. Lisbon & Cascais, Portugal
+**The Vibe:** Vibrant city energy, coastal views, seafood feasts, and fantastic nightlife.  
+*Best for: Groups who want a lively city break combined with beach/coastal elements.*
+
+* **Why it works for 20 people:** Lisbon offers high affordability relative to luxury, fantastic rooftop bars, and excellent group dining options. You can stay in a large boutique hotel or rent modern luxury apartments near Avenida da Liberdade, or opt for a beach villa in nearby Cascais (30 mins away).
+* **Flight time:** ~2.5 hours (frequent flights from across the UK).
+* **50th Birthday Highlight:** Charter a private 20-person sailboat on the Tagus River at sunset with local wine and petiscos (Portuguese tapas), followed by a group dinner at a sleek venue like *JNCQUOI* or a Michelin-starred group dining experience.
+
+---
+
+### 5. The Algarve, Portugal (Vilamoura / Quinta do Lago)
+**The Vibe:** Effortless logistics, luxury beach resorts, golf, and ocean activities.  
+*Best for: A stress-free, sun-drenched trip where logistics need to be as easy as possible.*
+
+* **Why it works for 20 people:** Faro airport has massive flight capacity from regional UK airports, making it the easiest place for guests flying in from different parts of the UK (e.g., London, Scotland, Midlands) to coordinate. Quinta do Lago and Vale do Lobo offer huge luxury rental villas with tennis courts, heated pools, and direct beach access.
+* **Flight time:** ~2.5 to 3 hours.
+* **50th Birthday Highlight:** Spend the day at an upscale beach club like *Maria’s* or *Purobeach*, followed by a private sunset yacht cruise along the Benagil coast.
+
+---
+
+### Logistics & Planning Tips for a Group of 20
+
+1. **Accommodation Strategy:** 
+   * **Private Villa with Exclusive Use:** Best for keeping the group together, playing music, and hosting a central birthday dinner. Look at platforms like *The Thinking Traveller*, *Oliver’s Travels*, or *Le Collectionist*.
+   * **Boutique Hotel Takeover:** If friends want their own private bathrooms and space, look for 10-12 room boutique hotels that allow a full buyout.
+2. **Assign a "Birthday Night" Highlight:** Don't over-schedule every day for 20 people—let people explore at their own pace during the day. Focus on 2–3 key group events:
+   * A **Welcome Drinks / Tapas** evening on arrival.
+   * A **Private Boat/Catamaran Charter** for the day.
+   * The **Main Birthday Dinner** (hire a private chef at the villa or book a private dining room).
+3. **Flight Coordination:** Choose destinations served by both London and regional airports (Manchester, Birmingham, Edinburgh) so guests don't all have to travel via London.
