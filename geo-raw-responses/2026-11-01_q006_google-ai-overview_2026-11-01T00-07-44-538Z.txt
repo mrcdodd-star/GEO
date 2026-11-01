@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best companies for renting a luxury villa in Europe
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YW10MmNtNDNORFUYCg","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YW0xa01GOXVNalkYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJMllubHlOR2cxGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhac1pEa3dOR05mGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNGNUaHpjRGR4GAo"]
+
+--- RAW RESPONSE TEXT ---
+When looking for the finest European luxury villa rentals, top-tier agencies combine rigorously vetted properties with bespoke, high-touch concierge services (such as private chefs, yacht charters, and tailored local itineraries).
+The top-rated and most reputable companies specializing in high-end European villa rentals include:
+
+If you share your preferred European destination (e.g., Italy, Greece, Spain, France) and group size, I can narrow down which of these agencies has the best specific portfolio for your trip.
