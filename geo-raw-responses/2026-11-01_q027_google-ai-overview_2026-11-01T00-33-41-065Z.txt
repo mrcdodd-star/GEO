@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.loumas-provence.com/fr/accueil/","https://www.provence-villa.com/fr/collections/villas-avec-chef-cuisinier"]
+
+--- RAW RESPONSE TEXT ---
+La location d'une villa de luxe en Provence avec un chef privé est l'incarnation ultime de l'art de vivre provençal : allier l'intimité d'une somptueuse bastide ou d'un domaine viticole à une expérience gastronomique sur-mesure.
+Agences et sélections recommandées en Provence
+
+Ce que comprend généralement l'expérience
+
+Pour vous aider à trouver la villa idéale, pouvez-vous me préciser :
