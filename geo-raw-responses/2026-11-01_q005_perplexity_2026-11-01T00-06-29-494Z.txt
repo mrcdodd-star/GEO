@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.jet2holidays.com/self-catering-holidays","https://newswav.com/article/so-you-want-to-go-on-holiday-with-friends-who-have-kids-here-are-your-best-A2609_NhR99i","https://www.britishairways.com/content/holidays/holiday-types/family-holidays","https://www.tui.co.uk/holidays/family","https://www.thomascook.com/holidays/self-catering","https://www.scottdunn.com/luxury-holiday/family-holidays/family-hotels","https://www.easyjet.com/en/holidays/single-parent-families","https://www.robinson.com/en/en/offers/last-minute/"]
+
+--- RAW RESPONSE TEXT ---
+The closest match is a **family resort with all-inclusive meals and a supervised kids’ club**: the resort handles the food, while childcare gives you some time off. The key is checking the club’s age limits, hours, and whether it’s included or costs extra—these vary by hotel.[3][4]
+
+- **All-inclusive family resorts:** Meals, drinks and often entertainment are bundled; look for resorts with kids’ clubs. TUI’s family hotels, for example, advertise clubs for babies, children and teens at selected properties.[3][4]
+- **Resorts with dedicated childcare:** Some specialist family resorts offer more structured or longer childcare than a standard hotel club. Scott Dunn’s Explorers programme covers children aged 4 months to 11 years at selected resorts, while other hotels may offer babysitting or nanny services.[6][10]
+- **Family hotels in the UK:** If you’d rather avoid flights, some family-focused hotels offer meals, play facilities and blocks of supervised childcare. For example, one UK hotel group featured in recent coverage offers two hours of childcare daily, while another offers four hours at its Ofsted-registered Playbarn; check current availability and terms directly.[2]
+- **A resort villa plus hotel facilities:** This gives you private space but access to shared restaurants and activities, so you can skip cooking without staying in a conventional hotel room. Childcare may need to be arranged separately.[9]
+
+When comparing options, check **how many hours of care you actually get, whether it’s supervised and included, the minimum age, booking requirements, and whether all meals are covered**. “Kids’ club” can mean anything from a few scheduled activities to substantial childcare, so confirm the specifics before booking.[3][4]
