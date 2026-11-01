@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Booking a private villa in the Algarve for a group of 12 in August is a fantastic plan, but because August is peak summer season, **large properties (5–6+ bedrooms) sell out fast and carry strict Saturday-to-Saturday 7-night minimum stay rules.**
+
+To help you narrow down your search, here is a breakdown of the best locations, recommended booking platforms, and key tips for UK travellers.
+
+---
+
+### 1. Which Area of the Algarve Suits Your Group?
+
+With 12 people, your group's "vibe" will determine the best location:
+
+*   **Lagos & Praia da Luz (West):** Best for a mix of stunning beaches (Pontal da Piedade), historic town culture, great dining, and a relaxed, slightly younger or mixed-age group feel.
+*   **Quinta do Lago / Vale do Lobo / Vilamoura (Golden Triangle):** Best for luxury, privacy, high-end dining, golf, and large gated estates with private grounds. Ideal for multi-generational families or luxury milestone celebrations.
+*   **Carvoeiro & Ferragudo (Central):** Picturesque coastal towns with dramatic cliffs, fantastic restaurants, and family-friendly coves. Central location makes day trips easy.
+*   **Albufeira Suburbs (e.g., Olhos de Água, Gale):** Great if you want to be close to nightlife, beach clubs, and activities, while staying slightly outside the busy strip for quiet at night.
+*   **Tavira & Eastern Algarve:** Quieter, more authentic Portuguese feel, expansive white-sand islands, and better value for larger villas.
+
+---
+
+### 2. Best UK Villa Specialists for Large Groups
+
+When booking for 12, using reputable UK-based specialists provides ABTA/ATOL protection and curated large properties:
+
+*   **Oliver’s Travels:** Excellent selection of large luxury properties (6+ bedrooms) ideal for groups, multi-family holidays, or celebrations.
+*   **CV Villas:** High-end, premium portfolio in the Algarve with dedicated concierge support.
+*   **Solmar Villas & Villa Plus:** Great mid-to-high range selection, often with flight + villa packages available from major UK airports.
+*   **Vintage Travel:** Hand-picked independent villas with private pools, ideal for quieter, authentic stays.
+*   **Vrbo & Airbnb:** Useful for booking directly with owners, but ensure you filter specifically for "Entire Villa", minimum 6 bedrooms, and check verified reviews carefully.
+
+---
+
+### 3. Key Essentials to Check Before Booking
+
+*   **Bedrooms & Bathrooms:** A group of 12 usually needs a **5 to 6-bedroom villa** (or a 5-bed with a self-contained annex). Look for at least 4–5 bathrooms to avoid morning queues.
+*   **Air Conditioning:** **Essential for August.** Temperatures routinely exceed 30°C–35°C. Ensure AC is installed in all bedrooms, not just the main living area.
+*   **Pool Heating:** Unnecessary in August; the sea and outdoor pools are at their naturally warmest.
+*   **Outdoor Living:** Check that the villa has an outdoor dining table that comfortably seats 12 in the shade, as well as adequate sun loungers and a built-in BBQ.
+
+---
+
+### 4. Travel & Logistics from the UK
+
+*   **Flights:** Direct flights to **Faro (FAO)** run daily from nearly all UK airports (Gatwick, Heathrow, Stansted, Luton, Manchester, Birmingham, Bristol, Edinburgh, Belfast, etc.) via EasyJet, Ryanair, BA, Jet2, and TAP.
+*   **Transfers vs. Rental Cars:** 
+    *   A group of 12 with luggage will **not** fit in a standard minibus alongside luggage.
+    *   **Option A:** Hire 2–3 cars at Faro airport (essential if staying in a rural or spread-out villa).
+    *   **Option B:** Pre-book a dedicated 16-seater private airport transfer if you plan to stay within walking distance of a town/beach and use Ubers for local trips.
+
+---
+
+### How to Narrow This Down:
+
+To help find specific villa options or tailor this further, let me know:
+1. **Group composition:** Is this a group of adult friends, multiple families with children, or a multi-generational family?
+2. **Budget range:** (e.g., mid-range, high-end, or ultra-luxury)
+3. **Preferred style:** Walking distance to a town/beach vs. private secluded countryside retreat?
