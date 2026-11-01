@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q028
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: perplexity
+QUERY TEXT: meilleures agences de location de villas de luxe en Europe
+
+CITED URLS:
+["https://www.villanovo.fr/location-villas/europe/","https://www.lecollectionist.com/fr/location-villas-luxe/europe","https://www.villanovo.fr/","https://www.villanovo.fr/location-villas/europe/france/collection:sejours-en-ville/","https://www.villanovo.fr/location-villas/europe/france/collection:villas-ultra-luxe/","https://www.villanovo.fr/location-villas/europe/france/","https://www.villanovo.fr/location-villas/europe/france/collection:iles-privees/","https://www.villanovo.com/villa-rentals/europe/france/collection:resort-villas/"]
+
+--- RAW RESPONSE TEXT ---
+Pour une réservation depuis la France, **Le Collectionist** et **Villanovo** sont deux options à comparer en priorité : les deux proposent un vaste choix de villas européennes et un accompagnement personnalisé.[1][2][3]
+
+- **Le Collectionist** — grand catalogue européen, notamment en France, en Grèce, en Italie, en Espagne et au Portugal. À privilégier si vous voulez beaucoup de choix et des prestations haut de gamme.[2]
+- **Villanovo** — agence francophone spécialisée dans les villas de luxe, avec une sélection annoncée de près de 3 000 maisons dans le monde et des services sur mesure.[1][3]
+
+**Pour choisir**, comparez les propriétés disponibles à vos dates, les frais de service, les conditions d’annulation et ce qui est inclus (ménage, conciergerie, chef ou transferts). La « meilleure » agence dépend surtout de la destination, du budget et du niveau de service recherché.
