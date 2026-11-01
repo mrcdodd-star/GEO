@@ -1,0 +1,56 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q018
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: are specialist villa companies worth paying more for than Airbnb
+
+CITED URLS:
+["https://www.which.co.uk/reviews/holiday-lets/article/best-self-catering-accommodation-providers-a6moP3H8ajLe","https://en.wikipedia.org/wiki/ABTA_(trade_association)","https://www.houst.com/blog/is-airbnb-booking-atol-protected-uk","https://thevillacollection.com/the_five_best_luxury_villa_holiday_companies_compared/","https://www.mcpihosting.co.uk/blog/airbnb-fees-uk"]
+
+--- RAW RESPONSE TEXT ---
+**It depends on what you're paying extra for.** For a villa booked with flights, the extra cost can be worth it. For accommodation only, it often isn't.
+
+**What the extra money buys**
+- **Financial protection.** If a villa company sells flights and accommodation together, 
+you get ATOL protection, so you won't be stranded abroad or lose money if the company goes bust.
+ The same applies to Jet2, Tui and BA villa packages. 
+Packages also give extra legal protection if something goes wrong with the holiday.
+
+- **Weaker cover on Airbnb.** Airbnb's AirCover offers support with serious booking problems, but 
+it isn't an insurance policy.
+
+- **Vetting.** 
+Gites de France vets each property, unlike Airbnb, Booking.com and Vrbo, which simply list them.
+ Many specialist villa companies also inspect their properties and provide a local rep. Check that for any company you're considering.
+- **A fallback if the villa falls through.** With a package, 
+you won't lose out financially
+ if the accommodation isn't available.
+
+**Caveats**
+- **Not every villa company has ATOL.** Protection depends on the booking including flights. One villa company's own comparison says a rival 
+doesn't include flights, so there's no ATOL protection.
+ That source sells villas itself, so treat its comparisons with caution. Check for an ATOL certificate, and for ABTA membership if you're booking accommodation only.
+- **Airbnb isn't necessarily the budget option.** Which? found that 
+package holiday providers were the more expensive
+, but Airbnb still scored well with customers in its survey (77% customer score).
+- **Airbnb's fees are now less of a factor.** Since June 2026, 
+UK hosts pay a single 15.5% fee, and guests see one all-in price.
+ Hosts may raise their prices to cover it, so compare the total you'd pay.
+
+**When a specialist is worth it**
+- You're booking flights and the villa together.
+- It's a big group, a pricey trip, or fixed dates like school holidays.
+- The villa is remote or has a pool, and you want housekeeping, a local contact and someone to sort out problems.
+
+**When Airbnb is fine**
+- You're booking accommodation only, and the dates are flexible.
+- The listing has lots of recent reviews and a host with a good track record.
+- You're comfortable sorting out problems yourself.
+
+**Whichever you choose**
+- Read the cancellation terms.
+- Pay by credit card if you can, which gives you extra consumer protection.
+- Don't pay a host outside the platform.
+- Take out travel insurance.
+
+If you tell me the destination, group size and budget, I can suggest which route is likely to suit you.
