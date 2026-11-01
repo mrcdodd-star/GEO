@@ -1,0 +1,64 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More","https://suitcasemag.com/articles/best-villa-rental-companies/","https://thevillacollection.com/the_five_best_luxury_villa_holiday_companies_compared/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/","https://www.customeragent.co.uk/the-best-villa-rental-websites.htm","https://www.savoirflair.com/en/article/living/best-villa-south-of-england/e2e9e964-96cf-4b6f-b059-78874e4414e3"]
+
+--- RAW RESPONSE TEXT ---
+Here are the main UK-based options, grouped by what you're likely after. I've assumed you mean villas abroad, but I've included luxury rentals within the UK as well.
+
+## Luxury villas abroad (UK-based companies)
+- **Abercrombie & Kent Villas** and **Icon Private Collection** are rated "Top Recommended" in Spear's 2026 roundup. 
+A&K focuses on meticulously hand-picked villas and entered the villa market in 2002.
+ 
+It offers 24/7 emergency support, with teams on the ground near each rental.
+
+- **Ultima Collection** 
+offers ultra-luxury private residences across Europe.
+
+- **Tuscany Now & More** is a good choice if you want Italy. 
+It's a London-based, family-run company specialising in Italian villa holidays.
+ 
+Travel + Leisure's World's Best Awards named it Best Luxury Villa Rental Company in 2023 and 2024.
+
+- **Oliver's Travels** 
+emphasises France, Italy, the Caribbean and upmarket rural Britain.
+ One comparison site notes that 
+it doesn't include flights in its offering
+, so you won't get ATOL protection if you book flights through it.
+- **The Thinking Traveller** specialises in 
+luxury villas in Sicily, Puglia, the Ionian and Sporades islands in Greece, and Corsica, including villas exclusive to them.
+
+- **CV Villas** 
+was the UK's first specialist villa company, founded in 1972.
+ It has 
+a strong portfolio, particularly across the Mediterranean.
+
+- **Insider Villas**, **Simon Escapes** and **Le Collectionist** are also on Just Luxe's list. 
+Insider Villas is rated as high end and covers Europe, the Caribbean, the USA and South Africa.
+
+- **James Villas** is more mainstream. 
+Its website offers more than 3,000 holiday villas.
+
+
+## Luxury rentals within the UK
+- **Big House Experience** is 
+the go-to UK luxury accommodation provider for large groups.
+
+- **Luxury Cotswold Rentals** offers 
+heritage-rich estates.
+
+- **Unique Homestays** 
+has been arranging bespoke luxury English holidays since 2001.
+
+- **Classic Cottages** and **Hoseasons** are also on the list. 
+Hoseasons covers everything from luxury homes and holiday parks to converted barns.
+
+
+## Tips
+- Some "best of" lists come from companies promoting themselves. Haute Retreats and The Villa Collection both rank themselves first on their own sites, so treat those rankings with caution.
+- If you're booking flights too, check for **ATOL protection**.
+- If you tell me your destination, group size and budget, I can narrow this down.
