@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://premiervillas.net/portugal/algarve/vilamoura/villas-up-to-10-people/group","https://excellenceluxuryvillas.com/city/algarve/","https://premiervillas.net/algarve/6-bedroom-villas","https://5starvillaholidays.com/luxury-villas/portugal/algarve/properties","https://www.elegantresorts.co.uk/luxury-villa-holidays/algarve","https://premiervillas.net/portugal/algarve/platinum-collection/group","https://www.elegantresorts.co.uk/luxury-villa-holidays/portugal","https://premiervillas.net/portugal/algarve/villas-10-people-or-more/group"]
+
+--- RAW RESPONSE TEXT ---
+Several UK-bookable Algarve villas sleep 12, but **August dates and prices need checking for your exact week**—it’s peak season, so availability can be tight.
+
+- **Casa Viva, Vilamoura** — six bedrooms, private infinity pool, games room and outdoor kitchen; listed from **£6,903 per week**.[1]
+- **Villa Alvaro, Vilamoura** — five bedrooms, private pool and gardens beside Pinhal Golf Course; listed from **£2,771 per week**.[1]
+- **Villa Aria, Lagos** — six bedrooms, heated pool and jacuzzi; sleeps up to 12, but is listed for a maximum of **8 adults and 4 children**.[3]
+- **Villa Lavanda, Quinta do Lago** — six bedrooms, private pool and outdoor terraces; listed from **£18,136 per week**.[6]
+- **Bougainvillea Beach House, near Albufeira** — six bedrooms, private pool and direct access to Galé beach.[8]
+
+For an initial shortlist, Vilamoura offers several group-sized options; Quinta do Lago is a more premium choice, while Lagos puts you in the western Algarve. Share your **August dates, budget per week, number of adults and children, and preferred area**, and I can narrow this down.
