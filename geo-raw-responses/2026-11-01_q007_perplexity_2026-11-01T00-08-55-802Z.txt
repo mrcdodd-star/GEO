@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://villavacations.com/collections/staffed-villas/","https://www.cvvillas.com/collections/villas-with-cook-service/villas-with-cooks-in-italy/","https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/","https://fantasiavillas.com/destinations/italy-villa-rentals/villa-mare-blu-in-praiano/","https://fantasiavillas.com/destinations/italy-villa-rentals/luxury-villas/","https://www.thetopvillas.com/destination/italy/villas-with-staff","https://www.thetimes.com/holidays/cruise/tailor-made-holidays/villa-holidays-in-italy/","https://www.tuscanynowandmore.com/eng/tuscany-villa-rentals-with-chef.html"]
+
+--- RAW RESPONSE TEXT ---
+The easiest route is to use a UK-based Italy villa specialist and ask for a **staffed villa**, not just a villa with a chef available on request. For example, Tuscany Now & More is London-based and offers chef and concierge options; CV Villas has a UK phone line and villas with cook service across Italy.[2][8]
+
+When you enquire, give them your dates, guest count, preferred region and budget, then confirm these details **in writing** before paying:
+
+- Is the chef included every day? Which meals and how many hours?
+- Is daily housekeeping included, and what are the hours and days off?
+- Are groceries, chef fees, service charges and taxes extra?
+- Can they accommodate dietary needs, children or accessibility requirements?
+- What are the deposit, cancellation and payment terms?
+
+Staffing varies significantly between villas: some provide daily housekeeping and a chef for only certain meals or days, and food costs are often separate.[1][3] Ask for a written quote that itemises the rental, staff schedule, food and any optional services.
+
+If your dates are in peak summer, start early: one agency recommends booking nine to twelve months ahead for June–September.[3]
