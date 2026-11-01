@@ -1,0 +1,64 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.clickstay.com/portugal/algarve","https://www.villasinportugal.com/algarve/with-pools/","https://www.villasdumonde.com/portugal-villas/algarve-holiday-en-11-61-1.html","https://www.sandyblue.com/villas/pool","https://algarvevillaselection.com/","https://www.rentvillasalgarve.co.uk/large-villas-in-portugal/","https://premiervillas.net/portugal/algarve/villas-10-people-or-more/group","https://www.simplyowners.net/villa-rentals-algarve-portugal/large/"]
+
+--- RAW RESPONSE TEXT ---
+Here's what I found for a 12-guest villa in August 2027. I couldn't check live availability for your dates, so treat the prices as starting points.
+
+**Price ranges (August is peak, so expect the upper end)**
+- **Mid-range:** 
+Casa Dos Padeiros is a 5-bed villa sleeping 12, with a heated 12m x 6m private pool, from £2,700 per week.
+ Another 5-bed villa near Portimão and Monchique sleeps 12 and is listed 
+from £2,200 p/w
+. "From" prices are usually low-season rates.
+- **Upper mid:** Villas du Monde lists 12-person villas 
+from €4,680 per week
+ up to 
+€6,415 per week
+ for a countryside and sea view villa with a private pool.
+- **Luxury (Golden Triangle):** SandyBlue lists 6-bed, 12-guest villas in the Quinta do Lago area 
+from about €7,000 to €10,800
+.
+
+**Where to base yourselves**
+- **Quinta do Lago, Vale do Lobo and Vilamoura (the "Golden Triangle"):** 
+This is widely regarded as the most premium area, with the most luxurious villas, golf and fine dining.
+ It's the most expensive option.
+- **Albufeira:** 
+A popular choice for groups, with beaches, restaurants, nightlife and activities nearby.
+ It's good for a livelier trip.
+- **Lagos and the west:** 
+Lagos, Vilamoura and Albufeira's old town are family-friendly areas.
+ Lagos also has dramatic coastline.
+- **Countryside or eastern Algarve (Tavira, Estoi, Pechão):** These tend to be quieter and often better value. They're also close to Faro airport, which is useful for a big group.
+
+**Specialist agents with 12-guest villas**
+- 
+Premier Villas has 6-bed villas sleeping 12 in Quinta do Lago, Vilamoura and Salema.
+
+- Le Collectionist, SandyBlue and Simply Owners also list plenty of 12-sleepers. Simply Owners has a 
+villa sleeping 12 with a private pool, BBQ, sea views and table tennis
+.
+
+**Tips for a group of 12**
+- Book soon. The best 12-sleepers for August tend to go early, and many agents take deposits a year ahead.
+- Check the bed setup (6 bedrooms with en-suites is much easier than 5 with shared bathrooms). Also check whether the 12 includes sofa beds, and whether children count towards the limit. One listing, for example, caps guests at 
+8 adults and 4 children
+.
+- Make sure the listing includes air conditioning in the bedrooms and a heated or shaded pool. Some listings have only partial air con.
+- Look at extras such as a cleaning fee, a pool heating charge, a security deposit and tourist tax. A private chef or housekeeping can also be arranged.
+- Check the distance to the beach and to a supermarket. A car is essential for most villas.
+
+To narrow this down, it would help to know:
+1. Your budget, in total or per person.
+2. Your dates and whether they're flexible. Mid-August is the most expensive and busiest period.
+3. The kind of trip: families with children, adults, a celebration, or golf.
+4. Whether you want to walk to the beach and restaurants, or prefer seclusion.
+5. Your nearest UK airport. Faro is the main gateway, and Lisbon or Seville are sometimes cheaper alternatives.
+
+With those answers I can suggest a shortlist.
