@@ -1,0 +1,61 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q027
+MARKET / LANGUAGE: France / fr
+SOURCE MODEL: chatgpt
+QUERY TEXT: location de villa de luxe avec chef prive en Provence
+
+CITED URLS:
+["https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai","https://adam-brunet.com/chef-prive-provence?utm_source=openai","https://homanie.squarespace.com/location-villa-luxe/location-villa-eygalieres?utm_source=openai","https://www.homanie.com/location-villa-luxe/villa-luxe-cassis?utm_source=openai","https://lavilladeslys.fr/pages/tarifs.html?utm_source=openai","https://villa-amour.fr/?utm_source=openai","https://www.provenceholidays.com/fr/experience-services/chef-a-domicile?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Voici quelques sélections et conseils pour louer une **villa de luxe avec chef privé en Provence**, ainsi qu’une fourchette des tarifs et des types de prestations disponibles. Je peux aussi vous proposer des villas spécifiques selon vos dates, nombre de personnes ou budget si vous voulez.
+
+---
+
+## Villa + chef privé : ce que cela comprend
+
+- Villa entière (mas, bastide, domaine…) avec piscine, grand jardin, plusieurs chambres, minimum 5 à 8 personnes voire plus. ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai))  
+- Services sur mesure incluant : chef privé pour un ou plusieurs repas, ménage, conciergerie, petit-déjeuner, parfois coach, spa, excursions. ([adam-brunet.com](https://adam-brunet.com/chef-prive-provence?utm_source=openai))  
+- Personnalisation : menus selon vos goûts, produits locaux, organisation de soirées spéciales, activités culturelles, visites œnologiques… ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai))  
+
+---
+
+## Exemples de villas haut de gamme en Provence
+
+Voici quelques villas que j’ai repérées, avec leurs caractéristiques, tarifs, et services de chef disponible :
+
+| Villa | Capacité / Chambres | Tarif approximatif* | Services de chef privé / Disponibilité |
+|---|---|---|---|
+| Bastide de luxe à Eygalières (Homanie) | 14 adultes + 4 enfants – 8 chambres | Haute saison : environ **4 110 €/nuit**, moyenne : **3 550 €/nuit** ([homanie.squarespace.com](https://homanie.squarespace.com/location-villa-luxe/location-villa-eygalieres?utm_source=openai)) | Chef privé à la carte, cours de cuisine possible ([homanie.squarespace.com](https://homanie.squarespace.com/location-villa-luxe/location-villa-eygalieres?utm_source=openai)) |
+| Villa de luxe à Cassis (Homanie) | Jusqu’à plus de 20 personnes | Haute saison : à partir de **14 000 €/nuit**, moyenne saison : **9 000 €/nuit** ([homanie.com](https://www.homanie.com/location-villa-luxe/villa-luxe-cassis?utm_source=openai)) | 6 dîners par semaine préparés par chef selon la réservation, options chef privé ([homanie.com](https://www.homanie.com/location-villa-luxe/villa-luxe-cassis?utm_source=openai)) |
+| Villa des Lys – Aix-en-Provence | Jusqu’à 8 personnes (4 suites + studio) | Hausse de 2 800 €/semaine en basse saison à 5 600 €/semaine en été ([lavilladeslys.fr](https://lavilladeslys.fr/pages/tarifs.html?utm_source=openai)) | Chef à domicile sur demande, dîner privé sous la pergola dès ~120 €/personne ([lavilladeslys.fr](https://lavilladeslys.fr/pages/tarifs.html?utm_source=openai)) |
+| Villa Amour – Les Alpilles | 10 personnes, 5 suites | Tarif sur demande mais villa de prestige avec grands services ([villa-amour.fr](https://villa-amour.fr/?utm_source=openai)) | Chef personnel, conciergeries dédiées, sur mesure ([villa-amour.fr](https://villa-amour.fr/?utm_source=openai)) |
+| Villas “Villanovo” – Provence (ex : Château de Tourreau, Mas de Chabran) | 10 à 30+ personnes selon villa | De ~**1 200 €/nuit** jusqu’à ~**11 500 €/nuit** pour les plus grandes villas ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai)) | Chef cuisinier inclus dans certaines villas ou disponible en option ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai)) |
+
+\* Tarifs indicatifs pour 2026, hors frais éventuels de chef, courses, service additionnel.
+
+---
+
+## Tarif chef privé : à quoi s’attendre
+
+- Selon le chef, le nombre de repas, les plats (gastronomique ou simple), comptez **400 à 600 €/jour** pour un groupe de 1 à 10 convives, courses en sus. ([adam-brunet.com](https://adam-brunet.com/chef-prive-provence?utm_source=openai))  
+- Dîner privé dans une villa : à partir de **~120 €/personne**, selon le niveau du chef et du repas. ([lavilladeslys.fr](https://lavilladeslys.fr/pages/tarifs.html?utm_source=openai))  
+- Service chez un organisateur / agence, souvent entre **70 € et 130 €/personne** pour un repas selon le standing du chef et le menu choisi. ([provenceholidays.com](https://www.provenceholidays.com/fr/experience-services/chef-a-domicile?utm_source=openai))  
+
+---
+
+## Conseils pour bien choisir & réserver
+
+1. Définissez vos priorités : nombre de personnes, niveau de luxe, localisation (Alpilles, Luberon, côte etc.), durée minimale.
+
+2. Réservez à l’avance pour l’été ou les périodes hautes : les villas de luxe et les chefs sont très demandés. ([villanovo.fr](https://www.villanovo.fr/location-villas/europe/france/provence/collection%3Avillas-avec-chef-cuisinier/?utm_source=openai))
+
+3. Vérifiez ce qui est inclus dans le prix : service ménage, linge, petits-déjeuners, cuisine, courses ; certaines prestations de chef peuvent être en supplément. ([homanie.squarespace.com](https://homanie.squarespace.com/location-villa-luxe/location-villa-eygalieres?utm_source=openai))
+
+4. Demandez un devis détaillé : menus, produits, personnel de service. Assurez-vous de l’expérience du chef. ([adam-brunet.com](https://adam-brunet.com/chef-prive-provence?utm_source=openai))
+
+5. Lisez les avis et consultez la licence de la villa (tourisme / mairie), surtout pour les grandes propriétés. ([homanie.squarespace.com](https://homanie.squarespace.com/location-villa-luxe/location-villa-eygalieres?utm_source=openai))
+
+---
+
+Si vous voulez, je peux faire une sélection personnalisée selon vos dates, le nombre de personnes, et le budget que vous visez, pour que ce soit vraiment adapté. Voulez-vous que je prépare ça pour vous ?
