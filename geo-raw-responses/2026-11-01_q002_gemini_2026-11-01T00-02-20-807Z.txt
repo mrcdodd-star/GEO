@@ -1,0 +1,101 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAb8U7wcsPk6fhWgTLzUh59QYZF2ThOZ5ikV_PmoJbiXc3sDjQVVZpUL-T_7ZAdGv-bn3I0EtJTacsHYXF4z_6hOj3rtrqKK_8Qs3X9oflfsDFpbpACqp6yqGsp0rQzsUQ7CcHdn3cQr6okHgCdyDysxU0InNnKYPmxFo_gvQruI1UWyArLcd76RccjPcKud5d8LiTVPWz_mDnPwIeA1oqvjs5veCiS-qWT0ZvNPaIiBiFrnH1qrjjavRM1XM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE951EyIgfux_IucPDN5Ng0O-yLvT-K2E9NSScpVs5f-AlFsAqhe87wmobkX0sJe2vIcuqcq0_nZgtkv9V9DAlWLj_9FvFtgulCuvvcxHqRKAbInuhD48KGb_3Xs11-7u7zUgnnvf4uwa9oQ7vHl3fEcYYyl_tJBW1CbKnZBdRJ0Ewzfsnr2KPjDibK-zxL8pI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpFe339TDqI8oT7v14i_TtOb_6LP6IPUM0uNilkvQ2ZqRA6DA_UFJOovGxb5IpUvAO6wzgW-RUWposSsBMPV6SfoIUOpquHpvBiOLY0HHOZ2TVBmSwmu9aPhpYenK0LU7DPEMpYALLtlZYCg-vhu0O4x8L_jmGA7OVPzBwY2f4Yjh4","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHit4Ym5U-hogsmJiojgj_xziGuHHhmUE3HUIj_x_O6XTJyx76GbKhC88jQBilfz1ab3JODtiTZOOj_hoJXsozLiYzJkL2sbOR3svjHqHEl_B_cYy5s-w9IUeLGEoNoVp0GXPxKSws27LFX16l1Dnptneb4BSBUGhUekXq3Lf3qxBQeRDU9J13YtPzXoPoOrZ2WzB-2p0Xm2UrvIKP1KoelPdHIOtvpd1T53uSVQZWOiA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42KSeNybCI4flhxqh8G-r3dYN7aHHdn9wmcj61-6VHRfCZEaR4SsYYTaJ8Se6ZnSDSCyBtcRHlqx_kr0vFSTZN7fo8nMbPsFqq6iW-Fc1YoU9nbGOkE1NxW-KvdpDzQNBmu5pHCirG-psmqBZ3oURV_by_zE32ubxFOD8zMOp0sbLyjHOFTzWmGs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW9LZO6zGaz6iJ1w_3yq23u_RB9HF_6GNKbmaWTjCqq79xECwArxiX8UXKCRek1qvPvG4C-M-J8RejiG9ZxDQe4LnD_-gMSo1Tx5elwScAQ0rRhCjOfhVlrqsrNJQdEQOM84dM_HcDkY8mtUtJTGGBTP-PS--2o8C6jcxaKiPxTw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBMMAXZYOR2ALNe4g3fLBIcHWPZUSvZb9YLvtf1i_PHJi5dC7Mtf17ICMMYgUJdWdmH873XCiRNA2nj_C-b40OyVLaH8Wl_Qu21wbbSIVlS7ywx32EKIYlAa99flcJwEruREZQqETox2EGwNwAVOV042F6v7MVe4Om-uMrfsNyMnophwdm1f_fKn9gSrAU2zn6XZEMOzI0GW8jQjOkd6k10ZqpZrBQH3EBBA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt1dqujY3JWUbQXm9GJxfsm-Wv90OMNyq6pHDDhuKLC6KKDNif22nnTWiV3jGSy_Vo8RCGFvNhqhEICOw1BqgRVrw1lXygH8uEvgoXH6dj3iJGzIjM3q7cy3kUdokzP5byx6mVvqcJwHaSVZcdLGQzeN4NPA=="]
+
+--- RAW RESPONSE TEXT ---
+Planning a multigenerational holiday (grandparents, parents, kids, and teens) requires balancing different paces, mobility levels, and interests. For UK-based travellers, the key priorities are usually **short flight/travel times, straightforward transfers, versatile accommodation, and activities that work across all ages**.
+
+The best destinations in Europe for a multigenerational family holiday, depending on the vibe you are looking for, include:
+
+---
+
+### 1. The Algarve, Portugal
+* **Travel time from UK:** ~2.5 to 3 hours flight to Faro
+* **Best for:** Effortless luxury, golf, calm beaches, and spacious villas
+
+**Why it works for all ages:**
+* **Grandparents:** Championship golf courses, tranquil spas, flat coastal walks, and excellent seafood restaurants.
+* **Parents & Kids:** Calm, Blue Flag beaches with gentle waters, plus water sports and water parks (like *Slide & Splash*) for teens.
+* **Accommodation:** The Algarve excels at luxury family resorts (such as *Martinhal Sagres* or *Quinta do Lago*) offering self-catering villas with hotel services, crèches, and kids’ clubs.
+
+---
+
+### 2. Mallorca (Balearic Islands), Spain
+* **Travel time from UK:** ~2.5 hours flight to Palma
+* **Best for:** Quick travel, gorgeous beaches, and traditional villa stays
+
+**Why it works for all ages:**
+* **Grandparents:** Charming historic towns (like Pollença and Sóller), scenic vintage train rides through the mountains, and seaside promenades.
+* **Parents & Kids:** Shallow, safe bays (especially Alcúdia and Puerto Pollença) ideal for toddlers, with boat trips and water sports for older kids.
+* **Accommodation:** Mallorca has a vast selection of multi-bedroom fincas/villas with private fenced pools, making it easy to cook together or hire a private chef for special dinners.
+
+---
+
+### 3. Lake Garda, Italy
+* **Travel time from UK:** ~2 hours flight (Verona or Milan Bergamo) + short drive
+* **Best for:** Breathtaking scenery, culture, and no-fuss sightseeing
+
+**Why it works for all ages:**
+* **Grandparents:** Instead of long walks, you can hop on gentle ferry boats to travel between picture-postcard towns like Sirmione, Bardolino, and Malcesine.
+* **Parents & Kids:** Lake Garda is home to *Gardaland* (one of Europe’s top theme parks) and *Caneva World* water park. The lake beaches are great for paddleboarding and swimming.
+* **Accommodation:** Lakeside agriturismos, luxury resort apartments, or private lakeside villas.
+
+---
+
+### 4. Cyprus (Paphos or Limassol)
+* **Travel time from UK:** ~4.5 hours flight
+* **Best for:** Extended shoulder-season sun (Easter & Autumn half-terms)
+
+**Why it works for all ages:**
+* **Grandparents:** Rich ancient history (mosaics, castles, archaeological parks), flat paved coastal paths, and reliable warmth late into the autumn.
+* **Parents & Kids:** World-class luxury family resorts with splash parks, swim-up rooms, and dedicated teenager zones.
+* **Accommodation:** Integrated luxury resorts (e.g., *Columbia Beach Resort* or *Parklane Limassol*) with connected family suites or multi-bedroom residences.
+
+---
+
+### 5. Dordogne or Brittany, France (The No-Fly Option)
+* **Travel time from UK:** Channel Ferry / Eurotunnel + drive
+* **Best for:** Families with members who prefer not to fly, or families traveling with toddlers/lots of luggage
+
+**Why it works for all ages:**
+* **Grandparents:** Bustling local food markets, wine tasting, châteaux, and peaceful countryside.
+* **Parents & Kids:** Gentle kayaking on the river, forest adventure parks, pool days, and bike rides along flat paths.
+* **Accommodation:** Large French *gîtes* or private châteaux with large gardens, games rooms, and swimming pools.
+
+---
+
+### 6. Greek Islands / Mainland (e.g., Halkidiki or Crete)
+* **Travel time from UK:** ~3.5 to 4 hours flight
+* **Best for:** Hassle-free, high-end all-inclusive luxury
+
+**Why it works for all ages:**
+* **Grandparents:** Zero stress over cooking or dividing dinner bills; high-end, à la carte dining in relaxing surroundings.
+* **Parents & Kids:** Beachfront locations, creches, sports academies (football, tennis), and spa facilities.
+* **Accommodation:** Luxury all-inclusive brands tailored specifically for multigenerational groups (such as *Ikos Resorts* in Halkidiki, Corfu, or Kos) feature step-free resort layouts, world-class kids' clubs, and multi-bedroom bungalows.
+
+---
+
+### Quick Decision Guide
+
+| Priority for Your Group | Best Pick |
+| :--- | :--- |
+| **Shortest flight & easiest beach day** | **Mallorca** or **Algarve** |
+| **No flying (Ferry/Eurotunnel)** | **Dordogne / Brittany** |
+| **Warmth outside peak summer (April / Oct)** | **Cyprus** |
+| **Zero cooking & total relaxation** | **Greek Islands (All-Inclusive)** |
+| **Sightseeing & scenery without heavy walking** | **Lake Garda** |
+
+---
+
+### Top Tips for Planning a Multigenerational Trip from the UK
+
+1. **Villa vs. Resort:** 
+   * **Villas** are best if you want private communal space, late-night pool chats, and collective downtime. Look for villas with ground-floor bedrooms/en-suites for relatives with limited mobility.
+   * **Resorts** are better if everyone wants independence (e.g., grandparents can rest in a quiet zone while kids are at the pool without feeling on top of each other).
+2. **Car Hire Logistics:** If renting cars for a large group, hiring two medium-sized cars is often cheaper and vastly more flexible than trying to rent one 9-seater van—allowing early risers or toddlers needing naps to head back early.
+3. **Pacing:** Plan no more than one main group activity per day, allowing afternoons for flexible downtime.
