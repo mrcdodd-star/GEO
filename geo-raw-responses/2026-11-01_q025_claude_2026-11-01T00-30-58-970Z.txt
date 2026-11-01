@@ -1,0 +1,49 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q025
+MARKET / LANGUAGE: USA / en
+SOURCE MODEL: claude
+QUERY TEXT: renting a villa in Europe for a large family - which companies are best?
+
+CITED URLS:
+["https://beyondbaggage.com/2025/07/22/best-villa-rentals-for-group-trips/","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More","https://drifttravel.com/the-6-best-websites-to-rent-luxury-villas-for-large-groups-families/","https://www.rentalescapes.com/rentals/luxury-vacation-rentals-europe","https://www.homanieluxuryrentals.com/magazine/best-luxury-villas-family-vacation-rental","https://www.vrbo.com/vacation-rentals/villas/europe"]
+
+--- RAW RESPONSE TEXT ---
+There isn't one best company. The right one depends on your budget and how much help you want. These are the main options, grouped by type.
+
+## Curated agencies (more service, higher prices)
+- **Oliver's Travels** is a UK-based luxury villa specialist. 
+One reviewer says Condé Nast readers have voted it one of the world's best villa rental companies nine years running
+, and says the concierge actually answered the phone. That review is a single blogger's opinion.
+- **Tuscany Now & More** focuses on Italy. 
+Travel + Leisure's World's Best Awards named it Best Luxury Villa Rental Company in 2023 and 2024.
+
+- **The Thinking Traveller** was featured in Travel + Leisure's reader favorites. It specializes in Sicily, Puglia and parts of Portugal and Greece.
+- **Villanovo** and **The Luxe Nomad** appear in a recent roundup of group-villa sites. 
+That roundup says top agencies provide dedicated concierges, private chefs and guest services tailored to groups.
+
+- **Rental Escapes** says its portfolio covers 
+luxury properties in Italy, France, Spain, Greece, and more.
+
+- **Homanie** focuses on France and Southern Europe. It 
+advertises large properties of 5 to 25 bedrooms with chef and hotel-style service.
+
+
+Other well-known names I'd add from my own knowledge are Villas of Distinction, Villa Retreats and Haven In. I haven't checked their current reputations, so look at recent reviews first.
+
+## Marketplaces (more choice, usually lower prices)
+- **Vrbo** has a huge inventory. Its Europe villa page 
+lists over 100,000 properties
+, including some that sleep 20 to 34 people. That makes it good for very large groups.
+- **Airbnb** has plenty of villas too, but the quality of large-group listings varies a lot.
+
+With marketplaces you deal with the individual owner or local manager. Service quality is hit-or-miss.
+
+## Tips for a large family
+1. **Check the real sleeping capacity.** Count beds and bathrooms, not just the headline number. Look at how the beds are configured, and whether there's a ground-floor bedroom for grandparents.
+2. **Ask about extra guests, day visitors and noise rules.** Some villas charge more or restrict gatherings above a certain number.
+3. **Ask what's included.** Ask about the pool heating fee, cleaning, linens, utilities, a security deposit and tourist tax. Prices from agencies and marketplaces aren't always comparable.
+4. **Look at the location.** Check the drive to the nearest grocery store and airport, and whether the roads are steep or narrow. A 20-minute drive each way gets tiring with kids.
+5. **Check payment and cancellation terms.** Agencies often require large deposits well ahead. Ask about refund terms and consider travel insurance. Booking through an agency or platform generally gives you more protection than paying an owner directly by wire.
+6. **Book early.** Large villas for peak summer weeks often book 9 to 12 months ahead.
+
+If you tell me where you're going, when, how many people, and your rough budget, I can narrow this down. Italy, France and Greece each have different best-fit companies.
