@@ -1,0 +1,58 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://www.landedhouses.co.uk/mansions-to-rent/?utm_source=openai","https://www.countrycottagesonline.com/large-houses-sleep-20-plus.htm?utm_source=openai","https://www.groupescapehouses.co.uk/properties?utm_source=openai","https://www.maneri.it/large-villas-tuscany?utm_source=openai","https://www.ariellasvillas.com/villas/ca-di-pesa/?utm_source=openai","https://www.dordognerental.com/rental-properties/large-houses.html?utm_source=openai","https://jupitervillas.com/destinations/greece?utm_source=openai","https://www.bluecollection.villas/properties/mykonos-villas-ref-180413246-code-kfa-2/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are some excellent large private homes and estates across Europe that can accommodate 20+ guests—perfect for group holidays, celebrations or long weekends. I’ve grouped them by location (UK vs continental Europe), and at the end I’ll give you tips to find great options depending on your priorities (cost, location, amenities, etc.).
+
+---
+
+## 🇬🇧 UK Options
+
+If you’d rather stay within the UK, here are several mansions and large houses that sleep 20+ folks:
+
+| Property | Sleeps / Rooms | Highlights | Approx Price / Notes |
+|---|---|---|---|
+| Forest House, Forest of Dean | ~25 guests, 11 bedrooms, 12 bathrooms | 18th-century historic house, hot tub, games room, lots of space | Weekends from ~£3,500–£5,000+ depending on season ([landedhouses.co.uk](https://www.landedhouses.co.uk/mansions-to-rent/?utm_source=openai)) |
+| Ty Glas Beach House, Anglesey | 22 guests, 11 bedrooms | Beautiful coastal location, indoor swim spa, great views & amenities | ~£6,000 for 7 nights around current dates ([countrycottagesonline.com](https://www.countrycottagesonline.com/large-houses-sleep-20-plus.htm?utm_source=openai)) |
+| Barton Court, Herefordshire (Malvern Hills) | 27 guests, 11 bedrooms | Majestic country house spread across 6 acres, great for big groups & celebrations | ~£8,000+ for a full-week booking ([countrycottagesonline.com](https://www.countrycottagesonline.com/large-houses-sleep-20-plus.htm?utm_source=openai)) |
+| Stainsborough Hall, Peak District | 20 guests, 10 bedrooms | Elegant country house, lots of outdoor space & classic interiors | Price is higher on weekends; contact for details ([groupescapehouses.co.uk](https://www.groupescapehouses.co.uk/properties?utm_source=openai)) |
+
+If you prefer to stay entirely within the UK, these are solid choices, especially in rural England or Wales. They offer great privacy, outdoor areas, and ease of travel depending on where you are in the UK.
+
+---
+
+## 🌍 Europe (Outside UK)
+
+If you’re open to travelling abroad, your options really expand with beautiful villas, châteaux, estates, especially in Italy, France and Greece. Here are standout properties:
+
+| Property | Sleeps / Rooms | Location | What Makes It Special |
+|---|---|---|---|
+| Villa Petroio (Tuscany, Valdichiana) | 20 guests; 7 bedrooms, 8 bathrooms | Tuscany, Italy | A restored country estate of three buildings. Private, serene, classic Tuscan landscapes. From ~€10,000/week. ([maneri.it](https://www.maneri.it/large-villas-tuscany?utm_source=openai)) |
+| Ca’ di Pesa (Chianti, Italy) | 20 guests; 10 bedrooms, 8 bathrooms | Chianti, Tuscany | Luxury villa right in the vineyards, mix of rustic and upscale. ~€21,000/week. ([ariellasvillas.com](https://www.ariellasvillas.com/villas/ca-di-pesa/?utm_source=openai)) |
+| Châteaux and Manorhouses in Dordogne | 20-25+ guests | Dordogne, France | Heated pools, tennis, large estates. Options from around €4,000/night for large groups. ([dordognerental.com](https://www.dordognerental.com/rental-properties/large-houses.html?utm_source=openai)) |
+| Greece (Crete, Corfu, Peloponnese) | 20-30+ guests | Greece | Stunning villas with private pool, sea views. Many properties ideal for long stays. For example: Villa Ferberite (28 guests) in Crete. ([jupitervillas.com](https://jupitervillas.com/destinations/greece?utm_source=openai)) |
+| Mykonos – Villa KFA-2 | 20 guests; 10 bedrooms, 10 bathrooms | Mykonos, Greece | High-end villa with infinity lake-style pool, sea views, event area, full luxury amenities. From ~€4,000/night for mid-season. ([bluecollection.villas](https://www.bluecollection.villas/properties/mykonos-villas-ref-180413246-code-kfa-2/?utm_source=openai)) |
+
+---
+
+## ✅ How to Choose What’s Best for You
+
+Here are key factors to consider when picking a large vacation home, plus trade-offs you’ll often face:
+
+| Factor | Considerations | Trade-offs |
+|---|---|---|
+| **Budget** | Nightly rate × number of nights; also service fees, cleaning, staff if needed | Big savings off-peak or midweek; during peak season (e.g., summer, holidays), prices can double or triple. Europe often cheaper than UK for similar standards. |
+| **Travel and Access** | Time to airport, local transport, roads, distance to shops/restaurants | Remote estates are amazing for privacy but less convenient; may need to bring supplies or hire transfer. |
+| **Amenities** | Private pool / heated pool, chef service, entertainment rooms, gardens, tennis courts, event-specific features | Items like chef, party licence, or large event permissions will increase cost; check “maximum quiet hours” or restrictions. |
+| **Sleeping Arrangements** | Number of proper bedrooms/beds vs using sofa beds / annexes | Comfort often depends heavily on “separate beds & ensuite bathrooms”; sacrificing this can cause friction in a large group. |
+| **Booking and Conditions** | Minimum stays, deposit, cancellation policy, staff availability, inclusions (cleaning, linen) | Small print can be strict—always check cancellation policies, event licences if you plan to host a gathering. |
+
+---
+
+If you like, I can pull together a curated list based on more specific criteria—for example: budget ceiling, country preference, local amenities (beach/mountain), or whether you’ll have a car. Do you want me to do that?
