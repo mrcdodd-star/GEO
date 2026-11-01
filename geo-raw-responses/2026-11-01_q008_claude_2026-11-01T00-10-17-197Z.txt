@@ -1,0 +1,63 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://www.groupaccommodation.com/collection/large-villas-sleeping-20","https://thevillaedit.com/collection/large-group-villas/","https://www.rentalescapes.com/collections/large-villas","https://www.solmarvillas.com/villa-types/large-villas","https://www.sopranovillas.com/tagged/large-group-villas/","http://villavacations.com/villas-large-groups","https://www.croatianvillaholidays.com/en/browse/tag/large-groups/10"]
+
+--- RAW RESPONSE TEXT ---
+Several specialist agencies list large villas in Europe that sleep 20 or more. I've grouped them by where they focus.
+
+## Agencies with Europe-wide choice
+- **[Group Accommodation](https://www.groupaccommodation.com/collection/large-villas-sleeping-20)** is a UK-based listings site. 
+It includes Quinta Bonita in the Algarve (sleeps up to 20) and Casa Pino Solo near Malaga (7 bedrooms, sleeps up to 20, from £3,500 a week).
+ 
+It also lists Les Cazettes, a French countryside estate for up to 20 guests with a pool, tennis court and sauna.
+
+- **[The Villa Edit](https://thevillaedit.com/collection/large-group-villas/)** is a luxury-focused agency. 
+Its listings include Hacienda Fortuna in Marbella (26 guests, €9,822–€25,487 a week).
+ 
+It also has Villa Paolo in Marbella (26 guests, €10,755–€26,502 a week).
+
+- **[Rental Escapes](https://www.rentalescapes.com/collections/large-villas)** covers the top end of the market. 
+Cigno on Lake Como is a 14-bedroom lakefront estate made up of two villas, and it sleeps up to 28.
+ 
+Villa Thalassa in Mykonos sleeps up to 24 across a main house and two adjacent buildings.
+
+- **[Solmar Villas](https://www.solmarvillas.com/villa-types/large-villas)** is a UK operator. 
+Its largest villas sleep up to 20.
+ 
+It is ABTA and ATOL protected,
+ which matters if you book a package with flights.
+
+## By country
+- **Italy:** [SopranoVillas](https://www.sopranovillas.com/tagged/large-group-villas/) has several options.
+  - 
+Medicea Historic Villa in Tuscany has 11 bedrooms and sleeps 20+2, from €14,000 a week.
+
+  - 
+La Magione in Siena province sleeps 24 across 12 bedrooms, from €8,720 a week.
+
+  - 
+It also lists a Zermatt chalet for 20 in the Swiss Alps.
+
+  - [Villa Vacations](http://villavacations.com/villas-large-groups) also lists many Italian villas, 
+including some that sleep 20 or more.
+
+- **Croatia:** [Croatian Villa Holidays](https://www.croatianvillaholidays.com/en/browse/tag/large-groups/10) says 
+some individual villas sleep over 20, and clusters of adjoining villas can take up to 50.
+
+- **Spain and Portugal:** Group Accommodation and The Villa Edit (above) are good starting points. 
+One Andalusian property listed has 10 bedrooms and sleeps up to 26.
+
+
+## Tips
+- **Check the sleeping numbers.** "Sleeps 20" sometimes includes sofa beds, extra beds or an annexe. Ask how many real bedrooms and bathrooms there are.
+- **Look at clusters or adjoining villas** if you can't find a single house. This is common in Croatia and gives you more choice and often better value.
+- **Ask about events and noise rules.** Many villas limit parties and have a maximum number of day guests.
+- **Prices are usually quoted per week in euros.** Ask what's included, such as cleaning, pool heating, staff and security deposits.
+- **Book early for summer.** The largest villas are few and often go a year or more ahead.
+
+If you tell me your destination, budget, dates and whether you want a pool, I can narrow this down. I can also look at specific countries in more depth.
