@@ -1,0 +1,45 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESVzi8-gJvwuKzMjV9p-v4K6YRl-FgQAdj1ReKdQzUonM1uuQXtUXx0yN4C_3yW1ASo6ng4k9Jc0pA1XDO9JyKqW0GfnpWPu_w6lLwHecxspNKnWOUzOiQeubGWq3XYtAA6FDBNlJrTkMg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_6Uv2M0zLS0K7ANCcnabkPqmFjqWiI4rrCWwtjNTYKiXYsE8ODFknyF__vhj6IC0aza1m62a-Vzjp0QBxEkSfwITV7989t3-c-TVsxZ3JSLJ15dpgamridPey9cjpqfA7Vf_decj0F42X6HWwMDwAbQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELPLJ-RdvlRm2J-ySNiu_sHaWviFFdOw1B3Qk2UHtvAlvv_qrGLkMBP_ufubvCi7u47csL8vKnupvgxgyROL_XsPrLwj3tlGcR9WadrCvRky1kVzLWol8KSV5ek9oJxAI_WolTfNJxkEa5CgEyFvHo0jRItuP9ZGowmO4J_Zqx7D-M-aXFPMWsHP5D6c8J3Ko9tCZWuAgYMakOBelOQIf3py11Bw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy10TzHIvcUj9CPmngbPSJ2GO8PML_UgKf5l0R_TyO2TS78YIyN5CnGbwbOG_YNAHOv-EHumgx04y99xPFa05zHbGTAaFU7KlM0kcV_RjNjQyOSvPc0Ha-sA-n7oRoH3_KFN0YZ3wQiW5nsFQ=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrKUR1OkH098nEgsDKdxL0tU7skuTlk0Fl3yf4jj1Jt-psCDjeURsmIHv1mdyqMxkDfQnvd164rBOGcEDVxSdFukyyoNidLzIBXHfSXFS59rT3m7HF6JLH7elTeOsjohTSg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsOqoUpYlHlJJUZx5HljH64z7ry95zXH0qREl4c_2xQt8REe3Mcijf2bjJul05FcuZ8xcB55GMyG-yZ0axJ1X_wgyjqHLRCtvUVb29I0UaOY7m1VMPrcczxeVlhjnwGeSy-KC5Qd2y8KPV","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOGcJmBBhTWQrbx0f268EQCYI_5NPw9s-7BHwFuwv9X2GuPgsRJy7NrZELz5wF92Doe1SQLKrqTNK0lqf2PMKpufNeS0KS0h4BQN2OQwcDvGGOG8s0ToXt5EmSkjuzErdODnde_s3fqt_aPHVZP8Pz"]
+
+--- RAW RESPONSE TEXT ---
+**Yes, Oliver's Travels is a legitimate, well-established, and generally reliable luxury villa rental company based in the UK.** 
+
+Headquartered in London, they specialize in curated, high-end, and unique accommodation (such as French châteaux, Mediterranean villas, and UK castles). 
+
+Here is a breakdown of their reputation, how they operate, and what to keep in mind when booking with them:
+
+---
+
+### 1. Reputation and Customer Reviews
+* **Trustpilot & Feefo:** They maintain consistently high ratings across independent review platforms, averaging **4.5 to 4.7 out of 5 stars** across thousands of customer reviews. They have also received Feefo's Gold/Platinum Trusted Service Awards.
+* **Awards & Recognition:** They are frequently featured in major UK travel press (e.g., *The Telegraph*, *The Times*) and have won accolades in the British Travel Awards and Junior Design Awards.
+* **Customer Service:** Reviewers frequently praise their customer service team and concierge service for helping arrange extra requirements (such as private chefs, airport transfers, or special event setup).
+
+---
+
+### 2. How Their Business Model Works
+* **Agency Intermediary:** Oliver’s Travels acts as a curated agency/booking agent. They vet properties and handle the booking process, but **they do not own or manage the properties directly**.
+* **On-the-Ground Hosts:** Daily maintenance, check-in, and property upkeep are handled by the private owner or a local property management company. 
+
+---
+
+### 3. What to Watch Out For
+While the vast majority of guests have a smooth experience, the few complaints on review platforms usually center on:
+* **Communication Gaps:** Because they act as a third-party agent between you and the owner, if an issue arises on-site (e.g., a broken pool heater or Wi-Fi problem), resolving it quickly relies on the local property manager.
+* **Varied Owner Standards:** While Oliver’s Travels vets properties before listing them, individual property maintenance can fluctuate over time. 
+* **Cancellation Policies:** Like most luxury villa agencies, their cancellation terms and deposit requirements can be strict, as they are tied to owner contracts.
+
+---
+
+### 4. Best Practices for UK Bookers
+To ensure maximum protection when booking through Oliver's Travels (or any luxury villa agent):
+
+1. **Pay with a UK Credit Card:** Because standalone villa bookings usually fall under "accommodation-only" (meaning they don't automatically trigger ATOL/package holiday protection), paying by credit card gives you **Section 75 protection** under UK consumer law for purchases over £100.
+2. **Take Out Travel Insurance Immediately:** Make sure you have travel insurance in place at the point of booking to cover unexpected cancellations, medical emergencies, or travel disruptions.
+3. **Ask Detailed Questions First:** If you have non-negotiable requirements (e.g., pool heating, gated access for toddlers, accessibility), ask their concierge team to confirm these directly with the owner *in writing* before paying your deposit.
