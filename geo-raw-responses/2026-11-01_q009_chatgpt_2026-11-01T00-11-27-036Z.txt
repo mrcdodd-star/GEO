@@ -1,0 +1,73 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://marketplace.thevenueadvisors.com/en/wedding-venues/?utm_source=openai","https://belle-venue.com/wedding-venues-france.html?utm_source=openai","https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai","https://mon-chateau.fr/en?utm_source=openai","https://chateau-tilloloy.fr/en/mariage?utm_source=openai","https://chateaudecollias.fr/en/?utm_source=openai","https://www.chateauducreuset.com/weddings?utm_source=openai","https://www.chateaudemotteux.com/en/contact?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Renting a château in France for a wedding is a dreamy idea—and there are tons of beautiful options as well as services to help you find the perfect one. Here’s a breakdown of what to consider, plus some great château recommendations and tips tailored for someone based in the UK.
+
+---
+
+## What to Think About First
+
+When considering châteaux, it helps to have a few key preferences in mind so your search is more focused:
+
+- **Region**: Loire Valley (classic & romantic), Normandy, Provence, Dordogne, Occitanie, etc. Transportation/logistics differ a lot depending on where you go.
+- **Guest numbers**: Some châteaux accommodate large receptions (250+), others are better for smaller, intimate weddings.
+- **Overnight accommodation**: Want everyone to stay on-site, some local guesthouses, or a mix?
+- **Budget**: Prices differ greatly based on size, location, prestige, and what's included. A château in the Paris region typically costs more than in rural areas.
+- **Dates & rental length**: Many châteaux offer weekend packages (Fri–Sun); securing the right date often requires booking well in advance.
+- **Included services**: Will the château provide a coordinator, tables/chairs, catering? Are you allowed to bring your own vendors?
+
+---
+
+## How to Find One from the UK
+
+There are several excellent platforms and services that cater specifically to wedding couples looking for châteaux in France, and many work directly in English.
+
+- **The Venue Advisors**: A marketplace showing châteaux with real availability and pricing. You can filter by region, guest size, and other preferences. ([marketplace.thevenueadvisors.com](https://marketplace.thevenueadvisors.com/en/wedding-venues/?utm_source=openai))  
+- **BelleVenue**: Direct listings of châteaux, domaines and estates. Most provide exact pricing, capacity, and what your rental fee includes. ([belle-venue.com](https://belle-venue.com/wedding-venues-france.html?utm_source=openai))  
+- **Votre Château de Famille**: 28 estates, all for exclusive hire. Villas + châteaux that include space for both ceremonies and overnight guest stays. ([votre-chateau-de-famille.com](https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai))  
+- **Mon Château**: A free, bespoke chateau-finding service. You give them your date, budget, location, guest count, and they match you with suitable châteaux and pass you to the owners. ([mon-chateau.fr](https://mon-chateau.fr/en?utm_source=openai))  
+
+These will help you avoid endless Google searches, effectively narrowing options to what actually fits *your* vision.
+
+---
+
+## Sample Châteaux That Could Work
+
+Here are some châteaux already offering wedding rentals, with details to help you see what matches your style.
+
+| Château | Region | Guests / Sleeps | What Stands Out |
+|---|---|---|---|
+| Château de Tilloloy | Somme, about 1 hour from Paris | Up to 300 guests + outdoor and indoor ceremony spaces; partner accommodation nearby ([chateau-tilloloy.fr](https://chateau-tilloloy.fr/en/mariage?utm_source=openai)) | Includes an on-site church, grand stables, and green grounds. Great if you want a church ceremony nearby. |
+| Château de Collias | Near Uzès / Nîmes / Avignon (South of France) | 14 bedrooms / sleeps 28; up to 200 guests for the event ([chateaudecollias.fr](https://chateaudecollias.fr/en/?utm_source=openai)) | Gorgeous setting near Pont du Gard, ideal if you’re after Southern charm and bigger reception size. |
+| Le Château du Creuset | Burgundy/central France | Up to 15 nights sleeping on-site; 150 guests event-style for larger packages ([chateauducreuset.com](https://www.chateauducreuset.com/weddings?utm_source=openai)) | Elegant & historic. Good if you want something quieter or more boutique with overnight on-site for a selection. |
+| Château de Motteux | Marolles-sur-Seine (≈1 hour from Paris) | Estate with 23 hectares grounds; speak directly to estate owners ([chateaudemotteux.com](https://www.chateaudemotteux.com/en/contact?utm_source=openai)) | Proximity to Paris is a bonus for guest travel. Owners are bilingual—makes arranging things easier. |
+| Château de Saint Jeannet | Near Nice (Côte d’Azur) | Private hire, weddings, events—ideal for guests travelling from the UK as well ([chateausaintjeannet.com](https://www.chateausaintjeannet.com/contact-us/?utm_source=openai)) | Small chateau charm, good for a glamorous French Riviera feel. |
+
+---
+
+## Budgeting: What to Expect
+
+- **Venue hire only**: Front entrance fees vary widely. For example, using *The Venue Advisors* listings, many châteaux cost between **€5,000 and €20,000** for a weekend hire, depending heavily on size, location and what’s included. ([marketplace.thevenueadvisors.com](https://marketplace.thevenueadvisors.com/en/availability/2026/?utm_source=openai))  
+- **All-inclusive weekend stays** often cost more, especially when you include accommodation, staff, catering, rentals (tables/chairs), etc. Packages could come in above €20K, depending on scale.  
+- **Hidden costs**: Transport for guests, legal requirements (especially if you want a legal ceremony vs symbolic), suppliers (caterers, DJs, photographers), decorations, site visit costs.
+
+---
+
+## Legal & Practical Things (from the UK Perspective)
+
+- **Marriage laws**: If you want a civil ceremony in France, there are legal residency requirements (in many cases, one of you must live in the commune or the town hall). Many UK couples instead do a civil ceremony in the UK, then have a symbolic or religious ceremony in France.  
+- **Travel & logistics**: Transport for guests, luggage, and décor items—these all add complexity. Choose châteaux with good access (airports, good roads).  
+- **Language**: While many venues speak English, having someone local—planner or bilingual speaking staff—will help.  
+- **Contracts & deposits**: A deposit will be required. Make sure everything is spelled out in English & French (if needed), especially what’s included, the cancellation policy, and extra fees (cleaning, overtime for music, etc.).  
+- **Suppliers**: Some châteaux will have preferred suppliers; others allow you to bring your own. Clarify this early.  
+
+---
+
+If you like, I can pull together a custom shortlist of 3-5 châteaux that match *your* vision (guests, region, budget) and send you their estimated pricing and availability. Would you prefer me to do that?
