@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q030
+MARKET / LANGUAGE: Germany / de
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: Luxusvilla mit Personal und Koch in Suedfrankreich mieten
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRHTnlPRFJ1GAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVXMTVPWFp5GAo","https://www.sttropezhouse.com/de/offer/villen-zur-miete/a/mit-koch/","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdac2RERTJYM2gwGAo","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacmMzUmpjRFZvGAo","https://www.homanieluxuryrentals.com/villas-with-private-chef"]
+
+--- RAW RESPONSE TEXT ---
+Das Mieten einer Luxusvilla mit Personal und Koch in Südfrankreich bietet den ultimativen Komfort – egal ob an der Côte d’Azur (Saint-Tropez, Cannes, Cap Ferrat) oder im idyllischen Hinterland der Provence.
+Regionen & Empfehlungen
+
+Wie Sie am besten vorgehen (Vollpension & Personal)
+Bei den meisten Luxusvillen ist das Personal (wie ein privater Koch, Butler oder Reinigungskräfte) entweder im Mietpreis inbegriffen (fully staffed) oder wird à la carte / auf Anfrage über die gehobene Concierge-Agentur hinzugebucht. Spezialisierte Anbieter für den französischen Raum, die einen Full-Service-Ansatz verfolgen, sind unter anderem Homanie Luxury Rentals oder lokale Agenturen an der Küste wie Douglas Elliman France.
+Damit ich Ihnen konkrete Villen- oder Agenturvorschläge heraussuchen kann, verraten Sie mir gerne noch:
