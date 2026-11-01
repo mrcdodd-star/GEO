@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026","https://www.plumguide.com/d/gb/villas","https://www.lodgify.com/blog/plum-guide/","https://independenttravelcats.com/best-vacation-rental-websites/","https://www.villa-finder.com/magazine/villa-booking-platforms-guide/","https://www.plumguide.com/d/gb/vacation-rentals","https://www.findingtheuniverse.com/holiday-home-websites-uk-ireland/","https://www.hostaway.com/blog/luxury-vacation-rental-websites/"]
+
+--- RAW RESPONSE TEXT ---
+**Choose Plum Guide for a well-presented, design-led shortlist; choose a specialist villa agency when you want destination expertise and more hands-on help with the whole stay.** For a UK-based traveller, the main distinction is less about where you live and more about the kind of trip—and support—you need.
+
+| | Plum Guide | Specialist villa agency |
+|---|---|---|
+| **Best for** | Comparing distinctive homes across destinations, especially when the property itself is the priority. Plum says it vets homes and accepts only the top 3%.[2] | A villa holiday with more moving parts: a large group, family needs, transfers, catering or local arrangements.[5] |
+| **Choice and search** | A curated marketplace with a broad range of homes and destinations.[1][2] | Often a narrower, more villa-focused collection, with advice from people who know the destination.[5] |
+| **Who helps during the stay** | Check the specific booking terms: Plum’s terms describe it as not being a party to the host–guest agreement, and direct guests to the host first for in-stay issues.[1] | Service varies by company, but some agencies provide local destination support and help coordinate arrangements.[5] |
+| **Booking protections** | Cancellation rules can be set by the host, so read the policy for your exact property before paying.[1] | Terms differ by agency; check who takes payment, who is responsible for the booking, and what happens if plans change. |
+
+**Practical rule:** compare both for a straightforward UK stay or a self-contained villa. Lean towards a specialist for an overseas villa, a group trip, or anything where you’d value help if logistics go wrong. Recent rankings also place several specialists—such as Simpson Travel, CV Villas and Oliver’s Travels—alongside Plum Guide, but rankings are only a starting point; the individual property and booking terms matter more.[1][9]
+
+Before booking either way, compare the **total price**, cancellation deadline, payment schedule, who handles problems during the stay, and whether extras such as cleaning, heating or pool access cost more.
