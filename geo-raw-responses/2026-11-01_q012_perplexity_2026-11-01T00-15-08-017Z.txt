@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://article.wn.com/view/2026/10/31/Luxury_Villa_Rental_Agency_in_St_Barts_Art_de_Vivre_Upgrades/","https://www.firefly-collection.com/luxury-villa-holidays/","https://www.thethinkingtraveller.com/experiences/in-villa-services","https://www.elegantresorts.co.uk/information/villas-concierge","https://www.elegantresorts.co.uk/holiday-styles/luxury-villas","https://gotobeach.co.uk/looking-to-book-/villa-holidays","https://www.yugentrouvailletravel.co.uk/holiday-types/villa-holidays/","https://www.worldwidedreamvillas.com/concierge-services"]
+
+--- RAW RESPONSE TEXT ---
+Several UK-based or UK-facing specialists can arrange the villa **and** the extras—airport transfers, a private chef, and activities:
+
+- **GoToBeach** — UK operator focused on Turkey, the Greek islands, Malta, Gozo and Marrakech. It offers private transfers and can arrange chefs, boat charters and excursions; flight-inclusive packages are ATOL-protected.[6]
+- **The Thinking Traveller** — London-based, with Mediterranean villas. It can arrange private chefs, chauffeured transfers, car hire and tailored experiences; services depend on the villa and availability.[3]
+- **Firefly Collection** — UK-based and strong on family and group stays. Its concierge can coordinate chefs, transfers, childcare, lessons, yacht charters and other activities.[2]
+- **Elegant Resorts** — UK luxury travel company offering villa concierge support, including transfers, private chefs, dining, boat trips and sports activities.[4]
+- **Worldwide Dream Villas** — UK contact and villas worldwide. It can arrange road, boat or helicopter transfers, chefs, excursions and activities such as sailing, diving and horse riding.[8]
+
+**Best starting points:** GoToBeach for a more packaged, destination-focused holiday; The Thinking Traveller for Mediterranean villas; Firefly or Elegant Resorts for a more tailored luxury or family trip. Confirm whether each service is included or costs extra, and whether flights and transfers are part of one package.[3][4][6]
+
+If you share your destination, dates, group size and rough budget, I can narrow this down.
