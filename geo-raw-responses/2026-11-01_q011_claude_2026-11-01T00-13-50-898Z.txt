@@ -1,0 +1,74 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.onefinestay.com/search/south-of-france/644/luxury-vacation-villa-rentals","https://www.onefinestay.com/destination/france/luxury-villas-south-of-france","https://hauteretreats.com/luxury-villa-rentals-destinations/villas-in-france/","https://www.oliverstravels.com/france/south-of-france/","https://www.onlyprovence.com/","https://www.provenceholidays.com/en/villas","https://www.cdvillas.com/","https://www.cdvillas.com/villas/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some well-established options for a luxury villa with concierge service in the south of France, grouped by what each does best.
+
+**Concierge included as standard**
+- **onefinestay** has 
+69 luxury villas in the South of France
+, and it offers a 
+complimentary concierge service
+. The concierge can 
+arrange delivery of a rental car to your door on arrival
+. Prices are high. For example, 
+Villa Aline in Roquebrune-Cap-Martin (4 bedrooms) starts at about €2,149 per night
+.
+- **Haute Retreats** curates 
+Riviera and Provence estates with a private concierge, chef and 24/7 service
+. One example is 
+Mas de Castillone, a 7-bedroom Provence villa with an infinity pool in the Alpilles
+.
+- **Oliver's Travels** is a UK-based agency. Its concierge service can 
+arrange in-house chefs, fridge stocking and housekeeping
+.
+
+**Provence specialists**
+- **Only Provence** has 
+20 years of luxury villa rentals in Provence
+. One example is 
+Mas de l'Olivier in Gordes, which sleeps 10 and costs €8,100–€16,975 a week
+.
+- **Provence Holidays** lists 
+600+ hand-picked properties with private pools
+.
+
+**Côte d'Azur and Riviera**
+- **CV Villas** has been 
+welcoming holidaymakers to luxury villas on the Côte d'Azur for over 20 years
+. 
+It is based locally and will welcome you to your holiday home
+. Only 
+some villas are fully staffed, but concierge services can be arranged
+.
+- **Icon Private Collection** is a good choice for ultra-high-end stays. It says it can offer 
+villas available both on and off-market, including private listings that don't appear on its site
+.
+- **Excellence Riviera** is 
+a boutique agency in the Gulf of Saint-Tropez, specialising in villa rentals, yacht charters and concierge services
+.
+- **Bucket List Villa** is based in Cap d'Antibes and covers 
+the French Riviera and Provence
+.
+
+**Tips for UK travellers**
+- Some agencies treat concierge as an optional extra, so check what is included. A private chef, housekeeping and transfers are often charged on top.
+- Ask about security deposits and cancellation terms. Check whether the agency has UK-based staff and UK payment options, as this can make booking and any disputes easier.
+- If you'd like to avoid flying, 
+the Eurostar to Paris or Lille connects onward to the south of France
+.
+- Peak July and August weeks sell out early, so book well ahead.
+
+To narrow this down, I'd need to know:
+1. Where you want to stay (Saint-Tropez, Cannes and Antibes, Cap Ferrat, Provence or the Luberon)?
+2. How many guests and bedrooms?
+3. When you're travelling, and roughly what your budget is?
+4. Which services matter most (private chef, nanny, boat charter, car and driver)?
+
+I can then suggest a shortlist.
