@@ -1,0 +1,13 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+To make sure you find the ideal private villa for your group of 12 in the Algarve this August, should we focus on any particular style, location, or amenities for your stay?
+
+Let me know which style or location you prefer, or if you have a specific budget or must-have feature (like en-suite bedrooms or a heated pool) in mind, and I can help point you in the right direction!
