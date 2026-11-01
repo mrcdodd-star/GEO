@@ -1,0 +1,28 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+["https://www.thetimes.com/travel/advice/things-to-look-out-for-when-booking-a-villa-holiday-9krdn72kv","https://www.sovereign.com/holiday-types/villa-holidays/","https://www.jamesvillas.co.uk/","https://www.cvvillas.com/"]
+
+--- RAW RESPONSE TEXT ---
+When booking a luxury villa abroad, you need to look beyond glossy photography and evaluate service levels, exact location logistics, hidden overhead costs, and fine-print contract terms to ensure a five-star experience.
+1. Staffing & On-Ground Services
+True luxury isn’t just a nice building; it is how the property is run and supported day-to-day.
+
+2. Location, Access & Topography
+A villa can look isolated and serene online, yet sit above a noisy highway or require a terrifying mountain track to reach.
+
+3. Layout, Privacy & Sleeping Arrangements
+Architectural design doesn't always translate to practical comfort for a group or family.
+
+4. Hidden Costs & Financial Protection
+Luxury villa rentals often carry steep ancillary fees that aren't obvious on the headline price.
+
+5. Amenities & Technical Realities
+
+Quick Comparison: What to Verify Before Signing
+
+If you share your destination country, approximate budget per week, and number of guests, I can give you specific regional tips on what to watch out for.
