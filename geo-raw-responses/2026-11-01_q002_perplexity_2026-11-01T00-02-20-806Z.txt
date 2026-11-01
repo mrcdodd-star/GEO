@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://www.awayresorts.co.uk/discover/travel-tips/4-multi-generational-holiday-ideas/","https://www.timeout.com/europe/travel/best-family-holidays-europe","https://uk.hotels.com/go/europe/best-family-summer-getaways-europe","https://www.baileyofbristol.co.uk/news-events/best-uk-spots-to-travel-to-on-a-multigenerational-holiday/","https://www.kayak.co.uk/news/best-family-holidays-europe/","https://www.responsibletravel.com/holidays/multi-generational-family/travel-guide/where-to-go","https://wise.com/gb/blog/family-holiday-destinations-europe","https://www.inghams.co.uk/summer-holidays/inspiration/insider-guides/best-places-for-family-holidays-in-europe"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based multigenerational family, the **Algarve** is a strong all-round choice: it combines beaches and activities for different ages with villas and relatively short transfers from the airport.[2][10] Other good options depend on your group’s pace and priorities:
+
+- **Mallorca, Spain — easiest all-round beach break:** Sandy beaches, calm-water spots, boat trips and a broad choice of places to stay make it flexible for mixed ages.[9]
+- **Crete, Greece — beach plus culture:** Pair relaxed beach days with historic sites and family attractions; its size also means you can choose a base that suits your pace.[9]
+- **Costa del Sol, Spain — convenient variety:** Resorts, beaches and attractions make it easier for different generations to split up and find things they enjoy.[3]
+- **South Tyrol, Italy — cooler-weather alternative:** A good pick for mountain scenery and outdoor activities; it also features among family-friendly European destinations for 2026.[2]
+- **Albania — potentially more budget-friendly:** A newer option to consider if keeping costs down matters; check travel logistics and accommodation carefully for your group.[2]
+- **Andalucía, Spain — culture and activities:** Offers a mix of historic sights, outdoor pursuits and relaxed rural stays, so the family can vary the pace.[6]
+
+For a larger group, look for a villa or apartment with step-free access, bedrooms on the ground floor, multiple bathrooms, shade and a pool with a shallow area. The Algarve is particularly suitable if you want a villa-based holiday and easy access to local facilities.[10]
