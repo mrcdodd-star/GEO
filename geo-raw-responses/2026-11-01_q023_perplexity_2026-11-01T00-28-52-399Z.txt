@@ -1,0 +1,17 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/","https://www.oliverstravels.com/faq/","https://www.oliverstravels.com/travel-partners/","https://www.oliverstravels.com/terms-and-conditions/privacy-policy/","https://www.oliverstravels.com/list-your-home/","https://www.purefrance.com/fr/conditions-generales","https://www.trustpilot.com/review/oliverstravels.com?page=4","https://www.oliverstravels.com/account-terms/"]
+
+--- RAW RESPONSE TEXT ---
+For UK customers, Oliver’s Travels’ **standard policy** is:
+
+- **Within 48 hours of making a provisional booking:** You can cancel for a full refund of the deposit. The 48 hours start when the provisional-booking email arrives—not when you pay. This does not apply if your stay begins within 14 days of booking.
+- **After 48 hours:** The terms generally say payments are non-refundable, though the FAQ says that if you cancel more than 12 weeks before departure, you can get the balance back but not the deposit. Check the terms attached to your specific booking, since the property owner’s cancellation terms may apply.
+- Cancellation requests must be sent in writing by email. The terms also list a £25-per-person administration fee.
+
+There is a separate “Pay in Full, Cancel for Free” offer for certain 2027 bookings made in 2026; eligible bookings can be cancelled for a full refund if written notice is received by 31 December 2026. Check your confirmation to see whether you selected and qualify for it.[1][2]
