@@ -1,0 +1,68 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: gemini
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqRhC3XIdGa4XUSTBhuz_Ou67woghp73nD_jfZNrvcDPaeN8xWP2NbX0kL80qoG_NkxhkF_JD21bwK4WGG6mMEqPWr032Ye_hiEXle68YRbJ49FZRzpuWVrgaKU-RWokcRnkTd-2DKhbRHAg9vMy0E32bG2nOUwUIWWbpvDOgSqDB1eE25fDsxlmKhqw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8sB-741TIhHqf7IvemzA5YHFJFwWvtldS8kUmmveZwC--vmf7KuhCXqxZiH-UJS_Rhhryospt8FClOtwp7y5ZADHyRAyyGXzGlw8ciqefmfvA_lc5FKtD1_nM1s47wDkMf8-F94SCc8na6qezX9Zzetw0lqmJVdoF3oJTf8YHaEuvTRHBV28y6PXxjiIHjy_DfqN0hpm-vAr5U7o4UEye-zcRYJvfp2dlKpI=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoZkJE4Z2nnaZoOOFin6FFLih_FPmq9Un2iVMBc6NHILvo7wNiyS36W1dAqBaDuHl6xbmZIJ3si1_PWmV6WlkrzeEH2NdmaGnepXtqsUC547b-qTHiFdvI05NtfUSOAYYh5PY6B7YcpQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3NwWnN3Tst-lSTSswHvL1M4dYhVl8Gy3ScWJVUt1lmILPfWjiuGOINDd5PZZeNpuHo_cM36y8wFQ5Zhm2j8juybk3ZPg59s2N2u8-y4nXlzIKoLRDJkIJ61i7874mT2mpVKkF","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf1hWm4kTjWtHHhuiDauejBflIylsRx9fzYv5A4lPJ2YYV5Cs-PSyEPA8VAnBn57EGGKkwlepEyiwf1ATpeqmITj2hUeU-nABAhwWZZDuEwsGeQVriE4m93g9NovJPffgHyOk=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs4CtcREFehY11uEM_CilPHXy8mzRJ4RQhV5CUgVVdkme1qnp-vfk540yOLzhpeCXLKxAwArD53QQCGPYGh3S_nEW3EZQ0p_4r3e38c3I34-QFeYEhnOj7","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0PGT2SbSlPObOvRnkyeW8egC0HZkrlItTyRXDF0nxNL0QyP9RI_Y81GLhIVNdT9-993-knaZlsawXVFvDMfItafgBU7_VQmqGBP_bBIYW74f3pB_2WI7GyxgBaDAvSGkbXpjxAA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiY_Aaie-HOoT5yH_fBm0MRZ8ZDm1ndLM7fJOlWRHr3cGsEXEK_B5uLTGxNhylBZEfyCnStDCKK4WtYvg42YebNuPiukZguPKyU_PROpNyeRwx5H5z-bdOK9HyJ6KTF547VFHjQI56ZKDN62XEAw=="]
+
+--- RAW RESPONSE TEXT ---
+Affittare una **villa di lusso in Toscana con piscina privata e servizio chef** è una delle esperienze di soggiorno più esclusive e rilassanti in Italia. Unisce la totale privacy di una dimora storica o di un moderno casale di design alla comodità dei servizi di un hotel a cinque stelle.
+
+---
+
+### 1. Le zone migliori della Toscana per questo soggiorno
+
+*   **Val d'Orcia (Pienza, Montalcino, Montepulciano):**
+    *   *Atmosfera:* Paesaggi iconici Patrimonio UNESCO, colline morbide, viali di cipressi e celebri vigneti.
+    *   *Perfetto per:* Degustazioni di vini pregiati (Brunello, Nobile) abbinate alla cucina dello chef con materie prime a km 0.
+*   **Chianti (Greve, Gaiole, Radda in Chianti):**
+    *   *Atmosfera:* Casali in pietra del XVII-XVIII secolo immersi tra vigne e uliveti.
+    *   *Perfetto per:* Cene all'aperto al tramonto, lezioni di cucina toscana e tranquillità assoluta.
+*   **Lucca e le sue colline:**
+    *   *Atmosfera:* Ville nobili e dimore storiche affrescate con rigogliosi giardini all'italiana.
+    *   *Perfetto per:* Chi cerca eleganza d'altri tempi e vicinanza sia alle città d'arte sia al mare.
+*   **Versilia e Forte dei Marmi:**
+    *   *Atmosfera:* Ville moderne, di design minimal o ultra-lusso.
+    *   *Perfetto per:* Chi desidera piscina privata, chef e vita mondana o vicinanza agli stabilimenti balneari di alto livello.
+
+---
+
+### 2. Cosa aspettarsi dal servizio Chef & Piscina Privata
+
+*   **Servizio Chef su misura:**
+    *   Puoi richiedere uno chef per **tutto il soggiorno** (dalla colazione alla cena), oppure solo per **eventi/cene specifiche** (es. cena di benvenuto, serata pizza nel forno a legna o menù degustazione gourmet).
+    *   I menù vengono concordati prima dell'arrivo tenendo conto di diete particolari (vegano, senza glutine, intolleranze) e abbinamenti con vini locali coordinati da un sommelier.
+*   **Piscina Privata & Relax:**
+    *   La maggior parte delle ville di lusso dispone di **piscina a sfioro (infinity pool)** con vista panoramica sulle colline.
+    *   Moltissime strutture offrono l'opzione di **piscina riscaldata** (fondamentale in primavera o inizio autunno) e vasca idromassaggio jacuzzi.
+
+---
+
+### 3. Esempi di Dimore ed Agenzie Specializzate
+
+Per prenotare una villa con queste caratteristiche ci si può rivolgere a piattaforme e agenzie specializzate nel mercato *luxury*:
+
+#### **A) Esempi di Ville Esclusive in Toscana**
+*   **Villa Cetinale (Siena):** Una delle dimore barocche più famose d'Italia, con giardini rinomati a livello internazionale, piscina privata e staff completo (compreso chef di alto livello).
+*   **Villa Le Ginepraie (Volterra / San Gimignano):** Immersa nella natura con piscina a sfioro, offre chef privato per cene tradizionali o stellate, corsi di cucina e trattamenti benessere.
+*   **Villa Vetrichina (San Casciano dei Bagni):** Un’esclusiva tenuta di lusso con piscina, giardino secolare e servizio di chef e concierge dedicato.
+*   **Villa Lenka / Coselli Collection (Lucca):** Villa storica con parco, piscina e chef privato per cene eleganti servite in giardino.
+
+#### **B) Le Migliori Agenzie / Tour Operator del Settore**
+1.  **Salogi Villas:** Agenzia con decenni di esperienza specializzata in ville di alto livello in Toscana con opzioni con chef esperto e catering gourmet integrato.
+2.  **Tuscany Now & More:** Selezione curata di ville storiche e casali con staff completo (*fully staffed*) compreso cuoco privato e concierge dedicato.
+3.  **Emma Villas / Ville in Italia:** Ampio catalogo di proprietà con piscina ad uso esclusivo e possibilità di aggiungere servizi su misura (*Chef at home*, lezioni di cucina).
+4.  **Posarelli Villas & Haute Retreats:** Piattaforme focalizzate sul segmento di lusso con servizio *concierge* per organizzare chef, degustazioni e trasferimenti.
+
+---
+
+### 4. Consigli Utili per la Prenotazione
+
+1.  **Chiarire la formula del servizio Chef:**
+    *   Verifica se il costo dello chef include gli ingredienti (*spesa inclusa*) o se questi vengono fatturati a parte in base allo scontrino.
+2.  **Riscaldamento della piscina:**
+    *   Se viaggi tra aprile e maggio o a ottobre, richiedi sempre la **piscina riscaldabile** per poterla sfruttare appieno.
+3.  **Muoversi in anticipo:**
+    *   Le ville di lusso con piscina privata e chef per l'alta stagione (giugno – settembre) vengono solitamente prenotate con **6-12 mesi di anticipo**.
