@@ -1,0 +1,72 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+["https://www.moneysavingexpert.com/travel/etias-complete-guide-uk-travellers/","https://schengentraveler.com/etias-launch-date/","https://www.allcleartravel.co.uk/blog/etias-guide-uk-travellers/"]
+
+--- RAW RESPONSE TEXT ---
+Here's a checklist for booking a luxury villa abroad from the UK, with the main points first.
+
+## 1. Who you're booking through
+- **Reputable operators or agents.** Specialist villa companies often have a UK presence, vet their properties and give you someone to call if things go wrong. Look for ABTA membership. Booking a villa plus flights from the same company can make it a "package". That usually gives you stronger UK protection, and ATOL covers packages that include flights.
+- **Direct or platform bookings.** Airbnb, Vrbo and owner-direct bookings are often cheaper, but villa-only rentals generally aren't covered by package protections. You carry more risk if the owner goes bust or the listing turns out to be fake.
+- **Scam checks.** Be wary of anyone who asks for payment by bank transfer outside the platform or who rushes you. Reverse-image-search the photos, check for independent reviews, and ask for a video call or a walkthrough of the property.
+
+## 2. What's included and what's extra
+Check these before you compare prices:
+- **Staff.** Find out whether a chef, housekeeper, concierge or villa manager is included. Ask how often they come, and whether groceries and tips are extra.
+- **Utilities.** Pool heating, air conditioning and electricity are sometimes metered and charged on top.
+- **Fees.** Look for cleaning fees, tourist tax (payable locally in many countries) and security deposits.
+- **Arrival and departure.** Ask about welcome packs, stocked fridges, transfers and late check-out.
+
+## 3. The property itself
+- **Location.** Check the real distance to the beach, restaurants, shops and the airport. "Sea view" and "walk to the beach" can be loosely used. Use Google Maps satellite and Street View to check what's around the villa.
+- **Pool.** Ask about size, whether it's heated or private, and whether it has safety fencing if you're travelling with children. Find out when it's open, because some pools are closed or unheated in the off-season.
+- **Beds and bathrooms.** Check the bed configurations and how many en-suites there are. Villas that "sleep 12" may not suit 12 adults.
+- **Practicalities.** Ask about Wi-Fi speed if you need to work, air conditioning in every bedroom, parking, steps and accessibility, and whether the road is steep or unlit.
+- **Noise and neighbours.** Check for nearby building work, and for party or event rules. Ask whether events or large gatherings are allowed.
+
+## 4. Reviews and proof
+- Read recent reviews on independent sites, not just the ones on the listing.
+- Ask for up-to-date photos if the villa has been renovated recently.
+- Check the licence. Some places, including parts of Spain, Portugal, Italy and Greece, require holiday lets to be registered. Greece, for example, has strict short-let rules. An unlicensed rental can be cancelled or fined.
+
+## 5. Payment and cancellation terms
+- **Payment method.** Pay by credit card where possible. For purchases between £100 and £30,000, Section 75 can give you protection from your card provider if something goes wrong.
+- **Deposits.** Ask when the deposit and balance are due, and how and when the security deposit is returned.
+- **Cancellation policy.** Check what's refundable and what happens if the owner cancels. Take note of any force majeure clauses.
+- **Currency.** Check whether you're paying in sterling or the local currency. If you're paying in euros, use a card with no foreign transaction fees.
+
+## 6. Insurance
+- Take out travel insurance that covers cancellation, medical care and the villa's security deposit or accidental damage.
+- Consider adding your own cancellation cover if the villa's policy is strict.
+- Check what your policy says about pools and activities such as water sports.
+
+## 7. UK-specific entry rules (Europe)
+- **EES.** 
+The EU's Entry/Exit System launched in full on 10 April. UK passport holders have to provide fingerprints and a facial scan at passport control when entering and leaving certain European countries.
+ Allow extra time at the border, especially in peak season.
+- **ETIAS.** 
+As of 26 October 2026, no ETIAS start date has been announced.
+ 
+It isn't operating yet and applications aren't being accepted.
+ Don't use unofficial sites that offer to apply for you. Check the official EU travel site for updates before you travel, especially if you're booking for 2027.
+- **Passport validity.** For Schengen countries, your passport should usually be less than 10 years old on the day you arrive. It should also have at least 3 months left after the day you plan to leave. Check the Foreign Office travel advice page for your destination before you book.
+
+## 8. Practical extras
+- **Car hire.** In remote villas you'll often need a car. Check the parking and the roads, and consider booking a transfer instead.
+- **Safety.** Ask about alarms, safes and CCTV, plus emergency contacts.
+- **Seasonality.** Check the weather, local holidays, and whether restaurants and services are open when you're going.
+- **Local help.** Make sure there's a named person who can reach the villa quickly if something breaks.
+
+## Questions to ask before you pay
+1. Is the property licensed or registered for holiday lets?
+2. What's included in the price, and what are the extra costs?
+3. Who is on site, and who do I call out of hours?
+4. What happens if the villa isn't as described?
+5. What are the cancellation and refund terms if I or the owner cancel?
+
+If you tell me the destination, group size and budget, I can give you more specific advice. That could cover Mediterranean versus long-haul options, the best season, or which areas suit families versus couples.
