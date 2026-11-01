@@ -1,0 +1,28 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q029
+MARKET / LANGUAGE: Italy / it
+SOURCE MODEL: chatgpt
+QUERY TEXT: ville di lusso in Toscana con piscina privata e chef
+
+CITED URLS:
+["https://www.petrolo.it/en/hospitality/villa-petrolo/?utm_source=openai","https://www.tuscanynowandmore.com/villas/villa-albizi?utm_source=openai","https://friendsoftuscany.com/property/41-villa-mori-elegant-villa-sleeps-up-to-28-private-pool-chef-and-spa/?utm_source=openai","https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/?utm_source=openai","https://www.montaionesignaturevillas.com/villa-luce.html?utm_source=openai","https://www.coselli.com/luxury-villas-with-private-chef/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Eccoti una selezione curata di ville di lusso in Toscana che offrono piscina privata e chef, perfette se cerchi comfort, privacy ed esperienze gastronomiche da sogno. Posso filtrare per numero di ospiti, budget o zona specifica (Chianti, Val d’Orcia, Lucca, Maremma…) se vuoi affinare!
+
+---
+
+### 🌟 Ville di lusso consigliate
+
+| Villa | Zona / Posizione | Servizi inclusi | Ospiti / Stanze | Prezzo / Note |
+|---|---|---|---|---|
+| **Villa Petrolo** | Toscana rurale, vicino a Bucine (AR) | Piscina privata (6×12 m), chef privato + pulizie giornaliere, tennis. Elegante casa di campagna con giardino privato. ([petrolo.it](https://www.petrolo.it/en/hospitality/villa-petrolo/?utm_source=openai)) | 17-33 ospiti, 16 camere | Ideale per gruppi grandi, eventi, matrimoni. |
+| **Villa Albizi** | Chianti | Piscina riscaldata privata, hot tub, chef incluso per 3 cene, colazione/brunch/gourmet dinners, staff completo + butler. ([tuscanynowandmore.com](https://www.tuscanynowandmore.com/villas/villa-albizi?utm_source=openai)) | Fino a 16 persone (8 camere) | Ottima se vuoi relax + alta cucina senza uscire. |
+| **Villa Mori** | Vicopelago, vicino a Lucca | Private pool, chef & cucina professionale, spa, wine cellar con sommelier, staff dedicato, sala da ballo, cena di gala e experience su richiesta. ([friendsoftuscany.com](https://friendsoftuscany.com/property/41-villa-mori-elegant-villa-sleeps-up-to-28-private-pool-chef-and-spa/?utm_source=openai)) | Fino a quasi 30 persone | Perfetta per eventi, gruppi multi-generazionali. |
+| **Villa Le Masse** | Panzano in Chianti | Piscina a sfioro in magnesio, chef per pranzo o cena tutti i giorni, cene speciali (pizza, welcome dinner), paesaggio vigneti & uliveti. ([hauteretreats.com](https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/?utm_source=openai)) | 6 camere, fino a 12 ospiti | Ottima per vacanze relax gastronomiche. |
+| **Villa Luce** | Montaione (tra Pisa e Firenze) | Piscina privata, interni eleganti, chef su richiesta, tour privati, servizio concierge, design contemporaneo immerso nella campagna. ([montaionesignaturevillas.com](https://www.montaionesignaturevillas.com/villa-luce.html?utm_source=openai)) | 5 camere | Ottima per chi vuole bilanciare tranquillità e cultura. |
+| **Coselli Collection – Villa Lenka** | Toscana (Lucca / collina / zona centrale) | Chef privato + piscina, giardini eleganti, interni restaurati, atmosfera aristocratica. ([coselli.com](https://www.coselli.com/luxury-villas-with-private-chef/?utm_source=openai)) | 7 camere, max 14 ospiti | Per gruppi medio-grandi che cercano lusso classico. |
+
+---
+
+Se vuoi, posso prepararti una lista ancora più ampia, divisa per area (Chianti, Lucca, Maremma, Siena…), budget settimanale, numero di camere, per trovare la villa che fa al caso tuo—te la preparo?
