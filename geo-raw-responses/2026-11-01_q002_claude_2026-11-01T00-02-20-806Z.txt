@@ -1,0 +1,62 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://globaltravelworldwide.co.uk/family-multi-generation-holidays-2026/","https://www.postoffice.co.uk/travel-money/guides/family-holiday-report","https://www.easyjet.com/en/news/holidays/story/wheres-best-for-family-holidays","https://smudgedpostcard.com/family-holiday-ideas-in-europe/","https://www.madeformums.com/travel/the-best-family-holiday-destinations/","https://www.101holidays.co.uk/family/holidays-with-grandparents/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some good options from the UK. The best choice depends on your group's ages and mobility.
+
+**Beach and villa holidays (the easiest option for mixed ages)**
+- **Algarve, Portugal** is probably the strongest all-rounder. 
+Flights from Manchester take under three hours. The coast has gentle family beaches and championship golf for grandparents who want a morning to themselves. Villa-style resorts with private pools give each generation space to retreat.
+ 
+Vilamoura and Albufeira have plenty of multi-bedroom villas.
+ It's also good value: 
+Post Office Travel Money found it the cheapest European beach destination for families this year.
+
+- **Mallorca, Spain** came top in easyJet's index. 
+It scored well for its beaches, waterparks and easy travel from the UK.
+ 
+The flight is about two hours and leaves from most regional UK airports.
+
+- **Canary Islands (Tenerife, Lanzarote)** have year-round sun and good value. 
+Lanzarote came third in the Post Office value report.
+ 
+Tenerife has well-known resorts such as Costa Adeje and Los Cristianos, and it's still one of the best-value destinations in the report.
+
+
+**All-inclusive and longer stays**
+- **Turkey** is 
+exceptional value, especially at all-inclusive resorts.
+ That suits groups who want meals and entertainment sorted for everyone.
+- **Cyprus** works for stays of ten nights or more. 
+It has archaeological sites, calm family beaches and many all-inclusive resorts, which helps with different tastes and dietary needs across three generations.
+
+- **Greece** (Corfu, Rhodes): 
+Greece came top as the UK's favourite family holiday destination in one parents' survey.
+ 
+CV Villas has a good selection of villas in north-east Corfu.
+
+
+**Culture and city options**
+- **Rome, Dubrovnik/Dalmatian coast, Vienna and Amsterdam** are suggested for multigenerational trips that mix history, culture and child-friendly activities. Cities involve more walking, so they suit active grandparents better.
+
+**Easiest on logistics**
+- **A cruise** is 
+one of the easiest solutions for a multigenerational holiday, and you can avoid flying by sailing from a UK port such as Southampton.
+
+- **Center Parcs-style villages** are another option. 
+Landal GreenParks has holiday villages across Europe.
+
+
+**Tips for choosing**
+- Book a villa or apartment with **separate bedrooms and a private pool**. That lets everyone keep their own rhythm.
+- Pick **short flights (under 3–4 hours)** and a **direct route** from your local airport.
+- Check for **step-free access** if anyone has limited mobility.
+- Consider **May, June or September**. They're cooler for older relatives and cheaper than school holidays.
+
+If you tell me your group size, the ages (especially the youngest and oldest), your budget and when you want to travel, I can narrow this down to two or three specific places.
