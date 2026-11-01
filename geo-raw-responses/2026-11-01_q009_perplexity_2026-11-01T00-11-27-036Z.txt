@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.votre-chateau-de-famille.com/en/","https://www.votre-chateau-de-famille.com/en/chateau/","https://www.southfranceholidayvillas.co.uk/collection/chateaux-manoirs","https://chateaudebourneau.com/en_gb/","https://www.votre-chateau-de-famille.com/en/chateau/?_sejour_type=corporate-retreats","https://www.oliverstravels.com/rent-chateau-france/","https://storiedcollection.com/historic-venues/france/rent-a-chateaux/","https://www.homanieluxuryrentals.com/french-chateau-for-rent"]
+
+--- RAW RESPONSE TEXT ---
+You can book directly with a château or use a UK-facing directory or agency to compare venues and handle enquiries. Good starting points:
+
+- **French Wedding Venues** — UK-based directory with a venue search and enquiry process; useful for comparing châteaux by region and style.[16]
+- **Hitched UK** — wedding-planning guide with French château venue suggestions and advice on budgeting and booking.[12]
+- **Oliver’s Travels** — offers French château rentals and wedding-planning support.[6]
+- **Votre Château de Famille** — a curated collection of privately owned châteaux across France; its team can shortlist options and help with logistics and suppliers.[1][2]
+- **Storied Collection** — exclusive-use historic French estates, with a venue adviser and a UK contact number.[7]
+- **South France Holiday Villas** — a useful option if you’re looking in Provence or elsewhere in the south; its collection includes venues suitable for weddings.[3]
+
+For specific examples, **Château de Bourneau** in the Vendée hosts weddings and offers nearby cottage accommodation, while **Château Challain** in the Loire is a dedicated wedding venue with English-language planning support.[4][18]
+
+When enquiring, give your date, guest count, budget and how many people need to stay onsite. Check whether the quote is **venue-only or includes catering, coordination, furniture and accommodation**—these can be separate costs. Popular venues and dates can book well ahead, so start early.[12]
