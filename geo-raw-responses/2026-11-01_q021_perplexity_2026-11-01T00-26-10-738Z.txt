@@ -1,0 +1,15 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q021
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: is Oliver's Travels reliable
+
+CITED URLS:
+["https://www.trustpilot.com/review/oliverstravels.com","https://www.oliverstravels.com/about/why-book-with-us/","https://uk.trustpilot.com/review/oliverstravels.com?page=2","https://www.trustpilot.com/review/oliverstravels.com?page=5","https://www.trustpilot.com/review/oliverstravels.com?page=7","https://au.trustpilot.com/review/oliverstravels.com?page=3","https://www.trustpilot.com/review/oliverstravels.com?page=4","https://www.trustpilot.com/review/oliverstravels.com?page=9"]
+
+--- RAW RESPONSE TEXT ---
+**Oliver’s Travels looks like a genuine, established UK holiday-rental agency, but “reliable” depends on what you expect if something goes wrong.** Trustpilot shows a strong 4.7/5 from around 3,600 reviews, with most ratings positive; however, Trustpilot says it does not fact-check reviewers’ claims, and its review page notes recent reviews may not be representative.[1]
+
+A key caveat: Oliver’s Travels says it acts as an agent for villa bookings, and Trustpilot reviews describe disputes over property descriptions, cancellations, and who is responsible for resolving problems. One review also reports that the company confirmed a booking was not ABTA-bonded; that is a reviewer’s account, so confirm the protection arrangements for your specific booking directly.[2][3]
+
+Before paying, get the contract and cancellation/refund terms in writing, confirm who is legally responsible for the accommodation, and ask what protection applies to your booking. Pay by credit card if possible, and save dated screenshots of the listing and any promises about facilities or location.
