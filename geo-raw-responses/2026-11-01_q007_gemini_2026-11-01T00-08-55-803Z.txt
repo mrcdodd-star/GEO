@@ -1,0 +1,70 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Finding a villa in Italy with a private chef and daily housekeeping from the UK is relatively straightforward, as several of the world’s top luxury villa agencies are based in the UK. 
+
+Depending on your preference, you can either book a **fully staffed villa** (where staff are included in the rental price) or book a **villa with a dedicated concierge team** who will arrange a private chef and daily housekeeping as add-on services.
+
+Here is a step-by-step guide on how to find and book the right villa.
+
+---
+
+### 1. Use UK-Based Luxury Villa Agencies (Recommended)
+Booking through a reputable UK agency gives you access to vetted properties, direct phone support in your time zone, and consumer financial protection.
+
+Top agencies specializing in Italy with staff services include:
+
+*   **The Thinking Traveller**
+    *   *Best for:* Sicily, Puglia, Tuscany, and the Italian islands.
+    *   *Why use them:* Known for high-end properties and exceptional local knowledge. Their UK-based team works directly with local concierges who can arrange private chefs and daily maid services tailored to your exact schedule.
+*   **CV Villas**
+    *   *Best for:* Amalfi Coast, Tuscany, Umbria, and Italian Lakes.
+    *   *Why use them:* A long-standing UK brand with a wide range of properties. You can filter by "fully serviced" or request bespoke staffing through their Concierge Service.
+*   **Tuscany Now & More**
+    *   *Best for:* Tuscany and Umbria.
+    *   *Why use them:* UK-headquartered specialists with direct, exclusive relationships with Italian estate owners. They offer a specific filter for villas with chefs included or available on request, alongside daily housekeeping.
+*   **Oliver’s Travels**
+    *   *Best for:* A wide selection of luxury villas across all top Italian regions.
+    *   *Why use them:* They have a dedicated **VIP Concierge Team** (free service) that books private chefs, daily maid services, grocery shopping, and transfers prior to your trip.
+
+---
+
+### 2. High-End Global Luxury Platforms
+If you prefer browsing online platforms with built-in concierge services:
+
+*   **Airbnb Luxe:** Differs from standard Airbnb. Every booking comes with a dedicated **Trip Designer** who can coordinate daily housekeeping, in-villa private chefs, airport transfers, and childcare.
+*   **Le Collectionist:** A European luxury villa operator offering high-spec Italian properties paired with full 24/7 concierge services and on-demand staff.
+*   **Onefinestay:** Offers curated private homes in Italy with tailored hospitality packages, including daily housekeeping and bespoke chef services.
+
+---
+
+### 3. Key Questions & Details to Clarify Before Booking
+
+When inquiring about a property, clarify the following to ensure there are no surprises:
+
+#### **A. Chef Services**
+*   **Included vs. Add-On:** Is the chef’s fee included in the nightly villa rate, or is it an extra daily service charge?
+*   **Food Expenses:** Chef service fees almost always **exclude the cost of ingredients and beverages**. You will typically pay the chef or concierge in cash/card locally based on actual supermarket receipts, plus a small sourcing fee.
+*   **Meal Schedule:** Confirm which meals are covered (e.g., breakfast + dinner, or all 3 meals). Make sure to communicate dietary requirements well in advance.
+
+#### **B. Housekeeping Services**
+*   **Scope of Service:** Clarify what "daily" means. Does it mean 2–3 hours of light cleaning and bed making, or full-day service including laundry and evening turn-down?
+*   **Rest Days:** In Italy, domestic staff often have Sunday or one weekday off by law. Check if coverage is provided on those days or if a substitute staff member is brought in.
+
+#### **C. Financials & Protection**
+*   **Payment Currency:** UK agencies may quote in GBP (£), whereas direct local agencies will quote in Euros (€). If paying in Euros, consider using a fee-free currency card or transfer service (like Wise) to avoid bank conversion markups.
+*   **Financial Protection:** If booking a "villa only," check the agency's financial protection policy. If you book flights and the villa together through an agency like CV Villas, it may be covered under ATOL.
+
+---
+
+### Recommended Next Steps
+1. **Choose your region:** Tuscany/Umbria (rolling hills, wine), Amalfi Coast/Capri (dramatic coastlines, sea views), Lake Como (lakeside luxury), or Puglia/Sicily (authentic charm, beaches).
+2. **Contact 2–3 UK agencies** (e.g., *The Thinking Traveller* or *Tuscany Now & More*) with your budget, dates, group size, and specific requirement for a chef and daily maid.
+3. Ask for a **tailored shortlist**—agency specialists often have access to unlisted properties or know exactly which villa owners have the best resident chefs.
