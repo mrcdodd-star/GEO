@@ -1,0 +1,17 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CAwSGRIXCgNwdnESEENnb3ZiUzh3TW5FeVluRjUYCg","https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhGNWJubHplbkkzGAo","https://chateaubeeselection.com/","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oeGVERnFOVFEYCg","https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdKZloycG9hbUkYCg"]
+
+--- RAW RESPONSE TEXT ---
+Renting a château in France for a destination wedding is a magical option, but because France has hundreds of historic properties, narrowing down your region and style is the best place to start.
+Top Château Wedding Venues (By Region)
+
+Specialized Finding & Booking Platforms
+If you want a curated list or specialized help navigating contracts and language barriers, these platforms are widely recommended:
+
+To help narrow down the ideal property, could you let me know:
