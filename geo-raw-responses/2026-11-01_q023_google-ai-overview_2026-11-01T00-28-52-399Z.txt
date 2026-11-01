@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-01
+QUERY ID: Q023
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: what is Oliver's Travels' cancellation policy
+
+CITED URLS:
+["https://www.oliverstravels.com/terms-and-conditions/"]
+
+--- RAW RESPONSE TEXT ---
+Oliver's Travels acts as a booking agent for property owners, and their standard cancellation policy includes the following key terms:
+
+Full details can be found on the Oliver's Travels Agency Terms and Conditions page.
+If you'd like, share your booking date, departure date, or whether you selected a special promotion, and I can help you figure out how these terms apply to your specific reservation.
