@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.votre-chateau-de-famille.com/en/chateau/","https://www.masdepradie.com/rent-the-chateau-estate-france","https://www.votre-chateau-de-famille.com/en/","https://www.southfranceholidayvillas.co.uk/collection/chateaux-manoirs","https://www.cvvillas.com/destinations/france/dordogne/le-chateau-du-roi/","https://chateaudebourneau.com/en_gb/","https://www.frenchweddingstyle.com/best/castle-wedding-venues-in-france/","https://www.oliverstravels.com/blog/top-chateaux-to-rent/"]
+
+--- RAW RESPONSE TEXT ---
+You can book a French château wedding through UK-facing rental agencies or contact venues directly. These are good places to start:
+
+- **[French Wedding Style](https://www.frenchweddingstyle.com/)** — a curated directory of château wedding venues across France, with options for exclusive-use wedding weekends and English-speaking planning support.[7]
+- **[Oliver’s Travels](https://www.oliverstravels.com/rent-chateau-france/)** — UK-based holiday rental company with French châteaux and a wedding consultant to help with planning.[9]
+- **[South France Holiday Villas](https://www.southfranceholidayvillas.co.uk/collection/chateaux-manoirs)** — a UK-facing collection of South of France estates; ask them to shortlist properties that permit weddings.[4]
+- **[Votre Château de Famille](https://www.votre-chateau-de-famille.com/en/chateau/)** — exclusive-use properties across France, with help selecting a venue and arranging local suppliers and transport.[1]
+- **[Storied Collection](https://storiedcollection.com/historic-venues/france/rent-a-chateaux/)** — historic venues for exclusive hire, with a venue adviser and a UK contact number.[10]
+- **Book direct:** Château de Bourneau in the Vendée promotes weddings and has cottages for guest accommodation; Château Mas de Pradié in Aveyron offers exclusive estate rental and takes wedding enquiries.[6][2]
+
+Before paying a deposit, confirm in writing that the venue allows weddings, your guest count fits, and the hire includes the spaces and dates you need. Ask about accommodation, catering and music restrictions, weather backup, staffing, and any extra event fees.
