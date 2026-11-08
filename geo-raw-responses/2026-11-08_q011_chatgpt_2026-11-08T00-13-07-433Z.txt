@@ -1,0 +1,75 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.kestreltravel.com/?utm_source=openai","https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai","https://apps.onefinestay.com/destination/france/luxury-villas-south-of-france?utm_source=openai","https://www.luxuryvillassouthoffrance.com/?utm_source=openai","https://lvhglobal.com/provence?utm_source=openai","https://polariusrealestate.com/en/rentals/french-riviera?utm_source=openai","https://lutetia-group.com/luxury-villas/?utm_source=openai","https://villa-amour.fr/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you’re looking for luxury villas with concierge service in the south of France—from Provence to the Côte d’Azur—there are some outstanding options. I’ve put together a list of top villa rental agencies and a few specific standout properties, plus tips on how to choose what suits you best.
+
+---
+
+### 🌟 Top Luxury Villa Rental Agencies
+
+These companies combine high-end properties with concierge-level service—perfect for a seamless, indulgent stay.
+
+| Agency | Regions Served | What’s Included |
+|--------|------------------|------------------|
+| **Kestrel Travel** | French Riviera, Provence, Carcassonne, Paris, etc. | Full concierge service via local offices, chauffeur service, wedding/planning if needed. ([kestreltravel.com](https://www.kestreltravel.com/?utm_source=openai)) |
+| **Belles Villas** | Provence & French Riviera | Welcome on arrival, daily cleaning & linen, 24/7 support, plus optional services like private chef and boat trip. From ≈ €999/night. ([bellesvillas.fr](https://www.bellesvillas.fr/en/villas-conciergerie-provence?utm_source=openai)) |
+| **Onefinestay** | Across the South of France | Offers a dedicated concierge, spa & wellness, personal chef, transport; homes inspected and serviced regularly. ([apps.onefinestay.com](https://apps.onefinestay.com/destination/france/luxury-villas-south-of-france?utm_source=openai)) |
+| **Luxury Villas South of France (Villa Noir)** | Primarily Saint-Tropez & Riviera area | Discreet bespoke support such as yacht charters, IV wellness, and local experiences. ([luxuryvillassouthoffrance.com](https://www.luxuryvillassouthoffrance.com/?utm_source=openai)) |
+| **LVH (Luxury Vacation Homes)** | Provence and other top-tier destinations | Every villa has an on-site steward, housekeeping, pre-stocking, concierge access. ([lvhglobal.com](https://lvhglobal.com/provence?utm_source=openai)) |
+| **Polarius** | Côte d’Azur: Saint-Tropez, Cannes, Cap Ferrat etc. | Villas often off-market, hotel services on request (chefs, drivers, yacht charter, house staff). ([polariusrealestate.com](https://polariusrealestate.com/en/rentals/french-riviera?utm_source=openai)) |
+| **Lut etia Group** | Cannes, Saint-Tropez, etc. | Private concierge, daily breakfast buffet, staff as required (chef, chauffeur, spa). ([lutetia-group.com](https://lutetia-group.com/luxury-villas/?utm_source=openai)) |
+
+---
+
+### 🏡 Standout Villas & Properties
+
+If you want a fully planned stay with service, here are some villas that stand out:
+
+- **Villa Amour, Les Alpilles (Provence)**  
+  5 suites, private pool, 24/7 concierge, personal chef and guided tours. Great if you want peace, charm, and all the extras. ([villa-amour.fr](https://villa-amour.fr/?utm_source=openai))
+
+- **Villa Oxygen (Mandarin Oriental Exclusive Home)**  
+  In the Côte d’Azur. Includes villa host, chef/catering (6 days a week), in-home wellness/spa, transport, etc. ([photos.mandarinoriental.com](https://photos.mandarinoriental.com/is/content/MandarinOriental/exclusive-homes-individual-brochure-villa-oxygen?utm_source=openai))
+
+- **Velox Concierge Villas**  
+  High-end villas like Villa Sanctuary (Saint-Tropez), Villa Retreat (Cannes) with concierge-level service—including full housekeeping, chauffeurs, even security if needed. ([velox-concierge.com](https://velox-concierge.com/villas/?utm_source=openai))
+
+---
+
+### 📝 Key Criteria to Use When Choosing
+
+To make sure you get exactly what you want, here are some filters and questions worth considering before booking:
+
+1. **Location**  
+   - Are you after the coast (Saint-Tropez, Cap d’Antibes, Nice)?  
+   - Or more rural Provence (Luberon, Alpilles)?  
+   Travel time from airports matters—especially Nice, Marseille, or Toulon.
+
+2. **Size & Privacy**  
+   - How many guests? Do you need 3–4 bedrooms or more like 8–12?  
+   - Is inside/outside space crucial? Gardens, terraces, private access, etc.
+
+3. **Service Level**  
+   - Concierge: 24/7? Multilingual?  
+   - Staff: housekeeper, cook/chef, chauffeur, possibly yacht or boat crewing.  
+   - In-villa wellness, spa treatments, kids & family services if relevant.
+
+4. **Extras and Experiences**  
+   - Do you want boats/yachts? Beach club access? Wine tours?  
+   - Restaurant reservations, helicopter transfers?  
+   - Local experiences (markets, guided tours, etc.).
+
+5. **Budget & Timing**  
+   - Peak season (July–August) demand & cost skyrockets in areas like Saint-Tropez. Book early (often 6–12 months ahead for the best spots). ([polariusrealestate.com](https://polariusrealestate.com/en/rentals/french-riviera?utm_source=openai))  
+   - In shoulder season (May, September), rates drop and supply increases.
+
+---
+
+If you like, I can pull together 3–5 villas that match your preferences (dates, number of people, service level) and send you rates. Would you prefer to do that—or do you have certain areas (e.g. Provence vs. the French Riviera) or maximum nightly budget in mind?
