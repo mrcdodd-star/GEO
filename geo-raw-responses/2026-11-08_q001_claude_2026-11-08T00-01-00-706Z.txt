@@ -1,0 +1,52 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Sixteen people with three toddlers and grandparents is a big group, so I'd pick a place based on how easy it is to get to, how mild the weather is, and whether you can stay together in one or two properties.
+
+## Top picks
+
+**1. Brittany or Normandy, France (my top pick for ease)**
+- You can drive or take the ferry from the UK, so there are no flights, no baggage limits, and room for buggies, travel cots and grandparents' gear.
+- Big gîtes and manor houses sleeping 14–20 are common and good value.
+- The summer weather is milder than in the south, which is easier on toddlers and older relatives.
+- Sandy beaches, rock pools and easy-going food suit all ages.
+
+**2. Algarve, Portugal**
+- It has lots of large villas with pools, plus calm, shallow beaches such as those near Lagos, Tavira and Alvor.
+- Flights from the UK take about 3 hours, and there are many airports to choose from.
+- July and August are hot, but June and September are very comfortable. Pools should have proper safety fencing, so check this for toddlers.
+
+**3. Mallorca or Menorca, Spain**
+- Large fincas with pools are easy to find. Menorca is quieter, with shallow, sheltered coves that suit toddlers.
+- Flights are short and frequent. Mallorca is hot in peak summer.
+
+**4. Puglia or Tuscany, Italy**
+- Large farmhouses (masserie) work well for groups, and Italian restaurants are very welcoming to children.
+- It's hot in July and August, so a pool and air-conditioning are essential. Transfers also tend to involve more driving.
+
+**5. Center Parcs-style option: Villages Nature Paris, or Dutch and Belgian holiday parks**
+- These have a "no car needed" setup, with toddler facilities, indoor options if it rains, and lodges that sit close together.
+- They're less "European culture", but they're very low-stress.
+
+## Practical tips for your group
+- **Book early.** Properties sleeping 14–16+ go quickly for July and August. Book 9–12 months ahead, or look at two neighbouring houses or a gated complex.
+- **Travel in June or early September if you can.** It's cheaper and cooler, and the grandparents will probably be glad of it.
+- **Check the basics** before you book: a fenced pool, air-conditioning in the bedrooms, a ground-floor bedroom for less mobile relatives, and a supermarket within 10–15 minutes.
+- **Keep transfers short.** Aim for under 45 minutes from the airport, since toddlers and long drives don't mix.
+- **Plan for flights.** A group of 16 is easier to manage if you all fly from one UK airport. Direct flights are much better than connections.
+
+## Questions that would help me narrow it down
+- Do you prefer driving or flying?
+- What's your rough budget per household?
+- Would you rather have a beach, a pool and countryside, or a resort with activities?
+- Do the grandparents have any mobility limits?
+- Are your dates fixed, for example school holidays?
+
+If you tell me those, I can suggest specific regions and the kind of accommodation to look for.
