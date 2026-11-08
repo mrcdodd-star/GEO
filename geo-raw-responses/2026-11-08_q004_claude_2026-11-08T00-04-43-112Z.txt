@@ -1,0 +1,76 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://uncompromised.travel/stays/best-destinations-luxury-villa-europe","https://getvuelo.com/uk/blog/best-family-holiday-destinations/","https://www.splvillas.com/2027-villa-holidays","https://www.101holidays.co.uk/family/holiday-ideas/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some options, grouped by the kind of reunion you might want. I've assumed a multi-generational group, so tell me if that's wrong.
+
+## Best all-rounders for big groups
+
+**Algarve, Portugal**
+- One villa-rental guide calls it 
+the most consistently family-friendly and large-group-friendly villa destination in Europe
+. It also rates it 
+the strongest large-format villa inventory in Europe at the best price per bedroom
+.
+- Another source says it's 
+reliably sunny from May to October
+.
+- Eight-bedroom-plus villas are easy to find, which suits a big family. Flights are short.
+
+**Mallorca, Spain**
+- Mallorca is 
+one of the most well-oiled family holiday destinations in Europe
+.
+- It has beaches, hill villages, cycling, and flights from almost every UK airport.
+- It works well if you want a mix of villa days and day trips.
+
+**Tuscany, Umbria or Puglia, Italy**
+- Tuscany is 
+widely considered the best destination for a first European luxury villa holiday
+.
+- It suits food-focused families who don't need a beach every day.
+- Puglia gives you the beach as well. It's also generally cheaper than Tuscany.
+
+## Other ideas
+
+- **Croatia, Greece (Crete, Rhodes) or Cyprus:** These are all offered for 2027 by UK villa companies. 
+Portugal, Spain, Italy, Croatia, Greece and Cyprus
+ are on sale already. Crete is good for a mix of ages, with beaches, history and food.
+- **Tenerife or the other Canaries:** These are best for winter sun, as they stay warm all year. One UK guide calls Tenerife 
+the most consistent family destination in Europe
+. This is the best option if you're thinking of a trip in the next few months.
+- **Sardinia:** It's a good pick for clear water and beaches.
+- **Malta:** It's compact and English-speaking, so it's easy for older relatives. It has plenty of history and is warm for much of the year.
+
+## Villa or resort?
+
+- **Private villa:** You get 
+privacy, space and freedom – and usually your own private swimming pool
+. You also split the cost, and you can cook together or hire a chef for one or two nights.
+- **Resort with villas or apartments:** This gives you more facilities, kids' clubs and less admin. It's easier if nobody wants to cook or organise.
+- **Several houses in one complex:** This helps if some households want more space or a different pace.
+
+## Practical tips
+
+- **Book early.** 2027 villas are on sale now, and big-group properties go first. Some of the larger villas listed start at roughly £4,500–£6,500 a week, and prices rise in peak summer.
+- **Think about timing.** Late May, June and September are warm, cheaper and less crowded than July and August. Many places are too hot for older relatives in peak August.
+- **Check flights.** Make sure everyone has a direct flight from a UK airport near them. Heathrow and Gatwick aren't always the easiest for everyone, so check regional airports.
+- **Plan access.** Check for stairs, pool depth and parking if there are older relatives or small children.
+- **Decide on costs.** Agree up front whether to split by household or by head. Also agree what happens with shared costs such as food and car hire.
+- **Keep some structure.** Plan one or two group activities, such as a boat trip, a long lunch or a family quiz night. Leave the rest of the week free.
+
+## Questions that would help me narrow it down
+
+1. How many people are coming, and what are the age ranges?
+2. When do you want to go, and is a winter-sun trip in the next few months an option?
+3. What's your approximate budget per household?
+4. Do you want a beach, a countryside base or a bit of both?
+5. Do you want to self-cater, or have food sorted for you?
+
+Once I know these, I can suggest two or three specific areas and the best airports for each.
