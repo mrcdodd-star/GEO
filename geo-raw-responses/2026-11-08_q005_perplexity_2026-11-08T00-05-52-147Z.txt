@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://au.news.yahoo.com/want-holiday-friends-kids-best-154558357.html","https://www.jet2holidays.com/self-catering-holidays","https://familyholidaycharity.org.uk/holidays/holiday-advice/planning-family-holiday/what-best-family-holiday-book","https://www.onthebeach.co.uk/holidays/all-inclusive-holidays","https://www.firstchoice.co.uk/holiday/family","https://www.babycentre.co.uk/a561721/how-to-find-good-childcare-on-holiday","https://www.robinson.com/en/en/offers/last-minute/","https://www.tui.co.uk/holidays/holiday-villages"]
+
+--- RAW RESPONSE TEXT ---
+If you want **both meals taken care of and reliable time off from the kids**, look first at an **all-inclusive family resort with age-appropriate childcare**. The key is to check the childcare hours, age limits and whether sessions need booking or cost extra—“kids’ club” doesn’t always mean full-day care.[8]
+
+- **All-inclusive family hotel or resort:** Meals, snacks and drinks are included, and many offer kids’ clubs; some have crèches for babies and toddlers. TUI Holiday Villages, for example, combine all-inclusive dining with clubs and selected crèches, though availability and charges vary by hotel.[5][8]
+- **Family hotel with childcare:** Smaller hotels may offer a few hours of supervised childcare daily, sometimes alongside breakfast or other meals. Check exactly how much childcare is included: examples in the UK range from two hours a day at some hotels to four hours at others.[1]
+- **Luxury resort with a kids’ club or nanny service:** A higher-budget option, often with age-specific clubs and sometimes babysitting or nanny services. The programmes and ages served differ by property.[9]
+- **Holiday with a travel nanny:** You can arrange for a nanny to care for your children for agreed hours, but you’ll generally also cover their travel and accommodation, so this can be expensive.[6]
+- **Hotel or resort plus babysitting:** Useful if you mainly want a couple of evenings off rather than daily childcare. Ask the property to arrange or recommend a sitter, and check their vetting, fees and availability in advance.[6]
+
+Before booking, ask: **What ages are accepted? How many hours a day is care available? Is it included? Are meals included for the children? Do you need to reserve sessions?** Popular childcare sessions can fill up, so confirm details with the resort rather than relying on the general package description.[6][8]
+
+For a UK break, look at family hotels and resorts; for a warmer-weather trip, compare all-inclusive resorts with kids’ clubs. If you share your children’s ages, rough budget and whether you want UK or abroad, I can narrow this down to suitable options.
