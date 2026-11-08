@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://villavacations.com/collections/staffed-villas/","https://fantasiavillas.com/destinations/italy-villa-rentals/villa-elio/","https://www.cvvillas.com/collections/villas-with-cook-service/villas-with-cooks-in-italy/","https://fantasiavillas.com/destinations/italy-villa-rentals/villa-mare-blu-in-praiano/","https://fantasiavillas.com/destinations/italy-villa-rentals/luxury-villas/","https://www.thetopvillas.com/destination/italy/villas-with-staff","https://fantasiavillas.com/destinations/italy-villa-rentals/luxury-tuscany/","https://www.homeinitaly.com/luxury-villas-by-features/fully-staffed_57"]
+
+--- RAW RESPONSE TEXT ---
+Start with a UK-based villa specialist, then ask them to shortlist **staffed villas** in your preferred Italian region and dates. For example, CV Villas advertises Italian villas with cook service and has UK office hours; Home in Italy and Tuscany Now & More also list staffed options with cooking and daily maid service.[3][8][10]
+
+Before booking, confirm in writing:
+
+- **Chef service:** Is it a professional private chef or a cook? Which meals and how many days are covered?
+- **Housekeeping:** Is it daily, how many hours, and are weekends included?
+- **Extra costs:** Are groceries, drinks, chef fees, travel, or service charges extra? These can be separate from the rental.[1][4]
+- **Practical details:** Exact dates, guest capacity, accessibility, air conditioning, pool, cancellation terms, and whether the villa is exclusive to your group.
+
+Send an enquiry with your dates, group size, budget, preferred region, and meal requirements. Ask for a written, itemised quote and the staff schedule for the specific villa—not just a general “fully staffed” description, since services vary by property.[1][3]
+
+For a concrete example, Villa Mare Blu near Praiano lists daily housekeeping and a chef for one meal per day, with groceries excluded; that illustrates why checking the exact inclusions matters.[4]
