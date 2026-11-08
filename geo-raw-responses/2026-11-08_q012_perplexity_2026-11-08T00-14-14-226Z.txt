@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://www.firefly-collection.com/luxury-villa-holidays/","https://www.elegantresorts.co.uk/information/villas-concierge","https://www.elegantresorts.co.uk/holiday-styles/luxury-villas","https://www.yugentrouvailletravel.co.uk/villa-holidays/","https://www.thethinkingtraveller.com/experiences/in-villa-services","https://www.gotobeach.co.uk/looking-to-book-/villa-holidays","https://staff.onefinestay.com/onefinestay-services","https://www.inspiringtravel.co.uk/luxury-villas"]
+
+--- RAW RESPONSE TEXT ---
+Several UK-based villa specialists can coordinate **airport transfers, private chefs and activities** alongside the accommodation:
+
+- **Elegant Resorts** — Arranges private transfers, chef hire, dining, boat trips, watersports and other activities. A good fit for a tailored, higher-end trip.[2][3]
+- **ITC (Inspiring Travel Company)** — Offers a personal concierge for flights, transfers, chefs, excursions, restaurant bookings and other extras.[8]
+- **GoToBeach** — A UK-based specialist with villas in Turkey, the Greek islands, Malta, Gozo and Marrakech; can arrange private transfers, chefs, excursions and boat charters.[6]
+- **Firefly Collection** — UK-registered and focused on luxury villas and chalets; its concierge can arrange chefs, transfers, childcare, lessons and activities.[1]
+- **The Thinking Traveller** — A good option for Mediterranean villas, with help arranging chefs, private transfers, car hire and experiences; services depend on destination and availability.[5]
+
+For a single company to handle most of the trip, start with **Elegant Resorts or ITC**. For a more destination-focused option, compare **GoToBeach** or **The Thinking Traveller**. Ask each for an itemised quote showing what is included, what costs extra, and whether the chef and transfers are confirmed before you pay.
