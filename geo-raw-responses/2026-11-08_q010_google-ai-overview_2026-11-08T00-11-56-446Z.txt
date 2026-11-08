@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.cvvillas.com/collections/villas-with-cook-service/villas-with-cooks-in-greece/","https://www.villanovo.com/villa-rentals/europe/greece/collection:fully-staffed-villas/"]
+
+--- RAW RESPONSE TEXT ---
+A fully staffed villa holiday in Greece combines the privacy and freedom of a private home with the five-star service of a luxury boutique hotel. Depending on the property, "fully staffed" typically covers a private chef or cook, daily housekeeping, a villa manager, and sometimes a butler, concierge, or boat skipper.
+Top Destinations & What to Expect
+
+What "Fully Staffed" Usually Includes
+
+To help narrow down the ideal escape, tell me:
