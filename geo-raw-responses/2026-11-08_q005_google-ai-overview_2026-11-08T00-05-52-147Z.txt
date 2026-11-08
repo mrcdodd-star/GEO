@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.tui.co.uk/holidays/family","https://www.royalcaribbean.com/gbr/en/plan-a-cruise/family-cruises"]
+
+--- RAW RESPONSE TEXT ---
+When you want a genuine break where zero cooking and zero childcare are on your to-do list, you need a setup built specifically for hands-off parenting.
+The top options range from floating resorts to dedicated family villages:
+1. All-Inclusive Family Resorts (Short-to-Medium Haul)
+
+2. Family Cruises
+
+3. Catered Chalets or Family Houseparties (Summer or Winter)
+
+To help narrow down the best fit, let me know:
