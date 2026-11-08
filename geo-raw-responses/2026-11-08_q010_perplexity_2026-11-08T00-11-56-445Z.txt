@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://bnbstay.co.uk/our-villa-holidays/villas-for-families","https://www.cvvillas.com/","https://bnbstay.co.uk/our-villa-holidays/villas-for-large-groups","https://www.sunvil.co.uk/holidays/greece","https://stories.elegantresorts.co.uk/holiday-styles/luxury-villas","https://hauteretreats.com/luxury-villa-rentals-destinations/luxury-villas-greece/","https://www.thetopvillas.com/destination/greece","https://www.jet2holidays.com/villas/large-villas"]
+
+--- RAW RESPONSE TEXT ---
+For a **fully staffed Greek villa**, start with **Haute Retreats**: its collection includes villas with chefs, housekeeping and house teams, and it arranges a 24/7 concierge. Staffing varies by property, so confirm exactly what’s included—especially meals, housekeeping hours and whether the chef is included in the rate.[6]
+
+A couple of UK-facing alternatives:
+
+- **CV Villas** is a UK-based operator with a Greece collection and a separate portfolio of staffed luxury villas. Ask them to shortlist properties where the staff package matches your needs.[2]
+- **Elegant Resorts** can arrange luxury villa stays in Greece, including properties with staff; maid service is common, but schedules vary by villa.[5]
+- **Top Villas** advertises staffed Greek villas, particularly beachfront properties with maid service.[7]
+
+When requesting quotes, give your dates, group size and preferred island, and ask for a written breakdown of staff, meals, transfers, flights and any extra charges. Do you have dates, a budget, or a Greek island in mind?
