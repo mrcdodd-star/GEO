@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://kateandtoms.com/party-houses/large/","https://bighouseexperience.com/large-cottages-to-rent","https://excellenceluxuryvillas.com/rentals/devon/rent-medlar-house-united-kingdom/","https://sjvillas.co.uk/collections/super-sized/","https://kateandtoms.com/house-type/large-holiday-homes/","https://bighouseexperience.com/large-houses-to-rent","https://partyhouses.co.uk/manor-houses-mansion/","https://www.groupaccommodation.com/property-type/mansions?pageNumber=18"]
+
+--- RAW RESPONSE TEXT ---
+Since you’re UK-based, there are two good routes: **a UK house for simpler travel** or **a European villa or château for a destination trip**. These specialist agencies list properties for groups of 20 or more:
+
+- **S.J. Villas — Europe:** Its “Super-Sized Europe” collection includes properties such as Domaine de Bagatelle in Dordogne (24 guests), Domaine de Lavy in Dordogne (26), Domaine de Bénerville in Normandy (30), and Castiglioni in Umbria (20). Listed guide prices vary widely; some are on request.[4]
+- **Big House Experience — UK:** Large self-catering homes include Old Mill Barns in Herefordshire (up to 48), Bay View House in Pembrokeshire (up to 30), and Crofton Lodge near Cheltenham (up to 24).[2][6]
+- **Kate & Tom’s — UK:** Specialises in large group houses, with examples including Cotswolds properties sleeping 25 or more and Severn Bank House for up to 30.[1][5]
+- **Group Accommodation — UK and France:** Listings include Templars Castle in Dordogne (sleeps 20–44), alongside large UK properties.[8]
+
+Before choosing, check whether the stated capacity means **adult beds**, whether the price is for the whole property, and what’s included (cleaning, catering, linens, and any event fees). Share your dates, approximate budget, preferred countries, and whether you need 20 separate beds or just beds for 20 guests, and I can narrow this down.
