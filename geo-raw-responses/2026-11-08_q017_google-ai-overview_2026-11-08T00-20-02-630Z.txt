@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: is it safer to book a villa through an agency or directly with the owner
+
+CITED URLS:
+["https://www.facebook.com/groups/841742455869052/posts/29412706888345894/","https://www.reddit.com/r/AirBnB/comments/d2unen/any_reasons_to_avoid_direct_booking_vs_booking_on/"]
+
+--- RAW RESPONSE TEXT ---
+In general, booking through a reputable agency (or a major platform like Airbnb/VRBO that acts as an intermediary) is safer from a consumer-protection standpoint, though booking directly with an owner has distinct perks if you do your homework.
+A breakdown of how safety, risk, and convenience compare between the two options helps weigh the choice:
+Booking Through an Agency (or Vetted Platform)
+
+Booking Directly with the Owner
+
+According to discussions on platforms like Facebook and Reddit, opinions are mixed on which path is superior, though users generally agree that direct booking requires strict due diligence.
+How to Stay Safe If You Book Direct
+If you decide to skip the agency to save money, protect yourself by doing these checks:
+
+If you'd like to share where the villa is located or how you found the listing, I can help you figure out what specific checks to run to verify if it's legitimate.
