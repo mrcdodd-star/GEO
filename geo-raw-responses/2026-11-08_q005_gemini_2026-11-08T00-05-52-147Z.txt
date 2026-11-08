@@ -1,0 +1,92 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+If you are looking for a holiday where **someone else cooks every meal** and **takes care of the kids**, you are looking for the holy grail of parent holidays. Fortunately, there are several distinct options available to UK travelers, ranging from action-packed beach clubs to luxury UK staycations and European villas.
+
+Here is a breakdown of the best options based on your holiday style and budget:
+
+---
+
+### 1. Beach Club & Activity Resorts (The UK Parents’ Favorite)
+These resorts specialize in taking care of everything: high-standard UK-accredited childcare, Nanny services, water sports, and full/half-board dining.
+
+* **Mark Warner**
+  * **Location:** Greece, Turkey, and winter ski destinations.
+  * **The Vibe:** Active, friendly, and hugely popular with British families.
+  * **Food & Childcare:** Offers full/half board options (buffet & à la carte) and renowned British-staffed childcare for ages 4 months to 17 years (crèches, kids’ clubs, evening listening services/movie nights).
+* **Neilson Holidays**
+  * **Location:** Greece, Croatia, Sardinia, Spain.
+  * **The Vibe:** "Relax as hard as you like." Inclusive watersports, cycling, and fitness classes.
+  * **Food & Childcare:** Inclusive "Club Board" dining (most meals included) and excellent, UK-qualified childcare from 2 years up to teens.
+
+---
+
+### 2. Luxury All-Inclusive & Family Resorts
+If you want five-star luxury with zero cooking, top-tier dining (à la carte, Michelin-starred chefs), and professional childcare:
+
+* **Ikos Resorts & Sani Resort (Greece & Spain)**
+  * **The Vibe:** Ultra-luxury. 
+  * **Food:** Infinite lifestyle all-inclusive (Ikos) or high-end Dine Out programs (Sani). Includes Michelin-starred chef menus, 24-hour room service, and premium drinks.
+  * **Childcare:** Ofsted-registered *Worldwide Kids* nurseries and clubs (from 4 months+), plus 30 minutes of free "Babe Watch" on the beach so you can swim while a nanny watches your kids at the shoreline.
+* **Club Med**
+  * **Location:** Worldwide (France, Spain, Greece, Caribbean, Mauritius, Alps).
+  * **The Vibe:** Stress-free, international all-inclusive.
+  * **Food & Childcare:** Everything is included (gourmet food, snacks, bar). Famous for *Baby Club Med* (4–23 months), *Petit Club* (2–3 years), and *Mini Club* (4–10 years). 
+
+---
+
+### 3. UK Luxury Family Hotels (No Flying Required)
+If you don't want to travel far or deal with airports, the UK has fantastic dedicated family hotel collections.
+
+* **Luxury Family Hotels** (e.g., *Fowey Hall* in Cornwall, *Woolley Grange* in Wiltshire, *Moonfleet Manor* in Dorset, *The Ickworth* in Suffolk).
+  * **The Vibe:** Country-house charm where kids are genuinely welcomed, not just tolerated.
+  * **Food:** Breakfast, afternoon tea, high tea for kids, and fine dining for adults. They offer baby-listening services so you can eat dinner peacefully while your baby sleeps upstairs.
+  * **Childcare:** Every booking includes **90 minutes of complimentary Ofsted-registered childcare per day** in their on-site Dens, plus flexible extra nanny hours.
+* **Sands Resort Hotel (Cornwall)**
+  * **The Vibe:** Laid-back coastal hotel designed specifically for young families.
+  * **Food & Childcare:** Flexible meal plans, early kids' suppers, complimentary baby listening, and dedicated kids' clubs/crèches for all ages.
+
+---
+
+### 4. Catered Villa Holidays with Nannies
+If you want the privacy of your own pool and house without lifting a finger:
+
+* **Simpson Travel (Greece, Turkey, Mallorca, Corsica, France)**
+  * **The Vibe:** High-end boutique villas and small family hotels.
+  * **Food & Childcare:** You can book private chefs, meal delivery, or stay at their dedicated family hotels (like *Periyali* in Zakynthos) which have on-site English-speaking nurseries and kids' clubs.
+* **Private Villa + Independent Hire (Oliver’s Travels / CV Villas)**
+  * You rent a private villa and use a specialist family concierge service to arrange a **Private Chef** (for cooked breakfasts/dinners) and an **Expat/Holiday Nanny** for the week (providers like *Travel Nanny* or local agencies).
+
+---
+
+### 5. Catered Skiing Chalets (Winter Option)
+Ski holidays are often the absolute best option for total catering and intensive childcare.
+
+* **Ski Famille / VIP SKI / Family Ski Company**
+  * **Food:** Breakfast cooked daily, afternoon tea laid out when you return from the slopes, pre-ski drinks, and a multi-course dinner with wine for adults (plus early teas for kids).
+  * **Childcare:** In-chalet nannies who look after young children in your accommodation, or take older kids to and from ski school.
+
+---
+
+### 6. Family Ocean or River Cruises
+Cruises take care of food and childcare seamlessly:
+
+* **Disney Cruise Line (Europe & Transatlantic) or P&O Cruises (UK departures from Southampton)**
+  * **Food:** Dozens of restaurants, 24/7 food availability, and dietary adjustments catered for effortlessly.
+  * **Childcare:** State-of-the-art youth clubs included in the price for kids aged 2–3+ (with dedicated crèches for babies).
+
+---
+
+### Summary Checklist: How to Choose
+
+1. **For babies & toddlers (< 3 years):** Check the minimum age for childcare. *Club Med, Ikos, Mark Warner, Luxury Family Hotels,* and *Simpson Travel* cater exceptionally well to under-3s (though crèches often cost extra).
+2. **For total relaxation & high-end food:** *Ikos Resorts* or *Sani Resort*.
+3. **For active parents (sailing, tennis, fitness):** *Mark Warner* or *Neilson*.
+4. **For short breaks / no flights:** *Luxury Family Hotels* in the UK.
