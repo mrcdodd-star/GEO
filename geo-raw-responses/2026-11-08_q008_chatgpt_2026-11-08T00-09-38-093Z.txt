@@ -1,0 +1,59 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://www.largecountryhouses.com/party-houses.html?utm_source=openai","https://www.thebighouseco.com/party-houses-ad/?utm_source=openai","https://www.landedhouses.co.uk/mansions-to-rent/?utm_source=openai","https://sjvillas.co.uk/collections/super-sized/?utm_source=openai","https://www.oliverstravels.com/villa-holidays/party-houses-to-rent/?utm_source=openai","https://www.mallorcacollection.com/holiday-rentals/large-villas-for-groups?utm_source=openai","https://bnbstay.co.uk/our-villa-holidays/villas-for-large-groups?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are a bunch of excellent options for large private houses and villas across Europe that can accommodate groups of 20 or more — plus some tips to help you find the right place, depending on whether you want UK-based venues or somewhere a bit further abroad.
+
+---
+
+## 🏘 UK Options
+
+If you'd prefer staying in the UK (for shorter travel, fewer logistics), these are currently available and well-suited for large groups:
+
+| House / Estate | Sleeps / Bedrooms | Highlights & Cost Guide* |
+|---|---|---|
+| Symondsbury Manor, Dorset | 22 guests, 11 bedrooms | 17th-century mansion near the sea. Around **£5,600/week** for full occupancy. ([largecountryhouses.com](https://www.largecountryhouses.com/party-houses.html?utm_source=openai)) |
+| The Cotswold Manor Hall, Oxfordshire | 24 guests, 9 bedrooms | Large formal gardens, games rooms, event barns. Approx **£6,000/week**. ([largecountryhouses.com](https://www.largecountryhouses.com/party-houses.html?utm_source=openai)) |
+| Tatham House, Somerset | 22 guests, 10 bedrooms | Indoor pool, hot tub, tennis court, suitable for big groups. ([thebighouseco.com](https://www.thebighouseco.com/party-houses-ad/?utm_source=openai)) |
+| Huntsham Court, Devon | 100 guests, 42 bedrooms | Huge country mansion for weddings, retreats. ([landedhouses.co.uk](https://www.landedhouses.co.uk/mansions-to-rent/?utm_source=openai)) |
+| Solton Manor Estate, Kent | ~27 guests, 11 bedrooms | Historic manor with cottages, set in 9 acres. Weekends from ~£3,750. ([landedhouses.co.uk](https://www.landedhouses.co.uk/mansions-to-rent/?utm_source=openai)) |
+
+> \*Prices are approximate weekly or weekend rates; always check and confirm for your dates.
+
+---
+
+## 🌍 European Villas & Châteaux
+
+If you're considering somewhere in Europe for a warmer climate or a more exotic setting, these are great choices:
+
+| Property | Location | Sleeps / Bedrooms | Noteworthy Features |
+|---|---|---|---|
+| Domaine de Bagatelle | Dordogne, France | 24 guests | Elegant estate with gardens; priced per night. ([sjvillas.co.uk](https://sjvillas.co.uk/collections/super-sized/?utm_source=openai)) |
+| Le Hameau du Berger | Luberon, Provence (France) | 24 guests, 12 bedrooms | Rustic charm, set in the countryside. ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/party-houses-to-rent/?utm_source=openai)) |
+| Hacienda Buena Vista | Andalucía, Spain | 12–34 guests, 12 bedrooms | Heritage house with optional catering — perfect for big celebrations. ([oliverstravels.com](https://www.oliverstravels.com/villa-holidays/party-houses-to-rent/?utm_source=openai)) |
+| Mansion Son Fuster Alaró / Center | Mallorca, Spain | 20 guests, 10 bedrooms | Fully featured, very high-end; expect premium pricing. ([mallorcacollection.com](https://www.mallorcacollection.com/holiday-rentals/large-villas-for-groups?utm_source=openai)) |
+| Large Villas, Greece & Cyprus | Mykonos; Santorini; Nafplion | Properties are listed for 20+ guests | Private pools, service options like chefs, etc. Great variety. ([bnbstay.co.uk](https://bnbstay.co.uk/our-villa-holidays/villas-for-large-groups?utm_source=openai)) |
+
+---
+
+## 🔍 What to Think About When Booking
+
+- **Travel & Logistics**: Getting to European villas often means flights and transfers. UK stays might make arriving (and departing) quicker and easier, especially for shorter trips.
+
+- **Facilities**: Large groups often want kitchens that can cater for many, space to gather (both indoors & out), private amenities (pool, spa, games), and potentially event space if you're holding a celebration.
+
+- **Privacy & Local Rules**: Some European houses (especially in smaller towns or protected areas) have limits on sound, parties, or events. Make sure the house’s owner/site allows what you want to do.
+
+- **Cost & Value**: Renting an entire mansion can look expensive, but split among 20+ people it often becomes very reasonable. Be sure to check what’s included (cleaning, maid service, linen) and what's extra.
+
+- **Seasonality**: High season (summer, school holidays) is more expensive and it’s harder to get big places. Booking well in advance pays off.
+
+---
+
+If you tell me your preferred region (UK, southern Europe, France, Spain, Italy, etc.), your budget, and the type of amenities you must have (pool? indoor/outdoor? event-friendly?), I can pull together a more tailored list for you.
