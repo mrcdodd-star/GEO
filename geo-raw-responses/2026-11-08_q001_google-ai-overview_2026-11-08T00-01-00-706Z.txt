@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://www.cntraveller.com/gallery/best-family-hotels-europe","https://www.google.com/searchviewer/10?svid=CCYSDyoNCgsvZy8xMjFxbW54MhgK","https://www.google.com/searchviewer/10?svid=CCYSDyoNCgsvZy8xMjFkanFsNRgK"]
+
+--- RAW RESPONSE TEXT ---
+Planning a 16-person holiday with three toddlers (under 3) and grandparents means balancing pacing, walkability, shared gathering spaces, and low-stress logistics. You need a place where toddlers can nap or splash safely, grandparents aren’t forced into massive urban death-marches or steep staircases, and adults can actually unwind.
+Top European regions tailored for a multi-generational group of 16:
+1. The Tuscan Countryside or Umbria, Italy
+
+2. The Algarve (Western or Central), Portugal
+
+3. Lake Garda or Lake Como, Northern Italy
+
+4. The Dordogne or Provence, France
+
+Golden Rules for a 16-Person Trip with Toddlers & Grandparents:
+
+To help narrow this down, tell me:
