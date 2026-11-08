@@ -1,0 +1,66 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.clickstay.com/portugal/algarve","https://www.villasinportugal.com/algarve/with-pools/","https://premiervillas.net/portugal/algarve","https://premiervillas.net/portugal/algarve/villas-up-to-10-people/group","https://www.sandyblue.com/villas/pool","https://www.villaselect.com/destinations/portugal/algarve"]
+
+--- RAW RESPONSE TEXT ---
+I can't check live availability for your dates, but these are good places to start for a 12-guest Algarve villa in August. Since it's already November, I've assumed you mean August 2027. Many of the best large villas book up early for peak season.
+
+## Where to look
+
+**Mid-range (about £2,200–£2,700 a week, low season starting rates)**
+- 
+Casa Dos Padeiros is a 5-bedroom villa sleeping 12, set in an acre with mountain and coastal views and a heated 12m x 6m private pool.
+ 
+It starts from £2,700 per week.
+
+- 
+Casa Os Netos is a 5-bedroom villa for 12 with a heated pool, set within the Penina Golf and hotel complex in Alvor. It starts from £2,205 per week.
+
+- 
+There's also a 5-bedroom villa between Portimão and Monchique that sleeps up to 12.
+ It is listed on villasinportugal.com.
+
+**Premium and luxury (Quinta do Lago, Vilamoura, Vale do Lobo)**
+- 
+Afal is a 6-bedroom, 5-bathroom villa near Vilamoura. It has 3,000 sqm of gardens, a 12m x 6m pool and sleeps 12, within easy reach of the Quinta do Lago and Vale do Lobo beaches.
+
+- 
+Villa Roxy in Boliqueime is a 6-bedroom villa for up to 12. It has a games room with pool table, an outdoor annexe with a second kitchen and BBQ, air conditioning and a children's play area.
+
+- 
+Villa Ciano in Salema is a clifftop 6-bedroom, 7-bathroom villa sleeping 12, with ocean views and a private heated pool.
+
+- SandyBlue lists several 6-bedroom Quinta do Lago villas for 12, 
+such as Villa Meadow, with mature gardens, a BBQ area and a heatable pool.
+
+
+**Beachfront or walkable**
+- Villa Select lists 
+Casa Miramar in Albufeira, with a private 11m pool and the beach 200m away.
+ 
+It's listed from £6,224 per week for 2027, so August will cost more.
+
+
+## Tips for August
+- **Prices:** The "from" prices above are usually low-season rates. In August, expect roughly double or more for the same villa.
+- **Bedrooms and beds:** Check the bed configuration. "Sleeps 12" sometimes includes sofa beds or children's beds. If you're 12 adults, look for 6 bedrooms with en-suites.
+- **Air conditioning:** Make sure it covers the bedrooms. Some villas only have it in part of the house.
+- **Pool heating:** Heating isn't needed in August, but it's useful if you have small children. Check the pool depth and fencing too.
+- **Location:** The Golden Triangle (Quinta do Lago, Vale do Lobo, Vilamoura) is polished and close to Faro airport. The western Algarve (Salema, Alvor, Lagos) is quieter and more scenic. Albufeira is best if you want nightlife and walkable restaurants.
+- **Car hire:** Many villas are rural, so you'll probably need 2–3 cars or a minibus. Some listings say car hire is "essential".
+- **Flights:** Faro is well served from UK airports, but August flights for a group of 12 sell out, so book flights and villa together.
+- **Payment:** Pay by credit card or through an ATOL- or ABTA-protected agent where possible. Be cautious about paying direct by bank transfer to unknown owners.
+
+## Questions to help me narrow it down
+1. What's your budget per week for the whole villa?
+2. Is the group all adults, or are there children?
+3. Do you want to walk to a beach and restaurants, or would you prefer a secluded villa?
+4. Do you have specific dates, and could you be flexible on the Saturday start day?
+5. Are there any must-haves, such as a games room, a chef or a tennis court?
+
+With those answers I can suggest a shorter list.
