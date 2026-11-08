@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+["https://connaughtlaw.com/etias-uk-citizens-europe-travel-guide/","https://schengentraveler.com/etias-launch-date/","https://schengentraveler.com/etias-uk-citizens/"]
+
+--- RAW RESPONSE TEXT ---
+Here's a checklist for booking a luxury villa abroad from the UK.
+
+## 1. Booking protection
+- **Check who you're paying.** Booking through a established agency or platform usually gives you more recourse than paying an owner directly by bank transfer. Bank transfers to individuals are a common route for fraud.
+- **Pay by credit card where you can.** Section 75 of the Consumer Credit Act can make your card provider jointly liable for purchases between £100 and £30,000. Debit cards offer chargeback, which is weaker.
+- **Package or villa-only?** If the villa is bundled with flights, the booking is more likely to be a protected package. Look for ATOL protection (flights) or ABTA membership. A villa-only booking usually has no such protection, so travel insurance matters more.
+- **Read the cancellation terms.** Look at the deposit, the balance due date, and what happens if you cancel or the owner does. Luxury villas often want 30–50% upfront and the balance 8–12 weeks before arrival.
+
+## 2. Verify the property is real
+- Look for reviews on independent sites, not just the listing's own.
+- Do a reverse image search on the photos.
+- Ask for a video call or a recent video walkthrough.
+- Check the address on satellite maps for proximity to roads, building sites, or other properties.
+- Ask for the tourist rental licence number. Many places require one, including Spain, Portugal, Italy, Greece and Croatia.
+
+## 3. What's actually included
+- **Staff:** ask whether a housekeeper, chef, concierge or pool person is included, and whether that's daily or occasional.
+- **Extras:** pool heating, air-con, electricity, and cleaning can all be charged on top. Ask if there's a damage deposit and how and when it's returned.
+- **Pool:** check whether it's heated, whether it's fenced or gated (important with children), and whether it's private or shared.
+- **Facilities:** check Wi-Fi speed if anyone will be working, the bed and bathroom setup, and the kitchen equipment.
+- **Accessibility:** ask about stairs, steep driveways and road access.
+
+## 4. Location and logistics
+- Check the transfer time from the airport and which UK airports fly there. Direct flights make a big difference.
+- Find out if you need a car, and how far the nearest shop, restaurant or beach is.
+- Check whether the villa is in a quiet area, and whether there's any construction nearby.
+- Think about season. Some places have a short window of good weather, and pools may be unheated in shoulder months.
+
+## 5. Entry rules for UK travellers
+If you're going to Europe:
+- **EES:** 
+The Entry/Exit System is a biometric border log. It has been live since October 2025 and fully operational since 10 April 2026.
+ Expect fingerprint and photo registration on your first entry, and allow extra time at the airport.
+- **ETIAS:** 
+As of 26 October 2026, no ETIAS start date has been announced.
+ 
+Any website currently claiming to process ETIAS applications for UK citizens is a scam.
+ The EU has said it will give several months' notice before launch, so check again before you book a trip for 2027.
+- **Passport validity:** check the current rules on how old your passport can be and how much validity it needs. Check gov.uk's foreign travel advice for your destination.
+- **90/180 rule:** this applies if you're staying longer in the Schengen area.
+
+## 6. Insurance and money
+- Take out travel insurance that covers cancellation, medical care and, ideally, the villa's cost if a booking fails. Check that its cover limits are enough for a high-value rental.
+- Take a UK GHIC for EU countries, but don't rely on it instead of insurance.
+- Use a card with no foreign transaction fees, and pay in local currency to avoid poor exchange rates.
+- Check whether tourist tax is payable on arrival.
+
+## 7. Questions to ask before paying
+1. Is the full price confirmed in writing, including all fees?
+2. What's the damage deposit, and how is it returned?
+3. What happens if the villa is unavailable, or the pool or air-con breaks?
+4. Is there a local contact or property manager I can reach during the stay?
+5. What are the check-in and check-out times, and are there any house rules (events, noise, numbers of guests)?
+
+If you tell me the destination, budget, group size and time of year, I can tailor this. I can also suggest what to look for in specific regions.
