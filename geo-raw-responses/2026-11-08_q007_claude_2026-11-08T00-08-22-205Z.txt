@@ -1,0 +1,71 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://hauteretreats.com/fully-staffed-villa-tuscany/","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More","https://www.tuscanynowandmore.com/villa-collections/fully-staffed-villas-in-italy-list","https://hauteretreats.com/luxury-villa-rentals-destinations/italian-villas-for-rent/","https://www.sopranovillas.com/","https://hauteretreats.com/destinations-luxe/luxury-tuscany-villa-rentals/","https://www.tuscanynowandmore.com/eng/italian-villa-rental-with-chef.html"]
+
+--- RAW RESPONSE TEXT ---
+Here's how I'd go about it.
+
+## 1. Decide what level of staffing you want
+- **Partially staffed:** 
+usually includes daily housekeeping and perhaps breakfast, with a chef and extra staff on request.
+
+- **Fully staffed:** 
+most often a private chef, a housekeeper and a house manager or butler, and sometimes a gardener and a driver as well.
+
+
+Partially staffed villas are often cheaper and more flexible. A fully staffed one is closer to a private hotel.
+
+## 2. Use a specialist agency rather than a general portal
+Agencies that handle staffed villas can tell you what is included before you pay. Options that came up:
+- **Tuscany Now & More** is 
+a London-based, family-run villa rental and travel-planning company specialising in Italian villa holidays.
+ It has a 
+fully staffed and catered villas
+ collection, with villas that 
+sleep from two people to 30.
+
+- **Haute Retreats** lists 
+300+ handpicked villas in Italy
+. It also has a page of Tuscany villas where the chef is part of the rent.
+- **SopranoVillas** offers 
+a private chef, butler, maid, and gardener
+ at its fully staffed villas.
+
+These are the agencies' own claims, so compare a few. Small UK-based agencies are also worth a call, since they often know the properties first-hand.
+
+## 3. Ask exactly what "chef" and "housekeeping" mean
+Terms vary a lot between villas. As one example, 
+the chef cooks breakfast and one other meal six days a week, with Wednesday off, and housekeeping comes every morning except Sunday.
+ Check these points:
+- **Which meals the chef cooks**, and on which days.
+- **Housekeeping hours**, and whether it includes Sundays.
+- **Food costs.** 
+The cost of ingredients and wine is not generally included in the villa rental price.
+ Groceries are often charged at cost.
+- **Whether you can bring in your own chef.** 
+Some accept no outside suppliers.
+
+- **Staff gratuities** and any extra charges, such as utilities or end-of-stay cleaning.
+- **Get it in writing** before you pay.
+
+## 4. Choose your region
+- **Tuscany** has the most staffed villas.
+- **The Amalfi Coast, Lake Como and Sicily** have fewer, and they cost more.
+- Book early for peak summer, since the best staffed villas go up to a year ahead.
+
+## 5. Practical tips for UK travellers
+- Check the agency's financial protection, such as ATOL (only relevant if flights are bundled), or its terms on deposits and cancellations.
+- Ask about arranged airport transfers, and whether you'll need a car.
+- Consider travel insurance that covers villa cancellations.
+
+## Alternative: add a chef yourself
+If you find a villa you love that has housekeeping but no chef, many agencies and concierge services can arrange one. 
+Tuscany Now & More's concierge service can provide a personal chef, extra childcare and more.
+ Chefs can often cook just for certain evenings, which can be cheaper than a full-time one.
+
+If you tell me your region, group size, dates and rough budget, I can help you write a brief to send to agencies.
