@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.westawaytravel.co.uk/post/luxury-milestone-birthday-holiday-ideas-uk","https://www.turquoiseholidays.co.uk/big-birthdays","https://foresttravel.com/journal/luxury-milestone-birthday-travel/","https://www.newmarketholidays.co.uk/blog/destinations-for-a-milestone-birthday-around-the-world/","https://freedomdestinations.co.uk/holidays/50th-birthday","https://www.wanderwithjo.com/50th-birthday-trip-ideas/","https://www.groupaccommodation.com/blog/guest-resources/6-awesome-family-holiday-destinations-milestone-birthday","https://www.turquoiseholidays.co.uk/posts/your-50th-birthday"]
+
+--- RAW RESPONSE TEXT ---
+For **20 friends travelling from the UK**, I’d shortlist places with easy group logistics, plenty to do, and accommodation that lets you gather together—ideally a large villa or a small hotel. For most groups, **Mallorca, a Greek island, or Lisbon** will be easier to organise than a long-haul trip; a villa or cruise can work especially well for a larger party.[1][2]
+
+- **Mallorca** — Best all-rounder for a long weekend or week: rent a villa, book a private dinner, and mix pool time with Palma, beaches or a boat day. A good fit if you want sunshine and a celebratory feel without an elaborate itinerary.
+- **Ibiza** — Choose this for a lively, late-night celebration, with a villa as your base and a boat trip or group dinner as the main event. Less suited if the group wants quiet evenings.
+- **A Greek island** — **Crete** offers variety and room for different budgets; **Mykonos** suits a more upscale, nightlife-focused trip. A villa keeps the group together, while everyone can choose their own pace.[1][6]
+- **Lisbon** — Great for a city-break birthday: restaurants, bars, sightseeing and a day trip to nearby Sintra or the coast. It’s a strong choice if you don’t want the trip to revolve around a beach or resort.
+- **Amalfi Coast** — A memorable option for a special dinner, coastal scenery and boat time, especially in summer. It can be pricier and more complicated for a group, so choose one base and arrange transfers in advance.[1]
+- **A cruise** — Worth considering if friends have different budgets or want a simple way to share the trip while having their own space; milestone-birthday advice specifically recommends cruises for groups.[1]
+
+**My pick:** Mallorca for the best balance of fun, flexibility and villa-style gathering; Lisbon if food and nightlife matter more than pool time. Decide the dates and per-person budget before choosing, then book accommodation early—coordinating 20 people’s schedules, departure points and budgets can be the hardest part.[1][3]
+
+If you share the **month, number of nights, rough budget per person, and whether you want party, luxury, beach or activities**, the shortlist can be narrowed to a couple of places.
