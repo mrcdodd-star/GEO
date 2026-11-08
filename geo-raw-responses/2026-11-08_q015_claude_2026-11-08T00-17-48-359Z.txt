@@ -1,0 +1,67 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://spearswms.com/luxury/travel/best-holiday-home-rental-providers/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/","https://www.thethinkingtraveller.com/conde-nast-traveller-readers-travel-awards","https://www.oliverstravels.com/","https://thevillacollection.com/the_five_best_luxury_villa_holiday_companies_compared/","https://www.which.co.uk/reviews/holiday-lets/article/best-self-catering-accommodation-providers-a6moP3H8ajLe","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More"]
+
+--- RAW RESPONSE TEXT ---
+Here are the main UK-based options, grouped by what they suit. Which is best depends on where you want to go and how much service you want.
+
+**Ultra-high-end and fully serviced**
+- **Icon Private Collection**: 
+Spear's lists it as "Top Recommended", covering villas, chalets and hotel residences.
+
+- **Abercrombie & Kent Villas**: 
+It offers 24/7 emergency support, with teams on the ground near each rental.
+
+- **Ultima Collection**: 
+It offers ultra-luxury private residences across Europe.
+
+- **Insider Villas**: 
+It specialises in luxury villas across Europe and beyond.
+
+
+**Well-established all-rounders**
+- **The Thinking Traveller**: This is a London-based specialist in Greece, Sicily, Puglia, Tuscany, Sardinia and Corsica. 
+It says Condé Nast Traveller readers have voted it Best Villa Rental Company in the World 11 times.
+ That is the company's own claim.
+- **Oliver's Travels**: 
+Its experts review over 100,000 holiday homes and only the top 2% make it into the collection.
+ 
+It doesn't include flights, so it has no ATOL protection.
+
+- **CV Villas**: 
+It was the UK's first specialist villa company, founded in 1972.
+ 
+Its portfolio is strong across the Mediterranean.
+ 
+Its Caribbean and Asia offering is much more limited.
+
+- **The Villa Collection**: 
+It is billed as the best all-rounder for worldwide destinations, flights and financial protection.
+ That comes from its own comparison page, so treat it with some caution.
+- **Villa Plus**: Which? lists it under luxury villa specialists. 
+It has lets across the Mediterranean, and its experts visit each villa five times before adding it.
+
+
+**Destination specialists**
+- **Tuscany Now & More**: 
+This London-based, family-run company specialises in Italian villas. Travel + Leisure's World's Best Awards named it Best Luxury Villa Rental Company in 2023 and 2024.
+
+
+**Staying in the UK**
+Spear's also recommends 
+Luxury Cotswold Rentals for heritage-rich estates and Living Architecture for architectural marvels.
+ 
+Simon Escapes has high-end properties, including rustic UK locations, as well as options further afield.
+
+
+**Tips**
+- If you want flights included, choose a company that sells packages. That gives you ATOL protection, which villa-only companies like Oliver's Travels don't provide.
+- Which? has survey data on overseas villa providers, including Jet2Villas, Tui and British Airways, if you want independent satisfaction scores. Some of its content may be behind a paywall.
+- Several of the "best of" lists above are written by the companies themselves, so check recent Trustpilot reviews as well.
+
+If you tell me where you want to go, your budget and the group size, I can narrow this down.
