@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://www.distillintelligence.com/competitors/the-thinking-traveller","https://www.smh.com.au/traveller/reviews-and-advice/bigger-often-cheaper-than-a-hotel-how-to-find-an-apartment-overseas-20230728-p5ds48.html","https://www.trustpilot.com/review/thethinkingtraveller.com","https://www.thethinkingtraveller.com/blog/tag/the-thinking-traveller","https://uk.trustpilot.com/review/oliverstravels.com","https://www.myglobalviewpoint.com/best-travel-sites/","https://www.oliverstravels.com/blog/25-best-travel-apps/","https://www.insidethetravellab.com/the-50-best-travel-websites/"]
+
+--- RAW RESPONSE TEXT ---
+If you’re looking for **luxury villa holidays like The Thinking Traveller**, these are strong alternatives available to UK travellers:
+
+- **CV Villas** — a close match for hand-picked luxury villas, especially across Europe and the Caribbean.[1]
+- **Simpson Travel** — boutique villa and hotel holidays in Europe; a good option if you want a more curated, service-led trip.[1]
+- **Oliver’s Travels** — a broad range of distinctive villas, from luxury homes to larger group properties, across many destinations.[1]
+- **Scott Williams** — a smaller specialist focused on Mediterranean luxury villa rentals.[1]
+- **Tuscany Now & More** — worth considering if your trip is centred on Italy, particularly Tuscany.[1]
+- **Le Collectionist** — another luxury villa provider; it appears alongside The Thinking Traveller and Simpson Travel in UK customer-review comparisons.[3]
+
+**Best starting shortlist:** CV Villas or Simpson Travel for a similar curated feel; Oliver’s Travels for more choice; Tuscany Now & More for an Italy-focused holiday. The Thinking Traveller’s own niche is a particularly curated Mediterranean collection, so compare each provider’s destination coverage, concierge services, and what’s included before booking.[2]
+
+What matters most—**destination, budget, or a similar concierge/chef service**?
