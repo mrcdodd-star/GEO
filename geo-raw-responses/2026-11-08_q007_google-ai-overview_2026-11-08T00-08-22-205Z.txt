@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWY1cTU4MzVoGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMXNjMmsydGwyGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWc2OF94ZnNuGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMXJramgxczd5GAo"]
+
+--- RAW RESPONSE TEXT ---
+Finding an Italian villa with a private chef and daily housekeeping comes down to how you search and which agencies you use. Standard platforms like Airbnb or Booking.com can be hit-or-miss for true, reliable staffing, so specialized luxury operators are your best bet.
+Step 1: Use Specialized Luxury Villa Agencies
+Instead of general rental sites, look for curated agencies that explicitly filter or package properties as "fully staffed" or "serviced."
+
+Step 2: Understand the Two Staffing Models
+When browsing listings, pay close attention to how staffing is structured:
+
+Step 3: Key Questions to Ask Before Booking
+Before signing a contract or paying a deposit, get explicit written confirmation on:
+
+If you'd like to narrow this down, tell me:
+
+I can recommend specific agencies or property styles that fit.
