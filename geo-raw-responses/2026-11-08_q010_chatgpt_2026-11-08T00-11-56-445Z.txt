@@ -1,0 +1,64 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.scottwilliams.co.uk/property/villa-melissa?utm_source=openai","https://ionianestates.com/accommodation/alegria/?utm_source=openai","https://mykonosgold.com/collections-villas/fully-staffed-villas-greece?utm_source=openai","https://www.villanovo.com/villa-rentals/europe/greece/collection%3Afully-staffed-villas/?utm_source=openai","https://apsley.travel/luxury-villa-holidays/?utm_source=openai","https://www.simpsontravel.com/en/greece-signature-villas?utm_source=openai","https://premiervillas.net/greece?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are some excellent options and tips for fully staffed villa holidays in Greece when booking from the UK. If you tell me your travel dates, budget, or preferred destination (Mykonos, Crete, the Ionian Islands, etc.), I can narrow things further.
+
+---
+
+## 🌍 What “Fully Staffed” Typically Means
+
+When a villa is described as *fully staffed*, this usually includes:
+
+- A live-in or on-site villa manager or host
+- Daily housekeeping
+- Chefs or cook service (often customizable menus)
+- Concierge assistance (arranging excursions, provisioning, pre-arrival planning)  
+- Sometimes additional services like wellness, spa treatments, transport, etc.
+
+Check exactly what’s included before booking. Some “staffed” villas charge extra for items like food and wine, airport transfers, etc.
+
+---
+
+## 🔍 Top Providers & Villas to Consider
+
+Here’s a list of villa rental companies and specific villas in Greece that offer fully staffed or high-service stays. Each gives you plenty of luxury along with staff to handle pretty much everything.
+
+| Provider or Villa | Location | What You Get | Ballpark Price* |
+|-------------------|----------|---------------|------------------|
+| **Villa Melissa (Scott Williams)** | Corfu | Private chef, concierge, housekeeping, villa manager, full staff. 8 bedrooms. | Price depends on season; this is one of the higher-end choices. ([scottwilliams.co.uk](https://www.scottwilliams.co.uk/property/villa-melissa?utm_source=openai)) |
+| **Alegria (Ionian Estates)** | Mykonos (near Kalo Livadi) | Fully staffed estate, live-in staff, daily housekeeping & linen service, spa-services, personal shopper, direct sea access and mooring. ([ionianestates.com](https://ionianestates.com/accommodation/alegria/?utm_source=openai)) |
+| **Mykonos Gold** | Mykonos & surrounding islands | Entire portfolio of fully staffed villas; large estates with chefs, housekeeping etc. Some properties cost €60,000–200,000+ per week. ([mykonosgold.com](https://mykonosgold.com/collections-villas/fully-staffed-villas-greece?utm_source=openai)) |
+| **Villanovo** | Various (Crete, Mykonos, Zakynthos etc.) | Fully staffed villa collection, lots of large options, high standards. Rates generally in the thousands of euros per night depending on size. ([villanovo.com](https://www.villanovo.com/villa-rentals/europe/greece/collection%3Afully-staffed-villas/?utm_source=openai)) |
+
+\* Prices fluctuate greatly depending on season, villa size, location, and level of service.
+
+---
+
+## 🏡 UK-Based Travel Companies to Book Through
+
+Booking via UK-based operators can make things simpler (money protection, support, package options). Here are some to look at:
+
+- **Apsley Travel** – Luxury villa holidays with private staff. They manage villas in Greece and include chef/driver/security depending on price. ([apsley.travel](https://apsley.travel/luxury-villa-holidays/?utm_source=openai))  
+- **Simpson Travel** – Offers luxury villas in Greece, with dedicated concierge services from the UK through to your stay. ([simpsontravel.com](https://www.simpsontravel.com/en/greece-signature-villas?utm_source=openai))  
+- **Premier Villas** – High-end villas in Corfu, Crete etc. Some with gourmet dining included. ([premiervillas.net](https://premiervillas.net/greece?utm_source=openai))  
+
+---
+
+## 💡 Tips for Booking & Getting the Most Out of It
+
+1. **Decide your priorities** – Chef or cook service? Private transport? Pool and beach access? Size and number of bedrooms? Destination (Ionian vs Cyclades vs Crete etc.)  
+2. **Check what’s included & what’s extra** – Some villas list as “fully staffed” but still charge separately for food, transfers or special services.  
+3. **Travel logistics** – Some villas require additional travel (boat, private car). Be sure you know transfer times and costs.  
+4. **Time of year matters** – Prices soar during July & August. Shoulder seasons like late-May/early-June or September are often better value with more availability.  
+5. **Read reviews and verify authenticity** – Look for real guest reviews, verified photos, and whether the villa is properly licensed.  
+
+---
+
+If you like, I can pull together a custom shortlist for your dates/budget/destination (e.g. Mykonos, Crete, Ionian Islands) so you can see concrete villas with full staffing. Want me to do that for you?
