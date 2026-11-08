@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://www.timeout.com/europe/travel/best-family-holidays-europe","https://www.awayresorts.co.uk/discover/travel-tips/4-multi-generational-holiday-ideas/","https://www.tui.co.uk/discover/best-family-holiday-destinations","https://uk.hotels.com/go/europe/best-family-summer-getaways-europe","https://www.inspiringtravel.co.uk/blog/our-top-10-family-holiday-destinations","https://www.easyjet.com/en/news/holidays/article/wheres-best-for-family-holidays","https://www.inspiringtravel.co.uk/europe/travel-guides/best-family-holiday-destinations-europe","https://www.timeout.com/travel/best-family-holidays-2026"]
+
+--- RAW RESPONSE TEXT ---
+For a multigenerational holiday from the UK, **the Algarve, Mallorca, and Croatia** are strong all-rounders: they offer beaches and activities for children, while giving adults plenty of food, scenery, and culture to enjoy. The best fit depends on how much you want to travel and whether your family prefers a resort, a villa, or exploring different places.
+
+- **Algarve, Portugal — easiest all-round beach break.** Family-friendly beaches, water parks, and a good range of activities make it easy to mix relaxed days with outings. Consider a villa or apartment so everyone can share meals and downtime, while still having separate bedrooms.[1][4]
+- **Mallorca, Spain — best for convenient logistics.** Short UK travel options and beaches and family attractions close to Palma make it a practical choice for a group with varied energy levels. Look for accommodation near a town or beach so not every outing depends on a car.[3][6]
+- **Croatia’s coast — best for a memorable shared trip.** Swimming, island scenery, historic towns, and long meals suit a group that wants more than poolside time. Choose one base rather than moving accommodation often, especially with older relatives or young children.[8]
+- **South Tyrol, Italy — best for a resort-style stay.** Family resorts offer extensive facilities such as pools, kids’ clubs, and activities, which can make it easier for different generations to follow their own pace.[1]
+- **Crete, Greece — best for a longer, varied holiday.** Beaches, historic sites, and family activities offer plenty of choice; it works particularly well if you’re happy to settle in one area and take occasional day trips.[4][6]
+
+**Quick pick:** choose the Algarve for a relaxed villa-and-beach holiday, Mallorca for easier logistics, Croatia for scenery and culture, or South Tyrol for on-site activities. For a large group, prioritise step-free access, shade, air conditioning, nearby shops and restaurants, and enough bedrooms and bathrooms; those practical details can matter more than the destination itself.
