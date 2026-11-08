@@ -1,0 +1,57 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.groupaccommodation.com/blog/guest-resources/6-awesome-family-holiday-destinations-milestone-birthday","https://www.thetravelco.co.uk/blog/best-group-travel-destinations","https://www.tripadvisor.com/ShowTopic-g293920-i5037-k15559491-50th_Birthday_group_holiday_where_to_stay-Phuket.html","https://www.2getawaytravel.com/post/50th-birthday-trip-ideas-resorts-cruises-group-trips"]
+
+--- RAW RESPONSE TEXT ---
+Which place suits you best depends on your budget, the time of year and the sort of party you want. These are the options I'd shortlist for 20 people flying from the UK.
+
+## Villa-based trips (best for a group of 20)
+One big villa, or two or three next to each other, gives you a shared space for dinners and parties without a hotel's restrictions.
+
+- **Spain (Andalucía, Mallorca, Catalonia):** It's a short flight and has the widest choice of large villas. 
+Andalucía offers year-round sun, good food and beautiful landscapes, and is a popular choice for 50th birthday gatherings.
+ One listing shows 
+a Catalonia estate with an infinity pool that sleeps 10–20
+.
+- **Greece (Cyclades, Ionian islands):** 
+A luxury villa base on Mykonos or Santorini works well, or a private yacht charter to move between islands.
+ Many UK operators specialise in this.
+- **Southern France (Ramatuelle/St Tropez area):** This is a stylish, high-end option. One operator describes 
+the villas at La Réserve Ramatuelle as the gold standard for groups wanting scale.
+
+- **Italy:** Tuscany or Puglia are better for a big group than the Amalfi Coast. 
+The Amalfi Coast is notoriously hard to get around with a large group because of its narrow roads and steep cliffs.
+
+
+## Resort-based (less admin, more reliable weather)
+- **Phuket, Thailand:** One person planning a 50th for about 20 people in February 2027 was advised to 
+shortlist Kata and Bang Tao rather than a remote resort.
+ That fits a long-haul trip with a mix of ages.
+- **Caribbean (Barbados, St Lucia):** It's pricier, but it's good for a winter-sun celebration.
+
+## Luxury or bucket-list
+- **Maldives, Bora Bora or an Indian Ocean island:** These work if everyone is happy to pay more and travel further.
+
+## Choosing between them
+- **Short flights and a modest budget:** Spain, Portugal or Greece. Aim for under 3–4 hours' flying so people can come for a long weekend.
+- **Winter birthday:** Canary Islands, Thailand, Caribbean, Morocco or Dubai.
+- **Summer birthday:** Greece, Southern Italy, Croatia or Mallorca.
+- **Nightlife and restaurants:** Ibiza, Barcelona, Lisbon or Marrakech.
+- **Relaxed, spa-style celebration:** Algarve, Andalucía or Tuscany.
+
+## Practical tips for 20 people
+- **Book early.** 
+Six to twelve months out gives the best room selection and pricing.
+ Large villas go quickly.
+- **Check the flights first.** Make sure there are direct routes from the airports your friends use.
+- **Split costs clearly.** Agree early who is paying for what, and use a shared pot or an app like Splitwise.
+- **Consider two or three villas close together** instead of one huge one. That gives people more privacy and makes villas easier to find.
+- **Book through a UK operator.** Villa specialists like Simpson Travel or CV Villas offer ATOL/ABTA protection.
+- **Add a few set activities.** A boat day, a private chef or a tasting dinner makes the trip feel more special.
+
+If you tell me your approximate budget per person, the month, and whether you want a villa party or a resort, I can narrow this to two or three specific places.
