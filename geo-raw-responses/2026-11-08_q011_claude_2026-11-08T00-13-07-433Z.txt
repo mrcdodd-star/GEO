@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.onefinestay.com/destination/france/luxury-villas-south-of-france","https://www.oliverstravels.com/france/south-of-france/","https://hauteretreats.com/luxury-villa-rentals-destinations/villas-in-france/","https://www.grandpropertiescollection.com/","https://www.beauchamp.com/luxury-property-to-rent/holiday-rental-french-riviera/french-riviera-holiday-villa-rentals/","https://excellenceriviera.com/villa-rental","https://www.southfranceholidayvillas.co.uk/collection/luxury","https://www.cdvillas.com/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some agencies that offer luxury villas with concierge service in the south of France. I haven't vetted them personally, so check reviews and terms before booking.
+
+**Larger brands with concierge included**
+- **onefinestay:** 
+Its luxury villa and apartment rentals come with a complimentary concierge service.
+ The concierge can 
+arrange delivery of a rental car to your door on arrival
+. Other services include a personal chef, childcare and boat hire.
+- **Oliver's Travels:** This is a UK-oriented agency. 
+After you book, its Concierge Service can arrange in-house chefs, fridge stocking and housekeeping.
+
+- **Haute Retreats:** It offers 
+handpicked Riviera and Provence estates with a private concierge, chef and 24/7 service
+. It also says it charges no booking fees.
+
+**Riviera and Provence specialists**
+- **Grand Properties Collection:** It covers Provence, Saint-Tropez and Cannes, with 
+24/7 concierge service on arrival and during your stay
+.
+- **Beauchamp:** It offers 
+à la carte services and luxury service packs
+ on the Riviera.
+- **Excellence Riviera:** This is 
+a boutique agency in the Gulf of Saint-Tropez, specialising in villa rentals, yacht charters and concierge services
+.
+- **Bucket List Villa (Cap d'Antibes):** It covers the Riviera and Provence and describes its concierge service as discreet and personalised.
+
+**Smaller, more personal options**
+- **South France Holiday Villas:** It 
+chooses and checks each villa itself and can arrange optional concierge touches, from a private chef to airport transfers
+.
+- **CD Villas:** It has 
+over 20 years' experience with luxury villas on the Côte d'Azur
+. 
+Some villas are fully staffed, and concierge services can be arranged.
+
+- **Mademoiselle Conciergerie:** It focuses on the Languedoc (Agde, Sérignan and Béziers). It's a good choice if you want somewhere quieter and less expensive than the Riviera.
+
+**Tips for UK travellers**
+- **Check what the concierge covers.** At some agencies it's included. At others it's an optional extra that you pay for, such as chef, transfers or housekeeping.
+- **Prices vary a lot.** Riviera villas can be very expensive. For example, 
+Grand Properties lists one Sainte-Maxime villa in August at €26,612 per week
+. Provence and the Languedoc are generally cheaper.
+- **Travel in June or September.** 
+These months offer the best weather with fewer crowds than July and August.
+
+- **Getting there:** You can fly to Nice, Marseille, Montpellier or Toulouse. A slower option is 
+the Eurostar to Paris or Lille, then a connecting service south
+.
+
+If you tell me a few details, I can narrow this down:
+- Your approximate dates and budget
+- Your group size
+- Your preferred area (Saint-Tropez, Cap Ferrat, Provence or Languedoc)
+- Which concierge services you want (private chef, boat, childcare and so on)
