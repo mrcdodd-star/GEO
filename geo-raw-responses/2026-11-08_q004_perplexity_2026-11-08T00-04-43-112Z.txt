@@ -1,0 +1,19 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://www.originaltravel.co.uk/place/family-summer-to-europe-holidays","https://www.familiesworldwide.co.uk/blog/family-holiday-ideas","https://www.inghams.co.uk/summer-holidays/types/family-holidays","https://www.originaltravel.co.uk/collection/all-family-holidays/26","https://www.intrepidtravel.com/uk/europe/family","https://www.scottdunn.com/luxury-holiday/family-holidays/family-holidays-in-europe","https://europeandestinations.co.uk/destinations/european-countries/best-countries-family-holiday/","https://tripcopilot.co.uk/collections/family-holidays/"]
+
+--- RAW RESPONSE TEXT ---
+For a **week-long family reunion somewhere warm**, I’d shortlist **Mallorca, the Algarve, Andalusia, or Crete**. They’re good options for a mixed-age group: you can share a villa or large rental, enjoy time together by the pool or beach, and still find outings for different interests.
+
+- **Mallorca, Spain — easiest all-rounder:** Look for a large villa near a town, so the group can split between pool days, beaches, and meals out. It’s also possible to combine Mallorca with Menorca for an eight-day island-hopping trip.[1]
+- **Algarve, Portugal — relaxed beach-and-villa week:** A strong pick if you want a spacious rental, beach time, and easygoing coastal towns. The eastern Algarve around Tavira is noted for shallower, warmer water; a pool is handy if ocean swimming is a priority.[7]
+- **Andalusia, Spain — culture plus coast:** Base near Málaga or Marbella for seaside downtime, with day trips for historic sights, white villages, or a flamenco evening. It’s a varied option for a group with different tastes.[10]
+- **Crete, Greece — island variety:** Choose a base near a larger town or family-friendly bay, then keep most days local and plan one or two excursions. Larger Greek islands such as Crete offer more family-holiday infrastructure than smaller islands.[7]
+- **Tuscany, Italy — best for a villa gathering:** A countryside villa with a pool gives everyone a shared home base, with hill towns and Florence for day trips. It’s less of a beach-focused choice, but can make a memorable reunion.[10]
+
+For a reunion, I’d prioritise **one roomy property, a pool, air conditioning, and a short transfer from the airport** over trying to tour several places. If dates are flexible, late August or early September may mean less intense heat and lower prices than peak August in southern Europe.[7]
