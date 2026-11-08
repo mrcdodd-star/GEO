@@ -1,0 +1,99 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Here are top destination ideas for a week-long family reunion somewhere warm in Europe, tailored specifically for easy access from the UK (direct, short-haul flights) and built around multi-generational appeal (activities for kids, relaxation for grandparents, and great group dining).
+
+---
+
+### 1. The Algarve, Portugal
+**Best for:** Classic villa holidays, easy logistics, and beautiful coastlines  
+**Flight time from UK:** ~2.5 hours (direct to Faro from almost all regional UK airports)
+
+* **Why it works for a reunion:** The Algarve is exceptionally easy for UK travellers. It offers thousands of large, private villas with pools (ideal for keeping everyone together under one roof) alongside family-friendly resorts.
+* **Where to stay:** 
+  * **Carvoeiro or Tavira:** Great for a relaxed, authentic Portuguese feel, scenic cliffside walks, and calm towns.
+  * **Vilamoura / Quinta do Lago:** Best for upscale villa rentals, golf, and large resorts with amenities.
+* **Group Activities:** Boat trips to the Benagil sea caves, waterparks (*Slide & Splash* or *Zoomarine*), relaxed seafood dinners at beachside *quiostes*, and golf/tennis for active family members.
+
+---
+
+### 2. Mallorca, Balearic Islands, Spain
+**Best for:** Something for everyone (beaches, historic towns, mountain scenery)  
+**Flight time from UK:** ~2.5 hours (direct to Palma)
+
+* **Why it works for a reunion:** Mallorca has some of the best flight coverage from the UK. The island is diverse enough that half the group can relax on a beach while others hike the Tramuntana mountains or explore historic Palma.
+* **Where to stay:** 
+  * **Pollença / Puerto Pollença (North):** Ideal for family group villas. It’s quiet, scenic, very flat for walking, and has shallow, kid-friendly beaches.
+  * **Alcúdia:** Great for access to long sandy beaches and water sports.
+* **Group Activities:** Taking the antique wooden train from Palma to Sóller, chartering a private catamaran for a day, visiting local markets, and dining in traditional *fincas*.
+
+---
+
+### 3. Puglia, Italy
+**Best for:** Food lovers, culture, and renting a private *Masseria* (historic estate)  
+**Flight time from UK:** ~2.5–3 hours (direct to Bari or Brindisi)
+
+* **Why it works for a reunion:** If your family reunion revolves around sitting at long outdoor tables sharing meals, wine, and laughter under olive trees, Puglia is unmatched. 
+* **Where to stay:** Rent a traditional **Masseria** (fortified farmhouse turned luxury estate/villa). Many feature large private pools, sprawling gardens, multiple annexes (great for privacy between families), and options for private chefs to cook group dinners.
+* **Group Activities:** Visiting the iconic *trulli* houses in Alberobello, easy beach days on the Adriatic or Ionian coast, mozzarella-making workshops, and exploring charming coastal towns like Polignano a Mare.
+
+---
+
+### 4. Crete, Greece (Chania Region)
+**Best for:** Greek hospitality, rich history, and dramatic natural beauty  
+**Flight time from UK:** ~4 hours (direct to Chania or Heraklion)
+
+* **Why it works for a reunion:** Cretans are famously welcoming to families. Crete stays warm long into late autumn and heats up early in spring. The island is huge, but sticking to the northwest region around Chania gives you a great mix of historic culture, stunning beaches, and massive countryside villas.
+* **Where to stay:** **Chania area (Kalyves, Almyrida, or Platanias)** for access to nice beaches and large private villas with sea views, only a short drive from Chania’s historic Venetian harbour.
+* **Group Activities:** Day trips to world-famous beaches (Elafonisi or Balos Lagoon), traditional Cretan feast nights (*panygiri* style), exploring Chania's old town, and gentle gorges for walking (like Imbros Gorge, an easier alternative to Samaria).
+
+---
+
+### 5. Tenerife or Lanzarote, Canary Islands (Spain)
+**Best for:** Year-round warmth (ideal if travelling in Autumn, Winter, or early Spring)  
+**Flight time from UK:** ~4 to 4.5 hours (direct to Tenerife South or Arrecife)
+
+* **Why it works for a reunion:** If your reunion takes place outside peak summer (e.g., October half-term, Easter, or Christmas), the Canaries guarantee sub-tropical weather when mainland Europe cools down.
+* **Where to stay:** 
+  * **Tenerife (Costa Adeje / Guía de Isora):** Excellent high-end resorts and luxury villas.
+  * **Lanzarote (Playa Blanca):** Very laid-back, flat, easy to get around, excellent villa inventory.
+* **Group Activities:** World-class waterparks (*Siam Park* in Tenerife is repeatedly voted best in the world), Mount Teide stargazing tours, volcanic landscape tours (Timanfaya in Lanzarote), and whale/dolphin watching cruises.
+
+---
+
+### 6. Cyprus (Paphos or Protaras)
+**Best for:** Consistently warm seas, English-speaking ease, and resort options  
+**Flight time from UK:** ~4.5 hours (direct to Paphos or Larnaca)
+
+* **Why it works for a reunion:** Cyprus has one of the warmest climates in Europe and a very long summer season (May to November). It's extremely straightforward for UK families—driving is on the left, English is widely spoken, and there's a strong mix of high-end resorts and private villas.
+* **Where to stay:** 
+  * **Paphos (West):** Historic, great mix of culture, harbour dining, and luxury resorts (like Aphrodite Hills, which has resort amenities + private villas).
+  * **Protaras / Coral Bay:** Best for golden sand beaches and calm waters for swimming.
+* **Group Activities:** Exploring Roman mosaics, boat trips to the Blue Lagoon (Akamas Peninsula), traditional *meze* feasts (often 20+ small courses), and water sports.
+
+---
+
+### Quick Comparison to Help Decide:
+
+| Destination | Best Vibe | Accommodation Style | Warmest Months |
+| :--- | :--- | :--- | :--- |
+| **Algarve** | Relaxed beach & golf | Self-catering private villas | May – October |
+| **Mallorca** | Scenic island variety | Countryside *fincas* or coastal villas | May – October |
+| **Puglia** | Foodie & authentic culture | Private *Masseria* estates | May – October |
+| **Crete** | Rustic, historic & scenic | Sea-view villas or boutique resorts | May – October |
+| **Canaries** | Sun-seeking & active | Self-catering villas or resorts | **Year-round** (18°C–28°C) |
+| **Cyprus** | Long summer & easy logistics | Resort complexes with private villas | April – November |
+
+---
+
+### Planning Tips for a UK-Based Group:
+1. **Accommodation Strategy:** For 8+ people, renting a **large private villa/finca** usually works out cheaper per person than hotels and gives you shared private space (pools, kitchens, terraces). Alternatively, look at **resorts with self-catering villas** (like Aphrodite Hills in Cyprus or Quinta do Lago in Portugal) so everyone can have privacy while sharing central pools/restaurants.
+2. **Flights:** If family members are flying from different parts of the UK (e.g., London, Manchester, Scotland), **Mallorca, the Algarve, and Tenerife** have direct flights from almost every UK airport.
+3. **Car Rental vs. Transfers:** For villas in Puglia, Crete, or rural Mallorca, renting 2–3 cars (or a 9-seater minibus) is essential. For coastal resorts in the Algarve or Canaries, private airport transfers + taxis/walking are often enough.
