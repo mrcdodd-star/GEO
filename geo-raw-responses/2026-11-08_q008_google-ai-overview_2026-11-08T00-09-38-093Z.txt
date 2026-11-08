@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWR4cThzcDdxGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWdieGY3NGpzGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWs0cm15c3RxGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWY0bGszMzRqGAo"]
+
+--- RAW RESPONSE TEXT ---
+Finding a private estate or large villa in Europe for 20+ guests requires looking at specialized agencies or platforms that handle high-capacity properties with enough bedrooms, communal dining spaces, and grounds.
+Top Curated Agencies & Platforms for 20+ Guests
+
+Popular Regions in Europe for 20+ Group Rentals
+
+To help narrow down the best options, let me know:
