@@ -1,0 +1,14 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWZzbmp0Mmx5GAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWNsbG55NXlkGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWd5MnNqeTEwGAo"]
+
+--- RAW RESPONSE TEXT ---
+Finding a private villa for 12 guests in the Algarve during August requires booking well in advance, as August is peak summer season.
+Recommended Options & Management Agencies
+
+Tips for Booking an August Villa in the Algarve
