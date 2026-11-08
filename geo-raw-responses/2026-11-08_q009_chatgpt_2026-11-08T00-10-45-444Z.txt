@@ -1,0 +1,79 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.chateaulisse.com/?utm_source=openai","https://www.chateauchangeux.com/?utm_source=openai","https://www.chateauducreuset.com/weddings?utm_source=openai","https://www.chateausaintjeannet.com/?utm_source=openai","https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai","https://www.frenchweddingstyle.com/venue-finder/?utm_source=openai","https://marketplace.thevenueadvisors.com/lieux/?utm_source=openai","https://marketplace.thevenueadvisors.com/en/availability/2026/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you’re based in the UK and want to rent a château in France for a wedding, you’ve got lots of fabulous options — ranging from rustic and romantic in rural areas to grand estates near major cities. Below are some standout venues, plus advice on how to choose, costs, and what to check.
+
+---
+
+## Venues to Consider
+
+Here are a few French châteaux that are excellent for UK couples looking for something special:
+
+| Venue | Region / How Far | Capacity & Notes |
+|---|---|---|
+| **Château de Lisse** | SW France, ~1.5 hrs from Bordeaux or Toulouse airports | Sleeps ~25 guests on-site (19 in château + 6 in lake lodge), wedding up to ~120 guests, full exclusive hire. ([chateaulisse.com](https://www.chateaulisse.com/?utm_source=openai)) |
+| **Château Changeux** | Centre-Val de Loire | Seats ~200; 16 guest bedrooms; private estate for one wedding at a time; ~51 hectares grounds. ([chateauchangeux.com](https://www.chateauchangeux.com/?utm_source=openai)) |
+| **Le Château du Creuset** | Nièvre, central France | Intimate gatherings up to ~50 guests for full-day events, a weekend package for larger celebrations (up to ~150); exclusive use. ([chateauducreuset.com](https://www.chateauducreuset.com/weddings?utm_source=openai)) |
+| **Château Saint Jeannet** | Côte d’Azur, 15 mins from Nice | Medieval fortress with dramatic views; good for luxury weddings, parties; UK contact available. ([chateausaintjeannet.com](https://www.chateausaintjeannet.com/?utm_source=openai)) |
+
+You can also explore broader listings:
+
+- **Votre Château de Famille** — Offers full-estate huur, with both venue and on-site accommodation included in many listings (30 to 250 guests typical; 12–50 beds). ([votre-chateau-de-famille.com](https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai))  
+- **FrenchWeddingStyle Venue Finder** — Filters by guest numbers, region, whether accommodation is on site, exclusive use, etc. Many options in regions like Provence, Dordogne, Loire Valley. ([frenchweddingstyle.com](https://www.frenchweddingstyle.com/venue-finder/?utm_source=openai))  
+- **The Venue Advisors** — Shows availability and pricing for many châteaux; useful for seeing “real dates open” and comparative costs. ([marketplace.thevenueadvisors.com](https://marketplace.thevenueadvisors.com/lieux/?utm_source=openai))  
+
+---
+
+## What to Think About
+
+Here are important criteria and questions to ask; it helps to be clear on these when you contact venues.
+
+1. **Guest numbers & accommodation**
+   - How many guests will attend?
+   - How many can stay on-site, and what are sleeping arrangements?
+
+2. **Exclusivity**
+   - Is the château rented out to you alone, or will there be other events same weekend?
+   - Some places offer booking from Friday to Sunday (or Monday) for full setup & evening after. ([votre-chateau-de-famille.com](https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai))
+
+3. **Facilities & services**
+   - Catering: in-house or can you bring your own?
+   - Do they provide dresses, furniture, cleanup, and other essentials?
+   - What are their restrictions: curfew, noise, fireworks, etc.? ([frenchweddingstyle.com](https://www.frenchweddingstyle.com/venue-finder/?utm_source=openai))
+
+4. **Budget**
+   - Typical whole-estate hire can start from a few thousand euros up to tens of thousands, depending on guest count, region, level of luxury. ([marketplace.thevenueadvisors.com](https://marketplace.thevenueadvisors.com/en/availability/2026/?utm_source=openai))  
+   - Peak season costs (May-September) are much higher than off-peak.
+
+5. **Location & access**
+   - How easy is travel for guests? Proximity to airports / major train stations can matter.
+   - What is the transport for guests between the venue and accommodation if off-site?
+
+6. **Legal & logistical**
+   - Do you need official permissions (especially for outdoor ceremonies or fireworks)?
+   - Insurance, stage lighting, power, sound, etc.
+
+---
+
+## Cost Range
+
+- From your venue search:
+  - Some smaller châteaux start from **€3,000-€5,000** for low guest numbers or shorter hire. ([votre-chateau-de-famille.com](https://www.votre-chateau-de-famille.com/en/usages/weddings/?utm_source=openai))  
+  - Larger estates or those with luxury standards often go for **€10,000-€30,000+** depending on size, inclusions, and region. ([marketplace.thevenueadvisors.com](https://marketplace.thevenueadvisors.com/lieux/?utm_source=openai))  
+
+- Remember additional costs:
+  - Catering, drinks
+  - Staffing
+  - Decoration, entertainment
+  - Possibly transport or accommodation for guests and vendors
+
+---
+
+If you tell me approximate guest count, preferred regions (e.g. Loire Valley, Provence, Dordogne, French Riviera), dates (flexible or fixed), and budget, I can pull together a curated shortlist of châteaux that suit *you*. Want me to do that?
