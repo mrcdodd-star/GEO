@@ -1,0 +1,56 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://www.cvvillas.com/collections/villas-with-cook-service/","https://www.cvvillas.com/above/","https://www.thethinkingtraveller.com/collections/villas-with-cook-included","https://hauteretreats.com/luxury-villa-rentals-destinations/luxury-villas-greece/","https://www.iconicvillas.com/greece/fully-staffed-villas-in-greece","https://isleblue.co/greek-islands/villas","https://kinglikeconcierge.com/paros-villas/villas-with-chef-paros"]
+
+--- RAW RESPONSE TEXT ---
+Here are some options for fully staffed villa holidays in Greece. Several are UK-based or sell in pounds.
+
+**UK-based specialists**
+- **CV Villas** (part of the Kuoni UK group) has a "villas with cook" collection. 
+It lists 68 villas with cooks in Greece.
+ Prices start at around 
+£4,555 per week for a 6-bedroom villa in Corfu that sleeps 12
+. Its higher-end **ABOVE** range is 
+a hand-picked portfolio of luxurious, staffed villas
+. 
+The team can arrange car hire or flights in your local currency.
+
+- **The Thinking Traveller** offers 
+fully catered holidays with a private villa chef in Greece, France and Italy.
+ 
+A discreet team of staff keeps the villa spotless, and a cook prepares meals in the local cuisine.
+
+- **The Villa Edit** has a "villas with a chef" collection. Its Greek listings include Villa Sefia on Zakynthos and Cassiopeia House on Corfu.
+
+**Other luxury providers**
+- **Haute Retreats** offers 
+villas on Mykonos, Santorini, Paros, Crete, Corfu and the Peloponnese, with a 24/7 concierge and staff hours set out in writing.
+ One example is 
+a fully staffed villa about 40 minutes by car from Corfu airport
+.
+- **Iconic Villas** has a dedicated fully staffed Greece collection. 
+Staff cover housekeeping, laundry, a private chef and concierge.
+ It sits at the top end. For example, 
+a Santorini villa is listed at €75,000–€92,500 per week.
+
+- **Isle Blue** says 
+many of its villas come with optional full staffing, including private chefs, housekeeping and concierge services.
+
+
+**Things to check when booking**
+- **What "staffed" means.** It varies a lot. Some villas include a housekeeper and breakfast, and the chef is an add-on. At others, 
+a chef is booked only for the meals you choose.
+ Ask exactly which staff are included and for how many hours.
+- **Food costs.** Groceries are usually charged separately from the chef's fee. Confirm this.
+- **Booking early.** 
+Booking several months ahead gives a wider selection of villas and more flexibility with chef services.
+ For summer 2027, I'd start looking soon.
+- **Travel arrangements.** Corfu, Crete, Mykonos and Santorini have direct UK flights in season. Smaller islands like Paros often need a connection or ferry. Ask about airport transfers.
+- **Financial protection.** Booking through a UK agent that holds ATOL or ABTA protection can give you extra peace of mind.
+
+If you tell me your group size, budget, preferred island and travel dates, I can narrow this down. For example, Corfu is easy to reach from the UK and has lots of staffed options. The Cyclades suit a more glamorous, island-hopping trip.
