@@ -1,0 +1,83 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a 50th birthday abroad with a group of 20 people is a fantastic milestone, but it requires a careful balance of **easy flight logistics**, **accommodation that can comfortably fit 20 adults**, and **activities that cater to a group**. 
+
+Assuming most of your group will be travelling from the UK for a long weekend (3–4 nights) or up to a week, here are the top destination ideas tailored to different vibes:
+
+---
+
+### 1. Tuscan Villa & Vineyard Experience (Tuscany or Umbria, Italy)
+* **Vibe:** Relaxed luxury, fine wine, incredible food, rustic scenery.
+* **Flight Time:** ~2 to 2.5 hours (Fly to Pisa, Florence, or Bologna).
+* **Why it works for 20:** Renting a private sprawling villa or an *agriturismo* (country estate) exclusively for your group gives everyone space while keeping you all under one roof. 
+* **Key Birthday Highlights:**
+  * Hire a private Italian chef to cook a multi-course celebration feast at your villa on the big night.
+  * Private wine-tasting tours in Chianti or Montalcino.
+  * Easy day trips to Florence or Siena for culture and shopping.
+
+---
+
+### 2. Chic Villa & Sun (Ibiza or Mallorca, Spain)
+* **Vibe:** Upmarket beach clubs, stunning sunsets, great nightlife, coastal glamour.
+* **Flight Time:** ~2.5 hours (Direct from most UK airports).
+* **Why it works for 20:** Forget stag/hen party madness—Ibiza and Mallorca excel at high-end luxury for grown-up celebrations. Inland Ibiza (around Santa Gertrudis or Santa Eulalia) and Mallorca (around Deia, Soller, or Pollença) offer incredible modern villas with private pools and mountain views.
+* **Key Birthday Highlights:**
+  * Rent a private catamaran or yacht for a day trip to Formentera (from Ibiza) or along the Tramuntana coast (from Mallorca).
+  * Book a long, champagne-filled birthday lunch at a iconic beach club like *Beachouse Ibiza*, *Blue Marlin*, or *Gran Folies* in Mallorca.
+
+---
+
+### 3. Luxury Riad or Villa in the Sun (Marrakech, Morocco)
+* **Vibe:** Exotic, vibrant, sun-drenched, high luxury at great value.
+* **Flight Time:** ~3.5 hours (Direct from London, Manchester, Bristol, etc.).
+* **Why it works for 20:** You can rent an entire luxury villa in the *Palmeraie* area or buy out an exclusive Riad in the Medina. Moroccan hospitality means most private villas come fully staffed with housekeepers, private chefs, and drivers, making group management effortless.
+* **Key Birthday Highlights:**
+  * A lavish birthday dinner featuring traditional musicians, belly dancers, and candlelit courtyard dining.
+  * A sunset camel ride or quad-biking trip in the Agafay Desert, followed by a luxury camp dinner under the stars.
+  * Private spa and hammam days for the group.
+
+---
+
+### 4. Coastal Charm & Seafood (The Algarve, Portugal)
+* **Vibe:** Sun, golf, spectacular cliffs, beachside dining, easygoing vibes.
+* **Flight Time:** ~2.5 to 3 hours (Fly to Faro).
+* **Why it works for 20:** The Algarve offers brilliant flight connectivity from almost every regional UK airport. Staying near **Quinta do Lago**, **Vale do Lobo**, or **Carvoeiro** puts you near luxury rentals, world-class golf courses, and cliffside restaurants.
+* **Key Birthday Highlights:**
+  * Group boat tour to explore the Benagil Caves and hidden beaches.
+  * A milestone birthday dinner at a Michelin-starred coastal restaurant (e.g., *Ocean* or *Vila Joya*).
+  * Wine tasting at boutique vineyards in the Silves region.
+
+---
+
+### 5. Chateau & Champagne (Champagne or Bordeaux, France)
+* **Vibe:** Elegant, food-and-wine focused, sophisticated.
+* **Travel:** Eurostar/Drive (via Calais) or short direct flights to Paris/Bordeaux.
+* **Why it works for 20:** Perfect if your group prefers not to fly or wants a shorter travel window. You can rent a historical French Chateau with extensive grounds. 
+* **Key Birthday Highlights:**
+  * Exclusive private cellar tours and tastings at famous Champagne houses (Moët & Chandon, Veuve Clicquot, Taittinger) or Grand Cru wineries in Bordeaux.
+  * Long banquet-style birthday dinners with paired regional wines.
+
+---
+
+### Key Tips for Planning a Group of 20:
+
+1. **Accommodation Strategy:** 
+   * **Single large villa/chateau:** Best for maximum group bonding. Ensure there are enough bathrooms (ideally 1:1 or 1:1.5 rooms to bathrooms) and mixed bed configurations (twins/doubles).
+   * **Boutique hotel takeover:** If your budget allows, booking out an 8–12 room boutique hotel gives people private space and hotel service, while keeping the property exclusive to your party.
+2. **Transportation:** Book group airport transfers (a private minibuses) in advance so 20 people aren't trying to split up into separate taxis upon landing.
+3. **Pacing:** Don't over-schedule. For a group of 20, aim for **one key group activity per day** (e.g., a boat trip or wine tasting) and leave plenty of down-time by the pool or exploring in smaller groups.
+
+---
+
+### To help narrow this down:
+* What time of year are you planning to travel?
+* Are you aiming for a 3–4 night long weekend or a full week?
+* What is the general budget profile per person/couple, and is the group looking more for relaxation, active adventure, or party/nightlife?
