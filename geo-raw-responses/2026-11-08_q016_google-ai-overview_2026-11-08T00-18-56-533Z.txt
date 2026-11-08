@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://www.houseandgarden.co.uk/article/best-villa-rental-companies","https://www.distillintelligence.com/competitors/the-thinking-traveller","https://www.cntraveller.com/article/best-villa-rental-companies-2026"]
+
+--- RAW RESPONSE TEXT ---
+If you love The Thinking Traveller for its hand-picked Mediterranean properties, high-touch concierge service, and deep local expertise, several premier boutique operators and curated collections match that standard.
+High-Touch Mediterranean Specialists
+
+Design-Led & Character Collections
+
+Ultra-Luxury & Concierge-Driven Curators
+
+If you share your preferred destination (e.g., Sicily, Greece, Puglia, or Spain) and group size, I can narrow this list down to the 2 or 3 alternatives that fit best.
