@@ -1,0 +1,65 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q010
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: fully staffed villa holidays in Greece
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa3WveTultULcmlK0ERfk-CQ9MWsMPZFhCWwzaXUCERjuKMI0pdFTzSV7reeUDViAj6lQKOmZKDjaso6QWn35duo0jNM4-RHmUkHls3S4XHCkyoACJBg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlexh5mOQ8dpInmA7nGFyHxuPlCrtRbo6blnYmMlc1CCOBo8wsqlYcr0j3rpng7vhy45_LDN3kp2vLbK6QwvuhYCbG5vMruA_9ZEFal_AiomiwiqMSP04BPS3ajFdg3gisN-xE89FiqE540rfpNd2d4nzZbnvPPa7H","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0lQ8RmGhw8DK2NOPylk8vHfMWPXDfurCvaq1bpVp52JohpWqILdW4PqjVO2MW56wlf3Q_BOvPgUH_YhkDS4K1ie702dwZcAE5Hka2zQsYZKfAW0k2dg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz2om9g4bWMihQ6mCBVqADi619QFdPiiqMnXSPMDmb8nMBmAtWvx2LWL2HUt3W1EvuwtfbvxvM2KxTXT1-Q209WSuCu3xvvsmnvaVEk2CbSBQwTNF-M-r6CFu2QywNYs09","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY4G9MgP40bQvnYuiCqZpBgbWVYMMDPgpNZauZ1EyabFZA4pb0oR10iPehN_GcUKEiuTMJ6GhZLLdQoYb7cTJEtuXyxRogM5LZeguOrmfWU8uzwUjONf34wFuoGgFhEtXITuuZdA4R2NyLhSAvK9FYQtmFqH6Pth1Tq0KEjWsrCtPT3GwY1MBfr6p4SSKi9wBLSRcZ2aEhMoPeeR-Z0ua9dnAOWeaEcLuQSQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu7b9ri4eFUc0KNXq4jXKayeKfu_XJt6TXl2ayrHVDvDCR4AKN1t8Dqlb292yzLxsAVFfEJ2-Q_wufRXeH0dY7lh5_zbG4Fm3a3YSzJIrfTU5GkDchoqGqT_Lbg2dqOYUxwBuaUFVRuJe4A4_RYiZ9vop6FdSbl6A0i3ZRIg==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSquUNhPuoYOeMmwoAy6qfczUgzAHNg6RjcRavwI_-XZn22ckcSS4Q0dvWE2dl5JLA-pVXUPeZ2vdZN5HoD23oD56ezcU_vXCPF9Nv74xsDFL-gN1fHoLYuzdoIbtgIgJsVa7bD1FqF03dBFH4KsWv_PAxsXwlyzZcoPZsCffPdZ67mBpVTPyXdrvnASDtvFAcQA090ESIW9XlMmsyMWpA83aSeN8c","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsfDtl6hRChDX_4F_De7SeO83HFLi1vqsO1Z3Oxfy14F08IoxpSS7HXcR3YdGanVvefYnE4zNGB7nUsCckn3ThDF3RjytFcUTsiZG0PYxWhoqs_6POlJFTBa3GwKdLzT7a0eE48OIMiYReOJDWvP8="]
+
+--- RAW RESPONSE TEXT ---
+If you are based in the UK and looking for a **fully staffed luxury villa holiday in Greece**, you have access to some of the world’s best specialist tour operators and villa agencies. Fully staffed villas offer total relaxation: a private chef to handle dining, daily housekeeping, a villa manager/concierge, and often dedicated hosts or drivers.
+
+---
+
+### Top UK Specialists for Staffed Greek Villas
+
+1. **CV Villas (*ABOVE* Collection)**
+   * **Best For:** Classic luxury, multi-generational families, and established island estates (especially Corfu and Paxos).
+   * **What to expect:** Their *ABOVE* collection features top-tier properties that come with a dedicated private chef, host/waitstaff, and housekeeper. 
+   * **UK Advantage:** Full ABTA/ATOL package protection available (flights + transfers + villa).
+
+2. **The Thinking Traveller**
+   * **Best For:** Exclusive, architecturally impressive villas across the Ionian Islands, Cyclades, and Saronic Gulf.
+   * **What to expect:** Serviced and fully staffed options with private chefs, daily maid service, and 24/7 local experience managers.
+
+3. **Scott Dunn**
+   * **Best For:** Bespoke luxury packages tailored for UK guests wanting seamless travel, private aviation, or Scott Dunn nanny services on-site.
+   * **What to expect:** Fully catered and staffed properties in Crete, Corfu, and Mykonos with dedicated hosts, private chefs, and childcare options.
+
+4. **The Luxury Travel Book / Firefly Collection**
+   * **Best For:** Ultra-high-end party or milestone celebration villas.
+   * **What to expect:** Estate-level properties in places like Paros, Mykonos, and Porto Heli, complete with multi-person teams (chef, sous chef, butler, housekeeper, boat master).
+
+5. **Oliver’s Travels (*Luxe Collection*)**
+   * **Best For:** Showpiece design villas with extensive concierge add-ons.
+   * **What to expect:** Tailored staffing levels—from daily breakfast chef + maid to full 24-hour estate teams.
+
+---
+
+### Top Regions in Greece for Fully Staffed Villas
+
+* **Corfu (Northeast Coast - Kassiopi, Nisaki, Kalami):** The UK’s flagship luxury villa destination. Direct flights from almost all UK regional airports. Outstanding clifftop estates with private jetties, infinity pools, and full crew teams.
+* **Porto Heli (Peloponnese Riviera):** Known as the "Hamptons of Greece." Very discreet, grand waterfront mansions favoured by royals and ultra-high-net-worth travellers looking for complete privacy and dedicated staff.
+* **Mykonos & Paros (Cyclades):** Ideal for chic, barefoot-luxury escapes. Villas here often feature full staff (chefs, mixologists, security, chauffeurs) close to cosmopolitan beach clubs.
+* **Crete (Elounda & Chania):** Excellent for large families. Large private estates featuring private spa treatments, dedicated cooks, and child-friendly staff.
+* **Paxos & Zakynthos:** For smaller groups or intimate retreats with private cooks and secluded sea access.
+
+---
+
+### What "Fully Staffed" Typically Includes
+
+* **Private Chef:** Prepares breakfast plus lunch and/or dinner daily, customized to dietary requirements. *(Note: Food and beverage ingredients are typically billed at cost or paid via an Advance Provisioning Allowance / APA).*
+* **Villa Manager / Butler:** Handles day-to-day requests, coordinates excursions, boat charters, and table reservations.
+* **Daily Housekeeping:** Discreet, twice-daily maid service, turndown, and laundry.
+* **Optional Staff Add-ons:** Dedicated driver with luxury V-Class/SUV, private boat captain, UK-qualified nanny, or wellness staff (yoga instructors/massage therapists).
+
+---
+
+### Advice for Booking from the UK
+
+1. **Flight Accessibility:** 
+   * **Direct routes:** Corfu (CFU), Mykonos (JMK), Santorini (JTR), Chania/Heraklion (CHQ/HER), and Kalamata (KLX) have direct flights from London (LHR, LGW, LCY, STN) as well as Manchester, Birmingham, Bristol, and Edinburgh.
+   * **Helicopter/Private Boat Transfers:** For island villas (e.g., Paxos or private islands), UK operators can arrange direct helicopter charters from Athens or Corfu airport straight to your villa helipad.
+2. **Booking Window:** Staffed villas for peak UK school holidays (July–August) book out **6 to 12 months in advance**. May, June, and September offer superb weather, lower heat, and better availability.
+3. **ATOL Protection:** If you book flights and the villa together through a UK-licensed luxury agent (like CV Villas or Scott Dunn), your entire holiday is ATOL protected.
