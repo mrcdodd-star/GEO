@@ -1,0 +1,70 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+["https://sheerluxe.com/culture/travel/holiday-villa-rentals","https://www.distillintelligence.com/competitors/the-thinking-traveller","https://en.wikipedia.org/wiki/Tuscany_Now_%26_More","https://www.yahoo.com/lifestyle/travel-leisure-readers-5-favorite-113000059.html","https://bookingsforyou.com/","https://en.wikipedia.org/wiki/Onefinestay","https://littlebritsabroad.com/2026/03/08/holiday-rental-comparison/","https://splash.thethinkingtraveller.com/"]
+
+--- RAW RESPONSE TEXT ---
+Thinking Traveller is a London-based, design-led villa specialist. Its villas are exclusive to it, and it covers Sicily, Puglia, Tuscany, Sardinia, Corsica and Greece. These are the closest UK-friendly alternatives, grouped by what you might want.
+
+**Closest in style (curated, design-led villas)**
+- **Oliver's Travels** is a London-based company that 
+offers quirky, characterful homes in the UK, Europe and long-haul destinations. They range from medieval châteaux and treehouses to sleek beach villas and family farmhouses.
+
+- **Scott Williams** is described as a 
+boutique agency specialising in Mediterranean luxury villa rentals.
+
+- **Wimco Villas** and **CV Villas** are both often named as direct competitors. 
+CV Villas offers hand-picked luxury villas in Europe and the Caribbean.
+
+- **Villa Collective** is a 
+marketplace for high-end private villas in Mediterranean destinations.
+
+
+**If you mainly want Italy**
+- **Tuscany Now & More** is a 
+London-based, family-run villa rental company specialising in Italian villa holidays.
+ It 
+won Best Luxury Villa Rental Company at Travel + Leisure's World's Best Awards in 2023 and 2024.
+ Despite the name, its portfolio 
+includes villas in Umbria, Verona, Venice and Rome.
+
+- **Bookings For You** is an Italy specialist with 
+a hand-picked portfolio of over 400 villas in Italy.
+ It also offers a concierge service. It lists 
+new villas in Le Marche, Sicily and Florence apartments
+ for 2026.
+
+**If you want a more luxury or concierge-led service**
+- **Le Collectionist** focuses on 
+ultra-luxe stays, from clifftop villas in Mykonos to historic palazzos in Italy.
+
+- **Abercrombie & Kent Villas** offers 
+a curated experience across European spots such as Tuscany, Provence and the Balearics, plus the Caribbean.
+
+- **Onefinestay** is a London-based, Accor-owned company. 
+Every stay includes a personal welcome and tour, professional housekeeping and all linens.
+ It 
+ranked third in the Villa Rental category of Condé Nast Traveller's 2025 Readers' Choice Awards.
+
+
+**If you're travelling with children**
+- **Simpson Travel** offers 
+curated villas, useful family filters and specialist childcare options.
+
+- **James Villas** is 
+a premium villa specialist across Spain, France, Portugal, Greece, Italy, the Canaries and the Caribbean.
+
+
+**Things to know**
+- Thinking Traveller's USP is exclusivity. 
+Every property is exclusive to the brand, so you won't find them elsewhere.
+ None of the alternatives can offer those exact villas, but several have a similar feel.
+- It was named Condé Nast Traveller's 
+2025 Best Villa Rental Company in the World
+, so it's a high bar to match.
+
+If you tell me where you want to go, your budget, group size and whether you want a pool, a beach or a rural setting, I can narrow this down to two or three options.
