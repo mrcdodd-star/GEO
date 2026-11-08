@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.elegantresorts.co.uk/luxury-villa-holidays/algarve","https://www.holidu.co.uk/f/villas-portugal","https://premiervillas.net/portugal/algarve/quinta-do-lago/villas-up-to-10-people/group","https://excellenceluxuryvillas.com/city/algarve/","https://smilinghouse.com/villas/algarve","https://premiervillas.net/portugal/algarve/villas-up-to-8-people/group","https://www.villanovo.com/villa-rentals/europe/portugal/algarve/","https://algarvevillaselection.com/view-properties/"]
+
+--- RAW RESPONSE TEXT ---
+For 12 guests in August, I’d start with **six-bedroom villas with a private pool**—but I’ll need your exact dates and budget to narrow down options and check availability. August is peak season, and advertised rates can vary substantially by villa and week.[4]
+
+A few UK-bookable options to investigate:
+
+- **Villa Evora, Quinta do Lago** — six bedrooms, sleeps 12, private pool, gardens, cinema room and gym; listed from **£8,301 per week**.[3]
+- **Villa Lavanda, Quinta do Lago** — six bedrooms, sleeps 12, private pool and outdoor entertaining space; listed from **£17,826 per week**.[3]
+- **Bougainvillea Beach House, Albufeira** — six bedrooms, sleeps 12, beachfront setting with private pool; listed from **£14,102 per week**.[6]
+- **Villa Rikana, Albufeira** — six bedrooms, sleeps 12; listed rates vary by date.[7]
+
+These are advertised examples, not confirmed availability for your dates. What week in August are you considering, and what’s your approximate total budget?
