@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CCYSECoOCgwvZy8xam1kMF9uMjYYCg","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWR4cThzcDdxGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWZfYzAxaDJqGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWRmZ3NqdGxwGAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMXFiZnA5Y3J5GAo"]
+
+--- RAW RESPONSE TEXT ---
+When looking for high-end, hand-picked holiday homes and global private escapes, several UK-based luxury villa rental and concierge companies stand out for their portfolio quality, bespoke service, and client satisfaction.
+Top UK Luxury Villa Rental Companies
+
+Quick Comparison: Which Should You Choose?
+
+To help narrow this down, where are you hoping to travel (e.g., Mediterranean, Caribbean, UK countryside), and how many guests are in your party?
