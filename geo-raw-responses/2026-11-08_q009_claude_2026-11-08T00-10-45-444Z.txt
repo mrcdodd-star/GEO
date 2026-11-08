@@ -1,0 +1,62 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://www.frenchweddingstyle.com/best/french-chateau-wedding-venues/","https://www.hitchedinfrance.com/venues","https://www.atlastwedding.co.uk/post/luxury-chateau-wedding-venues-france-uk-couples","https://www.frenchweddingstyle.com/best/wedding-venues-in-france/","https://www.frenchweddingstyle.com/best/destination-wedding-venues-in-france/"]
+
+--- RAW RESPONSE TEXT ---
+Plenty of French châteaux hire out for weddings, and many are used to British couples. Here's where to look.
+
+**Directories to browse and compare**
+- **French Wedding Style** lists châteaux by region and budget. 
+A château wedding here means marrying on a private historic estate, where the house and formal grounds become yours for the celebration.
+
+- **Hitched in France** (hitchedinfrance.com) compares 
+fairytale châteaux, manor houses, rustic farmhouses and more.
+
+- **French Wedding Venues** (frenchweddingvenues.com) is another searchable directory. It lists châteaux in the Loire, Dordogne, Provence and elsewhere.
+- **Chateau Bee Selection** publishes a "best of" list. Its entries include Château du Feÿ in Burgundy and Château Challain in the Loire Valley.
+- **At Last Weddings** is a UK-focused planner. 
+It helps UK couples with venue matching, design and supplier coordination.
+
+
+**Examples of venues and prices (from the listings)**
+- **Château de Garrevaques (Occitanie):** 
+from €8,000 for dry hire, or €30,000 for an all-inclusive wedding package.
+
+- **Château du Puits es Pratx (Dordogne):** 
+an all-inclusive three-night package covering exclusive use, accommodation for up to 50 guests, and full catering.
+ 
+English-language planning is the default, and the team has experience with British and international couples.
+
+- **Château de Vauchelles (northern France):** 
+22 bedrooms sleep 62 guests on site, with no curfew.
+ 
+It's about 1h20 by road from the Calais Eurotunnel terminal.
+
+- **Château Le Brossay (Brittany):** 
+from €2,950, sleeps 52, up to 60 guests.
+ 
+It offers options from DIY to full service.
+
+- **Château du Grand Val (Brittany):** 
+English-speaking owners, with its own chapel, gardens and banquet space.
+
+- **Château Lacanaud (Dordogne):** 
+from €12,000 for exclusive hire, with accommodation for up to 23 guests on a 20-acre estate.
+ 
+Bergerac Airport is 25 minutes away and has direct flights from several UK airports.
+
+
+**Things to know**
+- **Budget:** Many peak-season (June–September) venues start around €8,000–€18,000 for exclusive hire. 
+Minimum stays of 2 nights are common.
+ Catering, accommodation and extras can add a lot, so check what's included.
+- **Dry hire vs. packages:** Dry hire gives you the venue and you arrange everything else. A package covers catering and coordination. Some venues don't allow external caterers, so ask.
+- **Getting there:** Northern châteaux (Normandy, Picardy, Loire) are easy by car via Eurotunnel or ferry. The Dordogne, Bordeaux area and Provence have good UK flight links.
+- **Legal ceremony:** French civil law requires a civil ceremony at a mairie, with residency requirements and paperwork. Many UK couples do a legal ceremony in the UK and have a symbolic or blessing ceremony at the château. Check current requirements with the venue or a planner.
+
+Tell me your guest numbers, budget, preferred region and dates, and I can narrow this down to a shortlist.
