@@ -1,0 +1,62 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHGWHsUgiLkU-INwdLGeKGxcmInLGaCxp2wh18TVLwDbwTlOKy3uiovl7AvK6ABaGzUJZ-r314oD1bRGYcsTPsjJNJvR8SQ4-tz9caboTydED6BkfVgTeYv1khqRx5hakfJ9a4sxMqTdhxHhTPEe5x6poHvZG1vG0XEvRJZdc=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKpfRZtyDzAcjR7-dYTMQ4GIMnWBn2g3IJu2u8kxgV3DOCMzvyqqCcGVZT6lCuC0FksRNPHIuvtQXn7zz0tJZocjtGBTISrqV-k7E43AjbxjIdPbdTrCGVvdpwonHzgGykeybh2MfE","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCyuwyKbAPzRSJSAsN3vFrtJEbR2gMFzwlxIBKl29t85u1GfVYDDjpiM4EYWuLPemYWUXL4vkWs4SR_Rd6B6dGWZGd-PgCup8DIjOwvwBE2nIKJcr5k5Rmm1CwwIEFBVb2UvNodU-u5zYi49U147xC","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF24addf_KFf1r4yli3V4p1eLsOahnK0YOc5jT0_m3kXLEapUCMatgw7Xoj_pi4cBoRcoCbG9hCq2-EAqrTsp7eE4vOJkoSZhZTPZEdz_AR_0MpuhPbuFqWYx7PFwKOVCQCCyiP","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMbE06dCX-wOLgl9lxd0Sg_ExIdbA_xyiTFDjJpN_ZRubl8g88kK62ebn7kEwK5yra2mOoXPqyX1vfhv0Mj2RtTcqqXSYyYwTbVUOIsbizL2rKnbPT_Komlq-QxJPcPSZis6gfRvV3byFsjjwqeJA_xWzwm4bjyrBappXX1boZMQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaIz1Wt8LloOk5pkJYb7O2ANfecfT4XrDAbb0eKCfkn62VitxJ9mQSvD3kr1rqivf-qRi7445P7x4KCcEdVoToKrpR483zXl1m4jwlIJIKTnTDJreZeHA3310zyDUfq7x_fbCBPWNsrhRQksafIUDNKaNJKQGahMiOAkWoP3W42fvwo7CgP5ggXzIKp-CzdH7BbIkJR3dQfJQ26CuGsFsMXFOI6SIQiBYYIIWIqpQ3CMXMtruwbXA46o9gqB2wzFCXUT1qO1_c_nXg8XVIPJyhTB4AJ6A24VyGk2Nan7w=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdyw1fnWGrZZ-qxJAis1PV4-KEove4Im7fhsFo9qRtthF4QnNLySo-6X771ajhpoX3zYlymWGBmx8hoac2URHTp07gsgexGqiRcK-bBz8Si5YLObn-tQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfDu65q94iP7-2aKhQyypdyiilQvS50-ypjPSaMmGGAyLpOTyt7bD4TQWE5tdzwD7X9ntB1Iu3DegUQssCH-RCw6AQM-p_2aURNVNWwahKx6hOe_uO577adrO7xXM="]
+
+--- RAW RESPONSE TEXT ---
+If you are looking for a luxury villa rental in the South of France with full concierge service, booking through a reputable specialist—whether UK-based or a dedicated French Riviera/Provence agency with UK service desks—will ensure seamless logistics from departure to check-out.
+
+---
+
+### 1. Top Luxury Agencies & Brokers (UK-Friendly)
+
+* **Le Collectionist**
+  * **Best For:** Ultra-luxury properties and bespoke experiences across the French Riviera and Provence.
+  * **Concierge Level:** 24/7 dedicated local concierge. They can arrange everything from private Michelin-trained chefs, daily housekeeping, and sommeliers to yacht charters, helicopter transfers, and exclusive wine tastings.
+* **Only Provence**
+  * **Best For:** Countryside bastides, châteaux, and stone farmhouses in the Luberon and Alpilles.
+  * **Concierge Level:** Has a dedicated UK phone line (+44 2030 965433) and offers a "Prestige Collection" which includes daily breakfast, daily housekeeping, in-house chefs, and custom trip planning.
+* **SJ Villas**
+  * **Best For:** Discreet, high-end off-market properties along the Riviera (Cap Ferrat, Cap d’Antibes, St Tropez).
+  * **Concierge Level:** London-based boutique agent (W14) providing highly tailored 1-on-1 concierge assistance for UK clientele.
+* **Excellence Riviera**
+  * **Best For:** Saint-Tropez, Ramatuelle, Cannes, and coastal Côte d’Azur.
+  * **Concierge Level:** High-touch VIP services including priority beach club reservations (e.g., Club 55, Bagatelle, La Guérite), luxury car hire/supercars, security, private jet shuttles, and onboard yacht staff.
+* **CV Villas & Oliver's Travels (UK-based)**
+  * **Best For:** Comprehensive packages, including ATOL/ABTA financial protection option when booking travel together.
+  * **Concierge Level:** Experienced UK-based teams with local on-the-ground reps to handle pre-arrival grocery shopping, nanny services, private catering, and car hire.
+
+---
+
+### 2. Choosing the Right Region
+
+* **Côte d’Azur / French Riviera** *(Nice, Cannes, Saint-Tropez, Cap Ferrat, Èze)*
+  * **Vibe:** Glamorous, coastal, vibrant nightlife, beach clubs, superyacht access.
+  * **Travel from UK:** Direct flights from Heathrow, Gatwick, Manchester, Edinburgh, etc., into **Nice Côte d'Azur (NCE)**. Helicopters can shuttle directly to your villa garden or local helipads in St Tropez/Monaco.
+* **Provence & The Luberon** *(Gordes, Saint-Rémy-de-Provence, Aix-en-Provence)*
+  * **Vibe:** Rustic elegance, olive groves, lavender fields, private châteaux, wine estates.
+  * **Travel from UK:** Direct flights to **Marseille Provence Airport (MRS)** or Eurostar / TGV via Paris into Avignon.
+
+---
+
+### 3. Key Concierge Services to Expect
+
+When booking a luxury villa with concierge service, you can tailor your package to include:
+
+1. **In-Villa Hospitality:** Daily maid service, linen changes, private chef (breakfast, lunch, or formal dinners), mixologists, and dedicated butler/house manager.
+2. **Transportation & Transfers:** Private airport chauffeured transfers, luxury supercar hire, helicopter shuttles from Nice airport to Saint-Tropez, or private yacht day-charters.
+3. **Reservations & Access:** Hard-to-get reservations at top beach clubs, Michelin-starred restaurants, and private wine estate tours.
+4. **Wellness & Family Services:** On-site spa therapists, yoga instructors, private tennis coaches, and vetted English-speaking nannies.
+
+---
+
+### 4. Tips for UK Travelers
+
+* **Financial Protection:** If peace of mind around ABTA/ATOL protection is important, look at UK-headquartered travel providers (like CV Villas or Abercrombie & Kent) that can package flights and villa arrangements together.
+* **Peak vs. Shoulder Season:** 
+  * *Peak (July & August):* Requires booking 6–12 months in advance. Minimum stay is usually 1–2 weeks (Saturday to Saturday).
+  * *Shoulder (May–June, September):* Warm weather, far fewer traffic bottlenecks along the Riviera coastal roads, and more flexibility with minimum stays.
