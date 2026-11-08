@@ -1,0 +1,72 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+["https://www.chefondemand.it/blog/en/tuscany-villa-rentals-with-chef-guide-2026/?utm_source=openai","https://villavacations.com/italian-villa-rentals-faq/?utm_source=openai","https://luxury.it/luxury-villa-rental-italy/?utm_source=openai","https://www.essenzaescapes.com/collections/premium-villas?utm_source=openai","https://www.tuscanynowandmore.com/villa-collections/fully-staffed-villas-in-italy-list?utm_source=openai","https://www.lecollectionist.com/en/luxury-villas-rentals/italy?utm_source=openai","https://villamarie.it/services/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you’re in the UK and looking for a villa in Italy with both a private chef and daily housekeeping, here’s a complete guide on how to find exactly what you want — plus some leading villa providers and tips to make sure your expectations are met.
+
+---
+
+## 🔍 What to Look for First
+
+Before you start browsing, it helps to clarify what “villa with chef and daily housekeeping” *really* means, and what you should check:
+
+- **Definitions matter**  
+  “Fully staffed”, “staffed villa”, “catered with staff” — these may include a chef *only for certain meals*, housekeeping *only a few hours a day*, or strictly breakfast service. ([chefondemand.it](https://www.chefondemand.it/blog/en/tuscany-villa-rentals-with-chef-guide-2026/?utm_source=openai))
+
+- **Ask for total cost breakdowns**  
+  Included meals, groceries, drinks, staff hours — all should be outlined in writing. Extra fees for chefs beyond “included” meals are common. ([villavacations.com](https://villavacations.com/italian-villa-rentals-faq/?utm_source=openai))
+
+- **Book well ahead for high season**  
+  Peak months are mid-June to August. The best fully-staffed villas are booked 6-12 months in advance in high-demand areas. ([luxury.it](https://luxury.it/luxury-villa-rental-italy/?utm_source=openai))
+
+- **Size & region impact cost**  
+  The bigger the villa (bedrooms, amenities, staff), the more expensive. Tuscany, Amalfi Coast, Lake Como and Sardinia tend to be pricey. ([luxury.it](https://luxury.it/luxury-villa-rental-italy/?utm_source=openai))
+
+---
+
+## 🏘️ Reputable Villa Rental Providers
+
+Here are some excellent UK-friendly agencies and villa providers who offer villas with private chefs and daily housekeeping or equivalent services:
+
+| Provider | What They Do Best | What Included / Sample Properties |
+|----------|--------------------|-------------------------------------|
+| **Essenza Escapes** | Luxury “fully serviced” villas across Tuscany, Amalfi, Lakes, etc. | Homes come with private chef, daily housekeeping, household team. ([essenzaescapes.com](https://www.essenzaescapes.com/collections/premium-villas?utm_source=openai)) |
+| **Luxury.it** | Premium villa rentals; especially good if you want top-quality service. | Villas with included daily housekeeping, dedicated chef, house manager etc. ([luxury.it](https://luxury.it/luxury-villa-rental-italy/?utm_source=openai)) |
+| **Tuscany Now & More** | Strong in Tuscany & Umbria; large properties. | Fully-staffed villas including chef, maid, concierge; often weekly rates. ([tuscanynowandmore.com](https://www.tuscanynowandmore.com/villa-collections/fully-staffed-villas-in-italy-list?utm_source=openai)) |
+| **Le Collectionist** | Ultra-luxury stays; lots of customization. | Many villas provide private chefs, housekeeping, concierge. Set up around your schedule. ([lecollectionist.com](https://www.lecollectionist.com/en/luxury-villas-rentals/italy?utm_source=openai)) |
+| **Villa Marie (Tuscany)** | Boutique large estate stays. | Includes breakfast, chef for dinner/lunch, daily housekeeping, concierge assistance. ([villamarie.it](https://villamarie.it/services/?utm_source=openai)) |
+
+---
+
+## ✔️ Steps to Find and Book
+
+1. **Set your budget**  
+   Fully staffed villas with private chef & daily housekeeping are luxury—expect to pay considerably more than self-catered villas.
+
+2. **Choose the region**  
+   Region affects style, food, travel time, and cost (Tuscany, Amalfi Coast, Puglia, Sicily, Lakes etc.). Decide what's more important: scenery, distance from nearest airport, beach vs countryside.
+
+3. **Search with services filters**  
+   Use keywords like “staffed”, “chef included”, “daily housekeeping”, “full-service villa”, “private chef service”. Many sites have checkboxes or filters for “staff included”. ([tuscanynowandmore.com](https://www.tuscanynowandmore.com/villa-collections/fully-staffed-villas-in-italy-list?utm_source=openai))
+
+4. **Enquire and read every detail**  
+   When you find a villa you like:
+   - Ask exactly which meals are included and who pays for groceries.
+   - Check housekeeping hours (full-day? few hours? every day?).  
+   - What extra services cost (laundry, pool heating, transfers etc.).
+
+5. **Plan ahead**  
+   In high season, charters and booking chef services fill up early. Book your villa and chef 2-4 months in advance for shoulder season; 6-12 months for summer. ([chefondemand.it](https://www.chefondemand.it/blog/en/tuscany-villa-rentals-with-chef-guide-2026/?utm_source=openai))
+
+6. **Legal/licensing checks**  
+   Ensure the villa has legal accommodation status (in Italy, you might check for a CIN code). Read the contract & cancellation policy carefully.
+
+---
+
+If you like, I can pull together a shortlist of villas in a region you prefer (Tuscany? Amalfi? Sicily?) that meet your criteria (chef + daily housekeeping) and maybe give price ranges based on your budget. Would you prefer that, and which area(s) do you want?
