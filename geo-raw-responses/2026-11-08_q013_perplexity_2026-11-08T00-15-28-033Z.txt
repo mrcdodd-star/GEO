@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+["https://uncompromised.travel/stays/how-to-book-a-luxury-villa","https://emmanuelnoir.com/how-to-book-luxury-private-villa-holiday/","https://gblreservations.com/articles/how-a-luxury-villa-is-selected-and-run","https://www.travelsupermarket.com/en-gb/villa-holidays/","https://www.oliverstravels.com/blog/your-perfect-holiday-villa/","https://quncivillas.com/en/article/how-to-choose-a-villa-rental-in-top-destinations-a-complete-travelers-guide","https://www.travelcounsellors.co.uk/ian.le-fevre/VillaHolidaysYourRelaxedHomeFromHomeWithRoomForAdventure/","https://www.michaelzingraf.com/en/buy/villa"]
+
+--- RAW RESPONSE TEXT ---
+Before you book, look beyond the photos and headline price. Check that the villa genuinely fits your group and how you want to spend the holiday—and get important details confirmed in writing.
+
+- **Location and access:** Check the exact area, realistic journey times to the airport, beach, shops and restaurants, and whether you’ll need a hire car. Ask about road access, parking, nearby construction, noise and how private the outdoor areas are.[3][4]
+- **Layout and capacity:** Confirm the actual bed sizes, bedroom and bathroom arrangements, and whether the shared spaces suit your group. Don’t rely on the advertised guest capacity alone.[2][3]
+- **Facilities that matter to you:** Verify which rooms have air conditioning, Wi-Fi quality, pool size and privacy, and whether pool heating costs extra. If travelling with children, ask about pool safety, cots and high chairs.[1][4]
+- **Staff and services:** Establish exactly what’s included—such as housekeeping, a chef, groceries, transfers and concierge help—and what costs extra. Ask who handles problems during your stay and how quickly they can respond.[2][6]
+- **Total price:** Request a written breakdown of the rental, cleaning, taxes, service charges, utilities, pool heating, transfers and optional services. Check whether utilities are capped and how much the security deposit is, how it’s held, and when it’s returned.[1][6]
+- **Contract and protection:** Read the payment schedule, cancellation terms, refund rules, occupancy limits and house rules before paying. Consider suitable travel insurance, especially if the booking has strict cancellation penalties.[1][6]
+- **Reliability:** Look for recent, detailed guest reviews, clear answers from the manager, and current photos or a live video walkthrough. Confirm the property-management and emergency contact arrangements.[2][3]
+
+A useful final check: ask the manager to confirm the key details and all mandatory charges **in writing before you pay**.[1][6]
