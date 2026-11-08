@@ -1,0 +1,78 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Travelling with a group of 16 across three generations—especially with **three toddlers** and **grandparents**—requires a very specific kind of destination. 
+
+To keep everyone happy, your ideal location needs:
+* **Short travel times** (flights under 3 hours or driveable from the UK).
+* **Toddler-friendly features** (shallow calm beaches, flat/stroller-friendly towns, gated villa pools).
+* **Grandparent-friendly comfort** (relaxed pace, good dining, minimal steep steps/walking uphill).
+* **Large accommodation** (private villas or gîte complexes big enough for 16).
+
+Here are the top 5 European destinations tailored specifically for this group setup next summer:
+
+---
+
+### 1. Menorca, Balearic Islands (Spain)
+**Best for:** Easy logistics, shallow calm beaches, and total toddler safety.
+
+* **Flight time:** ~2.5 hours from most UK airports. Transfer times on the island are rarely over 30–40 minutes.
+* **Why toddlers love it:** Menorca is famously the most family-oriented Balearic island. Beaches like *Cala Galdana*, *Es Grau*, and *Punta Prima* have warm, crystal-clear, knee-deep waters extending far out with virtually no waves.
+* **Why grandparents love it:** It has a much quieter, gentler pace of life than Mallorca or Ibiza. Flat harbor promenades in **Cuitadella** or **Mahón** make for lovely, step-free evening strolls and dinners by the water.
+* **Where to stay:** Look for a large private villa with a gated pool near **Puerto Pollença** (Mallorca alternative) or **Calan Bosch / Binibeca** in Menorca.
+
+---
+
+### 2. Dordogne or Lot Valley, South-West France
+**Best for:** A self-drive holiday (no flying hassle) and exclusive private châteaux.
+
+* **Travel:** Can be reached by driving via Eurotunnel/Ferry (splitting the drive overnight) or flying into Bordeaux/Bergerac (~1.5 hours). 
+* **Why toddlers love it:** No airport security with toddlers if you drive, and you can pack all the strollers, travel cots, and gear you need. Gentle river beaches, endless lawn space to run around, and farm visits.
+* **Why grandparents love it:** Wine tasting, night markets, stunning historic villages (like Sarlat or Rocamadour), and shaded, relaxing afternoons by the pool.
+* **Where to stay:** Rent a private **estate or multi-gîte complex** (a group of cottages around a shared private courtyard and fenced pool). This gives families their own private sleeping quarters while allowing everyone to eat and socialize together.
+
+---
+
+### 3. Lake Garda (Southern Shore), Italy
+**Best for:** Scenic beauty, pushchair-friendly promenades, and diverse activities.
+
+* **Flight time:** ~2 hours to Verona or Milan Bergamo, followed by a 30–45 minute drive to the south of the lake.
+* **Why toddlers love it:** Gentle lake beaches (like *Peschiera del Garda*), ferry boat rides across the lake (which toddlers treat like giant rides), and proximity to Gardaland theme park / Sea Life Aquarium.
+* **Why grandparents love it:** Breathtaking lake views, world-class food and wine (Bardolino, Valpolicella), and completely flat, pedestrianized lakeside promenades in towns like **Lazise** and **Bardolino**.
+* **Where to stay:** A large agriturismo (converted farmhouse/resort) or large lakeside villa around **Lazise** or **Desenzano**. 
+
+---
+
+### 4. The Western Algarve, Portugal (e.g., Lagos or Praia da Luz)
+**Best for:** Coastal breeze, low heat stress, and villa living.
+
+* **Flight time:** ~2.5 to 3 hours to Faro, plus a 45-minute drive.
+* **Why toddlers love it:** Wide, golden sandy beaches like *Praia da Luz* or *Meia Praia* with plenty of space for sandcastles and shallow play areas. 
+* **Why grandparents love it:** The Atlantic breeze stops mid-summer from feeling uncomfortably hot (unlike inland Spain/Italy). Fantastic seafood restaurants, coastal scenery, and easy golf options nearby.
+* **Where to stay:** Look for large villas in **Praia da Luz** or **Carvoeiro**. Praia da Luz is particularly good because the beach, town, and villas are all within flat walking distance of each other, meaning the group can split up without needing cars every single hour.
+
+---
+
+### 5. Northern Mallorca (Pollensa & Puerto Pollensa), Spain
+**Best for:** High-end villa availability for big groups and iconic calm bays.
+
+* **Flight time:** ~2.5 hours to Palma, followed by a 45-minute highway drive north.
+* **Why toddlers love it:** *Puerto Pollensa bay* is extremely sheltered, shallow, and warm, featuring a long, flat, pine-shaded promenade (the Pine Walk) where kids can play in the shade away from direct mid-day sun.
+* **Why grandparents love it:** Historic Pollensa town offers charming squares, fantastic tapas, and a sophisticated atmosphere without a heavy nightlife scene. 
+* **Where to stay:** The Pollença countryside is home to some of Europe's best multi-bedroom *fincas* (country estates) with large outdoor kitchens, shaded dining terraces, and big grounds for 16 guests.
+
+---
+
+### Practical Tips for Planning This Trip:
+
+1. **Gated Pools are Non-Negotiable:** With 3 toddlers, double-check that any villa pool has a proper lockable fence or safety barrier. 
+2. **Beat the Summer Heat:** Mediterranean temperatures in July and August can hit 35°C–40°C. Prioritize accommodation with **air conditioning in all bedrooms** so toddlers and grandparents can sleep comfortably and take afternoon naps.
+3. **Transport Setup:** For 16 people, renting 3 small/medium rental cars is usually cheaper, far more flexible, and easier to park than trying to hire two giant 9-seater vans.
+4. **Layout Check:** Make sure the accommodation has at least 1–2 ground-floor bedrooms with en-suite bathrooms for the grandparents to avoid stairs.
