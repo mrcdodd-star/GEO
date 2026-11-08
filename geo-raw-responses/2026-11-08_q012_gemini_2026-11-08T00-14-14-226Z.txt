@@ -1,0 +1,78 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRy3kLv1C9yFSPEAgCuIOrw42RDgHsue7ufzRGL-jcRJZ1kXqWfcYlqM8ckWqiZCj5X_IUmzEDHDyILkKOJ9891vulwNftxgiZnj_Rr8i-57ILVlfxSO99F4fDwboKZH-x9MG54Ja56Lr3fBUFkNlwmJl9VBcW8hWTmzXHmkKWsEzNRQOMiD3r6LbDJQVqwlWdLIRqa40=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLpSVuyu4oAaXVGc422JJvVXhIY0PU8jH3k7SFPtcpx0Tp6hl-fUQzMTDn96_k1DFKRoZAziKz_RzSd8zTFcQx9m7D1FKLx6hPwhJLyv0vZa4c80vIiyyvtcAtk4R6Uiq-JHKPk6H78YlrZDfBbAYJLHZbL9dvOL_rwyKTadFyglpTcSKwjLKwsQ==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG652fJTN2oFO6NaxldtEg0YLVszCaVJI0cUacHW55qeQsoEc7pNLEN9gk6iO0tnRWHUVtPtwW7tb3Cp2Nv1-li_Za0VuDUAUcVxnm8cC1KC6SYze-1cDp1nQ=="]
+
+--- RAW RESPONSE TEXT ---
+Here are the top UK-based luxury and boutique villa rental companies known for offering **all-in-one concierge services**, including private chefs, airport transfers, and curated activities:
+
+---
+
+### 1. **The Thinking Traveller**
+* **Best for:** Mediterranean villa holidays (Sicily, Puglia, Tuscany, Greek Islands, Corsica, Mallorca).
+* **Concierge Services:** 
+  * **Transfers:** Private driver airport pickups, car rentals, and boat transfers.
+  * **Chefs:** Private in-villa cooks or Michelin-standard chefs tailored to your dietary needs.
+  * **Activities:** "Think Experiences" offer private boat charters, guided historical tours, wine-tasting sessions, cooking masterclasses, and local hiking tours.
+* **Why book with them:** London-headquartered, multi-award winning (*Condé Nast Traveller* winner), with deep local teams in every destination.
+
+---
+
+### 2. **Oliver’s Travels**
+* **Best for:** Quirky castles, large family estates, and luxury villas across Europe and the Caribbean.
+* **Concierge Services:**
+  * **Transfers:** Private airport transfers, car hire, and chauffeur services.
+  * **Chefs:** Dedicated private chef hire, fridge stocking, and catering for single dinners or full stays.
+  * **Activities:** Wine tours, boat chartering, private yoga sessions, guided excursions, and child-friendly activities.
+* **Why book with them:** Free dedicated VIP Concierge team attached to every booking.
+
+---
+
+### 3. **CV Villas**
+* **Best for:** Classic European summer destinations (Greece, Italy, France, Spain, Portugal, Caribbean).
+* **Concierge Services:**
+  * **Transfers:** Private ground transfers, taxi arrangements, and car hire.
+  * **Chefs:** In-villa catering ranging from occasional dinners to full-board private chefs.
+  * **Activities:** Boat hires, day trips, spa treatments, watersports, and restaurant reservations.
+* **Why book with them:** Over 50 years of experience catering to UK holidaymakers, providing seamless package options (including ATOL-protected flight+villa bundles).
+
+---
+
+### 4. **Firefly Collection**
+* **Best for:** High-end, luxury villas in Europe and ski chalets in the Alps.
+* **Concierge Services:**
+  * **Transfers:** Airport transfers, private helicopters, and local chauffeurs.
+  * **Chefs:** Many villas come fully staffed with professional private chefs, while others can have a chef added on demand.
+  * **Activities:** Yacht charters, ski instruction, guided excursions, wellness instructors, and beach club bookings.
+* **Why book with them:** Tailored service with a single dedicated specialist for your entire booking.
+
+---
+
+### 5. **The Villa Edit**
+* **Best for:** High-end, stylish villas in hotspots like Ibiza, Mykonos, St. Tropez, and the Amalfi Coast.
+* **Concierge Services:**
+  * **Transfers:** Luxury vehicle delivery, private airport transfers, and helicopter charters.
+  * **Chefs:** Top-tier private chefs, bartenders, and extra household staff.
+  * **Activities:** Preferred access to exclusive beach clubs/restaurants, private yacht charters, in-villa spa treatments, and wellness coaches.
+* **Why book with them:** Boutique agency focused on ultra-exclusive properties with tailored, hands-on service.
+
+---
+
+### 6. **Simpson Travel**
+* **Best for:** Family-friendly luxury and boutique stays in Greece, Turkey, Mallorca, Corsica, and Italy.
+* **Concierge Services:**
+  * **Transfers:** Seamless car hire collection at the airport or private transfer arrangements.
+  * **Chefs:** Cooks available for booking on select properties or specific nights.
+  * **Activities:** Local representatives organize private boat trips, guided walks, and local dining experiences.
+* **Why book with them:** Renowned for customer service, ATOL protection on packages, and on-the-ground support.
+
+---
+
+### Useful Tips When Booking:
+1. **Advance Booking for Chefs:** Private chef availability fills up quickly in peak season (July–August), so request chef services at the time of villa inquiry.
+2. **Package Protection:** If you book flights alongside your villa and transfers through UK-based operators like *CV Villas* or *Simpson Travel*, your holiday will be **ATOL protected**.
+3. **Flexible Concierge vs. Included Staff:** Check whether services are *included* in the weekly price (common in ultra-luxury properties) or *add-on concierge services* arranged separately.
