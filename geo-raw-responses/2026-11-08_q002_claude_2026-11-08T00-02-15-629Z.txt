@@ -1,0 +1,91 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://globaltravelworldwide.co.uk/family-multi-generation-holidays-2026/","https://www.easyjet.com/en/news/holidays/story/wheres-best-for-family-holidays","https://smudgedpostcard.com/family-holiday-ideas-in-europe/","https://www.postoffice.co.uk/travel-money/guides/family-holiday-report","https://www.101holidays.co.uk/family/holidays-with-grandparents/","https://visegradpost.com/en/2026/07/07/family-friendly-europe-2026/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some of the best places in Europe for a multigenerational trip from the UK. A good multigenerational destination has short flights, room for everyone, and activities that suit very different ages and energy levels.
+
+**What to look for**
+- One guide suggests 
+short or direct flights, ideally under four hours
+, to ease the strain on older and younger travellers.
+- It also recommends 
+connecting rooms, villas, or multi-bedroom apartments rather than standard hotel doubles
+.
+
+**Top picks**
+
+1. **Algarve, Portugal.** This is probably the strongest all-rounder.
+   - It came second in easyJet's 2026 family index. 
+It's renowned for warm hospitality and calm Atlantic beaches.
+
+   - 
+Flights from Manchester are under three hours.
+ Golf gives grandparents a morning to themselves.
+   - 
+Vilamoura and Albufeira offer a good spread of multi-bedroom villas
+, and the restaurants are relaxed about mixed-age tables.
+
+2. **Mallorca, Spain.** This is the easiest option.
+   - It topped easyJet's index for 
+its mix of beaches, waterparks, and easy travel logistics from the UK.
+
+   - It's 
+a short two-hour flight, reachable from most regional UK airports.
+
+
+3. **Menorca or the Costa Brava, Spain.** These suit families who want something quieter.
+   - Post Office Travel Money says 
+Menorca is a good choice for families who want a quieter holiday.
+
+   - It also notes that 
+Costa Brava stays one of the best value choices in Western Europe.
+
+
+4. **Canary Islands (Tenerife or Lanzarote).** These are good for winter sun and for value.
+   - 
+Lanzarote took third place in the Post Office's best-value family report.
+
+   - 
+Tenerife is popular but still one of the best-value destinations in that report.
+
+
+5. **Cyprus.** This works well for longer stays.
+   - It suits 
+families booking ten nights or more, with archaeological sites, calm family beaches, and plenty of all-inclusive resorts.
+
+   - All-inclusive takes the pressure off catering for different tastes and dietary needs.
+
+6. **Corfu or Turkey's Turquoise Coast.** Both are good for a villa-based trip.
+   - 101 Holidays suggests 
+the charming north-east corner of Corfu
+.
+   - It also recommends 
+Kalkan in Turkey as one of the best 3G (three-generation) destinations.
+
+
+7. **A cruise.** This is a low-effort option.
+   - It's 
+one of the easiest and most popular solutions for a multi-generational holiday.
+
+   - You can 
+avoid flying by sailing from a UK port such as Southampton.
+
+
+8. **City breaks: Rome, Vienna, Amsterdam, Dubrovnik.** These suit a shorter trip with plenty of culture.
+   - 
+Rome has iconic ruins and parks, Dubrovnik has coastal exploration and island day trips, and Amsterdam has interactive museums and family cycling.
+
+   - Check the walking, cobbles and hills for anyone with mobility issues. Dubrovnik's walls involve a lot of steps.
+
+**Practical tips**
+- Book a villa with a private pool and several bedrooms, ideally with a ground-floor bedroom for older relatives.
+- Plan some time apart each day. Split up for a few hours, then eat together in the evening.
+- Check the family index lists and Post Office report for current prices. They give a rough guide to costs.
+
+It would help to know the ages of the children and grandparents, your rough budget, and the time of year. Mobility needs and your nearest airport would also help. With those I can narrow this to two or three specific resorts or villa areas.
