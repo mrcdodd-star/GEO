@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q004
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: ideas for a week-long family reunion somewhere warm in Europe
+
+CITED URLS:
+["https://fromthepoolside.com/best-countries-europe-family-vacation/","https://www.thetimes.com/travel/destinations/europe-travel/late-season-sunshine-europe-autumn-spain-portugal-3vk5qmdsc"]
+
+--- RAW RESPONSE TEXT ---
+Planning a week-long family reunion in a warm European destination comes down to balancing ease of travel for all generations (from toddlers to grandparents), plenty of group-friendly space (like a large villa rental), and a mix of relaxing and sightseeing.
+Here are four distinct, sun-drenched ideas tailored for a family gathering:
+1. Mallorca, Spain (The All-Rounder)
+
+2. Crete, Greece (Culture, Coastline, & Slow Food)
+
+3. The Algarve, Portugal (Effortless & Coastline-Focused)
+
+4. Puglia, Italy (The "Masseria" Experience)
+
+To help us narrow this down, tell me:
