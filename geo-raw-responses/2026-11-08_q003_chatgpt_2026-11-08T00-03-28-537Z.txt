@@ -1,0 +1,73 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai","https://dmc.travel/incentive-travel-destinations-europe/?utm_source=openai","https://www.melia.com/en/discover/luxury-hotels/spain?utm_source=openai","https://bondeo-offsites.com/blog/best-company-offsite-locations-europe?utm_source=openai","https://www.hotetravel.com/blog/50th-birthday-trip-ideas-how-to-pick-the-place-by-whos-coming?utm_source=openai","https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai","https://agoroam.com/guides/group-trip-destinations-by-budget-europe?utm_source=openai","https://www.groupleisureandtravel.com/features/great-places-in-europe-for-a-group-holiday/84511.article?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Celebrating a 50th in style with 20 friends deserves somewhere special—memorable but manageable, fun but relaxing. Here are curated ideas plus top destinations, tips & budgets tailored to where you are (UK) and a group your size. Happy planning! 🎉
+
+---
+
+## Things to decide first  
+These will shape the destination and cost:
+
+- **Duration**: long weekend (3-5 nights), week, or longer  
+- **Focus**: relaxing beach, cultural city, nature/adventure, food & wine, party vibe, or mix  
+- **Budget per person**: travel, accommodation, food, evening plans, extras  
+- **Travel ease**: direct flights preferred? Avoid multi-stop long-haul unless everyone has more time  
+
+---
+
+## Best Destinations Abroad for a 50th with ~20 friends  
+
+Here are destinations that balance all those elements—culture, scenery, beach, food, nightlife, and value. Each has great group accommodation options and plenty to do.
+
+| Region | Standout Spots | Why They Work with ~20 People |
+|---|---|---|
+| **Southern Europe / Med** | **Mallorca** – beautiful beaches, villas & resorts, great food, short flight (~2 hrs) from UK. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai)) <br> **Lisbon & Comporta, Portugal** – city + coast, wine, relaxed vibe. ([dmc.travel](https://dmc.travel/incentive-travel-destinations-europe/?utm_source=openai)) <br> **Spanish coast (Costa del Sol, Andalusia)** – villas, resorts, good food & culture. ([melia.com](https://www.melia.com/en/discover/luxury-hotels/spain?utm_source=openai)) <br> **Greek Islands** – Mykonos for party-mood; Rhodes or Crete for food & beaches without full-tilt nights. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai)) |
+| **Old-world charm & scenery** | **Tuscany / Umbria, Italy** – stunning countryside, villas, wine tasting, slow days. ([bondeo-offsites.com](https://bondeo-offsites.com/blog/best-company-offsite-locations-europe?utm_source=openai)) <br> **Amalfi Coast, Italy** – dramatic views, food & coastal towns; hilly though. ([hotetravel.com](https://www.hotetravel.com/blog/50th-birthday-trip-ideas-how-to-pick-the-place-by-whos-coming?utm_source=openai)) <br> **Lake Como / Lake Garda, Italy** – lakeside luxury, relaxing with optional activities. ([tripstogether.co.uk](https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai)) |
+| **Unexpected gems & culture-rich** | **Croatia (Split, Dubrovnik)** – sea-breezes, historic towns, islands. ([kiwi.com](https://www.kiwi.com/stories/best-group-holiday-destinations/?utm_source=openai)) <br> **Eastern Europe (Kraków, Prague, Budapest)** – excellent value, culture, partying. ([agoroam.com](https://agoroam.com/guides/group-trip-destinations-by-budget-europe?utm_source=openai)) <br> **Sicily, Italy** – food, heritage, landscapes. ([groupleisureandtravel.com](https://www.groupleisureandtravel.com/features/great-places-in-europe-for-a-group-holiday/84511.article?utm_source=openai)) |
+| **Something more special / further afield** | **Madeira** – nature meets refinement; great outdoor options. ([dmc.travel](https://dmc.travel/incentive-travel-destinations-europe/?utm_source=openai)) <br> **Marrakech, Morocco** – exotic flair, riad buyouts, lively markets. ([dmc.travel](https://dmc.travel/incentive-travel-destinations-europe/?utm_source=openai)) |
+
+---
+
+## Perfect Plans by Trip Type  
+
+Here are three sample styles, with destinations & activities that suit 20-person groups.
+
+| Style | Example Destinations | Sample Highlights / Activities |
+|---|---|---|
+| **Beach & Relax + Luxurious Touch** | Mallorca; Costa del Sol; Rhodes | Private villa or resort with pool, spa day, beach club, sunset dinner on a terrace, optional water-sports or boat ride. |
+| **Culture, Food & City Vibe** | Lisbon; Barcelona; Prague | Food tours, wine tasting, rooftop dinners, museum visits, private walking tours, evenings in bars/restaurants. |
+| **Adventure & Scenic Retreat** | Lake Como; Tuscany; Madeira | Hiking, boat rides, scenic drives, cooking class, wine estate stay, maybe hot air balloon or helicopter rides. |
+
+---
+
+## Sample Budgets Per Person (for 4-7 nights, mid/upper range)  
+
+These are rough estimates including flights (UK departure), accommodation in a good villa or 4-5★ hotel, food/drinks, and a few organised events:
+
+- **Southern Europe coast** (Mallorca, Costa del Sol): ~ £700–£1,200  
+- **Italy countryside (Tuscany, Amalfi)**: ~ £1,000–£1,600  
+- **Greek Islands**: ~ £800–£1,300  
+- **Eastern Europe city break**: ~ £500–£900  
+
+Prices vary a lot by season — going shoulder season (May/June or Sep/Oct) gives better value and nicer weather. ([tripstogether.co.uk](https://tripstogether.co.uk/blogs/best-group-trip-destinations-europe-summer-2026?utm_source=openai))
+
+---
+
+## What to Book Early & Challenges to Watch  
+
+- **Accommodation**: 20 people = lots of rooms or a big villa/resort. Book early.  
+- **Flights**: direct/chartered if possible. Try to group travellers so flight times are similar.  
+- **Transport locally**: vans, transfers that can move all of you together.  
+- **Anchor event**: plan at least one big organised thing (special dinner, private boat, etc.). Let other days be flexible.  
+- **Diet / mobility / preferences**: ensure there’s something for non-party people, non-drinkers, etc.  
+
+---
+
+If you want, I can pick 3-4 concrete places with hotel/villa options, costs & dates that work well from the UK. Do you know when you'd like to go (month) and what budget per person you’re aiming for?
