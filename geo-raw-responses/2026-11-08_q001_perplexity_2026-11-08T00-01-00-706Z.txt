@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q001
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: We're a group of 16 including grandparents and three toddlers - where should we go in Europe next summer?
+
+CITED URLS:
+["https://www.solmarvillas.com/inspiration/family-travel/best-holiday-destinations-with-toddlers","https://www.jetpacglobal.com/blog/best-holiday-destinations-for-uk-travellers/","https://www.kayak.co.uk/news/best-family-holidays-europe/","https://tinytravelship.com/the-ultimate-guide-to-family-holidays-with-a-toddler/","https://www.netmums.com/life/family-travel/family-holidays-abroad/the-best-family-holiday-destinations-in-europe","https://www.britishairways.com/content/pl/gb/holidays/holiday-types/family-holidays/europe-with-kids","https://es.hoteles.com/go/europe/best-family-summer-getaways-europe","https://www.responsibletravel.com/holidays/family-holidays-in-europe/travel-guide"]
+
+--- RAW RESPONSE TEXT ---
+For a group of 16 with grandparents and three toddlers, **Menorca** would be my first pick: it’s a relaxed, beach-focused island with plenty of family-friendly coves, and is generally quieter than its Balearic neighbours.[6]
+
+Other good fits:
+- **The Algarve** — an easy option from the UK, with no time difference, family-friendly towns and beaches; July is often a little cooler than Spain, which can help with toddlers.[1][2]
+- **Brittany or Normandy** — ideal if you’d rather drive and take a ferry than organise flights for 16; they offer beaches, markets and a slower pace.[2][5]
+- **Lake Garda** — a good choice if your group wants more than beach days, with water activities and family attractions.[3]
+
+For a group this size, I’d prioritise one spacious rental or several nearby properties, a pool or walkable beach, shade, and easy access to shops and medical care. If you’re travelling in August, consider a less-visited area or late summer: peak school-holiday dates can push prices up, and busy southern European cities can be uncomfortably hot.[8]
