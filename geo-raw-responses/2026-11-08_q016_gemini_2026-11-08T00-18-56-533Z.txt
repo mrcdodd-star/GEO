@@ -1,0 +1,64 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q016
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: The Thinking Traveller alternatives
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+If you love **The Thinking Traveller** for its exclusive handpicked properties, high-end design, local concierge knowledge, and focus on Mediterranean destinations (like Sicily, Puglia, the Ionian Islands, and Corsica), several top-tier UK-accessible luxury villa specialists offer a similar experience.
+
+Here are the best alternatives to The Thinking Traveller, categorized by what they do best:
+
+---
+
+### 1. Ultra-Luxury & Curated Design (Direct Matches)
+
+#### **Le Collectionist**
+* **Best for:** Design-led luxury, ultra-exclusive properties, and high-touch concierge services.
+* **Why it’s a great alternative:** Like The Thinking Traveller, Le Collectionist offers a meticulously curated portfolio of high-end, stylish villas. They excel in destinations across France (Côte d'Azur, Provence), Italy, Greece, Ibiza, and the Alps. Their local concierges can arrange everything from private chefs and yachts to bespoke local tours.
+
+#### **A&K Villas (Abercrombie & Kent)**
+* **Best for:** Five-star luxury, security, and world-class concierge service.
+* **Why it’s a great alternative:** If you want absolute reliability and top-tier luxury, Abercrombie & Kent’s villa portfolio offers hand-selected estates in Italy, France, Spain, and Greece. Many come with full staffing (private chefs, housekeepers) and access to A&K’s famous global concierge network.
+
+---
+
+### 2. Trusted UK Villa Specialists (Classic Mediterranean Focus)
+
+#### **CV Villas**
+* **Best for:** Exceptional Mediterranean portfolios, particularly in Greece, Italy, France, and Spain.
+* **Why it’s a great alternative:** One of the most established UK luxury villa companies. Their **"ABOVE" Collection** features their highest-tier, fully serviced villas. They are renowned for their local destination reps and long-standing relationships with property owners.
+
+#### **Simpson Travel**
+* **Best for:** Boutique properties, personal service, and family-friendly luxury.
+* **Why it’s a great alternative:** Simpson Travel offers hand-picked, exclusive villas in Greece, Italy, France, Mallorca, and Turkey. They are fantastic if you want boutique luxury paired with seamless UK-based customer service, options for integrated flights/car hire, and dedicated childcare or creche services if traveling with family.
+
+#### **Villanovo**
+* **Best for:** Luxury villas in Spain, Greece, Italy, Morocco, and France.
+* **Why it’s a great alternative:** Villanovo offers a refined collection of high-end homes paired with a dedicated travel advisor and local concierge service. Their portfolio includes stunning architectural gems and secluded beachside villas.
+
+---
+
+### 3. Specialty & Niche Luxury Operators
+
+#### **Oliver’s Travels**
+* **Best for:** Quirky luxury, historic châteaux, large group villas, and unique stays.
+* **Why it’s a great alternative:** While their portfolio is wider (ranging from affordable luxury to high-end estates), they specialize in unique, characterful properties (castles, historic manors, luxury beach villas) across Europe and the UK. They also offer a free concierge service to book private chefs and activities.
+
+#### **Tuscany Now & More**
+* **Best for:** High-end, exclusive villas across Italy (Tuscany, Umbria, Amalfi, Venice, etc.).
+* **Why it’s a great alternative:** If your primary interest in The Thinking Traveller was their Italian portfolio (Sicily/Puglia), Tuscany Now & More offers exclusive, fully vetted Italian properties complete with localized concierge services, private wine tastings, and chef experiences.
+
+#### **Scott Dunn**
+* **Best for:** Fully tailored luxury villa holidays with private chefs and nannies.
+* **Why it’s a great alternative:** Scott Dunn offers high-end villa holidays in the Mediterranean (plus ski chalets in winter). Many of their signature villas come with their own dedicated Scott Dunn chef, host, and private nanny service.
+
+---
+
+### Summary Recommendation:
+* **For the closest aesthetic & service match to The Thinking Traveller:** Look at **Le Collectionist**.
+* **For traditional UK travel protection (ATOL/ABTA), flights + villa packages, and exceptional Greek/Italian portfolios:** Look at **CV Villas** or **Simpson Travel**.
+* **For ultra-personalized, fully staffed luxury:** Look at **Scott Dunn** or **A&K Villas**.
