@@ -1,0 +1,61 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q019
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: Plum Guide vs specialist villa rental agencies
+
+CITED URLS:
+["https://www.lodgify.com/blog/plum-guide/","https://independenttravelcats.com/plum-guide-review/","https://www.pacaso.com/blog/plum-guide-alternatives","https://uncompromised.travel/plum-guide-vs-alternatives-review","https://www.tripadvisor.com/ShowTopic-g186338-i17-k10463638-o10-Concerned_about_Plum_Guide_rental-London_England.html"]
+
+--- RAW RESPONSE TEXT ---
+Plum Guide and specialist villa agencies do different jobs, so the better choice depends on the kind of trip.
+
+## Plum Guide
+- **Curation:** 
+It uses AI screening, expert review and an in-person Home Critic visit, and rejects roughly 95% of the properties it considers.
+ Reviewers generally find it 
+higher quality on average than Airbnb or Vrbo.
+
+- **Reliability:** Guests often say listings match the photos and descriptions. 
+Trustpilot reviews are generally positive, at 4.6 stars.
+
+- **Price:** One comparison puts it at 
+roughly 10–25% above Airbnb.
+
+- **Coverage:** 
+It covers the UK, Europe, the US and a growing list of international destinations,
+ but 
+it doesn't list properties in every location
+ because it is so selective.
+- **Best for:** UK staycations, city breaks, long weekends and families or groups who want a good self-catering home without paying for staff.
+
+## Specialist villa agencies
+Examples are Oliver's Travels, Villa Plus, Think Villas, Simpson Travel and Powder Byrne. They are best for destination-heavy holidays, such as a villa in Tuscany, Provence, Mallorca or the Greek islands.
+- **Service:** 
+If you want a chef, daily housekeeping and a property manager who meets you on arrival, you need a fully managed villa company, not Plum Guide.
+ The same comparison says these 
+run 2–4x the cost of an equivalent Plum Guide property.
+ Treat that multiple as a rough guide, because it comes from one source and varies a lot by agency.
+- **Large properties:** 
+The very largest villas, with 10 bedrooms, multi-acre estates and staff houses, tend to be sold through specialist agencies
+ rather than curated marketplaces.
+- **Local knowledge:** Agencies usually have people on the ground, such as a local rep, a key-holder and a pool or maintenance team. They can also arrange extras like transfers, car hire, flights and private chefs.
+- **UK protection (check this yourself):** If an agency sells villa and flights together, the booking may count as a package. It would then usually carry ATOL or ABTA protection and package travel rights. A standalone accommodation booking on a marketplace generally doesn't get this. Confirm the exact protection before you pay.
+
+## Quick guide
+| If you want... | Choose |
+|---|---|
+| UK or city stay with consistent quality | Plum Guide |
+| Villa abroad with pool, staff or concierge | Specialist agency |
+| Villa plus flights with package protection | Specialist agency |
+| Very large group or estate | Specialist agency |
+| Lowest price | Neither; compare Airbnb or Vrbo, and vet carefully |
+
+## Practical tips
+1. Compare the same villa across both channels. Many agencies and marketplaces list the same owner's property at different prices.
+2. Check the cancellation terms, deposit schedule and what happens if the host cancels. An old Tripadvisor thread has a guest whose 
+booking was cancelled by the host two days before arrival.
+ That story is from 2018, so don't treat it as typical.
+3. Look at the extras: cleaning, pool heating, damage deposits and tourist tax.
+
+If you tell me the destination, group size and budget, I can suggest which route fits and which agencies to look at.
