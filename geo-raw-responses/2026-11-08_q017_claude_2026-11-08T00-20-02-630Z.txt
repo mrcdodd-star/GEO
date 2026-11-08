@@ -1,0 +1,54 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: is it safer to book a villa through an agency or directly with the owner
+
+CITED URLS:
+["https://en.wikipedia.org/wiki/ABTA_(trade_association)","https://frenchmaison.co.uk/blog/book-french-villa-direct-vs-agency","https://travelblis.com/guides/luxury-villa-scams-fake-listings-2026","https://www.nationwide.co.uk/news-and-stories/travel-holiday-scams/","https://www.schofields.ltd.uk/blog/416/how-to-check-for-bogus-holiday-rentals/","https://www.simpsontravel.com/our-blog/views-and-reviews/how-to-avoid-online-travel-scams-stay-safe-when-booking-your-next-holiday"]
+
+--- RAW RESPONSE TEXT ---
+**An agency is generally the safer option, but you pay for that, and booking direct can be done safely if you take precautions.**
+
+## Why agencies are safer
+- **Financial protection.** 
+Package holidays that include flights plus accommodation and/or car hire must be protected under an ATOL licence.
+ A villa-only booking with a UK agency 
+typically falls under ABTA's trust-account protection rather than ATOL, unless flights are bundled in.
+ Check that the agency actually holds this cover, because the rules differ by booking type.
+- **Someone to turn to.** 
+Agents have physically inspected properties and give you a point of contact if something goes wrong.
+
+- **Less fraud risk.** 
+Action Fraud reported more than £15m lost to holiday booking scams between April 2022 and April 2023.
+ Fake villa listings are a common type.
+
+## The trade-offs of booking direct
+- **Cost.** Direct bookings can 
+save 10-15% but carry more risk.
+ One source puts the saving at 10-20%, and another puts agency commission at 15-25%. Those figures come from agency and villa-related sites, so treat them as rough estimates.
+- **Less recourse.** 
+Direct from a French owner, no UK protection applies and disputes run through French civil courts.
+ That example is for France, but the same logic applies across Europe.
+- **Cancellations.** If an owner cancels, you may be left to find and pay for a replacement yourself.
+
+Most of the sources I found are agencies or travel businesses, so they have an interest in recommending agencies. The ATOL and ABTA protections are real, though, and direct bookings don't get them.
+
+## If you book direct
+- **Pay by credit card.** 
+Paying by credit card offers the most comprehensive protection from fraud.
+ In the UK, Section 75 can apply to purchases over £100. Be wary of anyone who insists on a bank transfer.
+- **Check the property exists.** Look at it on Google Maps and Street View. Search for the photos with a reverse image search, and check that the owner's details match the listing.
+- **Phone the owner.** 
+A legitimate owner will understand the caution; a scammer will not.
+
+- **Get a written contract** with terms and conditions. 
+If you're asked to pay without signing anything, the transaction lacks basic consumer protection.
+
+- **Be careful on platforms.** Scammers often try to move you off Airbnb, Vrbo or Booking.com to pay by transfer. Pay inside the platform to keep its protection.
+- **Check the agency's membership.** 
+Search the ATOL or ABTA sites using the licence number listed on the company's site.
+ Scammers can fake the logos.
+- **Take out travel insurance** with cancellation cover.
+
+If the villa is expensive, or you're booking months ahead, an agency is usually worth the extra cost. If you do book direct, use a credit card and check the owner is genuine first.
