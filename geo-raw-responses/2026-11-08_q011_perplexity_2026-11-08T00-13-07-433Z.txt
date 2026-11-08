@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.exceptionalvillas.com/france","https://www.abodevillas.com/destination/europe/france","https://www.villanovo.com/villa-rentals/europe/france/provence-alpes-cote-dazur/","https://excellenceluxuryvillas.com/luxury-villas-rentals/south-of-france/languedoc/villa-garrigue-france/","https://www.redsavannah.com/europe/france/cote-dazur","https://excellenceluxuryvillas.com/features/concierge/","https://amaselections.com/discover/france/holiday-villa-rentals-south-of-france","https://excellenceluxuryvillas.com/luxury-villas-rentals/south-of-france/languedoc/le-mas-en-rose-france/"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based booking, these three agencies are good starting points for luxury villas in the South of France with concierge support:
+
+- **Red Savannah** — Curated Côte d’Azur villas, with housekeeping and a 24/7 concierge; staff can arrange private chefs, vineyard visits and restaurant bookings. UK phone: **+44 1242 787 800**. Its listings show weekly prices from about **£14,655**, so it appears positioned at the high end.[5]
+- **Exceptional Villas** — Villas across the Riviera and Provence, with a complimentary pre-arrival concierge and a UK contact number: **+44 744 147 3289**.[1]
+- **Abode Villas** — A broad France collection including Provence and the South of France, with a personal concierge service. UK phone: **+44 203 062 6888**.[2]
+- **Villanovo** — Provence-Alpes-Côte d’Azur villas with concierge options such as private chefs, housekeeping and childcare; listed rates vary widely by property.[3]
+
+When enquiring, share your dates, guest count, preferred area and approximate budget, and ask what concierge services and staffing are included versus charged separately. Availability and prices depend on the specific villa and dates.[2][3][5]
