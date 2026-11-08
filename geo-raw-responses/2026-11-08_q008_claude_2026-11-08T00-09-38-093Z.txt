@@ -1,0 +1,62 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q008
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: large private houses to rent for 20 or more guests in Europe
+
+CITED URLS:
+["https://www.sopranovillas.com/tagged/large-group-villas/","http://villavacations.com/villas-large-groups","https://www.rentalescapes.com/collections/large-villas","https://www.groupaccommodation.com/collection/large-villas-sleeping-20","https://www.villasdumonde.com/holiday-rental/villa-20-people-en-20-1-1.html","https://www.groupaccommodation.com/property-type/villas","https://www.croatianvillaholidays.com/en/browse/tag/large-groups/10","https://www.solmarvillas.com/villa-types/large-villas"]
+
+--- RAW RESPONSE TEXT ---
+Several agencies list European properties for 20 or more guests. Here are the ones that came up, grouped by country or region.
+
+**Italy**
+- **SopranoVillas** lists large-group villas in Tuscany and Sicily. Examples include 
+Medicea Historic Villa in Tuscany (20+2 guests, 11 bedrooms, pool, from €14,000 a week)
+ and 
+La Magione in Radicofani (24 guests, 12 bedrooms, from €8,720 a week)
+.
+- **Villa Vacations** says 
+its large group villas in Italy sleep 10 to 101 guests in one private estate
+. It also says that 
+for a summer week you should start looking a year out
+.
+- **Rental Escapes** lists 
+Cigno on Lake Como, a 14-bedroom lakefront estate made up of two villas that can be rented separately or together. It sleeps up to 28 and has private pools, a gym and lake access.
+
+
+**France, Spain and Portugal**
+- **GroupAccommodation.com** lists villas such as 
+Les Cazettes, a French countryside estate for up to 20 guests with a pool, tennis court and sauna
+. It also lists 
+Casa Pino Solo near Málaga (7 bedrooms, sleeps up to 20, from £3,500 a week)
+.
+- Its larger listings include 
+a 10-bedroom villa for up to 26 guests
+.
+- **Villas du Monde** has 
+20-person villas in France, Spain, Italy and Portugal
+, including several in the Algarve. Its page looked old, so check availability and prices directly.
+
+**Greece**
+- Rental Escapes lists 
+Villa Thalassa in Mykonos, an eight-bedroom estate for up to 24 guests across a main house and two adjacent buildings
+.
+- GroupAccommodation.com lists 
+Bonaventure Villa in Anavyssos, with 20 bedrooms, which sleeps 10 to 70
+. It suits weddings and corporate groups.
+
+**Croatia**
+- Croatian Villa Holidays says 
+some individual villas sleep over 20, and several clusters of adjoining villas have space for up to 50
+.
+
+**Tips**
+- **Check the sleeping numbers.** Many listings show a range, such as "sleeps 10–20". Confirm that the top figure includes sofa beds or extra beds, and whether the pool and living spaces suit that many people.
+- **Consider linked villas.** Two adjoining villas can be easier to find and cheaper than one very large house.
+- **Look at ABTA/ATOL protection.** 
+Solmar is ABTA & ATOL protected
+, but its villas only go up to about 20 guests. Protection varies between agencies, so ask about it when you book.
+- **Book early.** Large villas for peak summer weeks go quickly.
+
+If you tell me the destination, rough budget, dates and the type of trip (family reunion, wedding, milestone birthday), I can narrow this down.
