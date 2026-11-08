@@ -1,0 +1,20 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best companies for renting a luxury villa in Europe
+
+CITED URLS:
+["https://www.thethinkingtraveller.com/","https://www.firefly-collection.com/luxury-villa-holidays/","https://www.amaselections.com/","https://thevillaagency.co.uk/our-villas/","https://www.revfine.com/best-luxury-villa-rental-companies-in-europe/","https://www.worldwidedreamvillas.com/","https://www.cvvillas.com/","https://www.thethinkingtraveller.com/collections/serviced-villas"]
+
+--- RAW RESPONSE TEXT ---
+For a UK-based traveller, these are strong starting points, depending on the style of villa holiday you want:
+
+- **CV Villas** — A good all-rounder for European destinations, with a broad selection across Greece, Italy, Spain, France, Portugal and Croatia. It offers UK-based support and says package holidays booked with it are protected; its **ABOVE** collection focuses on especially luxurious, staffed villas.[7]
+- **The Thinking Traveller** — Best for a carefully curated Mediterranean villa, particularly in destinations such as Italy and Greece. It has a London office and offers serviced villas with options such as housekeeping, private chefs and local concierge support.[1][8]
+- **Firefly Collection** — Worth considering for a wide choice: it lists more than 1,000 properties and works with multiple villa operators. It has a London office, so ask who will handle your booking and on-the-ground support for the specific villa.[2]
+- **The Villa Agency** — A UK-based option with villas across Europe, including Portugal. It says holidays booked through it are ATOL- or ABTOT-bonded; check which protection applies to your particular booking.[4]
+- **Abercrombie & Kent Villas** — A higher-end choice if you want concierge help and tailored experiences; its European portfolio includes Italy, France, Greece, Spain and Portugal.[10]
+- **AMA Selections** — A boutique-style option for distinctive luxury homes, with European properties and a bespoke booking approach.[3]
+
+**Quick shortlist:** CV Villas for breadth and booking protection; The Thinking Traveller for a Mediterranean specialist; A&K for concierge-led service. Before paying, confirm what’s included (staff, cleaning, utilities and local taxes), the cancellation terms, and whether the booking is financially protected—especially if it’s accommodation-only.
