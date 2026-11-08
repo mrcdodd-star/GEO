@@ -1,0 +1,69 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q007
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: how do I find a villa in Italy with a private chef and daily housekeeping
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Finding a luxury villa in Italy with a private chef and daily housekeeping from the UK is straightforward, provided you use the right channels. You generally have two main approaches: **booking through a specialist luxury villa agency** (which handles all staffing for you) or **using high-end villa platforms** with dedicated concierge services.
+
+Here is a step-by-step guide to finding and booking the right property.
+
+---
+
+### 1. Top UK-Based & Specialist Luxury Villa Agencies
+The easiest and most reliable route is booking through a specialist UK agency. They pre-vets properties and can either include staff directly in the rental cost or arrange vetted, local private chefs and daily housekeeping teams.
+
+*   **The Thinking Traveller**
+    *   *Specialty:* Exceptional luxury villas across Italy (Sicily, Puglia, Tuscany, Umbria, Amalfi Coast, and the Ionian Islands).
+    *   *Service:* Known for high-end service. Many of their premium properties come automatically with daily housekeeping and in-house cooks/chefs, or their dedicated local experience team can arrange a full-time chef for your stay.
+*   **Tuscany Now & More**
+    *   *Specialty:* Tuscany, Umbria, and surrounding Italian regions.
+    *   *Service:* They offer an explicit category of **"Fully Staffed Villas"** which include a private chef, maid service/daily housekeeping, and a villa manager as standard.
+*   **CV Villas**
+    *   *Specialty:* Long-established UK luxury villa operator (ABTA and ATOL protected).
+    *   *Service:* Look at their **"ABOVE"** collection, which features luxury properties that include daily housekeeping, cook service, and dedicated concierge support.
+*   **Oliver’s Travels**
+    *   *Specialty:* Unique and luxury properties across Europe.
+    *   *Service:* They have an in-house **VIP Concierge Team** (UK-based) that will source and arrange daily housekeeping and a private chef for any villa you book through them.
+*   **Scott Dunn / Abercrombie & Kent (A&K Villas)**
+    *   *Specialty:* Ultra-luxury tailor-made holidays.
+    *   *Service:* Ideal if you want a complete holiday package (flights from the UK, private transfers, fully staffed villa). They cater heavily to high-net-worth travellers wanting fully catered Italian estates.
+
+---
+
+### 2. Global Luxury Villa Platforms (with Concierge Support)
+If you prefer browsing online platforms, focus on luxury brands that provide dedicated trip managers rather than basic peer-to-peer sites like standard Airbnb or Vrbo.
+
+*   **Le Collectionist**
+    *   European luxury villa rental specialist. Their portfolio in Italy (Lake Como, Tuscany, Florence, Amalfi) features curated high-end properties. Every booking comes with a tailored concierge who can arrange daily maid service and a private chef for breakfast, lunch, or dinner.
+*   **Airbnb Luxe**
+    *   Unlike standard Airbnb, Airbnb Luxe properties include access to a **Trip Designer** who arranges custom services before you arrive, including dedicated chefs, daily housekeeping, drivers, and child care.
+*   **Onefinestay**
+    *   Offers curated luxury homes in Italy (particularly Rome, Florence, and Tuscan countryside estates) with 24/7 guest service and add-on concierge options including private chefs and daily cleaning.
+
+---
+
+### 3. Key Questions to Ask Before Booking
+When inquiring about "chef and daily housekeeping" services, clarify the details upfront to avoid hidden costs:
+
+1.  **Chef vs. Cook:** 
+    *   *Cook:* Usually prepares traditional local family-style Italian meals.
+    *   *Chef:* Offers high-end fine dining or Michelin-grade multi-course tasting menus.
+2.  **Grocery Costs:** 
+    *   Is food/ingredient cost included in the villa rate, or is it charged separately based on receipts + a service percentage? (In Italy, groceries are almost always charged separately on top of the chef’s fee).
+3.  **Meals Included:** 
+    *   Does the chef cover breakfast, lunch, and dinner, or just breakfast and dinner? Does the chef get 1 or 2 days off per week?
+4.  **Daily Housekeeping Scope:** 
+    *   How many hours per day are included? Does it cover full turndown service, linen changes, and laundry, or just light cleaning/tidying and dishwashing after meals?
+
+---
+
+### 4. Recommended Search Strategy
+
+1. **Start with Tuscany Now & More or The Thinking Traveller** to see pre-packaged "fully staffed" villas in regions like Tuscany, Puglia, or Sicily.
+2. **Contact a UK Specialist Specialist directly by phone:** Luxury villa agencies excel when you speak to an agent. Tell them your dates, guest count, preferred Italian region, and explicit request: *"We require a villa with daily housekeeping and a private chef for [X] meals a day."*
+3. **Check Financial Protection:** If booking your flights, villa, and transfers together through a UK provider (like CV Villas or Scott Dunn), ensure the package is **ATOL** and **ABTA** protected for peace of mind.
