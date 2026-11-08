@@ -1,0 +1,16 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWR4cThzcDdxGAo","https://theluxuryvillacollection.com/villa-concierge-and-services/","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMXc5c3Zkbmw5GAo","https://www.google.com/searchviewer/10?svid=CCYSESoPCg0vZy8xMWJ6c3pnbWNyGAo"]
+
+--- RAW RESPONSE TEXT ---
+Top-tier villa rental companies specialize in full-service hospitality—handling private airport transfers, in-villa gourmet chefs, and curated local excursions.
+Leading Villa Rental Companies
+
+What to Expect from Concierge-Driven Rentals
+
+If you tell me which destination or region you are eyeing and roughly how many guests are traveling, I can recommend specific properties or the best specialist for that area.
