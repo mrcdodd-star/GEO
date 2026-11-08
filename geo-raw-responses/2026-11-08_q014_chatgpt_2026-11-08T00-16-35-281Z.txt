@@ -1,0 +1,40 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q014
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: private villa for 12 guests in the Algarve in August
+
+CITED URLS:
+["https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai","https://sjvillas.co.uk/accommodation/villa-mar-azul/?utm_source=openai","https://www.villaretreats.com/details?guests=12&id=2188&utm_source=openai","https://www.villaretreats.com/details?id=2485&unlock=true&utm_source=openai","https://www.rentvillasalgarve.co.uk/vilamoura-rentals/contemporary-6-bedroom-villa-golf-course-views-vilamoura/?location=1327%2C1335&nights=0&t=acc&utm_source=openai","https://www.viladospiscos.com/?utm_source=openai","https://www.reddit.com/r/Algarve/comments/1u8rvbq/where_do_people_find_short_term_lets_on_the/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+Here are several private villas in the Algarve that sleep 12 guests, plus helpful tips when booking in August (peak season). If any of the options below suit your style, I can pull up current availability and exact quotes for your travel dates.
+
+---
+
+### 🌴 Top Villa Options for 12 Guests
+
+| Villa | Location | Bedrooms / Bathrooms | Key Features | Price Guide* |
+|---|---|---|---|---|
+| **Villa Lagos (AB Villa Rentals)** | Lagos, West Algarve | 10 bedrooms / multi-house setup | Private pool, sauna, gym, jacuzzi. Great for multi-generational families. ([abvillarentals.com](https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai)) | From €6,100 for a 7-night stay when occupied by 12 guests. ([abvillarentals.com](https://www.abvillarentals.com/luxury-villas/villa-lagos-algarve/?utm_source=openai)) |
+| **Villa Mar Azul (SJ Villas)** | Salema Beach | 6 bedrooms, 6 bathrooms | Clifftop views, modern interiors, daily housekeeping, option of chef/butler/driver. Sleeps 12. ([sjvillas.co.uk](https://sjvillas.co.uk/accommodation/villa-mar-azul/?utm_source=openai)) | €1,050-€2,300/night in high season. ([sjvillas.co.uk](https://sjvillas.co.uk/accommodation/villa-mar-azul/?utm_source=openai)) |
+| **Vilamoura/Vila Sol Villa (Villa Retreats, REF 2188)** | Vilamoura area | 6 bedrooms | Modern property, close to Marina, air conditioned, games room. Sleeps 12. ([villaretreats.com](https://www.villaretreats.com/details?guests=12&id=2188&utm_source=openai)) | £8,707 to £17,144/week. ([villaretreats.com](https://www.villaretreats.com/details?guests=12&id=2188&utm_source=openai)) |
+| **Western Algarve Cliff-Villa (REF 2485)** | Salema | 6 bedrooms + self-contained apartment | Beach 600m away, sea views, lap-pool, modern design, high service level. Sleeps 12. ([villaretreats.com](https://www.villaretreats.com/details?id=2485&unlock=true&utm_source=openai)) | £8,018-£17,564/week depending on season. ([villaretreats.com](https://www.villaretreats.com/details?id=2485&unlock=true&utm_source=openai)) |
+| **Luxury 6-Bedroom Vilamoura Villa (Rent Villas Algarve)** | Vilamoura | 6 bedrooms, 5 bathrooms | Golf-course views, quiet location near marina, modern and comfortable for 12 people. ([rentvillasalgarve.co.uk](https://www.rentvillasalgarve.co.uk/vilamoura-rentals/contemporary-6-bedroom-villa-golf-course-views-vilamoura/?location=1327%2C1335&nights=0&t=acc&utm_source=openai)) | Prices vary; special offers apply for mid-August. ([rentvillasalgarve.co.uk](https://www.rentvillasalgarve.co.uk/vilamoura-rentals/contemporary-6-bedroom-villa-golf-course-views-vilamoura/?location=1327%2C1335&nights=0&t=acc&utm_source=openai)) |
+| **Vila dos Piscos** | Carvoeiro | 6 bedrooms, 7 bathrooms | Oceanfront, spacious grounds, large pool, stunning views. Sleeps 12. ([viladospiscos.com](https://www.viladospiscos.com/?utm_source=openai)) | Pricing not shown; likely premium given size and location. ([viladospiscos.com](https://www.viladospiscos.com/?utm_source=openai)) |
+
+> *Prices reflect recent listings; August rates tend to be at the higher end of the ranges shown. Always check for deposits, cleaning fees, and any extras (pool heating, staff, etc.)*
+
+---
+
+### 🕒 Things to Consider for an August Booking
+
+- **Advance booking is essential.** August is peak time in the Algarve. Many villas/bookings require Saturday-to-Saturday minimum stays and fill up early. ([reddit.com](https://www.reddit.com/r/Algarve/comments/1u8rvbq/where_do_people_find_short_term_lets_on_the/?utm_source=openai))  
+- **Flexible arrival days** could help: villas sometimes open up between standard 7-night bookings.  
+- **Extra costs**: staff (housekeeping, cook), pool heating, baby beds, etc., may not always be included.  
+- **Transport & proximity**: If you don’t want to hire a car, staying near amenities like beaches, shops, restaurants is useful (especially for a group of 12).  
+- **Safety & COVID-related policies**: make sure cancellation and hygiene policies are clear.
+
+---
+
+If you like, I can narrow down to villas available for your specific dates in August, within or near your budget. Do you have a price range in mind (e.g. £5-10k for a week? More?), preferred areas (west Algarve, Vilamoura, Tavira, etc.), plus must-haves (pool, views, staff, near beach)? I can pull up tailored options.
