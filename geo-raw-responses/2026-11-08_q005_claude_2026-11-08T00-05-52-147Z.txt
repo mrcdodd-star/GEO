@@ -1,0 +1,69 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.tui.co.uk/holidays/all-inclusive","https://www.homeandawayholidays.co.uk/blog/affordable-all-inclusive-holidays-for-families","https://www.clubmed.co.uk/l/family-holidays/family-all-inclusive","https://www.britishairways.com/content/holidays/holiday-types/family-holidays","https://www.sovereign.com/holiday-types/family-holidays/all-inclusive/","https://www.wanderlustchloe.com/uk-hotels-childcare-babysitting/","https://tinytravelship.com/best-family-hotels-in-the-uk-with-kids-clubs/","https://littlebritsabroad.com/2026/05/26/best-uk-family-hotels/"]
+
+--- RAW RESPONSE TEXT ---
+There are three main types of holiday that cover both. Which fits best depends on your children's ages, your budget and how far you want to travel.
+
+## 1. All-inclusive resorts abroad
+These give you the most "hands-off" holiday. Meals are included and kids' clubs run most of the day.
+
+- **Mainstream package operators (TUI, Jet2, easyJet Holidays and similar).** 
+TUI's all-inclusive packages include flights, accommodation, all meals, local drinks and airport transfers.
+ 
+Most of its hotels also include kids' clubs and entertainment.
+ 
+Its Holiday Villages and TUI MAGIC LIFE hotels are designed for families, with kids' clubs, swim academies and waterparks.
+
+- **Turkey for value.** 
+Flights from most UK airports take around five to six hours, and kids' clubs are well run.
+
+- **Club Med.** 
+Its kids' clubs take children from 4 months to 17 years, running 9:00am–5:30pm and again in the evenings.
+
+- **Ikos (Greece and Spain), which is more upmarket.** 
+Ikos Aria offers supervised activities for ages six months to 17, with a crèche for babies and younger children.
+ 
+At Ikos Oceania in Halkidiki, the crèche, kids club and teens' club are all complimentary.
+
+
+## 2. UK hotels with free childcare
+These are good if you want to avoid flying. Meals usually aren't all included, but you eat at the hotel restaurants rather than cooking.
+
+- **Luxury Family Hotels group.** 
+New Park Manor in the New Forest gives two hours of free childcare in Four Bears Den for every night you stay.
+ Fowey Hall in Cornwall is another. 
+Its Ofsted-registered crèche takes babies from 12 weeks.
+
+- **Calcot Manor, Cotswolds.** 
+It offers four hours of complimentary childcare per day, which is significantly more than most.
+
+- **Other names that come up.** 
+Chewton Glen is a luxury option, Bedruthan and Watergate Bay are coastal, and Another Place is in the Lake District.
+ 
+Gleneagles is recommended if childcare is your priority.
+
+
+Book childcare sessions early. 
+They fill quickly during school holidays.
+ Free sessions are often tied to the number of nights you stay or to booking direct, so check the terms.
+
+## 3. Other options
+- **Luxury hotel specialists.** 
+Mr & Mrs Smith lists stays with free childcare, and it has sections for kids' clubs and nannies.
+ Away with the Kids also curates family hotels with childcare.
+- **Villa or resort with a private nanny or chef.** This costs more but gives you flexibility, especially with babies or toddlers on different schedules. I didn't search for specific providers, so I can't recommend any.
+- **Grandparents or friends on a joint trip.** This is the cheapest way to share the load, though it isn't fully hands-off.
+
+## Things to check
+- **Age limits.** Many clubs start at 2–3 years, though some take babies from 3–12 weeks or 4–6 months.
+- **Hours.** "Free" childcare can be anything from 90 minutes a day to four hours, so compare it with what you expect.
+- **Meals.** Check whether the package is half board, full board or all-inclusive, and whether the kids' clubs include meals.
+- **Qualifications.** In the UK, look for Ofsted-registered crèches. Abroad, ask about staff qualifications and ratios.
+
+If you tell me your children's ages, your rough budget, when you want to go and whether you'd fly, I can narrow this down.
