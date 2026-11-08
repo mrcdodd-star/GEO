@@ -1,0 +1,21 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q015
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: best luxury villa rental companies UK
+
+CITED URLS:
+["https://www.abodevillas.com/destination/europe/united-kingdom","https://www.firefly-collection.com/luxury-villa-holidays/","https://uncompromised.travel/stays/luxury-villa-rental-company-index-2026","https://www.cvvillas.com/","https://www.elegantresorts.co.uk/holiday-styles/luxury-villas","https://www.villaway.com/luxury-villas-rentals/united_kingdom","https://www.redsavannah.com/luxury-villas","https://revenuebase.ai/companies/luxury-vacation-rental-platforms/united-kingdom"]
+
+--- RAW RESPONSE TEXT ---
+If you’re UK-based and looking to book a luxury villa **abroad**, these are strong companies to shortlist:
+
+- **CV Villas** — A good all-rounder for hand-picked villas, with UK-based support and a long operating history. Its higher-end ABOVE collection features particularly luxurious, staffed properties; package bookings are protected.[4]
+- **Simpson Travel** — Worth comparing if you want a more supported holiday and value clear financial protection. A recent comparison ranks it highly, especially for Greece, Mallorca and Corsica.[3]
+- **The Thinking Traveller** — A specialist to consider for distinctive Mediterranean villas, particularly in Italy and Greece; it also features among the higher-rated agencies in the same comparison.[3]
+- **Oliver’s Travels** — A broad choice for groups and family stays, including larger and characterful homes; it appears in the comparison’s leading group of providers.[3]
+- **Red Savannah** — A good fit if personal matching matters: the company says its specialists inspect its villas and use first-hand knowledge to help choose a property.[7]
+- **Elegant Resorts** — Consider it for a more full-service luxury holiday, with villa options across 19 destinations and help from travel specialists.[5]
+- **Firefly Collection** — A large villa collection with a London office; useful for browsing a wide range of properties and operators.[2]
+
+**Quick pick:** Start with CV Villas for a familiar UK-based booking experience, Simpson Travel for supported Mediterranean holidays, and Red Savannah or Elegant Resorts for more tailored service. Compare the exact villa, what’s included, cancellation terms, and whether financial protection covers your specific booking—protection can differ between package and villa-only reservations.[3][4]
