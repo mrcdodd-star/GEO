@@ -1,0 +1,63 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q012
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: claude
+QUERY TEXT: villa rental companies that arrange transfers, chef and activities
+
+CITED URLS:
+["https://www.elegantresorts.co.uk/information/villas-concierge","https://www.firefly-collection.com/luxury-villa-holidays/","https://www.exceptionalvillas.com/our-concierge-service","https://hauteretreats.com/bespoke-concierge-services/","https://hauteretreats.com/","https://www.justluxe.com/travel/luxury-villas/the-8-best-holiday-rental-agencies-for-unforgettable-experiences-2007941/","https://en.wikipedia.org/wiki/CV_Villas","https://globaltravelworldwide.co.uk/villaholidays-2/"]
+
+--- RAW RESPONSE TEXT ---
+Here are some UK-friendly options that arrange transfers, private chefs and activities. I've split them by how much service they offer.
+
+## Luxury villas with a concierge
+- **Elegant Resorts**: 
+its villa consultants will pre-book services and activities such as private transfers, car rental, pre-stocking of food and drink, and private chef hire.
+
+- **Firefly Collection**: UK-registered and 
+operating since 2011.
+ 
+Its concierge books chefs, childcare, transfers, lessons and more.
+ It doesn't book flights.
+- **Exceptional Villas**: 
+concierge is complimentary with every villa booking.
+ It covers 
+airport transfers, private chefs, yacht charters, restaurant reservations, spa treatments, golf tee times and customised itineraries.
+
+- **Haute Retreats**: 
+every villa comes with a dedicated concierge who arranges chefs, charters, transfers and reservations.
+ Planning has no separate fee, but 
+third-party services such as private chef and transfers are billed at cost.
+ Some villas in the collection are 
+fully staffed, with a private chef, villa manager and daily housekeeping included.
+
+
+## Established UK villa specialists (flights and ATOL protection)
+- **CV Villas** is part of the Kuoni UK group. 
+It was the UK's first specialist villa company, founded in 1972, and offers add-ons including a private chef.
+ 
+It is ABTA-bonded and holds an ATOL.
+
+- **Global Travel Worldwide** offers 
+self-catering or fully serviced villas, including private chef and housekeeping options, with flights, transfers and car hire arranged alongside.
+
+- **Villa Select**: 
+flight-included holidays are 100% ATOL protected.
+ I didn't see chef or activity details in the results, so ask them directly.
+- **Vintage Travel** was named 
+Telegraph Travel Awards Best Villa Operator 2025.
+ It's also ABTA and ATOL protected. Check what extras it can arrange.
+
+## If you're staying in the UK
+- **Luxury Cotswold Rentals** can arrange 
+dining reservations, private chefs, activities, transport and bespoke experiences.
+
+
+## Questions to ask before booking
+1. **Cost:** find out whether the chef, transfers and activities are included or billed on top. Many companies quote the chef and transfers as extras.
+2. **Protection:** ATOL only applies if flights are part of the package. 
+Without flights, bookings are not ATOL protected.
+ If you book villa-only, ask what financial protection you have.
+3. **Staffing:** a "private chef" can mean daily meals or a few set dinners. Confirm which, and whether food costs are included.
+
+If you tell me where you're going, how many of you there are, your budget and whether you want flights included, I can narrow this down.
