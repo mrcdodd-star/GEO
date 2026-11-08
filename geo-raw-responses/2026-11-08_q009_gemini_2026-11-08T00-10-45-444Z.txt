@@ -1,0 +1,59 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q009
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: where can I rent a chateau in France for a wedding
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoGvx9Q_8fa3Rp0mzk_rhzamnGaIiagr6_BaCfEdH3CigDvYIuZRgf5hj5ln-IDJI11u_RqDmF3J7DAHJ2G8FEtg5X5NUX2e4EThnQPxtjrEiJYHjBrW4khXsD3sHmsiAI3JPUEQEnBdxSxMtOzT40zh8=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoD1t3w8ZDVxoQALnkI1N3r9O_9Uwubn4QJjMEQyKojOi-R1nSuE9GeCMMGymufQQTvBcIhJj7i5ya52D7fFNtVJr5GIWweWDTr0Boq4XEBUjeemdpJW78OMzuiQauQiU9eKaok1w1hGXWLXRedxIzb14ekkp9maUJNj15w30KLQTpakuybX_pdxUEO7YX6rScBuM=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnWe87dABNgmWuOTxDhgMTv4vTfdKeEqPVT3nfqEuAU4NMy2A5KcZxsbPGYdsfrZF3VGOV5wMq0lF3QIEuUbmpzobqP8jF8Nydx7iJJ3opwxAy3k6u6g==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfHo5G6HAWXY2jFU72_A1SlgRR9pCad4FkKcO7QV-TMzE4naw_pkXFQNpIHMMNNtNxX6MDlT81VTRyZekRoqjQSpiUos7TOoPikCKzbU0R8Q2AJeLY8-N8nNs=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnhWB2srk0hW6jYqPW__DUtXrFxmJKABrYD5s-40r142xIkr1NjT9X5rGDqPeqaaKRelxSocX49JRoegA1YxqnTJf0e2ybSyQ23O9-lnwQs4fv_XMELSxtIWUT9c-CUk5Hfe-7hqD4p7S7IYNVStgo7ZrrZQC0VBeiZWXz","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1vqmY_I-x5-lnaIT_9tOvpK6xfzASLp3qTJblHe0WgsbERFN8CqrxWWXaqSw2dT3IOTdKu1yzCqSXOBffZ8EixE-nQJLGjnM7fpozpX0I3KdThI2KQYu17CYt4kBPQ8QpKl3eqjr8a-t5Qx6clnzuASa8_rcFC_1XYJDnGZ8pDw==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbs_ozut4pgwzaJvJ6MPHkFp9oYJqapFh9b8q68Ye97BrgsUBbbwSSVB7T_kXfOTw6zaQuu2Yz4AuNej_rGyEUrsXnTgJAKFj4JCCpd1kNYjNK00c8DweR8N5Wj39iZozqiKjF8fU220bBcmzF4fRIZ1lba8vAswjgVd2r3gz-otuuE-_n-lhdEFe6kZafPGM1","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPzNApmL2O8cHs2Ha4osFGEiQztxviJY2JEHrUJr5UQRLdPq0f0wW4NK8dOw6GpOvtoRbxbuD7uOFaTUBR1EXYVWEoWS2EmfdPWQ5xrOSVqm-6ZDI0FtmoP5Lio9nmEcD5ZJgIdCOsndfYUDdThJfIZhr-KZFw2DGSFyk="]
+
+--- RAW RESPONSE TEXT ---
+If you are based in the UK and looking to rent a French château for your wedding, you have several specialized options, ranging from UK-focused agencies to direct-owner directories. 
+
+The primary platforms to search, popular regions easy to travel to from the UK, and key logistics to keep in mind are outlined below.
+
+---
+
+### 1. Best Websites & Agencies to Find a Château
+* **Chateau Bee:** A specialist agency run by French wedding venue experts catering heavily to UK and English-speaking couples. They act as a free venue finder and help match you with vetted châteaux based on budget, guest count, and style.
+* **Oliver’s Travels:** A UK-based luxury villa rental company with a dedicated *Châteaux & Castles* collection. Many of their properties allow weddings, include accommodation for large groups, and offer a dedicated concierge service to help with planning.
+* **French Wedding Venues & French Wedding Style:** Large directories featuring hundreds of châteaux across France. You can filter by capacity, region, whether they offer on-site accommodation, and budget.
+* **Votre Château de Famille:** Specializes in renting whole private historic estates (often for 3–4 days or a full week), with transparent inclusive pricing and no restrictive supplier lists.
+* **Storied Collection & Wedinspire:** Directories showcasing historic estates and high-end châteaux tailored for destination weddings.
+
+---
+
+### 2. Best Regions in France for UK Destination Weddings
+
+#### **A. Dordogne & Aquitaine (South-West)**
+* **Why it’s popular:** Extremely popular with UK couples due to the lush rolling countryside, vineyards, and warm weather. 
+* **Logistics:** Fly direct to **Bordeaux** or **Bergerac** from major UK airports (Ryanair, EasyJet, BA).
+
+#### **B. Normandy & Brittany (North)**
+* **Why it’s popular:** Ideal if you want to avoid flying altogether. You can drive your wedding dress, decorations, and supplies across.
+* **Logistics:** Easily accessible via the **Eurotunnel** or ferries (Dover to Calais, Portsmouth to Le Havre/Cherbourg/St Malo).
+
+#### **C. Loire Valley (Central)**
+* **Why it’s popular:** Famous for classic, fairytale-style châteaux with grand towers and formal gardens. 
+* **Logistics:** Take the **Eurostar** to Paris, then a TGV train (approx. 1 hour to Tours), or drive from Calais (approx. 4–5 hours).
+
+#### **D. Provence & Riviera (South)**
+* **Why it’s popular:** Offers guaranteed sunshine, olive groves, lavender fields, and high-end luxury.
+* **Logistics:** Direct flights to **Marseille** or **Nice** from London, Manchester, Bristol, and Edinburgh.
+
+---
+
+### 3. Key Logistics for UK Couples
+
+1. **Legal vs. Symbolic Ceremony:**
+   * Under French law, a legal civil ceremony requires at least one partner to have resided in the commune for 40 days prior to the wedding. 
+   * **Common Practice:** Most UK couples do the quick, official legal paperwork at a local UK registry office before heading to France, then host their main **humanist or symbolic ceremony** at the château.
+
+2. **Exclusive Hire (Estate Hire):**
+   * Most French châteaux operate on an **exclusive hire** model across a 3-day weekend (Friday–Sunday or Monday). This usually includes accommodation for your core bridal party/family (typically 15–40 guests) on-site.
+
+3. **Bringing Supplies from the UK:**
+   * If you choose a venue in Northern or Central France, driving via Eurotunnel or ferry makes it much easier to transport DIY decor, favors, and outfits without baggage limits. *(Note: Check current UK–EU customs rules if bringing large quantities of commercial goods).*
+
+4. **Curfews & Sound Limits:**
+   * French communes enforce outdoor noise curfews (often around 10:00 PM or 11:00 PM). Make sure your venue has an indoor space or soundproofed barn/orangerie where the music can continue into the early hours.
