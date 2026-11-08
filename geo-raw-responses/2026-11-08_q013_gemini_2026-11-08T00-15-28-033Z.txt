@@ -1,0 +1,66 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q013
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: what should I look for when booking a luxury villa abroad
+
+CITED URLS:
+[]
+
+--- RAW RESPONSE TEXT ---
+Booking a luxury villa abroad from the UK requires balancing your desired experience (relaxation, privacy, top-tier service) with practical and financial safeguards. True luxury is defined by seamless service, high-end amenities, and complete peace of mind.
+
+Key factors to look for and verify before booking include:
+
+---
+
+### 1. Financial Protection & Safe Booking (UK-Specific)
+* **Section 75 Protection:** Pay at least part of the booking deposit (or full amount) using a **UK credit card**. Under Section 75 of the Consumer Credit Act, your credit card provider shares liability if the company goes bust or if the villa turns out to be fraudulent/misrepresented (applies to purchases over £100 up to £30,000).
+* **ABTA / ATOL Bonding:** If you are booking a luxury package (flight + villa) through a UK agent (such as *CV Villas*, *Scott Dunn*, or *Simpson Travel*), ensure they are **ATOL** protected. If booking villa-only through a UK agent, check if they are **ABTA** bonded.
+* **Scam Protection:** If booking directly with an owner or through a boutique portal, perform a reverse-image search on the photos to ensure the property isn't listed under another name elsewhere with conflicting contact info. Never pay by direct bank transfer to an individual without verified credentials.
+
+---
+
+### 2. Staffing & Service Level (Clarify What’s Included)
+The term "luxury" can mean anything from a self-catering property with high-end appliances to a fully staffed estate. Always clarify:
+* **Housekeeping:** Is daily housekeeping included, or is it just end-of-stay cleaning? Does it include linen/towel changes mid-week?
+* **Private Chef / Catering:** Is a chef included, available on request, or strictly self-catering? Ask how food provisioning works—do you pay an advance allowance (APA) or settle food bills directly with receipts?
+* **Concierge Services:** Is there an on-site or on-call concierge to organize private yacht charters, restaurant bookings, car rentals, or grocery provisioning before your arrival?
+* **Staff Quarters:** If there are live-in staff (e.g., housekeeper, butler, chef), check where their quarters are located to ensure your privacy isn't compromised.
+
+---
+
+### 3. Villa Specifications & Layout
+* **Bedroom-to-Bathroom Ratio:** In a true luxury villa, ideally **every bedroom should have an en-suite bathroom**. Check if master suites are significantly better than secondary rooms to avoid arguments among guests.
+* **Air Conditioning & Climate Control:** Verify whether air conditioning is available throughout the entire villa or just in the bedrooms. Also check if there are utility limits or extra fees for A/C usage.
+* **Pool Heating:** Essential if traveling in shoulder seasons (April–June or September–November) in Europe. Check if pool heating is included or incurs an extra charge (which can be £300–£700/week due to current energy costs).
+* **Child Safety (if traveling with family):** Does the pool have a certified safety fence or cover? Are there open staircases, low balconies, or un-gated drops?
+
+---
+
+### 4. Location, Accessibility & Logistics
+* **Flight & Transfer Logistics:** Consider proximity to local airports served by major UK airlines or private jet terminals. 
+* **Road Access & Terrain:** Many luxury villas in regions like Tuscany, Ibiza, the Cote d'Azur, or Greek islands are accessed via narrow, steep, or unpaved tracks. Check if a 4x4 is required or if large transfer vehicles/taxis can reach the front door.
+* **Privacy vs. Proximity:** Determine whether you want complete isolation (which may mean a 20-minute drive to the nearest grocery store/restaurant) or walking distance to a village or beach club.
+
+---
+
+### 5. Contract Terms & Fine Print
+* **Security Deposit Terms:** Luxury villas usually require substantial security deposits (£1,000–£10,000+). Check whether this is a credit card hold or cash transfer, how quickly it is returned post-checkout, and the policy regarding accidental minor breakages.
+* **Local Taxes:** Many destinations (e.g., the Balearic Islands, Italy, France) charge a local tourist tax (*Taxa Turística* / *Taxe de Séjour*). Check if this is included in your quote or payable locally in cash.
+* **Event Policies:** If you plan to host visitors, a dinner party, or a micro-wedding, check if the rental contract permits outside guests. Many luxury properties strictly prohibit non-registered guests due to insurance policies.
+
+---
+
+### 6. Travel Insurance & Health Cover
+* **High-Value Travel Insurance:** Standard travel insurance policies often cap villa damage liability or cancellation coverage below the cost of a luxury booking. Take out a high-value policy cover immediately upon paying your deposit.
+* **UK GHIC (Global Health Insurance Card):** If traveling to the EU or Switzerland, ensure all guests have a valid UK GHIC (or unexpired EHIC) for emergency state healthcare alongside private travel insurance.
+
+---
+
+### Quick Checklist Before You Sign:
+1. Is the property verified through a reputable agent or secure payment platform?
+2. Are staff services, food budgets, and pool heating explicitly defined in writing?
+3. Is your payment protected by Section 75 (via UK credit card)?
+4. Does the layout accommodate all guests with equal comfort (en-suites, room sizes)?
+5. Are transfer/car rental requirements clearly understood for the location?
