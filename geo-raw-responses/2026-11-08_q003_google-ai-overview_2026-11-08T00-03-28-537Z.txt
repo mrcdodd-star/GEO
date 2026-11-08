@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q003
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: where to celebrate a 50th birthday abroad with 20 friends
+
+CITED URLS:
+["https://bodegadelmar.es/","https://www.scottdunn.com/luxury-holiday/group-holidays"]
+
+--- RAW RESPONSE TEXT ---
+Planning a 50th birthday trip for a group of 20 people requires the right balance of group accommodations, ease of logistics, and memorable shared experiences.
+Explore these four standout international destinations tailored for a milestone celebration with 20 friends:
+1. Tuscany, Italy (The Epicurean Villa Escape)
+
+2. Ibiza, Spain (The Elevated Mediterranean Party)
+
+3. Marrakech & The Atlas Mountains, Morocco (The Sensory & Cultural Feast)
+
+4. Reykjavík & The South Coast, Iceland (The Bucket-List Adventure)
+
+Quick Planning Checklist for 20+ People
+
+To help narrow this down, tell me:
