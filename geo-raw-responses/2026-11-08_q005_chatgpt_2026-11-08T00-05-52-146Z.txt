@@ -1,0 +1,73 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q005
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: chatgpt
+QUERY TEXT: we want a holiday where someone else does the cooking and childcare - what are the options?
+
+CITED URLS:
+["https://www.justtumble.co.uk/overseas-holidays?type=all-inclusive&utm_source=openai","https://www.loveholidays.com/holidays/family-all-inclusive.html?msockid=05c1513b5e536b960b5e47dc5f5f6a2a&utm_source=openai","https://www.pgl.co.uk/adventurestartshere?utm_source=openai","https://en.wikipedia.org/wiki/Center_Parcs_UK_and_Ireland?utm_source=openai","https://www.villaretreats.com/?utm_source=openai","https://www.haystravel.co.uk/holidays/offers/free-child-places-holidays/?utm_source=openai"]
+
+--- RAW RESPONSE TEXT ---
+If you’re looking for a holiday where **you don’t have to cook or manage childcare**, there are several great options available from the UK. Here’s a breakdown of styles, things to look for, and some top providers to consider.
+
+---
+
+## 🏖️ Holiday Options Where Someone Else Handles Meals & Childcare
+
+These are the main types of holidays where you can truly switch off from cooking and supervising little ones.
+
+| Type | What’s Included | Ideal For |
+|------|------------------|-----------|
+| **All-Inclusive Resorts** | All meals, drinks, snacks, entertainment; often day-and-evening childcare, kids’ clubs, sometimes creches for infants | Beach breaks abroad; total relaxation; families who want everything in one place |
+| **Luxury Villas with Staff** | Private chef/cook, nanny service, shopping services; you still get independence of your own place | More privacy, flexibility, longer stays, possibly off the beaten path |
+| **Adventure or Activity-Based Holiday Villages (UK or abroad)** | Meals provided, childcare as part of activity schedule, often 24-hour onsite staff | Families who want structure and things for the kids to do without running around |
+| **Villa-Brochure Concierge Services** | Combined offerings of meals, nanny, chauffeur, housekeeping tailored per family | High-end, bespoke holidays |
+
+---
+
+## ✔ Things to Check When Booking
+
+To make sure the holiday delivers on ease:
+
+- **Childcare Services**: Creches (from infants), kids’ clubs, babysitting; staff qualifications; how many hours/days cover.  
+- **Meals**: All meals included? Kid-friendly food options? Private cook or buffet?  
+- **Room Amenities**: Access to kitchen (if you need minimal cooking), safety around the pool, entertainment in rooms.  
+- **Location & Transfer**: How far from airport, how much time gets spent traveling—kids hate long transfers.  
+- **Extras & Hidden Costs**: What’s included in “all-inclusive”; childcare may cost extra; check age limits; tipping; local taxes.
+
+---
+
+## 🌍 Top Holiday Providers & Ideas
+
+Here are some proven and current options for UK-based families wanting to hand over the cooking pot and childcare duties.
+
+### All-Inclusive Resorts Abroad
+
+- **Tumble** curates luxury all-inclusive resorts with *real childcare* (creches, kids’ clubs, teen clubs). Their Ikos resorts in Greece (Corfu, Crete, Halkidiki) are excellent examples. ([justtumble.co.uk](https://www.justtumble.co.uk/overseas-holidays?type=all-inclusive&utm_source=openai))  
+- **loveholidays** and **Thomas Cook** have a wide choice of all-inclusive family holidays where meals, entertainment, and on-site childcare are included. Destinations include Turkey, Egypt, Spain, Portugal. ([loveholidays.com](https://www.loveholidays.com/holidays/family-all-inclusive.html?msockid=05c1513b5e536b960b5e47dc5f5f6a2a&utm_source=openai))
+
+### UK-Based Adventure or Holiday Villages
+
+- **PGL** offers *Family Adventure Holidays* in the UK with all meals, accommodation, and childcare programmes included. ([pgl.co.uk](https://www.pgl.co.uk/adventurestartshere?utm_source=openai))  
+- **Center Parcs UK and Ireland**: relaxed villages in nature, plenty of included meals and activities, restaurants on-site so you’re not cooking. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Center_Parcs_UK_and_Ireland?utm_source=openai))
+
+### Luxury Villas with Staff & Concierge
+
+- **Villa Retreats**: very flexible. They offer villas with concierge options like private chefs, nanny services, shopping & chauffeur services; great for families wanting total privacy and full support. ([villaretreats.com](https://www.villaretreats.com/?utm_source=openai))  
+
+---
+
+## 💡 Best Picks Depending on What You Want
+
+To help you decide, here are recommendations based on different styles and priorities:
+
+| Priority | Best Choice |
+|----------|-------------|
+| Total pamper + short flight | All-inclusive resort in Spain or Greece (e.g. Ikos resorts) |
+| Privacy + separate space | Private villa with chef & nanny via Villa Retreats |
+| Trying UK first | A Center Parcs break or PGL family adventure for ease without flying |
+| Budget friendly | All-inclusive deals with free child places via loveholidays or Hays Travel ([haystravel.co.uk](https://www.haystravel.co.uk/holidays/offers/free-child-places-holidays/?utm_source=openai)) |
+
+---
+
+If you tell me **how far you’re willing to travel**, **your budget**, and **kids’ ages**, I can suggest specific resorts or villas that would match exactly what you’re looking for. Want me to pull together some personalised suggestions?
