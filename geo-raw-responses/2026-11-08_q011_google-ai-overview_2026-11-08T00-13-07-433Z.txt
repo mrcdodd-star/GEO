@@ -1,0 +1,18 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q011
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: luxury villa rental with concierge service in the south of France
+
+CITED URLS:
+["https://www.lecollectionist.com/en/luxury-villas-rentals/south-of-france","https://www.cdvillas.com/"]
+
+--- RAW RESPONSE TEXT ---
+Renting a luxury villa in the South of France (Côte d’Azur, Provence, or Saint-Tropez) with a dedicated concierge service opens the door to private chefs, yacht charters, chauffeur-driven transfers, and curated local experiences.
+Top Regions & What to Expect
+
+Leading Curated Agencies with Concierge Service
+
+What a Full Concierge Service Typically Handles
+
+Could you please share your preferred destination or region (e.g., Saint-Tropez, Nice, Provence), number of guests, and dates or season you are looking at? That way, I can point you toward specific properties or help tailor the ideal itinerary.
