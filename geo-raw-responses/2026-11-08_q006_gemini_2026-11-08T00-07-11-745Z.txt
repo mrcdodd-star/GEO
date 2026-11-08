@@ -1,0 +1,69 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q006
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: gemini
+QUERY TEXT: best companies for renting a luxury villa in Europe
+
+CITED URLS:
+["https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3RVaWSResnKlu49JycIiflq9EaolBN2tCfZE5DbJ-9ceS76M1h6XNG4aPYWdUy5PCGybkvUW3ksgE_YQEeIkQxBF6l0HowS68w9kCGPzQOWMUsVC_RogsWGqlLZ2GaQsHc_foZFTldxJML_ULZnpg4nloj-whuvq8pFYi56TWuKd6ZAzaDuZC_qyIpAw_XctdBVoHChm4gTDAe4rczH5wbwA=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXtuySy025Dz9At5H3v9JAWyib0q4DIEXcAqvct9LwnBUDAHXPPPd-bt2_I0WMERof6UpPqe-9U66Le0jsk9eeSq7jOyk8KAyQagY8Bi-uDUgdx29GpGhhSP0gpmeNXHYB9LeYJ0PJ9GbqSJxvflArIMXthabLqIvORCkAAPfVJzUtpY_RAGOlWW_8","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8XmsifXXgiYX3Q6M7OIr654SVaxOpvLdfgC1YTW1X8nzYjiadvwC1pHcnBcsnnPoTVzT27C6QFQ5d5tD5PxmHD20CtqOoiJjBcPDxzo5gWO31rJIqyticOEzSP3c2T-2myT7Y-gqv_DQncYlCCYNDj_9A-MPFbpvW4M9qAWSXphqruyp3","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkgGCnWo962grfmBiNXqz7IetMXYFg7LHc4caRtyMoTcg6J7S-YdV3pJK2Vh38O45RD35aFOMsS3v5_h9u4c7de_wVEqWGFi4mDiawSS43UtRKPbYKT8TKm_64N5BhZpzQgTkLwrFgtYcuZO_9d4mVO1Lc6E=","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiYJglTs4wrCyRISJ72Dxgb7UOKgJxfqcvWpAFYg5_2nhDIj4FDUyZSGrHPjmmTmgo8P14dmhTJ7Ead4rKP9Uqa9NF1b879I_PLLxJENqt7JLBdani6n4GZEyWbmdBCs-kzorPVMM1nvyRC_QvwXUVdA==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhy9w8ivpzgbPGz1394XuK8bJs4c9uaN5sMiLpQWiKcFl4aQPOO9L8BcrmzP-oVleaeS92Xgg9EGL-NejTar32TyE_Khy7UlAOwP2KiJqHZIKPprkRCuYg","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1cDNshJ7seRQd0t673D3r6lzxw0QctJzpDlAJEo-QeQKlYnd0NLw5OfvIn9F9qHopJGFl74IZRAm4oEQoqi4jcJkk8iTcxNr_eEvBQTe819bCZ5GtnJ3cSwba905SMnPFZmwKOGfYP-5S4eO4Ppua--WktMeAale5nBRHF0D38OyS0ahJq__lrZxWHlMP0HoTguKYkEqJ6yq8wEVOGtnbR4zXsqR7KtP95wN7Q==","https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAlNbsdygjmc3CaV67jzHHxFVFlg-TPwNxAZAQNy4QkKcXSp1H52RN77Ni5oNR9RNucbEDL-kUDdQ1eCgcCcnSpOD73_SG4wZYLSjcJbDdVew0lQ1Uu8cm3ARQoO8saSFEXQoUw7UmvT7rdBMvUWC7"]
+
+--- RAW RESPONSE TEXT ---
+For UK residents looking to book a luxury villa in Europe, the choice of operator often comes down to **exclusivity of the properties, the level of concierge service, and financial protection (ATOL/ABTA)**.
+
+The top luxury villa rental companies for European holidays can be grouped by their strengths:
+
+---
+
+### 1. The Mediterranean Specialists: **The Thinking Traveller**
+* **Best for:** Exclusive Mediterranean properties, local expertise, and flawless service.
+* **Destinations:** Sicily, Puglia, Tuscany, Sardinia, Corsica, and the Greek Islands.
+* **Why book with them:** Frequently voted the *World’s Best Villa Rental Company* by *Condé Nast Traveller*. Every property on their roster is 100% exclusive to them, meaning you won’t find their villas listed on other platforms. Their local "Think 24" support team provides deep regional knowledge, booking local chefs, private boat trips, and wine tastings seamlessly.
+
+### 2. The Trusted UK Institution: **CV Villas**
+* **Best for:** Classic European luxury, complete flight/car package options, and peace of mind.
+* **Destinations:** Greece (especially Corfu), Italy, France, Spain, Portugal, and Croatia.
+* **Why book with them:** Operating for over 50 years, CV Villas is a household name in the UK luxury travel market. They offer everything from chic, romantic hideaways to expansive beachfront estates. 
+* **Financial Protection:** Fully **ABTA and ATOL protected** when booked as a flight-inclusive package.
+
+### 3. The Ultra-Luxury & VIP Specialist: **Le Collectionist**
+* **Best for:** 5-star hotel-level concierge, high fashion, and glam destinations.
+* **Destinations:** French Riviera (St. Tropez, Cannes), French Alps, Ibiza, Mykonos, Amalfi Coast, Tuscany.
+* **Why book with them:** Le Collectionist curates some of the most expensive and architecturally striking properties in Europe. Every stay comes with a dedicated local tailor who can arrange private jets, Michelin-starred private chefs, yacht charters, or daily housekeeping.
+
+### 4. Full-Service Luxury Operators: **Scott Dunn** & **A&K Villas**
+* **Best for:** Fully-staffed villas, tailored itineraries, and high-end family travel.
+* **Destinations:** France, Italy, Spain, Greece, Portugal.
+* **Why book with them:**
+  * **Scott Dunn:** Renowned for their private chef service, fully staffed villas, and world-class private nanny service (ideal for families wanting zero effort on holiday).
+  * **Abercrombie & Kent (A&K Villas):** Leverages A&K’s global luxury network to give you access to grand country estates, farmhouses, and coastal villas with 24/7 concierge support.
+* **Financial Protection:** Full **ATOL protection** on flight packages.
+
+### 5. Unique Estates & Large Groups: **Oliver’s Travels**
+* **Best for:** French châteaux, historic estates, unique architecture, and big celebrations.
+* **Destinations:** France, Italy, Spain, UK, Ireland, Greece, Portugal.
+* **Why book with them:** If you are booking a milestone birthday, wedding, or multi-generational family holiday, Oliver’s Travels has the largest selection of quirky and grand properties (castles, châteaux, historic towers, modern luxury estates). They also offer a free concierge service to assist with bookings.
+
+### 6. Boutique Family Luxury: **Simpson Travel**
+* **Best for:** Boutique properties, adult-only hideaways, and family-friendly luxury.
+* **Destinations:** Greece, Mallorca, Corsica, France, Italy, Turkey.
+* **Why book with them:** Simpson Travel excels in understated, boutique luxury. They offer specialized family villas equipped with fenced pools, crèches, and child-friendly gear, alongside an "Adult Only" collection. Their service is exceptionally hands-on from the moment you land.
+* **Financial Protection:** **ATOL & ABTA protected**.
+
+---
+
+### Quick Comparison to Help You Decide
+
+| Company | Best Suited For | ATOL / ABTA Package Options? | Standout Feature |
+| :--- | :--- | :--- | :--- |
+| **The Thinking Traveller** | Mediterranean exclusivity & local experiences | Accommodation-only (can assist with extras) | 100% exclusive, hand-picked properties |
+| **CV Villas** | Classic European holidays with total convenience | **Yes** (ATOL/ABTA) | Flight + Villa + Car bundles |
+| **Le Collectionist** | Ultra-luxury, French Riviera & Alpine glamour | Accommodation + Tailored Concierge | Bespoke 5-star concierge teams |
+| **Scott Dunn** | Fully-staffed villas, private chefs & nannies | **Yes** (ATOL) | In-house childcare & private chefs |
+| **Oliver’s Travels** | Large group stays, châteaux & character homes | Villa-only (ATOL via flight partners) | Unique historic & grand properties |
+| **Simpson Travel** | High-end boutique travel for families or couples | **Yes** (ATOL/ABTA) | Excellent family-friendly/creche options |
+
+---
+
+### Key Tips when Booking from the UK
+1. **Financial Protection:** If you book your flights and villa together through companies like *CV Villas*, *Scott Dunn*, or *Simpson Travel*, your holiday is covered under the **ATOL scheme** (protecting your money if an operator fails). Villa-only specialists like *The Thinking Traveller* don't package flights directly, so ensure your travel insurance covers independent flight/accommodation cancellations.
+2. **Staffing Levels:** Check whether maid service, linen changes, or a private chef are included in the base price, as luxury definitions vary across agencies (e.g., *Scott Dunn* frequently includes full catering, whereas others charge it as an add-on).
