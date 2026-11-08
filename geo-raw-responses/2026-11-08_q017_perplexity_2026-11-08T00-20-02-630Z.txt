@@ -1,0 +1,22 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q017
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: perplexity
+QUERY TEXT: is it safer to book a villa through an agency or directly with the owner
+
+CITED URLS:
+["https://portopoolvilla.com/why-book-porto-villa-direct/","https://www.thisismoney.co.uk/money/experts/article-3089231/I-m-booking-villa-online-s-best-way-pay-avoid-fraud.html","https://qa8-web.telegraph.co.uk/travel/advice/holidays-avoid-nightmare-villa-booking-scam/","https://www.thetimes.com/travel/advice/travel-doctor-special-holiday-horrors-and-how-to-avoid-them-lw0fn8m6spq","https://www.moneysavingexpert.com/travel/cheap-holiday-rentals/","https://emmanuelnoir.com/how-to-book-luxury-private-villa-holiday/","https://hauteretreats.com/best-luxury-villa-rental-companies/","https://burtonsalmon-pc.gov.uk/be-safe-when-booking-a-holiday-online/"]
+
+--- RAW RESPONSE TEXT ---
+**Generally, booking through a reputable villa agency is safer**, especially if you’re booking abroad: you get a named business to deal with and potentially more support if the property or booking goes wrong. But “agency” doesn’t automatically mean your money or stay is protected—check exactly what the company does and who your contract is with.[3][9]
+
+Direct booking can be legitimate and sometimes cheaper, but you’ll need to verify the owner and property yourself, and your options if something goes wrong may be more limited.[5]
+
+Before paying, whichever route you choose:
+
+- Check independent, recent reviews and verify the property’s location and photos.
+- Get a written contract covering the dates, total cost, cancellation terms and deposit.
+- Pay by credit card where possible; avoid cash, wire transfers and instant money-transfer services. UK credit-card Section 75 protection may apply to qualifying purchases of £100–£30,000, but it depends on the payment and contract arrangements.[2][5]
+- If using an agency, pay through its official system and check whether it is the actual tour operator or just an agent arranging a contract with the owner.[3][9]
+
+If you want the simplest lower-risk choice, use an established agency or tour operator with clear terms and proper support—not just a listing website.[3][5]
