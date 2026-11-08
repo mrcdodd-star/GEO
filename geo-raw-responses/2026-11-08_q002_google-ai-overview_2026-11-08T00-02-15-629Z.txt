@@ -1,0 +1,23 @@
+RUN DATE: 2026-11-08
+QUERY ID: Q002
+MARKET / LANGUAGE: UK / en
+SOURCE MODEL: google_ai_overview
+QUERY TEXT: best places in Europe for a multigenerational family holiday
+
+CITED URLS:
+["https://www.augustcollections.com/magazine/multi-generational-vacation-homes-europe","https://www.mumsnet.com/talk/holidays/4941974-european-destination-for-multi-generation-family-holiday"]
+
+--- RAW RESPONSE TEXT ---
+Planning a holiday that keeps toddlers, teenagers, parents, and grandparents all happy comes down to a few golden rules: short airport transfers, walkable towns, flexible dining, and accommodations with space to breathe (like a villa or a central, multi-room apartment).
+The top destinations in Europe strike the right balance of slow pacing for older relatives and active exploration for the younger crowd:
+1. Mallorca, Spain
+
+2. Tuscany, Italy
+
+3. The Cotswolds, England
+
+4. Lake Annecy & The French Alps, France
+
+5. Porto & The Silver Coast, Portugal
+
+Could you tell me what ages the family members are and how long you plan to travel so I can narrow down the best region and accommodation style for your group?
